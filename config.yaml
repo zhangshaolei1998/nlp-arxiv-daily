@@ -23,14 +23,14 @@ md_wechat_path: './docs/wechat.md'
 # keywords to search
 keywords:
     "Simultaneous Translation": 
-        filters: ["Simultaneous Translation","Simultaneous Machine Translation","Simultaneous Speech Translation","Streaming Speech Translation", "Streaming ASR","Streaming Automatic Speech Recognition",,"Streaming Speech Recognition", "Streaming Translation", "Simultaneous Generation"]
+        filters: ["Simultaneous Translation","Simultaneous Machine Translation","Simultaneous Speech Translation","Streaming Speech Translation", "Streaming ASR","Streaming Automatic Speech Recognition","Streaming Speech Recognition", "Streaming Translation", "Simultaneous Generation"]
     "Language Model":
-        filters: ["LLM", "Language Model"]
+        filters: ["LLM", "Language Model","Transformer", "BERT", "GPT", "Pre-training", "Fine-tuning"]
     "Machine Translation":
         filters: ["Machine Translation"]
     "Speech Translation":
         filters: ["Speech Translation"]
     "Speech":
-        filters: ["Speech"]
+        filters: ["Speech","TTS"]
     "Hallucination":
         filters: ["Hallucination"]
