@@ -2189,6 +2189,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-30**|**An Aliasing-Free Hybrid Digital-Analog Polyphonic Synthesizer**|Jonas Roth et.al.|[2311.18774](http://arxiv.org/abs/2311.18774)|null|
 |**2023-11-29**|**Group-wise Sparse and Explainable Adversarial Attacks**|Shpresim Sadiku et.al.|[2311.17434](http://arxiv.org/abs/2311.17434)|**[link](https://github.com/wagnermoritz/gse)**|
 |**2023-11-28**|**Generation multiple vector light modes using beam displacers**|Bo-Zhao et.al.|[2311.16696](http://arxiv.org/abs/2311.16696)|null|
 |**2023-11-27**|**Average Token Delay: A Duration-aware Latency Metric for Simultaneous Translation**|Yasumasa Kano et.al.|[2311.14353](http://arxiv.org/abs/2311.14353)|null|
@@ -2204,6 +2205,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-30**|**PoseGPT: Chatting about 3D Human Pose**|Yao Feng et.al.|[2311.18836](http://arxiv.org/abs/2311.18836)|null|
+|**2023-11-30**|**What Do Llamas Really Think? Revealing Preference Biases in Language Model Representations**|Raphael Tang et.al.|[2311.18812](http://arxiv.org/abs/2311.18812)|**[link](https://github.com/castorini/biasprobe)**|
+|**2023-11-30**|**Unnatural Error Correction: GPT-4 Can Almost Perfectly Handle Unnatural Scrambled Text**|Qi Cao et.al.|[2311.18805](http://arxiv.org/abs/2311.18805)|null|
+|**2023-11-30**|**X-InstructBLIP: A Framework for aligning X-Modal instruction-aware representations to LLMs and Emergent Cross-modal Reasoning**|Artemis Panagopoulou et.al.|[2311.18799](http://arxiv.org/abs/2311.18799)|**[link](https://github.com/artemisp/lavis-xinstructblip)**|
+|**2023-11-30**|**Mavericks at BLP-2023 Task 1: Ensemble-based Approach Using Language Models for Violence Inciting Text Detection**|Saurabh Page et.al.|[2311.18778](http://arxiv.org/abs/2311.18778)|null|
+|**2023-11-30**|**CoDi-2: In-Context, Interleaved, and Interactive Any-to-Any Generation**|Zineng Tang et.al.|[2311.18775](http://arxiv.org/abs/2311.18775)|null|
+|**2023-11-30**|**Spacewalk-18: A Benchmark for Multimodal and Long-form Procedural Video Understanding in Novel Domains**|Rohan Myer Krishnan et.al.|[2311.18773](http://arxiv.org/abs/2311.18773)|null|
+|**2023-11-30**|**MLLMs-Augmented Visual-Language Representation Learning**|Yanqing Liu et.al.|[2311.18765](http://arxiv.org/abs/2311.18765)|**[link](https://github.com/lyq312318224/mllms-augmented)**|
+|**2023-11-30**|**Can training neural language models on a curriculum with developmentally plausible data improve alignment with human reading behavior?**|Aryaman Chobey et.al.|[2311.18761](http://arxiv.org/abs/2311.18761)|null|
+|**2023-11-30**|**TaskBench: Benchmarking Large Language Models for Task Automation**|Yongliang Shen et.al.|[2311.18760](http://arxiv.org/abs/2311.18760)|**[link](https://github.com/microsoft/JARVIS)**|
 |**2023-11-29**|**A Simple Recipe for Language-guided Domain Generalized Segmentation**|Mohammad Fahes et.al.|[2311.17922](http://arxiv.org/abs/2311.17922)|null|
 |**2023-11-29**|**OPERA: Alleviating Hallucination in Multi-Modal Large Language Models via Over-Trust Penalty and Retrospection-Allocation**|Qidong Huang et.al.|[2311.17911](http://arxiv.org/abs/2311.17911)|**[link](https://github.com/shikiw/opera)**|
 |**2023-11-29**|**Knowledge Pursuit Prompting for Zero-Shot Multimodal Synthesis**|Jinqi Luo et.al.|[2311.17898](http://arxiv.org/abs/2311.17898)|null|
@@ -2219,6 +2230,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-30**|**Women Are Beautiful, Men Are Leaders: Gender Stereotypes in Machine Translation and Language Modeling**|Matúš Pikuliak et.al.|[2311.18711](http://arxiv.org/abs/2311.18711)|null|
+|**2023-11-30**|**INarIG: Iterative Non-autoregressive Instruct Generation Model For Word-Level Auto Completion**|Hengchao Shang et.al.|[2311.18200](http://arxiv.org/abs/2311.18200)|null|
 |**2023-11-29**|**Mergen: The First Manchu-Korean Machine Translation Model Trained on Augmented Data**|Jean Seo et.al.|[2311.17492](http://arxiv.org/abs/2311.17492)|null|
 |**2023-11-28**|**A Benchmark for Evaluating Machine Translation Metrics on Dialects Without Standard Orthography**|Noëmi Aepli et.al.|[2311.16865](http://arxiv.org/abs/2311.16865)|null|
 |**2023-11-28**|**Evaluating Optimal Reference Translations**|Vilém Zouhar et.al.|[2311.16787](http://arxiv.org/abs/2311.16787)|**[link](https://github.com/ufal/optimal-reference-translations)**|
@@ -2238,7 +2251,7 @@ layout: default
 |**2023-11-07**|**Rethinking and Improving Multi-task Learning for End-to-end Speech Translation**|Yuhao Zhang et.al.|[2311.03810](http://arxiv.org/abs/2311.03810)|**[link](https://github.com/xiaozhang521/imtl)**|
 |**2023-11-01**|**End-to-End Single-Channel Speaker-Turn Aware Conversational Speech Translation**|Juan Zuluaga-Gomez et.al.|[2311.00697](http://arxiv.org/abs/2311.00697)|**[link](https://github.com/amazon-science/stac-speech-translation)**|
 |**2023-10-31**|**Towards a Deep Understanding of Multilingual End-to-End Speech Translation**|Haoran Sun et.al.|[2310.20456](http://arxiv.org/abs/2310.20456)|null|
-|**2023-11-21**|**Unified Segment-to-Segment Framework for Simultaneous Sequence Generation**|Shaolei Zhang et.al.|[2310.17940](http://arxiv.org/abs/2310.17940)|null|
+|**2023-11-30**|**Unified Segment-to-Segment Framework for Simultaneous Sequence Generation**|Shaolei Zhang et.al.|[2310.17940](http://arxiv.org/abs/2310.17940)|null|
 |**2023-10-26**|**DiffS2UT: A Semantic Preserving Diffusion Model for Textless Direct Speech-to-Speech Translation**|Yongxin Zhu et.al.|[2310.17570](http://arxiv.org/abs/2310.17570)|null|
 |**2023-10-24**|**Integrating Language Models into Direct Speech Translation: An Inference-Time Solution to Control Gender Inflection**|Dennis Fucci et.al.|[2310.15752](http://arxiv.org/abs/2310.15752)|**[link](https://github.com/hlt-mt/fbk-fairseq)**|
 |**2023-10-23**|**How To Build Competitive Multi-gender Speech Translation Models For Controlling Speaker Gender Translation**|Marco Gaido et.al.|[2310.15114](http://arxiv.org/abs/2310.15114)|**[link](https://github.com/hlt-mt/fbk-fairseq)**|
@@ -2249,8 +2262,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-30**|**MLLMs-Augmented Visual-Language Representation Learning**|Yanqing Liu et.al.|[2311.18765](http://arxiv.org/abs/2311.18765)|**[link](https://github.com/lyq312318224/mllms-augmented)**|
+|**2023-11-29**|**Understanding Your Agent: Leveraging Large Language Models for Behavior Explanation**|Xijia Zhang et.al.|[2311.18062](http://arxiv.org/abs/2311.18062)|null|
 |**2023-11-29**|**OPERA: Alleviating Hallucination in Multi-Modal Large Language Models via Over-Trust Penalty and Retrospection-Allocation**|Qidong Huang et.al.|[2311.17911](http://arxiv.org/abs/2311.17911)|**[link](https://github.com/shikiw/opera)**|
-|**2023-11-29**|**Knowledge Pursuit Prompting for Zero-Shot Multimodal Synthesis**|Jinqi Luo et.al.|[2311.17898](http://arxiv.org/abs/2311.17898)|null|
+|**2023-11-30**|**Knowledge Pursuit Prompting for Zero-Shot Multimodal Synthesis**|Jinqi Luo et.al.|[2311.17898](http://arxiv.org/abs/2311.17898)|null|
 |**2023-11-29**|**Evaluating VLMs for Score-Based, Multi-Probe Annotation of 3D Objects**|Rishabh Kabra et.al.|[2311.17851](http://arxiv.org/abs/2311.17851)|null|
 |**2023-11-29**|**Are Large Language Models Good Fact Checkers: A Preliminary Study**|Han Cao et.al.|[2311.17355](http://arxiv.org/abs/2311.17355)|null|
 |**2023-11-28**|**Pragmatic Radiology Report Generation**|Dang Nguyen et.al.|[2311.17154](http://arxiv.org/abs/2311.17154)|**[link](https://github.com/chicagohai/llm_radiology)**|
