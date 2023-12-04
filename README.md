@@ -2232,6 +2232,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-01**|**Context Retrieval via Normalized Contextual Latent Interaction for Conversational Agent**|Junfeng Liu et.al.|[2312.00774](http://arxiv.org/abs/2312.00774)|null|
+|**2023-12-01**|**Beyond ChatBots: ExploreLLM for Structured Thoughts and Personalized Model Responses**|Xiao Ma et.al.|[2312.00763](http://arxiv.org/abs/2312.00763)|null|
+|**2023-12-01**|**Mamba: Linear-Time Sequence Modeling with Selective State Spaces**|Albert Gu et.al.|[2312.00752](http://arxiv.org/abs/2312.00752)|null|
+|**2023-12-01**|**Mitigating Over-smoothing in Transformers via Regularized Nonlocal Functionals**|Tam Nguyen et.al.|[2312.00751](http://arxiv.org/abs/2312.00751)|null|
+|**2023-12-01**|**Deciphering Digital Detectives: Understanding LLM Behaviors and Capabilities in Multi-Agent Mystery Games**|Dekun Wu et.al.|[2312.00746](http://arxiv.org/abs/2312.00746)|null|
+|**2023-12-01**|**SeaLLMs -- Large Language Models for Southeast Asia**|Xuan-Phi Nguyen et.al.|[2312.00738](http://arxiv.org/abs/2312.00738)|**[link](https://github.com/damo-nlp-sg/seallms)**|
+|**2023-12-01**|**Open-vocabulary object 6D pose estimation**|Jaime Corsetti et.al.|[2312.00690](http://arxiv.org/abs/2312.00690)|null|
+|**2023-12-01**|**Contextualized word senses: from attention to compositionality**|Pablo Gamallo et.al.|[2312.00680](http://arxiv.org/abs/2312.00680)|null|
+|**2023-12-01**|**The Efficiency Spectrum of Large Language Models: An Algorithmic Survey**|Tianyu Ding et.al.|[2312.00678](http://arxiv.org/abs/2312.00678)|**[link](https://github.com/tding1/efficient-llm-survey)**|
+|**2023-12-01**|**LightCLIP: Learning Multi-Level Interaction for Lightweight Vision-Language Models**|Ying Nie et.al.|[2312.00674](http://arxiv.org/abs/2312.00674)|null|
 |**2023-11-30**|**PoseGPT: Chatting about 3D Human Pose**|Yao Feng et.al.|[2311.18836](http://arxiv.org/abs/2311.18836)|null|
 |**2023-11-30**|**What Do Llamas Really Think? Revealing Preference Biases in Language Model Representations**|Raphael Tang et.al.|[2311.18812](http://arxiv.org/abs/2311.18812)|**[link](https://github.com/castorini/biasprobe)**|
 |**2023-11-30**|**Unnatural Error Correction: GPT-4 Can Almost Perfectly Handle Unnatural Scrambled Text**|Qi Cao et.al.|[2311.18805](http://arxiv.org/abs/2311.18805)|null|
@@ -2259,6 +2269,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-01**|**Trained MT Metrics Learn to Cope with Machine-translated References**|Jannis Vamvas et.al.|[2312.00536](http://arxiv.org/abs/2312.00536)|**[link](https://github.com/amazon-science/prism-finetuned)**|
+|**2023-11-30**|**Relevance-guided Neural Machine Translation**|Isidora Chara Tourni et.al.|[2312.00214](http://arxiv.org/abs/2312.00214)|null|
 |**2023-11-30**|**Women Are Beautiful, Men Are Leaders: Gender Stereotypes in Machine Translation and Language Modeling**|Matúš Pikuliak et.al.|[2311.18711](http://arxiv.org/abs/2311.18711)|null|
 |**2023-11-30**|**INarIG: Iterative Non-autoregressive Instruct Generation Model For Word-Level Auto Completion**|Hengchao Shang et.al.|[2311.18200](http://arxiv.org/abs/2311.18200)|null|
 |**2023-11-29**|**Mergen: The First Manchu-Korean Machine Translation Model Trained on Augmented Data**|Jean Seo et.al.|[2311.17492](http://arxiv.org/abs/2311.17492)|null|
@@ -2295,7 +2307,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-11-30**|**MLLMs-Augmented Visual-Language Representation Learning**|Yanqing Liu et.al.|[2311.18765](http://arxiv.org/abs/2311.18765)|**[link](https://github.com/lyq312318224/mllms-augmented)**|
+|**2023-12-01**|**DeepDR: Deep Structure-Aware RGB-D Inpainting for Diminished Reality**|Christina Gsaxner et.al.|[2312.00532](http://arxiv.org/abs/2312.00532)|null|
+|**2023-12-01**|**On Exploring the Reasoning Capability of Large Language Models with Knowledge Graphs**|Pei-Chi Lo et.al.|[2312.00353](http://arxiv.org/abs/2312.00353)|null|
+|**2023-12-01**|**MLLMs-Augmented Visual-Language Representation Learning**|Yanqing Liu et.al.|[2311.18765](http://arxiv.org/abs/2311.18765)|**[link](https://github.com/lyq312318224/mllms-augmented)**|
 |**2023-11-29**|**Understanding Your Agent: Leveraging Large Language Models for Behavior Explanation**|Xijia Zhang et.al.|[2311.18062](http://arxiv.org/abs/2311.18062)|null|
 |**2023-11-29**|**OPERA: Alleviating Hallucination in Multi-Modal Large Language Models via Over-Trust Penalty and Retrospection-Allocation**|Qidong Huang et.al.|[2311.17911](http://arxiv.org/abs/2311.17911)|**[link](https://github.com/shikiw/opera)**|
 |**2023-11-30**|**Knowledge Pursuit Prompting for Zero-Shot Multimodal Synthesis**|Jinqi Luo et.al.|[2311.17898](http://arxiv.org/abs/2311.17898)|null|
