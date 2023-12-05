@@ -2189,6 +2189,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-03**|**Error Correlations in Photonic Qudit-Mediated Entanglement Generation**|Xiaoyu Liu et.al.|[2312.01519](http://arxiv.org/abs/2312.01519)|null|
 |**2023-11-30**|**An Aliasing-Free Hybrid Digital-Analog Polyphonic Synthesizer**|Jonas Roth et.al.|[2311.18774](http://arxiv.org/abs/2311.18774)|null|
 |**2023-11-29**|**Group-wise Sparse and Explainable Adversarial Attacks**|Shpresim Sadiku et.al.|[2311.17434](http://arxiv.org/abs/2311.17434)|**[link](https://github.com/wagnermoritz/gse)**|
 |**2023-11-28**|**Generation multiple vector light modes using beam displacers**|Bo-Zhao et.al.|[2311.16696](http://arxiv.org/abs/2311.16696)|null|
@@ -2205,6 +2206,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-04**|**Competition-Level Problems Are Effective Evaluators of LLMs**|Yiming Huang et.al.|[2312.02143](http://arxiv.org/abs/2312.02143)|null|
+|**2023-12-04**|**Object Recognition as Next Token Prediction**|Kaiyu Yue et.al.|[2312.02142](http://arxiv.org/abs/2312.02142)|**[link](https://github.com/kaiyuyue/nxtp)**|
+|**2023-12-04**|**TPPoet: Transformer-Based Persian Poem Generation using Minimal Data and Advanced Decoding Techniques**|Amir Panahandeh et.al.|[2312.02125](http://arxiv.org/abs/2312.02125)|null|
+|**2023-12-04**|**Magicoder: Source Code Is All You Need**|Yuxiang Wei et.al.|[2312.02120](http://arxiv.org/abs/2312.02120)|**[link](https://github.com/ise-uiuc/magicoder)**|
+|**2023-12-04**|**Tree of Attacks: Jailbreaking Black-Box LLMs Automatically**|Anay Mehrotra et.al.|[2312.02119](http://arxiv.org/abs/2312.02119)|**[link](https://github.com/ricommunity/tap)**|
+|**2023-12-04**|**Physics simulation capabilities of LLMs**|Mohamad Ali-Dib et.al.|[2312.02091](http://arxiv.org/abs/2312.02091)|null|
+|**2023-12-04**|**A Glitch in the Matrix? Locating and Detecting Language Model Grounding with Fakepedia**|Giovanni Monea et.al.|[2312.02073](http://arxiv.org/abs/2312.02073)|null|
+|**2023-12-04**|**Know Your Audience: Do LLMs Adapt to Different Age and Education Levels?**|Donya Rooein et.al.|[2312.02065](http://arxiv.org/abs/2312.02065)|null|
+|**2023-12-04**|**TimeChat: A Time-sensitive Multimodal Large Language Model for Long Video Understanding**|Shuhuai Ren et.al.|[2312.02051](http://arxiv.org/abs/2312.02051)|null|
+|**2023-12-04**|**VLTSeg: Simple Transfer of CLIP-Based Vision-Language Representations for Domain Generalized Semantic Segmentation**|Christoph Hümmer et.al.|[2312.02021](http://arxiv.org/abs/2312.02021)|null|
 |**2023-12-01**|**Context Retrieval via Normalized Contextual Latent Interaction for Conversational Agent**|Junfeng Liu et.al.|[2312.00774](http://arxiv.org/abs/2312.00774)|null|
 |**2023-12-01**|**Beyond ChatBots: ExploreLLM for Structured Thoughts and Personalized Model Responses**|Xiao Ma et.al.|[2312.00763](http://arxiv.org/abs/2312.00763)|null|
 |**2023-12-01**|**Mamba: Linear-Time Sequence Modeling with Selective State Spaces**|Albert Gu et.al.|[2312.00752](http://arxiv.org/abs/2312.00752)|null|
@@ -2240,6 +2251,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-04**|**Explaining with Contrastive Phrasal Highlighting: A Case Study in Assisting Humans to Detect Translation Differences**|Eleftheria Briakou et.al.|[2312.01582](http://arxiv.org/abs/2312.01582)|**[link](https://github.com/elbria/ex-semdiv)**|
+|**2023-12-03**|**On Significance of Subword tokenization for Low Resource and Efficient Named Entity Recognition: A case study in Marathi**|Harsh Chaudhari et.al.|[2312.01306](http://arxiv.org/abs/2312.01306)|null|
+|**2023-12-02**|**End-to-End Speech-to-Text Translation: A Survey**|Nivedita Sethiya et.al.|[2312.01053](http://arxiv.org/abs/2312.01053)|null|
+|**2023-12-01**|**Quick Back-Translation for Unsupervised Machine Translation**|Benjamin Brimacombe et.al.|[2312.00912](http://arxiv.org/abs/2312.00912)|**[link](https://github.com/bbrimacombe/quick-back-translation)**|
+|**2023-12-01**|**PipeOptim: Ensuring Effective 1F1B Schedule with Optimizer-Dependent Weight Prediction**|Lei Guan et.al.|[2312.00839](http://arxiv.org/abs/2312.00839)|**[link](https://github.com/guanleics/pipeoptim)**|
 |**2023-12-01**|**Trained MT Metrics Learn to Cope with Machine-translated References**|Jannis Vamvas et.al.|[2312.00536](http://arxiv.org/abs/2312.00536)|**[link](https://github.com/amazon-science/prism-finetuned)**|
 |**2023-11-30**|**Relevance-guided Neural Machine Translation**|Isidora Chara Tourni et.al.|[2312.00214](http://arxiv.org/abs/2312.00214)|null|
 |**2023-11-30**|**Women Are Beautiful, Men Are Leaders: Gender Stereotypes in Machine Translation and Language Modeling**|Matúš Pikuliak et.al.|[2311.18711](http://arxiv.org/abs/2311.18711)|null|
@@ -2274,6 +2290,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-04**|**Mitigating Fine-Grained Hallucination by Fine-Tuning Large Vision-Language Models with Caption Rewrites**|Lei Wang et.al.|[2312.01701](http://arxiv.org/abs/2312.01701)|**[link](https://github.com/anonymousanoy/fohe)**|
+|**2023-12-02**|**Planning as In-Painting: A Diffusion-Based Embodied Task Planning Framework for Environments under Uncertainty**|Cheng-Fu Yang et.al.|[2312.01097](http://arxiv.org/abs/2312.01097)|**[link](https://github.com/joeyy5588/planning-as-inpainting)**|
+|**2023-12-01**|**LLM-TAKE: Theme Aware Keyword Extraction Using Large Language Models**|Reza Yousefi Maragheh et.al.|[2312.00909](http://arxiv.org/abs/2312.00909)|null|
+|**2023-12-01**|**RLHF-V: Towards Trustworthy MLLMs via Behavior Alignment from Fine-grained Correctional Human Feedback**|Tianyu Yu et.al.|[2312.00849](http://arxiv.org/abs/2312.00849)|**[link](https://github.com/rlhf-v/rlhf-v)**|
+|**2023-11-30**|**Large Language Models for Travel Behavior Prediction**|Baichuan Mo et.al.|[2312.00819](http://arxiv.org/abs/2312.00819)|null|
 |**2023-12-01**|**DeepDR: Deep Structure-Aware RGB-D Inpainting for Diminished Reality**|Christina Gsaxner et.al.|[2312.00532](http://arxiv.org/abs/2312.00532)|null|
 |**2023-12-01**|**On Exploring the Reasoning Capability of Large Language Models with Knowledge Graphs**|Pei-Chi Lo et.al.|[2312.00353](http://arxiv.org/abs/2312.00353)|null|
 |**2023-12-01**|**MLLMs-Augmented Visual-Language Representation Learning**|Yanqing Liu et.al.|[2311.18765](http://arxiv.org/abs/2311.18765)|**[link](https://github.com/lyq312318224/mllms-augmented)**|
