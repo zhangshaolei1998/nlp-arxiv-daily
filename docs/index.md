@@ -2206,6 +2206,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-05**|**GPT4Point: A Unified Framework for Point-Language Understanding and Generation**|Zhangyang Qi et.al.|[2312.02980](http://arxiv.org/abs/2312.02980)|null|
+|**2023-12-05**|**Describing Differences in Image Sets with Natural Language**|Lisa Dunlap et.al.|[2312.02974](http://arxiv.org/abs/2312.02974)|**[link](https://github.com/understanding-visual-datasets/visdiff)**|
+|**2023-12-05**|**Rank-without-GPT: Building GPT-Independent Listwise Rerankers on Open-Source Large Language Models**|Xinyu Zhang et.al.|[2312.02969](http://arxiv.org/abs/2312.02969)|null|
+|**2023-12-05**|**MVHumanNet: A Large-scale Dataset of Multi-view Daily Dressing Human Captures**|Zhangyang Xiong et.al.|[2312.02963](http://arxiv.org/abs/2312.02963)|null|
+|**2023-12-05**|**LLaVA-Grounding: Grounded Visual Chat with Large Multimodal Models**|Hao Zhang et.al.|[2312.02949](http://arxiv.org/abs/2312.02949)|**[link](https://github.com/ux-decoder/llava-grounding)**|
+|**2023-12-05**|**WhisBERT: Multimodal Text-Audio Language Modeling on 100M Words**|Lukas Wolf et.al.|[2312.02931](http://arxiv.org/abs/2312.02931)|null|
+|**2023-12-05**|**Let the LLMs Talk: Simulating Human-to-Human Conversational QA via Zero-Shot LLM-to-LLM Interactions**|Zahra Abbasiantaeb et.al.|[2312.02913](http://arxiv.org/abs/2312.02913)|**[link](https://github.com/zahraabbasiantaeb/simquac)**|
+|**2023-12-05**|**Toward autocorrection of chemical process flowsheets using large language models**|Lukas Schulze Balhorn et.al.|[2312.02873](http://arxiv.org/abs/2312.02873)|null|
+|**2023-12-05**|**Leveraging Domain Adaptation and Data Augmentation to Improve Qur'anic IR in English and Arabic**|Vera Pavlova et.al.|[2312.02803](http://arxiv.org/abs/2312.02803)|null|
+|**2023-12-05**|**Weakly Supervised Detection of Hallucinations in LLM Activations**|Miriam Rateike et.al.|[2312.02798](http://arxiv.org/abs/2312.02798)|null|
 |**2023-12-04**|**Competition-Level Problems Are Effective Evaluators of LLMs**|Yiming Huang et.al.|[2312.02143](http://arxiv.org/abs/2312.02143)|null|
 |**2023-12-04**|**Object Recognition as Next Token Prediction**|Kaiyu Yue et.al.|[2312.02142](http://arxiv.org/abs/2312.02142)|**[link](https://github.com/kaiyuyue/nxtp)**|
 |**2023-12-04**|**TPPoet: Transformer-Based Persian Poem Generation using Minimal Data and Advanced Decoding Techniques**|Amir Panahandeh et.al.|[2312.02125](http://arxiv.org/abs/2312.02125)|null|
@@ -2251,11 +2261,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-05**|**Prompt Optimization via Adversarial In-Context Learning**|Xuan Long Do et.al.|[2312.02614](http://arxiv.org/abs/2312.02614)|null|
 |**2023-12-04**|**Explaining with Contrastive Phrasal Highlighting: A Case Study in Assisting Humans to Detect Translation Differences**|Eleftheria Briakou et.al.|[2312.01582](http://arxiv.org/abs/2312.01582)|**[link](https://github.com/elbria/ex-semdiv)**|
 |**2023-12-03**|**On Significance of Subword tokenization for Low Resource and Efficient Named Entity Recognition: A case study in Marathi**|Harsh Chaudhari et.al.|[2312.01306](http://arxiv.org/abs/2312.01306)|null|
 |**2023-12-02**|**End-to-End Speech-to-Text Translation: A Survey**|Nivedita Sethiya et.al.|[2312.01053](http://arxiv.org/abs/2312.01053)|null|
 |**2023-12-01**|**Quick Back-Translation for Unsupervised Machine Translation**|Benjamin Brimacombe et.al.|[2312.00912](http://arxiv.org/abs/2312.00912)|**[link](https://github.com/bbrimacombe/quick-back-translation)**|
-|**2023-12-01**|**PipeOptim: Ensuring Effective 1F1B Schedule with Optimizer-Dependent Weight Prediction**|Lei Guan et.al.|[2312.00839](http://arxiv.org/abs/2312.00839)|**[link](https://github.com/guanleics/pipeoptim)**|
+|**2023-12-05**|**PipeOptim: Ensuring Effective 1F1B Schedule with Optimizer-Dependent Weight Prediction**|Lei Guan et.al.|[2312.00839](http://arxiv.org/abs/2312.00839)|**[link](https://github.com/guanleics/pipeoptim)**|
 |**2023-12-01**|**Trained MT Metrics Learn to Cope with Machine-translated References**|Jannis Vamvas et.al.|[2312.00536](http://arxiv.org/abs/2312.00536)|**[link](https://github.com/amazon-science/prism-finetuned)**|
 |**2023-11-30**|**Relevance-guided Neural Machine Translation**|Isidora Chara Tourni et.al.|[2312.00214](http://arxiv.org/abs/2312.00214)|null|
 |**2023-11-30**|**Women Are Beautiful, Men Are Leaders: Gender Stereotypes in Machine Translation and Language Modeling**|Matúš Pikuliak et.al.|[2311.18711](http://arxiv.org/abs/2311.18711)|null|
@@ -2275,6 +2286,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-05**|**AV2AV: Direct Audio-Visual Speech to Audio-Visual Speech Translation with Unified Audio-Visual Speech Representation**|Jeongsoo Choi et.al.|[2312.02512](http://arxiv.org/abs/2312.02512)|null|
 |**2023-11-12**|**Towards General-Purpose Speech Abilities for Large Language Models Using Unpaired Data**|Yassir Fathullah et.al.|[2311.06753](http://arxiv.org/abs/2311.06753)|null|
 |**2023-11-07**|**Rethinking and Improving Multi-task Learning for End-to-end Speech Translation**|Yuhao Zhang et.al.|[2311.03810](http://arxiv.org/abs/2311.03810)|**[link](https://github.com/xiaozhang521/imtl)**|
 |**2023-11-01**|**End-to-End Single-Channel Speaker-Turn Aware Conversational Speech Translation**|Juan Zuluaga-Gomez et.al.|[2311.00697](http://arxiv.org/abs/2311.00697)|**[link](https://github.com/amazon-science/stac-speech-translation)**|
@@ -2290,6 +2302,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-05**|**Weakly Supervised Detection of Hallucinations in LLM Activations**|Miriam Rateike et.al.|[2312.02798](http://arxiv.org/abs/2312.02798)|null|
+|**2023-12-05**|**Compositional Generalization for Data-to-Text Generation**|Xinnuo Xu et.al.|[2312.02748](http://arxiv.org/abs/2312.02748)|null|
+|**2023-12-04**|**You Can Run but not Hide: Improving Gait Recognition with Intrinsic Occlusion Type Awareness**|Ayush Gupta et.al.|[2312.02290](http://arxiv.org/abs/2312.02290)|null|
+|**2023-12-03**|**Behind the Magic, MERLIM: Multi-modal Evaluation Benchmark for Large Image-Language Models**|Andrés Villa et.al.|[2312.02219](http://arxiv.org/abs/2312.02219)|null|
 |**2023-12-04**|**Mitigating Fine-Grained Hallucination by Fine-Tuning Large Vision-Language Models with Caption Rewrites**|Lei Wang et.al.|[2312.01701](http://arxiv.org/abs/2312.01701)|**[link](https://github.com/anonymousanoy/fohe)**|
 |**2023-12-02**|**Planning as In-Painting: A Diffusion-Based Embodied Task Planning Framework for Environments under Uncertainty**|Cheng-Fu Yang et.al.|[2312.01097](http://arxiv.org/abs/2312.01097)|**[link](https://github.com/joeyy5588/planning-as-inpainting)**|
 |**2023-12-01**|**LLM-TAKE: Theme Aware Keyword Extraction Using Large Language Models**|Reza Yousefi Maragheh et.al.|[2312.00909](http://arxiv.org/abs/2312.00909)|null|
