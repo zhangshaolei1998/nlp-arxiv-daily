@@ -2189,6 +2189,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-06**|**On class groups of upper cluster algebras**|Mara Pompili et.al.|[2312.03457](http://arxiv.org/abs/2312.03457)|null|
 |**2023-12-03**|**Error Correlations in Photonic Qudit-Mediated Entanglement Generation**|Xiaoyu Liu et.al.|[2312.01519](http://arxiv.org/abs/2312.01519)|null|
 |**2023-11-30**|**An Aliasing-Free Hybrid Digital-Analog Polyphonic Synthesizer**|Jonas Roth et.al.|[2311.18774](http://arxiv.org/abs/2311.18774)|null|
 |**2023-11-29**|**Group-wise Sparse and Explainable Adversarial Attacks**|Shpresim Sadiku et.al.|[2311.17434](http://arxiv.org/abs/2311.17434)|**[link](https://github.com/wagnermoritz/gse)**|
@@ -2206,6 +2207,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-06**|**OneLLM: One Framework to Align All Modalities with Language**|Jiaming Han et.al.|[2312.03700](http://arxiv.org/abs/2312.03700)|**[link](https://github.com/csuhan/onellm)**|
+|**2023-12-06**|**PROMISE: A Framework for Model-Driven Stateful Prompt Orchestration**|Wenyuan Wu et.al.|[2312.03699](http://arxiv.org/abs/2312.03699)|null|
+|**2023-12-06**|**Evaluating and Mitigating Discrimination in Language Model Decisions**|Alex Tamkin et.al.|[2312.03689](http://arxiv.org/abs/2312.03689)|null|
+|**2023-12-06**|**An Integration of Pre-Trained Speech and Language Models for End-to-End Speech Recognition**|Yukiya Hono et.al.|[2312.03668](http://arxiv.org/abs/2312.03668)|null|
+|**2023-12-06**|**Generative agent-based modeling with actions grounded in physical, social, or digital space using Concordia**|Alexander Sasha Vezhnevets et.al.|[2312.03664](http://arxiv.org/abs/2312.03664)|null|
+|**2023-12-06**|**Reason2Drive: Towards Interpretable and Chain-based Reasoning for Autonomous Driving**|Ming Nie et.al.|[2312.03661](http://arxiv.org/abs/2312.03661)|**[link](https://github.com/fudan-zvg/reason2drive)**|
+|**2023-12-06**|**Not All Large Language Models (LLMs) Succumb to the "Reversal Curse": A Comparative Study of Deductive Logical Reasoning in BERT and GPT Models**|Jingye Yang et.al.|[2312.03633](http://arxiv.org/abs/2312.03633)|null|
+|**2023-12-06**|**Multimodal Data and Resource Efficient Device-Directed Speech Detection with Large Foundation Models**|Dominik Wagner et.al.|[2312.03632](http://arxiv.org/abs/2312.03632)|null|
+|**2023-12-06**|**Language-Informed Visual Concept Learning**|Sharon Lee et.al.|[2312.03587](http://arxiv.org/abs/2312.03587)|null|
+|**2023-12-06**|**XAIQA: Explainer-Based Data Augmentation for Extractive Question Answering**|Joel Stremmel et.al.|[2312.03567](http://arxiv.org/abs/2312.03567)|null|
 |**2023-12-05**|**GPT4Point: A Unified Framework for Point-Language Understanding and Generation**|Zhangyang Qi et.al.|[2312.02980](http://arxiv.org/abs/2312.02980)|null|
 |**2023-12-05**|**Describing Differences in Image Sets with Natural Language**|Lisa Dunlap et.al.|[2312.02974](http://arxiv.org/abs/2312.02974)|**[link](https://github.com/understanding-visual-datasets/visdiff)**|
 |**2023-12-05**|**Rank-without-GPT: Building GPT-Independent Listwise Rerankers on Open-Source Large Language Models**|Xinyu Zhang et.al.|[2312.02969](http://arxiv.org/abs/2312.02969)|null|
@@ -2302,7 +2313,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-12-05**|**Weakly Supervised Detection of Hallucinations in LLM Activations**|Miriam Rateike et.al.|[2312.02798](http://arxiv.org/abs/2312.02798)|null|
+|**2023-12-06**|**MOCHa: Multi-Objective Reinforcement Mitigating Caption Hallucinations**|Assaf Ben-Kish et.al.|[2312.03631](http://arxiv.org/abs/2312.03631)|null|
+|**2023-12-05**|**Weakly Supervised Detection of Hallucinations in LLM Activations**|Miriam Rateike et.al.|[2312.02798](http://arxiv.org/abs/2312.02798)|**[link](https://github.com/Trusted-AI/adversarial-robustness-toolbox)**|
 |**2023-12-05**|**Compositional Generalization for Data-to-Text Generation**|Xinnuo Xu et.al.|[2312.02748](http://arxiv.org/abs/2312.02748)|null|
 |**2023-12-04**|**You Can Run but not Hide: Improving Gait Recognition with Intrinsic Occlusion Type Awareness**|Ayush Gupta et.al.|[2312.02290](http://arxiv.org/abs/2312.02290)|null|
 |**2023-12-03**|**Behind the Magic, MERLIM: Multi-modal Evaluation Benchmark for Large Image-Language Models**|Andrés Villa et.al.|[2312.02219](http://arxiv.org/abs/2312.02219)|null|
