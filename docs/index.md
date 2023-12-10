@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.12.09
+## Updated on 2023.12.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2214,7 +2214,7 @@ layout: default
 |**2023-12-07**|**Self-Guided Open-Vocabulary Semantic Segmentation**|Osman Ülger et.al.|[2312.04539](http://arxiv.org/abs/2312.04539)|null|
 |**2023-12-07**|**Dream2Real: Zero-Shot 3D Object Rearrangement with Vision-Language Models**|Ivan Kapelyukh et.al.|[2312.04533](http://arxiv.org/abs/2312.04533)|null|
 |**2023-12-07**|**Using Large Language Models for Hyperparameter Optimization**|Michael R. Zhang et.al.|[2312.04528](http://arxiv.org/abs/2312.04528)|null|
-|**2023-12-07**|**An LLM Compiler for Parallel Function Calling**|Sehoon Kim et.al.|[2312.04511](http://arxiv.org/abs/2312.04511)|null|
+|**2023-12-07**|**An LLM Compiler for Parallel Function Calling**|Sehoon Kim et.al.|[2312.04511](http://arxiv.org/abs/2312.04511)|**[link](https://github.com/squeezeailab/llmcompiler)**|
 |**2023-12-07**|**A Block Metropolis-Hastings Sampler for Controllable Energy-based Text Generation**|Jarad Forristal et.al.|[2312.04510](http://arxiv.org/abs/2312.04510)|null|
 |**2023-12-07**|**AVA: Towards Autonomous Visualization Agents through Visual Perception-Driven Decision-Making**|Shusen Liu et.al.|[2312.04494](http://arxiv.org/abs/2312.04494)|null|
 |**2023-12-07**|**Chain of Code: Reasoning with a Language Model-Augmented Code Emulator**|Chengshu Li et.al.|[2312.04474](http://arxiv.org/abs/2312.04474)|null|
