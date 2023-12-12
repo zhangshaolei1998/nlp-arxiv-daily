@@ -2237,6 +2237,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-11**|**Building Domain-Specific LLMs Faithful To The Islamic Worldview: Mirage or Technical Possibility?**|Shabaz Patel et.al.|[2312.06652](http://arxiv.org/abs/2312.06652)|null|
+|**2023-12-11**|**4M: Massively Multimodal Masked Modeling**|David Mizrahi et.al.|[2312.06647](http://arxiv.org/abs/2312.06647)|null|
+|**2023-12-11**|**AnyHome: Open-Vocabulary Generation of Structured and Textured 3D Homes**|Zehao Wen et.al.|[2312.06644](http://arxiv.org/abs/2312.06644)|null|
+|**2023-12-11**|**Gated Linear Attention Transformers with Hardware-Efficient Training**|Songlin Yang et.al.|[2312.06635](http://arxiv.org/abs/2312.06635)|null|
+|**2023-12-11**|**Emergence of Scale-Free Networks in Social Interactions among Large Language Models**|Giordano De Marzo et.al.|[2312.06619](http://arxiv.org/abs/2312.06619)|null|
+|**2023-12-11**|**Neural Text to Articulate Talk: Deep Text to Audiovisual Speech Synthesis achieving both Auditory and Photo-realism**|Georgios Milis et.al.|[2312.06613](http://arxiv.org/abs/2312.06613)|**[link](https://github.com/g-milis/NEUTART)**|
+|**2023-12-11**|**Beyond Human Data: Scaling Self-Training for Problem-Solving with Language Models**|Avi Singh et.al.|[2312.06585](http://arxiv.org/abs/2312.06585)|null|
+|**2023-12-11**|**From Text to Motion: Grounding GPT-4 in a Humanoid Robot "Alter3"**|Takahide Yoshida et.al.|[2312.06571](http://arxiv.org/abs/2312.06571)|null|
+|**2023-12-11**|**LLM360: Towards Fully Transparent Open-Source LLMs**|Zhengzhong Liu et.al.|[2312.06550](http://arxiv.org/abs/2312.06550)|null|
+|**2023-12-11**|**Where exactly does contextualization in a PLM happen?**|Soniya Vijayakumar et.al.|[2312.06514](http://arxiv.org/abs/2312.06514)|null|
 |**2023-12-08**|**Language Models, Agent Models, and World Models: The LAW for Machine Reasoning and Planning**|Zhiting Hu et.al.|[2312.05230](http://arxiv.org/abs/2312.05230)|null|
 |**2023-12-08**|**DeltaZip: Multi-Tenant Language Model Serving via Delta Compression**|Xiaozhe Yao et.al.|[2312.05215](http://arxiv.org/abs/2312.05215)|null|
 |**2023-12-08**|**HALO: An Ontology for Representing Hallucinations in Generative Models**|Navapat Nananukul et.al.|[2312.05209](http://arxiv.org/abs/2312.05209)|null|
@@ -2324,6 +2334,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-11**|**Order Matters in the Presence of Dataset Imbalance for Multilingual Learning**|Dami Choi et.al.|[2312.06134](http://arxiv.org/abs/2312.06134)|null|
+|**2023-12-09**|**A Review of Hybrid and Ensemble in Deep Learning for Natural Language Processing**|Jianguo Jia et.al.|[2312.05589](http://arxiv.org/abs/2312.05589)|null|
 |**2023-12-08**|**Seamless: Multilingual Expressive and Streaming Speech Translation**|Seamless Communication et.al.|[2312.05187](http://arxiv.org/abs/2312.05187)|**[link](https://github.com/facebookresearch/seamless_communication)**|
 |**2023-12-08**|**Converting Epics/Stories into Pseudocode using Transformers**|Gaurav Kolhatkar et.al.|[2312.05047](http://arxiv.org/abs/2312.05047)|null|
 |**2023-12-08**|**Improving Neural Machine Translation by Multi-Knowledge Integration with Prompting**|Ke Wang et.al.|[2312.04807](http://arxiv.org/abs/2312.04807)|null|
@@ -2377,6 +2389,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-11**|**Unlocking Anticipatory Text Generation: A Constrained Approach for Faithful Decoding with Large Language Models**|Lifu Tu et.al.|[2312.06149](http://arxiv.org/abs/2312.06149)|null|
+|**2023-12-10**|**Guiding ChatGPT to Fix Web UI Tests via Explanation-Consistency Checking**|Zhuolin Xu et.al.|[2312.05778](http://arxiv.org/abs/2312.05778)|null|
+|**2023-12-09**|**Context Tuning for Retrieval Augmented Generation**|Raviteja Anantha et.al.|[2312.05708](http://arxiv.org/abs/2312.05708)|null|
+|**2023-12-08**|**Lyrics: Boosting Fine-grained Language-Vision Alignment and Comprehension via Semantic-aware Visual Objects**|Junyu Lu et.al.|[2312.05278](http://arxiv.org/abs/2312.05278)|null|
 |**2023-12-08**|**HALO: An Ontology for Representing Hallucinations in Generative Models**|Navapat Nananukul et.al.|[2312.05209](http://arxiv.org/abs/2312.05209)|null|
 |**2023-12-08**|**DelucionQA: Detecting Hallucinations in Domain-specific Question Answering**|Mobashir Sadat et.al.|[2312.05200](http://arxiv.org/abs/2312.05200)|**[link](https://github.com/boschresearch/delucionqa)**|
 |**2023-12-08**|**Beyond Surface: Probing LLaMA Across Scales and Layers**|Nuo Chen et.al.|[2312.04333](http://arxiv.org/abs/2312.04333)|**[link](https://github.com/nuochenpku/llama_analysis)**|
