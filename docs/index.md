@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.12.11
+## Updated on 2023.12.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2215,7 +2215,7 @@ layout: default
 |**2023-12-08**|**HALO: An Ontology for Representing Hallucinations in Generative Models**|Navapat Nananukul et.al.|[2312.05209](http://arxiv.org/abs/2312.05209)|null|
 |**2023-12-08**|**DelucionQA: Detecting Hallucinations in Domain-specific Question Answering**|Mobashir Sadat et.al.|[2312.05200](http://arxiv.org/abs/2312.05200)|**[link](https://github.com/boschresearch/delucionqa)**|
 |**2023-12-08**|**PathFinder: Guided Search over Multi-Step Reasoning Paths**|Olga Golovneva et.al.|[2312.05180](http://arxiv.org/abs/2312.05180)|null|
-|**2023-12-08**|**INSPECT: Intrinsic and Systematic Probing Evaluation for Code Transformers**|Anjan Karmakar et.al.|[2312.05092](http://arxiv.org/abs/2312.05092)|null|
+|**2023-12-08**|**INSPECT: Intrinsic and Systematic Probing Evaluation for Code Transformers**|Anjan Karmakar et.al.|[2312.05092](http://arxiv.org/abs/2312.05092)|**[link](https://github.com/giganticode/inspect)**|
 |**2023-12-08**|**Vision-based Learning for Drones: A Survey**|Jiaping Xiao et.al.|[2312.05019](http://arxiv.org/abs/2312.05019)|null|
 |**2023-12-08**|**SparQ Attention: Bandwidth-Efficient LLM Inference**|Luka Ribar et.al.|[2312.04985](http://arxiv.org/abs/2312.04985)|null|
 |**2023-12-08**|**Boosting Prompt-Based Self-Training With Mapping-Free Automatic Verbalizer for Multi-Class Classification**|Yookyung Kho et.al.|[2312.04982](http://arxiv.org/abs/2312.04982)|**[link](https://github.com/yookyungkho/mav)**|
