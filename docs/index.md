@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.12.12
+## Updated on 2023.12.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2190,7 +2190,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-12-08**|**Seamless: Multilingual Expressive and Streaming Speech Translation**|Seamless Communication et.al.|[2312.05187](http://arxiv.org/abs/2312.05187)|**[link](https://github.com/facebookresearch/seamless_communication)**|
-|**2023-12-07**|**Simul-LLM: A Framework for Exploring High-Quality Simultaneous Translation with Large Language Models**|Victor Agostinelli et.al.|[2312.04691](http://arxiv.org/abs/2312.04691)|null|
+|**2023-12-07**|**Simul-LLM: A Framework for Exploring High-Quality Simultaneous Translation with Large Language Models**|Victor Agostinelli et.al.|[2312.04691](http://arxiv.org/abs/2312.04691)|**[link](https://github.com/osu-starlab/simul-llm)**|
 |**2023-12-07**|**Efficient Monotonic Multihead Attention**|Xutai Ma et.al.|[2312.04515](http://arxiv.org/abs/2312.04515)|null|
 |**2023-12-06**|**On class groups of upper cluster algebras**|Mara Pompili et.al.|[2312.03457](http://arxiv.org/abs/2312.03457)|null|
 |**2023-12-03**|**Error Correlations in Photonic Qudit-Mediated Entanglement Generation**|Xiaoyu Liu et.al.|[2312.01519](http://arxiv.org/abs/2312.01519)|null|
@@ -2210,7 +2210,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-12-11**|**Building Domain-Specific LLMs Faithful To The Islamic Worldview: Mirage or Technical Possibility?**|Shabaz Patel et.al.|[2312.06652](http://arxiv.org/abs/2312.06652)|null|
+|**2023-12-11**|**Building Domain-Specific LLMs Faithful To The Islamic Worldview: Mirage or Technical Possibility?**|Shabaz Patel et.al.|[2312.06652](http://arxiv.org/abs/2312.06652)|**[link](https://github.com/shabazpatel/domain-specific-llm)**|
 |**2023-12-11**|**4M: Massively Multimodal Masked Modeling**|David Mizrahi et.al.|[2312.06647](http://arxiv.org/abs/2312.06647)|null|
 |**2023-12-11**|**AnyHome: Open-Vocabulary Generation of Structured and Textured 3D Homes**|Zehao Wen et.al.|[2312.06644](http://arxiv.org/abs/2312.06644)|null|
 |**2023-12-11**|**Gated Linear Attention Transformers with Hardware-Efficient Training**|Songlin Yang et.al.|[2312.06635](http://arxiv.org/abs/2312.06635)|null|
@@ -2218,7 +2218,7 @@ layout: default
 |**2023-12-11**|**Neural Text to Articulate Talk: Deep Text to Audiovisual Speech Synthesis achieving both Auditory and Photo-realism**|Georgios Milis et.al.|[2312.06613](http://arxiv.org/abs/2312.06613)|**[link](https://github.com/g-milis/NEUTART)**|
 |**2023-12-11**|**Beyond Human Data: Scaling Self-Training for Problem-Solving with Language Models**|Avi Singh et.al.|[2312.06585](http://arxiv.org/abs/2312.06585)|null|
 |**2023-12-11**|**From Text to Motion: Grounding GPT-4 in a Humanoid Robot "Alter3"**|Takahide Yoshida et.al.|[2312.06571](http://arxiv.org/abs/2312.06571)|null|
-|**2023-12-11**|**LLM360: Towards Fully Transparent Open-Source LLMs**|Zhengzhong Liu et.al.|[2312.06550](http://arxiv.org/abs/2312.06550)|null|
+|**2023-12-11**|**LLM360: Towards Fully Transparent Open-Source LLMs**|Zhengzhong Liu et.al.|[2312.06550](http://arxiv.org/abs/2312.06550)|**[link](https://github.com/llm360/analysis360)**|
 |**2023-12-11**|**Where exactly does contextualization in a PLM happen?**|Soniya Vijayakumar et.al.|[2312.06514](http://arxiv.org/abs/2312.06514)|null|
 |**2023-12-08**|**Language Models, Agent Models, and World Models: The LAW for Machine Reasoning and Planning**|Zhiting Hu et.al.|[2312.05230](http://arxiv.org/abs/2312.05230)|null|
 |**2023-12-08**|**DeltaZip: Multi-Tenant Language Model Serving via Delta Compression**|Xiaozhe Yao et.al.|[2312.05215](http://arxiv.org/abs/2312.05215)|null|
@@ -2311,7 +2311,7 @@ layout: default
 |**2023-12-08**|**Converting Epics/Stories into Pseudocode using Transformers**|Gaurav Kolhatkar et.al.|[2312.05047](http://arxiv.org/abs/2312.05047)|null|
 |**2023-12-08**|**Improving Neural Machine Translation by Multi-Knowledge Integration with Prompting**|Ke Wang et.al.|[2312.04807](http://arxiv.org/abs/2312.04807)|null|
 |**2023-12-08**|**First Attempt at Building Parallel Corpora for Machine Translation of Northeast India's Very Low-Resource Languages**|Atnafu Lambebo Tonja et.al.|[2312.04764](http://arxiv.org/abs/2312.04764)|null|
-|**2023-12-07**|**Simul-LLM: A Framework for Exploring High-Quality Simultaneous Translation with Large Language Models**|Victor Agostinelli et.al.|[2312.04691](http://arxiv.org/abs/2312.04691)|null|
+|**2023-12-07**|**Simul-LLM: A Framework for Exploring High-Quality Simultaneous Translation with Large Language Models**|Victor Agostinelli et.al.|[2312.04691](http://arxiv.org/abs/2312.04691)|**[link](https://github.com/osu-starlab/simul-llm)**|
 |**2023-12-07**|**Making Translators Privacy-aware on the User's Side**|Ryoma Sato et.al.|[2312.04068](http://arxiv.org/abs/2312.04068)|null|
 |**2023-12-02**|**English to Arabic machine translation of mathematical documents**|Mustapha Eddahibi et.al.|[2312.03753](http://arxiv.org/abs/2312.03753)|null|
 |**2023-12-05**|**Prompt Optimization via Adversarial In-Context Learning**|Xuan Long Do et.al.|[2312.02614](http://arxiv.org/abs/2312.02614)|null|
