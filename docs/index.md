@@ -2190,7 +2190,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-12-08**|**Seamless: Multilingual Expressive and Streaming Speech Translation**|Seamless Communication et.al.|[2312.05187](http://arxiv.org/abs/2312.05187)|**[link](https://github.com/facebookresearch/seamless_communication)**|
-|**2023-12-07**|**Simul-LLM: A Framework for Exploring High-Quality Simultaneous Translation with Large Language Models**|Victor Agostinelli et.al.|[2312.04691](http://arxiv.org/abs/2312.04691)|**[link](https://github.com/osu-starlab/simul-llm)**|
+|**2023-12-12**|**Simul-LLM: A Framework for Exploring High-Quality Simultaneous Translation with Large Language Models**|Victor Agostinelli et.al.|[2312.04691](http://arxiv.org/abs/2312.04691)|**[link](https://github.com/osu-starlab/simul-llm)**|
 |**2023-12-07**|**Efficient Monotonic Multihead Attention**|Xutai Ma et.al.|[2312.04515](http://arxiv.org/abs/2312.04515)|null|
 |**2023-12-06**|**On class groups of upper cluster algebras**|Mara Pompili et.al.|[2312.03457](http://arxiv.org/abs/2312.03457)|null|
 |**2023-12-03**|**Error Correlations in Photonic Qudit-Mediated Entanglement Generation**|Xiaoyu Liu et.al.|[2312.01519](http://arxiv.org/abs/2312.01519)|null|
@@ -2210,6 +2210,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-12**|**diff History for Long-Context Language Agents**|Ulyana Piterbarg et.al.|[2312.07540](http://arxiv.org/abs/2312.07540)|null|
+|**2023-12-12**|**VILA: On Pre-training for Visual Language Models**|Ji Lin et.al.|[2312.07533](http://arxiv.org/abs/2312.07533)|null|
+|**2023-12-12**|**BaRDa: A Belief and Reasoning Dataset that Separates Factual Accuracy and Reasoning Ability**|Peter Clark et.al.|[2312.07527](http://arxiv.org/abs/2312.07527)|null|
+|**2023-12-12**|**SocialStigmaQA: A Benchmark to Uncover Stigma Amplification in Generative Language Models**|Manish Nagireddy et.al.|[2312.07492](http://arxiv.org/abs/2312.07492)|null|
+|**2023-12-12**|**LMDrive: Closed-Loop End-to-End Driving with Large Language Models**|Hao Shao et.al.|[2312.07488](http://arxiv.org/abs/2312.07488)|null|
+|**2023-12-12**|**Comparable Demonstrations are Important in In-Context Learning: A Novel Perspective on Demonstration Selection**|Caoyun Fan et.al.|[2312.07476](http://arxiv.org/abs/2312.07476)|null|
+|**2023-12-12**|**MP5: A Multi-modal Open-ended Embodied System in Minecraft via Active Perception**|Yiran Qin et.al.|[2312.07472](http://arxiv.org/abs/2312.07472)|null|
+|**2023-12-12**|**Daily Assistive View Control Learning of Low-Cost Low-Rigidity Robot via Large-Scale Vision-Language Model**|Kento Kawaharazuka et.al.|[2312.07451](http://arxiv.org/abs/2312.07451)|null|
+|**2023-12-12**|**FairSISA: Ensemble Post-Processing to Improve Fairness of Unlearning in LLMs**|Swanand Ravindra Kadhe et.al.|[2312.07420](http://arxiv.org/abs/2312.07420)|null|
+|**2023-12-12**|**Turbo: Informativity-Driven Acceleration Plug-In for Vision-Language Models**|Chen Ju et.al.|[2312.07408](http://arxiv.org/abs/2312.07408)|null|
 |**2023-12-11**|**Building Domain-Specific LLMs Faithful To The Islamic Worldview: Mirage or Technical Possibility?**|Shabaz Patel et.al.|[2312.06652](http://arxiv.org/abs/2312.06652)|**[link](https://github.com/shabazpatel/domain-specific-llm)**|
 |**2023-12-11**|**4M: Massively Multimodal Masked Modeling**|David Mizrahi et.al.|[2312.06647](http://arxiv.org/abs/2312.06647)|null|
 |**2023-12-11**|**AnyHome: Open-Vocabulary Generation of Structured and Textured 3D Homes**|Zehao Wen et.al.|[2312.06644](http://arxiv.org/abs/2312.06644)|null|
@@ -2305,13 +2315,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-12**|**Towards Faster k-Nearest-Neighbor Machine Translation**|Xiangyu Shi et.al.|[2312.07419](http://arxiv.org/abs/2312.07419)|null|
+|**2023-12-12**|**Neural Machine Translation of Clinical Text: An Empirical Investigation into Multilingual Pre-Trained Language Models and Transfer-Learning**|Lifeng Han et.al.|[2312.07250](http://arxiv.org/abs/2312.07250)|null|
+|**2023-12-12**|**Content-Localization based Neural Machine Translation for Informal Dialectal Arabic: Spanish/French to Levantine/Gulf Arabic**|Fatimah Alzamzami et.al.|[2312.06926](http://arxiv.org/abs/2312.06926)|null|
 |**2023-12-11**|**Order Matters in the Presence of Dataset Imbalance for Multilingual Learning**|Dami Choi et.al.|[2312.06134](http://arxiv.org/abs/2312.06134)|null|
 |**2023-12-09**|**A Review of Hybrid and Ensemble in Deep Learning for Natural Language Processing**|Jianguo Jia et.al.|[2312.05589](http://arxiv.org/abs/2312.05589)|null|
 |**2023-12-08**|**Seamless: Multilingual Expressive and Streaming Speech Translation**|Seamless Communication et.al.|[2312.05187](http://arxiv.org/abs/2312.05187)|**[link](https://github.com/facebookresearch/seamless_communication)**|
 |**2023-12-08**|**Converting Epics/Stories into Pseudocode using Transformers**|Gaurav Kolhatkar et.al.|[2312.05047](http://arxiv.org/abs/2312.05047)|null|
 |**2023-12-08**|**Improving Neural Machine Translation by Multi-Knowledge Integration with Prompting**|Ke Wang et.al.|[2312.04807](http://arxiv.org/abs/2312.04807)|null|
 |**2023-12-08**|**First Attempt at Building Parallel Corpora for Machine Translation of Northeast India's Very Low-Resource Languages**|Atnafu Lambebo Tonja et.al.|[2312.04764](http://arxiv.org/abs/2312.04764)|null|
-|**2023-12-07**|**Simul-LLM: A Framework for Exploring High-Quality Simultaneous Translation with Large Language Models**|Victor Agostinelli et.al.|[2312.04691](http://arxiv.org/abs/2312.04691)|**[link](https://github.com/osu-starlab/simul-llm)**|
+|**2023-12-12**|**Simul-LLM: A Framework for Exploring High-Quality Simultaneous Translation with Large Language Models**|Victor Agostinelli et.al.|[2312.04691](http://arxiv.org/abs/2312.04691)|**[link](https://github.com/osu-starlab/simul-llm)**|
 |**2023-12-07**|**Making Translators Privacy-aware on the User's Side**|Ryoma Sato et.al.|[2312.04068](http://arxiv.org/abs/2312.04068)|null|
 |**2023-12-02**|**English to Arabic machine translation of mathematical documents**|Mustapha Eddahibi et.al.|[2312.03753](http://arxiv.org/abs/2312.03753)|null|
 |**2023-12-05**|**Prompt Optimization via Adversarial In-Context Learning**|Xuan Long Do et.al.|[2312.02614](http://arxiv.org/abs/2312.02614)|null|
@@ -2356,6 +2369,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-12**|**Context Matter: Data-Efficient Augmentation of Large Language Models for Scientific Applications**|Xiang Li et.al.|[2312.07069](http://arxiv.org/abs/2312.07069)|null|
+|**2023-12-12**|**Improving Factual Error Correction by Learning to Inject Factual Errors**|Xingwei He et.al.|[2312.07049](http://arxiv.org/abs/2312.07049)|null|
+|**2023-12-12**|**On the notion of Hallucinations from the lens of Bias and Validity in Synthetic CXR Images**|Gauri Bhardwaj et.al.|[2312.06979](http://arxiv.org/abs/2312.06979)|null|
+|**2023-12-12**|**Hallucination Augmented Contrastive Learning for Multimodal Large Language Model**|Chaoya Jiang et.al.|[2312.06968](http://arxiv.org/abs/2312.06968)|null|
 |**2023-12-11**|**Unlocking Anticipatory Text Generation: A Constrained Approach for Faithful Decoding with Large Language Models**|Lifu Tu et.al.|[2312.06149](http://arxiv.org/abs/2312.06149)|null|
 |**2023-12-10**|**Guiding ChatGPT to Fix Web UI Tests via Explanation-Consistency Checking**|Zhuolin Xu et.al.|[2312.05778](http://arxiv.org/abs/2312.05778)|null|
 |**2023-12-09**|**Context Tuning for Retrieval Augmented Generation**|Raviteja Anantha et.al.|[2312.05708](http://arxiv.org/abs/2312.05708)|null|
