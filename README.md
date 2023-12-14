@@ -2237,6 +2237,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-13**|**VLAP: Efficient Video-Language Alignment via Frame Prompting and Distilling for Video Question Answering**|Xijun Wang et.al.|[2312.08367](http://arxiv.org/abs/2312.08367)|null|
+|**2023-12-13**|**An Invitation to Deep Reinforcement Learning**|Bernhard Jaeger et.al.|[2312.08365](http://arxiv.org/abs/2312.08365)|null|
+|**2023-12-13**|**Distributed Inference and Fine-tuning of Large Language Models Over The Internet**|Alexander Borzunov et.al.|[2312.08361](http://arxiv.org/abs/2312.08361)|null|
+|**2023-12-13**|**FoundationPose: Unified 6D Pose Estimation and Tracking of Novel Objects**|Bowen Wen et.al.|[2312.08344](http://arxiv.org/abs/2312.08344)|null|
+|**2023-12-13**|**LD-SDM: Language-Driven Hierarchical Species Distribution Modeling**|Srikumar Sastry et.al.|[2312.08334](http://arxiv.org/abs/2312.08334)|null|
+|**2023-12-13**|**Prompt Engineering-assisted Malware Dynamic Analysis Using GPT-4**|Pei Yan et.al.|[2312.08317](http://arxiv.org/abs/2312.08317)|**[link](https://github.com/yan-scnu/prompted_dynamic_detection)**|
+|**2023-12-13**|**Efficient Toxic Content Detection by Bootstrapping and Distilling Large Language Models**|Jiang Zhang et.al.|[2312.08303](http://arxiv.org/abs/2312.08303)|null|
+|**2023-12-13**|**Conceptualizing Suicidal Behavior: Utilizing Explanations of Predicted Outcomes to Analyze Longitudinal Social Media Data**|Van Minh Nguyen et.al.|[2312.08299](http://arxiv.org/abs/2312.08299)|**[link](https://github.com/fit-suicide-prevention-research/token-attribution-analysis)**|
+|**2023-12-13**|**High-throughput Biomedical Relation Extraction for Semi-Structured Web Articles Empowered by Large Language Models**|Songchi Zhou et.al.|[2312.08274](http://arxiv.org/abs/2312.08274)|null|
+|**2023-12-13**|**Enhancing Robot Program Synthesis Through Environmental Context**|Tianyi Chen et.al.|[2312.08250](http://arxiv.org/abs/2312.08250)|null|
 |**2023-12-12**|**diff History for Long-Context Language Agents**|Ulyana Piterbarg et.al.|[2312.07540](http://arxiv.org/abs/2312.07540)|null|
 |**2023-12-12**|**VILA: On Pre-training for Visual Language Models**|Ji Lin et.al.|[2312.07533](http://arxiv.org/abs/2312.07533)|null|
 |**2023-12-12**|**BaRDa: A Belief and Reasoning Dataset that Separates Factual Accuracy and Reasoning Ability**|Peter Clark et.al.|[2312.07527](http://arxiv.org/abs/2312.07527)|null|
@@ -2344,6 +2354,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-12**|**BarraCUDA: Bringing Electromagnetic Side Channel Into Play to Steal the Weights of Neural Networks from NVIDIA GPUs**|Peter Horvath et.al.|[2312.07783](http://arxiv.org/abs/2312.07783)|null|
 |**2023-12-12**|**Towards Faster k-Nearest-Neighbor Machine Translation**|Xiangyu Shi et.al.|[2312.07419](http://arxiv.org/abs/2312.07419)|null|
 |**2023-12-12**|**Neural Machine Translation of Clinical Text: An Empirical Investigation into Multilingual Pre-Trained Language Models and Transfer-Learning**|Lifeng Han et.al.|[2312.07250](http://arxiv.org/abs/2312.07250)|null|
 |**2023-12-12**|**Content-Localization based Neural Machine Translation for Informal Dialectal Arabic: Spanish/French to Levantine/Gulf Arabic**|Fatimah Alzamzami et.al.|[2312.06926](http://arxiv.org/abs/2312.06926)|null|
@@ -2402,10 +2413,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-12-12**|**Context Matter: Data-Efficient Augmentation of Large Language Models for Scientific Applications**|Xiang Li et.al.|[2312.07069](http://arxiv.org/abs/2312.07069)|null|
+|**2023-12-13**|**Finetuning an LLM on Contextual Knowledge of Classics for Q&A**|Shane Storm Strachan et.al.|[2312.07848](http://arxiv.org/abs/2312.07848)|null|
+|**2023-12-11**|**Evaluating ChatGPT as a Question Answering System: A Comprehensive Analysis and Comparison with Existing Models**|Hossein Bahak et.al.|[2312.07592](http://arxiv.org/abs/2312.07592)|null|
+|**2023-12-08**|**PaperQA: Retrieval-Augmented Generative Agent for Scientific Research**|Jakub Lála et.al.|[2312.07559](http://arxiv.org/abs/2312.07559)|null|
+|**2023-12-12**|**Context Matter: Data-Efficient Augmentation of Large Language Models for Scientific Applications**|Xiang Li et.al.|[2312.07069](http://arxiv.org/abs/2312.07069)|**[link](https://github.com/mikelixiang88/automatic_gpt_grader)**|
 |**2023-12-12**|**Improving Factual Error Correction by Learning to Inject Factual Errors**|Xingwei He et.al.|[2312.07049](http://arxiv.org/abs/2312.07049)|null|
 |**2023-12-12**|**On the notion of Hallucinations from the lens of Bias and Validity in Synthetic CXR Images**|Gauri Bhardwaj et.al.|[2312.06979](http://arxiv.org/abs/2312.06979)|null|
-|**2023-12-12**|**Hallucination Augmented Contrastive Learning for Multimodal Large Language Model**|Chaoya Jiang et.al.|[2312.06968](http://arxiv.org/abs/2312.06968)|null|
+|**2023-12-13**|**Hallucination Augmented Contrastive Learning for Multimodal Large Language Model**|Chaoya Jiang et.al.|[2312.06968](http://arxiv.org/abs/2312.06968)|null|
 |**2023-12-11**|**Unlocking Anticipatory Text Generation: A Constrained Approach for Faithful Decoding with Large Language Models**|Lifu Tu et.al.|[2312.06149](http://arxiv.org/abs/2312.06149)|null|
 |**2023-12-10**|**Guiding ChatGPT to Fix Web UI Tests via Explanation-Consistency Checking**|Zhuolin Xu et.al.|[2312.05778](http://arxiv.org/abs/2312.05778)|null|
 |**2023-12-09**|**Context Tuning for Retrieval Augmented Generation**|Raviteja Anantha et.al.|[2312.05708](http://arxiv.org/abs/2312.05708)|null|
