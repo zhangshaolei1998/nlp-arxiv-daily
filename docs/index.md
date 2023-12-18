@@ -2189,6 +2189,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-08**|**Partial Rewriting for Multi-Stage ASR**|Antoine Bruguier et.al.|[2312.09463](http://arxiv.org/abs/2312.09463)|null|
 |**2023-12-08**|**Seamless: Multilingual Expressive and Streaming Speech Translation**|Seamless Communication et.al.|[2312.05187](http://arxiv.org/abs/2312.05187)|**[link](https://github.com/facebookresearch/seamless_communication)**|
 |**2023-12-12**|**Simul-LLM: A Framework for Exploring High-Quality Simultaneous Translation with Large Language Models**|Victor Agostinelli et.al.|[2312.04691](http://arxiv.org/abs/2312.04691)|**[link](https://github.com/osu-starlab/simul-llm)**|
 |**2023-12-07**|**Efficient Monotonic Multihead Attention**|Xutai Ma et.al.|[2312.04515](http://arxiv.org/abs/2312.04515)|null|
@@ -2210,6 +2211,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-15**|**Osprey: Pixel Understanding with Visual Instruction Tuning**|Yuqian Yuan et.al.|[2312.10032](http://arxiv.org/abs/2312.10032)|**[link](https://github.com/circleradon/osprey)**|
+|**2023-12-15**|**Challenges with unsupervised LLM knowledge discovery**|Sebastian Farquhar et.al.|[2312.10029](http://arxiv.org/abs/2312.10029)|null|
+|**2023-12-15**|**Faithful Persona-based Conversational Dataset Generation with Large Language Models**|Pegah Jandaghi et.al.|[2312.10007](http://arxiv.org/abs/2312.10007)|null|
+|**2023-12-15**|**ReST meets ReAct: Self-Improvement for Multi-Step Reasoning LLM Agent**|Renat Aksitov et.al.|[2312.10003](http://arxiv.org/abs/2312.10003)|null|
+|**2023-12-15**|**LLaMAntino: LLaMA 2 Models for Effective Text Generation in Italian Language**|Pierpaolo Basile et.al.|[2312.09993](http://arxiv.org/abs/2312.09993)|null|
+|**2023-12-15**|**The Art of Balancing: Revolutionizing Mixture of Experts for Maintaining World Knowledge in Language Model Alignment**|Shihan Dou et.al.|[2312.09979](http://arxiv.org/abs/2312.09979)|null|
+|**2023-12-15**|**Data and Approaches for German Text simplification -- towards an Accessibility-enhanced Communication**|Thorben Schomacker et.al.|[2312.09966](http://arxiv.org/abs/2312.09966)|null|
+|**2023-12-15**|**Distilling Large Language Models for Matching Patients to Clinical Trials**|Mauro Nievas et.al.|[2312.09958](http://arxiv.org/abs/2312.09958)|null|
+|**2023-12-15**|**GEAR-Up: Generative AI and External Knowledge-based Retrieval Upgrading Scholarly Article Searches for Systematic Reviews**|Kaushik Roy et.al.|[2312.09948](http://arxiv.org/abs/2312.09948)|null|
+|**2023-12-15**|**Prompting Datasets: Data Discovery with Conversational Agents**|Johanna Walker et.al.|[2312.09947](http://arxiv.org/abs/2312.09947)|null|
 |**2023-12-14**|**VL-GPT: A Generative Pre-trained Transformer for Vision and Language Understanding and Generation**|Jinguo Zhu et.al.|[2312.09251](http://arxiv.org/abs/2312.09251)|**[link](https://github.com/ailab-cvc/vl-gpt)**|
 |**2023-12-14**|**DriveMLM: Aligning Multi-Modal Large Language Models with Behavioral Planning States for Autonomous Driving**|Wenhai Wang et.al.|[2312.09245](http://arxiv.org/abs/2312.09245)|**[link](https://github.com/opengvlab/drivemlm)**|
 |**2023-12-14**|**Helping or Herding? Reward Model Ensembles Mitigate but do not Eliminate Reward Hacking**|Jacob Eisenstein et.al.|[2312.09244](http://arxiv.org/abs/2312.09244)|null|
@@ -2335,6 +2346,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-15**|**IndicIRSuite: Multilingual Dataset and Neural Information Models for Indian Languages**|Saiful Haq et.al.|[2312.09508](http://arxiv.org/abs/2312.09508)|null|
 |**2023-12-14**|**Fast Sampling via De-randomization for Discrete Diffusion Models**|Zixiang Chen et.al.|[2312.09193](http://arxiv.org/abs/2312.09193)|null|
 |**2023-12-14**|**CL2CM: Improving Cross-Lingual Cross-Modal Retrieval via Cross-Lingual Knowledge Transfer**|Yabing Wang et.al.|[2312.08984](http://arxiv.org/abs/2312.08984)|null|
 |**2023-12-14**|**Multi-modal Latent Space Learning for Chain-of-Thought Reasoning in Language Models**|Liqi He et.al.|[2312.08762](http://arxiv.org/abs/2312.08762)|null|
@@ -2396,6 +2408,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-15**|**Automatic Image Colourizer**|Aditya Parikh et.al.|[2312.09876](http://arxiv.org/abs/2312.09876)|null|
+|**2023-12-15**|**ProCoT: Stimulating Critical Thinking and Writing of Students through Engagement with Large Language Models (LLMs)**|Tosin Adewumi et.al.|[2312.09801](http://arxiv.org/abs/2312.09801)|null|
 |**2023-12-14**|**Towards Verifiable Text Generation with Evolving Memory and Self-Reflection**|Hao Sun et.al.|[2312.09075](http://arxiv.org/abs/2312.09075)|null|
 |**2023-12-14**|**Entity-Augmented Code Generation**|Anton Shapkin et.al.|[2312.08976](http://arxiv.org/abs/2312.08976)|null|
 |**2023-12-12**|**Vista-LLaMA: Reliable Video Narrator via Equal Distance to Visual Tokens**|Fan Ma et.al.|[2312.08870](http://arxiv.org/abs/2312.08870)|null|
