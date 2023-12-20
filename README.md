@@ -2239,6 +2239,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-19**|**A Challenger to GPT-4V? Early Explorations of Gemini in Visual Expertise**|Chaoyou Fu et.al.|[2312.12436](http://arxiv.org/abs/2312.12436)|null|
+|**2023-12-19**|**Jack of All Tasks, Master of Many: Designing General-purpose Coarse-to-Fine Vision-Language Model**|Shraman Pramanick et.al.|[2312.12423](http://arxiv.org/abs/2312.12423)|null|
+|**2023-12-19**|**Towards Automatic Support of Software Model Evolution with Large Language~Models**|Christof Tinnes et.al.|[2312.12404](http://arxiv.org/abs/2312.12404)|null|
+|**2023-12-19**|**Mixture of Cluster-conditional LoRA Experts for Vision-language Instruction Tuning**|Yunhao Gou et.al.|[2312.12379](http://arxiv.org/abs/2312.12379)|null|
+|**2023-12-19**|**Avoiding Data Contamination in Language Model Evaluation: Dynamic Test Construction with Latest Materials**|Yucheng Li et.al.|[2312.12343](http://arxiv.org/abs/2312.12343)|**[link](https://github.com/liyucheng09/latesteval)**|
+|**2023-12-19**|**Instruct-SCTG: Guiding Sequential Controlled Text Generation through Instructions**|Yinhong Liu et.al.|[2312.12299](http://arxiv.org/abs/2312.12299)|null|
+|**2023-12-19**|**GeomVerse: A Systematic Evaluation of Large Models for Geometric Reasoning**|Mehran Kazemi et.al.|[2312.12241](http://arxiv.org/abs/2312.12241)|null|
+|**2023-12-19**|**PEPT: Expert Finding Meets Personalized Pre-training**|Qiyao Peng et.al.|[2312.12162](http://arxiv.org/abs/2312.12162)|null|
+|**2023-12-19**|**Parameter-Efficient Fine-Tuning Methods for Pretrained Language Models: A Critical Review and Assessment**|Lingling Xu et.al.|[2312.12148](http://arxiv.org/abs/2312.12148)|null|
+|**2023-12-19**|**Curated LLM: Synergy of LLMs and Data Curation for tabular augmentation in ultra low-data regimes**|Nabeel Seedat et.al.|[2312.12112](http://arxiv.org/abs/2312.12112)|null|
 |**2023-12-17**|**Re-parameterized Low-rank Prompt: Generalize a Vision-Language Model within 0.5K Parameters**|Tianxiang Hao et.al.|[2312.10813](http://arxiv.org/abs/2312.10813)|null|
 |**2023-12-17**|**Language-conditioned Learning for Robotic Manipulation: A Survey**|Hongkuan Zhou et.al.|[2312.10807](http://arxiv.org/abs/2312.10807)|null|
 |**2023-12-17**|**A mathematical perspective on Transformers**|Borjan Geshkovski et.al.|[2312.10794](http://arxiv.org/abs/2312.10794)|**[link](https://github.com/borjang/2023-transformers-rotf)**|
@@ -2386,6 +2396,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-19**|**Word Closure-Based Metamorphic Testing for Machine Translation**|Xiaoyuan Xie et.al.|[2312.12056](http://arxiv.org/abs/2312.12056)|null|
+|**2023-12-19**|**Predicting Human Translation Difficulty with Neural Machine Translation**|Zheng Wei Lim et.al.|[2312.11852](http://arxiv.org/abs/2312.11852)|null|
+|**2023-12-18**|**APE-then-QE: Correcting then Filtering Pseudo Parallel Corpora for MT Training Data Creation**|Akshay Batheja et.al.|[2312.11312](http://arxiv.org/abs/2312.11312)|null|
 |**2023-12-17**|**Distinguishing Translations by Human, NMT, and ChatGPT: A Linguistic and Statistical Approach**|Zhaokun Jiang et.al.|[2312.10750](http://arxiv.org/abs/2312.10750)|null|
 |**2023-12-15**|**Pipeline and Dataset Generation for Automated Fact-checking in Almost Any Language**|Jan Drchal et.al.|[2312.10171](http://arxiv.org/abs/2312.10171)|null|
 |**2023-12-15**|**IndicIRSuite: Multilingual Dataset and Neural Information Models for Indian Languages**|Saiful Haq et.al.|[2312.09508](http://arxiv.org/abs/2312.09508)|null|
@@ -2435,6 +2448,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-18**|**Soft Alignment of Modality Space for End-to-end Speech Translation**|Yuhao Zhang et.al.|[2312.10952](http://arxiv.org/abs/2312.10952)|null|
 |**2023-12-08**|**Seamless: Multilingual Expressive and Streaming Speech Translation**|Seamless Communication et.al.|[2312.05187](http://arxiv.org/abs/2312.05187)|**[link](https://github.com/facebookresearch/seamless_communication)**|
 |**2023-12-05**|**AV2AV: Direct Audio-Visual Speech to Audio-Visual Speech Translation with Unified Audio-Visual Speech Representation**|Jeongsoo Choi et.al.|[2312.02512](http://arxiv.org/abs/2312.02512)|null|
 |**2023-11-12**|**Towards General-Purpose Speech Abilities for Large Language Models Using Unpaired Data**|Yassir Fathullah et.al.|[2311.06753](http://arxiv.org/abs/2311.06753)|null|
@@ -2454,6 +2468,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-19**|**MELO: Enhancing Model Editing with Neuron-Indexed Dynamic LoRA**|Lang Yu et.al.|[2312.11795](http://arxiv.org/abs/2312.11795)|**[link](https://github.com/bruthyu/melo)**|
+|**2023-12-18**|**When can you trust feature selection? -- I: A condition-based analysis of LASSO and generalised hardness of approximation**|Alexander Bastounis et.al.|[2312.11425](http://arxiv.org/abs/2312.11425)|null|
+|**2023-12-18**|**NoMIRACL: Knowing When You Don't Know for Robust Multilingual Retrieval-Augmented Generation**|Nandan Thakur et.al.|[2312.11361](http://arxiv.org/abs/2312.11361)|null|
+|**2023-12-18**|**LSDvis: Hallucinatory Data Visualisations in Real World Environments**|Ari Kouts et.al.|[2312.11144](http://arxiv.org/abs/2312.11144)|null|
+|**2023-12-18**|**Retrieval-Augmented Generation for Large Language Models: A Survey**|Yunfan Gao et.al.|[2312.10997](http://arxiv.org/abs/2312.10997)|null|
 |**2023-12-17**|**Silkie: Preference Distillation for Large Visual Language Models**|Lei Li et.al.|[2312.10665](http://arxiv.org/abs/2312.10665)|null|
 |**2023-12-15**|**Painterly Image Harmonization by Learning from Painterly Objects**|Li Niu et.al.|[2312.10263](http://arxiv.org/abs/2312.10263)|**[link](https://github.com/bcmi/ArtoPIH-Painterly-Image-Harmonization)**|
 |**2023-12-15**|**Automatic Image Colourizer**|Aditya Parikh et.al.|[2312.09876](http://arxiv.org/abs/2312.09876)|null|
