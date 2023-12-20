@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.12.19
+## Updated on 2023.12.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2422,7 +2422,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-12-17**|**Silkie: Preference Distillation for Large Visual Language Models**|Lei Li et.al.|[2312.10665](http://arxiv.org/abs/2312.10665)|null|
-|**2023-12-15**|**Painterly Image Harmonization by Learning from Painterly Objects**|Li Niu et.al.|[2312.10263](http://arxiv.org/abs/2312.10263)|null|
+|**2023-12-15**|**Painterly Image Harmonization by Learning from Painterly Objects**|Li Niu et.al.|[2312.10263](http://arxiv.org/abs/2312.10263)|**[link](https://github.com/bcmi/ArtoPIH-Painterly-Image-Harmonization)**|
 |**2023-12-15**|**Automatic Image Colourizer**|Aditya Parikh et.al.|[2312.09876](http://arxiv.org/abs/2312.09876)|null|
 |**2023-12-15**|**ProCoT: Stimulating Critical Thinking and Writing of Students through Engagement with Large Language Models (LLMs)**|Tosin Adewumi et.al.|[2312.09801](http://arxiv.org/abs/2312.09801)|null|
 |**2023-12-14**|**Towards Verifiable Text Generation with Evolving Memory and Self-Reflection**|Hao Sun et.al.|[2312.09075](http://arxiv.org/abs/2312.09075)|null|
