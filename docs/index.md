@@ -2212,6 +2212,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-20**|**dIR -- Discrete Information Retrieval: Conversational Search over Unstructured (and Structured) Data with Large Language Models**|Pablo M. Rodriguez Bertorello et.al.|[2312.13264](http://arxiv.org/abs/2312.13264)|null|
+|**2023-12-20**|**Automated DevOps Pipeline Generation for Code Repositories using Large Language Models**|Deep Mehta et.al.|[2312.13225](http://arxiv.org/abs/2312.13225)|null|
+|**2023-12-20**|**LlaMaVAE: Guiding Large Language Model Generation via Continuous Latent Sentence Spaces**|Yingji Zhang et.al.|[2312.13208](http://arxiv.org/abs/2312.13208)|null|
+|**2023-12-20**|**HCDIR: End-to-end Hate Context Detection, and Intensity Reduction model for online comments**|Neeraj Kumar Singh et.al.|[2312.13193](http://arxiv.org/abs/2312.13193)|null|
+|**2023-12-20**|**Contextual Code Switching for Machine Translation using Language Models**|Arshad Kaji et.al.|[2312.13179](http://arxiv.org/abs/2312.13179)|null|
+|**2023-12-20**|**Generative agents in the streets: Exploring the use of Large Language Models (LLMs) in collecting urban perceptions**|Deepank Verma et.al.|[2312.13126](http://arxiv.org/abs/2312.13126)|null|
+|**2023-12-20**|**ASSISTGUI: Task-Oriented Desktop Graphical User Interface Automation**|Difei Gao et.al.|[2312.13108](http://arxiv.org/abs/2312.13108)|null|
+|**2023-12-20**|**Exploring Multimodal Large Language Models for Radiology Report Error-checking**|Jinge Wu et.al.|[2312.13103](http://arxiv.org/abs/2312.13103)|null|
+|**2023-12-20**|**In Generative AI we Trust: Can Chatbots Effectively Verify Political Information?**|Elizaveta Kuznetsova et.al.|[2312.13096](http://arxiv.org/abs/2312.13096)|null|
+|**2023-12-20**|**Lampr: Boosting the Effectiveness of Language-Generic Program Reduction via Large Language Models**|Mengxiao Zhang et.al.|[2312.13064](http://arxiv.org/abs/2312.13064)|null|
 |**2023-12-19**|**A Challenger to GPT-4V? Early Explorations of Gemini in Visual Expertise**|Chaoyou Fu et.al.|[2312.12436](http://arxiv.org/abs/2312.12436)|null|
 |**2023-12-19**|**Jack of All Tasks, Master of Many: Designing General-purpose Coarse-to-Fine Vision-Language Model**|Shraman Pramanick et.al.|[2312.12423](http://arxiv.org/abs/2312.12423)|null|
 |**2023-12-19**|**Towards Automatic Support of Software Model Evolution with Large Language~Models**|Christof Tinnes et.al.|[2312.12404](http://arxiv.org/abs/2312.12404)|null|
@@ -2367,6 +2377,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-20**|**Contextual Code Switching for Machine Translation using Language Models**|Arshad Kaji et.al.|[2312.13179](http://arxiv.org/abs/2312.13179)|null|
+|**2023-12-20**|**Cached Transformers: Improving Transformers with Differentiable Memory Cache**|Zhaoyang Zhang et.al.|[2312.12742](http://arxiv.org/abs/2312.12742)|null|
+|**2023-12-20**|**Fine-tuning Large Language Models for Adaptive Machine Translation**|Yasmin Moslem et.al.|[2312.12740](http://arxiv.org/abs/2312.12740)|null|
+|**2023-12-19**|**Is post-editing really faster than human translation?**|Silvia Terribile et.al.|[2312.12660](http://arxiv.org/abs/2312.12660)|null|
+|**2023-12-19**|**An Empirical study of Unsupervised Neural Machine Translation: analyzing NMT output, model's behavior and sentences' contribution**|Isidora Chara Tourni et.al.|[2312.12588](http://arxiv.org/abs/2312.12588)|null|
 |**2023-12-19**|**Word Closure-Based Metamorphic Testing for Machine Translation**|Xiaoyuan Xie et.al.|[2312.12056](http://arxiv.org/abs/2312.12056)|null|
 |**2023-12-19**|**Predicting Human Translation Difficulty with Neural Machine Translation**|Zheng Wei Lim et.al.|[2312.11852](http://arxiv.org/abs/2312.11852)|null|
 |**2023-12-18**|**APE-then-QE: Correcting then Filtering Pseudo Parallel Corpora for MT Training Data Creation**|Akshay Batheja et.al.|[2312.11312](http://arxiv.org/abs/2312.11312)|null|
@@ -2435,13 +2450,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-20**|**SISMIK for brain MRI: Deep-learning-based motion estimation and model-based motion correction in k-space**|Oscar Dabrowski et.al.|[2312.13220](http://arxiv.org/abs/2312.13220)|null|
+|**2023-12-20**|**Quantifying Bias in Text-to-Image Generative Models**|Jordan Vice et.al.|[2312.13053](http://arxiv.org/abs/2312.13053)|null|
 |**2023-12-19**|**MELO: Enhancing Model Editing with Neuron-Indexed Dynamic LoRA**|Lang Yu et.al.|[2312.11795](http://arxiv.org/abs/2312.11795)|**[link](https://github.com/bruthyu/melo)**|
 |**2023-12-18**|**When can you trust feature selection? -- I: A condition-based analysis of LASSO and generalised hardness of approximation**|Alexander Bastounis et.al.|[2312.11425](http://arxiv.org/abs/2312.11425)|null|
 |**2023-12-18**|**NoMIRACL: Knowing When You Don't Know for Robust Multilingual Retrieval-Augmented Generation**|Nandan Thakur et.al.|[2312.11361](http://arxiv.org/abs/2312.11361)|null|
 |**2023-12-18**|**LSDvis: Hallucinatory Data Visualisations in Real World Environments**|Ari Kouts et.al.|[2312.11144](http://arxiv.org/abs/2312.11144)|null|
 |**2023-12-18**|**Retrieval-Augmented Generation for Large Language Models: A Survey**|Yunfan Gao et.al.|[2312.10997](http://arxiv.org/abs/2312.10997)|null|
 |**2023-12-17**|**Silkie: Preference Distillation for Large Visual Language Models**|Lei Li et.al.|[2312.10665](http://arxiv.org/abs/2312.10665)|null|
-|**2023-12-15**|**Painterly Image Harmonization by Learning from Painterly Objects**|Li Niu et.al.|[2312.10263](http://arxiv.org/abs/2312.10263)|**[link](https://github.com/bcmi/ArtoPIH-Painterly-Image-Harmonization)**|
+|**2023-12-15**|**Painterly Image Harmonization by Learning from Painterly Objects**|Li Niu et.al.|[2312.10263](http://arxiv.org/abs/2312.10263)|null|
 |**2023-12-15**|**Automatic Image Colourizer**|Aditya Parikh et.al.|[2312.09876](http://arxiv.org/abs/2312.09876)|null|
 |**2023-12-15**|**ProCoT: Stimulating Critical Thinking and Writing of Students through Engagement with Large Language Models (LLMs)**|Tosin Adewumi et.al.|[2312.09801](http://arxiv.org/abs/2312.09801)|null|
 |**2023-12-14**|**Towards Verifiable Text Generation with Evolving Memory and Self-Reflection**|Hao Sun et.al.|[2312.09075](http://arxiv.org/abs/2312.09075)|null|
