@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.12.22
+## Updated on 2023.12.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2189,6 +2189,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-21**|**Trochoid Search Optimization**|Abdesslem Layeb et.al.|[2312.13597](http://arxiv.org/abs/2312.13597)|null|
 |**2023-12-16**|**Conformer-Based Speech Recognition On Extreme Edge-Computing Devices**|Mingbin Xu et.al.|[2312.10359](http://arxiv.org/abs/2312.10359)|null|
 |**2023-12-08**|**Partial Rewriting for Multi-Stage ASR**|Antoine Bruguier et.al.|[2312.09463](http://arxiv.org/abs/2312.09463)|null|
 |**2023-12-08**|**Seamless: Multilingual Expressive and Streaming Speech Translation**|Seamless Communication et.al.|[2312.05187](http://arxiv.org/abs/2312.05187)|**[link](https://github.com/facebookresearch/seamless_communication)**|
@@ -2212,6 +2213,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-21**|**DriveLM: Driving with Graph Visual Question Answering**|Chonghao Sima et.al.|[2312.14150](http://arxiv.org/abs/2312.14150)|**[link](https://github.com/opendrivelab/drivelm)**|
+|**2023-12-21**|**TagAlign: Improving Vision-Language Alignment with Multi-Tag Classification**|Qinying Liu et.al.|[2312.14149](http://arxiv.org/abs/2312.14149)|null|
+|**2023-12-21**|**VideoPoet: A Large Language Model for Zero-Shot Video Generation**|Dan Kondratyuk et.al.|[2312.14125](http://arxiv.org/abs/2312.14125)|null|
+|**2023-12-21**|**LingoQA: Video Question Answering for Autonomous Driving**|Ana-Maria Marcu et.al.|[2312.14115](http://arxiv.org/abs/2312.14115)|**[link](https://github.com/wayveai/lingoqa)**|
+|**2023-12-21**|**LiDAR-LLM: Exploring the Potential of Large Language Models for 3D LiDAR Understanding**|Senqiao Yang et.al.|[2312.14074](http://arxiv.org/abs/2312.14074)|null|
+|**2023-12-21**|**A Strong Baseline for Temporal Video-Text Alignment**|Zeqian Li et.al.|[2312.14055](http://arxiv.org/abs/2312.14055)|null|
+|**2023-12-21**|**T-Eval: Evaluating the Tool Utilization Capability Step by Step**|Zehui Chen et.al.|[2312.14033](http://arxiv.org/abs/2312.14033)|**[link](https://github.com/open-compass/t-eval)**|
+|**2023-12-21**|**ChatGPT as a commenter to the news: can LLMs generate human-like opinions?**|Rayden Tseng et.al.|[2312.13961](http://arxiv.org/abs/2312.13961)|**[link](https://github.com/raydentseng/generated_opinions)**|
+|**2023-12-21**|**Typhoon: Thai Large Language Models**|Kunat Pipatanakul et.al.|[2312.13951](http://arxiv.org/abs/2312.13951)|null|
+|**2023-12-21**|**Structured Probabilistic Coding**|Dou Hu et.al.|[2312.13933](http://arxiv.org/abs/2312.13933)|**[link](https://github.com/zerohd4869/SPC)**|
 |**2023-12-20**|**dIR -- Discrete Information Retrieval: Conversational Search over Unstructured (and Structured) Data with Large Language Models**|Pablo M. Rodriguez Bertorello et.al.|[2312.13264](http://arxiv.org/abs/2312.13264)|null|
 |**2023-12-20**|**Automated DevOps Pipeline Generation for Code Repositories using Large Language Models**|Deep Mehta et.al.|[2312.13225](http://arxiv.org/abs/2312.13225)|null|
 |**2023-12-20**|**LlaMaVAE: Guiding Large Language Model Generation via Continuous Latent Sentence Spaces**|Yingji Zhang et.al.|[2312.13208](http://arxiv.org/abs/2312.13208)|null|
@@ -2432,6 +2443,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-21**|**EmphAssess : a Prosodic Benchmark on Assessing Emphasis Transfer in Speech-to-Speech Models**|Maureen de Seyssel et.al.|[2312.14069](http://arxiv.org/abs/2312.14069)|null|
+|**2023-12-21**|**Speech Translation with Large Language Models: An Industrial Practice**|Zhichao Huang et.al.|[2312.13585](http://arxiv.org/abs/2312.13585)|null|
 |**2023-12-18**|**Soft Alignment of Modality Space for End-to-end Speech Translation**|Yuhao Zhang et.al.|[2312.10952](http://arxiv.org/abs/2312.10952)|null|
 |**2023-12-08**|**Seamless: Multilingual Expressive and Streaming Speech Translation**|Seamless Communication et.al.|[2312.05187](http://arxiv.org/abs/2312.05187)|**[link](https://github.com/facebookresearch/seamless_communication)**|
 |**2023-12-05**|**AV2AV: Direct Audio-Visual Speech to Audio-Visual Speech Translation with Unified Audio-Visual Speech Representation**|Jeongsoo Choi et.al.|[2312.02512](http://arxiv.org/abs/2312.02512)|null|
@@ -2450,13 +2463,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-21**|**Reducing Hallucinations: Enhancing VQA for Flood Disaster Damage Assessment with Visual Contexts**|Yimin Sun et.al.|[2312.13848](http://arxiv.org/abs/2312.13848)|null|
 |**2023-12-20**|**SISMIK for brain MRI: Deep-learning-based motion estimation and model-based motion correction in k-space**|Oscar Dabrowski et.al.|[2312.13220](http://arxiv.org/abs/2312.13220)|null|
 |**2023-12-20**|**Quantifying Bias in Text-to-Image Generative Models**|Jordan Vice et.al.|[2312.13053](http://arxiv.org/abs/2312.13053)|null|
 |**2023-12-19**|**MELO: Enhancing Model Editing with Neuron-Indexed Dynamic LoRA**|Lang Yu et.al.|[2312.11795](http://arxiv.org/abs/2312.11795)|**[link](https://github.com/bruthyu/melo)**|
 |**2023-12-18**|**When can you trust feature selection? -- I: A condition-based analysis of LASSO and generalised hardness of approximation**|Alexander Bastounis et.al.|[2312.11425](http://arxiv.org/abs/2312.11425)|null|
-|**2023-12-18**|**NoMIRACL: Knowing When You Don't Know for Robust Multilingual Retrieval-Augmented Generation**|Nandan Thakur et.al.|[2312.11361](http://arxiv.org/abs/2312.11361)|null|
+|**2023-12-18**|**NoMIRACL: Knowing When You Don't Know for Robust Multilingual Retrieval-Augmented Generation**|Nandan Thakur et.al.|[2312.11361](http://arxiv.org/abs/2312.11361)|**[link](https://github.com/project-miracl/nomiracl)**|
 |**2023-12-18**|**LSDvis: Hallucinatory Data Visualisations in Real World Environments**|Ari Kouts et.al.|[2312.11144](http://arxiv.org/abs/2312.11144)|null|
-|**2023-12-18**|**Retrieval-Augmented Generation for Large Language Models: A Survey**|Yunfan Gao et.al.|[2312.10997](http://arxiv.org/abs/2312.10997)|null|
+|**2023-12-18**|**Retrieval-Augmented Generation for Large Language Models: A Survey**|Yunfan Gao et.al.|[2312.10997](http://arxiv.org/abs/2312.10997)|**[link](https://github.com/tongji-kgllm/rag-survey)**|
 |**2023-12-17**|**Silkie: Preference Distillation for Large Visual Language Models**|Lei Li et.al.|[2312.10665](http://arxiv.org/abs/2312.10665)|null|
 |**2023-12-15**|**Painterly Image Harmonization by Learning from Painterly Objects**|Li Niu et.al.|[2312.10263](http://arxiv.org/abs/2312.10263)|null|
 |**2023-12-15**|**Automatic Image Colourizer**|Aditya Parikh et.al.|[2312.09876](http://arxiv.org/abs/2312.09876)|null|
