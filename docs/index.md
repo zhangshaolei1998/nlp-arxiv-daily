@@ -2390,14 +2390,14 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-12-20**|**Contextual Code Switching for Machine Translation using Language Models**|Arshad Kaji et.al.|[2312.13179](http://arxiv.org/abs/2312.13179)|null|
 |**2023-12-20**|**Cached Transformers: Improving Transformers with Differentiable Memory Cache**|Zhaoyang Zhang et.al.|[2312.12742](http://arxiv.org/abs/2312.12742)|null|
-|**2023-12-20**|**Fine-tuning Large Language Models for Adaptive Machine Translation**|Yasmin Moslem et.al.|[2312.12740](http://arxiv.org/abs/2312.12740)|null|
+|**2023-12-20**|**Fine-tuning Large Language Models for Adaptive Machine Translation**|Yasmin Moslem et.al.|[2312.12740](http://arxiv.org/abs/2312.12740)|**[link](https://github.com/ymoslem/adaptive-mt-llm-fine-tuning)**|
 |**2023-12-19**|**Is post-editing really faster than human translation?**|Silvia Terribile et.al.|[2312.12660](http://arxiv.org/abs/2312.12660)|null|
 |**2023-12-19**|**An Empirical study of Unsupervised Neural Machine Translation: analyzing NMT output, model's behavior and sentences' contribution**|Isidora Chara Tourni et.al.|[2312.12588](http://arxiv.org/abs/2312.12588)|null|
 |**2023-12-19**|**Word Closure-Based Metamorphic Testing for Machine Translation**|Xiaoyuan Xie et.al.|[2312.12056](http://arxiv.org/abs/2312.12056)|null|
 |**2023-12-19**|**Predicting Human Translation Difficulty with Neural Machine Translation**|Zheng Wei Lim et.al.|[2312.11852](http://arxiv.org/abs/2312.11852)|null|
 |**2023-12-18**|**APE-then-QE: Correcting then Filtering Pseudo Parallel Corpora for MT Training Data Creation**|Akshay Batheja et.al.|[2312.11312](http://arxiv.org/abs/2312.11312)|null|
 |**2023-12-17**|**Distinguishing Translations by Human, NMT, and ChatGPT: A Linguistic and Statistical Approach**|Zhaokun Jiang et.al.|[2312.10750](http://arxiv.org/abs/2312.10750)|null|
-|**2023-12-15**|**Pipeline and Dataset Generation for Automated Fact-checking in Almost Any Language**|Jan Drchal et.al.|[2312.10171](http://arxiv.org/abs/2312.10171)|null|
+|**2023-12-15**|**Pipeline and Dataset Generation for Automated Fact-checking in Almost Any Language**|Jan Drchal et.al.|[2312.10171](http://arxiv.org/abs/2312.10171)|**[link](https://github.com/aic-factcheck/multilingual-fact-checking)**|
 |**2023-12-15**|**IndicIRSuite: Multilingual Dataset and Neural Information Models for Indian Languages**|Saiful Haq et.al.|[2312.09508](http://arxiv.org/abs/2312.09508)|null|
 |**2023-12-14**|**Fast Sampling via De-randomization for Discrete Diffusion Models**|Zixiang Chen et.al.|[2312.09193](http://arxiv.org/abs/2312.09193)|null|
 |**2023-12-14**|**CL2CM: Improving Cross-Lingual Cross-Modal Retrieval via Cross-Lingual Knowledge Transfer**|Yabing Wang et.al.|[2312.08984](http://arxiv.org/abs/2312.08984)|null|
