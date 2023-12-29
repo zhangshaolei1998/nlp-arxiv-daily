@@ -2241,6 +2241,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-28**|**Do Androids Know They're Only Dreaming of Electric Sheep?**|Sky CH-Wang et.al.|[2312.17249](http://arxiv.org/abs/2312.17249)|null|
+|**2023-12-28**|**The LLM Surgeon**|Tycho F. A. van der Ouderaa et.al.|[2312.17244](http://arxiv.org/abs/2312.17244)|null|
+|**2023-12-28**|**Learning to Generate Text in Arbitrary Writing Styles**|Aleem Khan et.al.|[2312.17242](http://arxiv.org/abs/2312.17242)|null|
+|**2023-12-28**|**An Improved Baseline for Reasoning Segmentation with Large Language Model**|Senqiao Yang et.al.|[2312.17240](http://arxiv.org/abs/2312.17240)|null|
+|**2023-12-28**|**Fast Inference of Mixture-of-Experts Language Models with Offloading**|Artyom Eliseev et.al.|[2312.17238](http://arxiv.org/abs/2312.17238)|null|
+|**2023-12-28**|**A Simple LLM Framework for Long-Range Video Question-Answering**|Ce Zhang et.al.|[2312.17235](http://arxiv.org/abs/2312.17235)|null|
+|**2023-12-28**|**Virtual Scientific Companion for Synchrotron Beamlines: A Prototype**|Daniel Potemkin et.al.|[2312.17180](http://arxiv.org/abs/2312.17180)|null|
+|**2023-12-28**|**Visual Explanations of Image-Text Representations via Multi-Modal Information Bottleneck Attribution**|Ying Wang et.al.|[2312.17174](http://arxiv.org/abs/2312.17174)|**[link](https://github.com/yingwangg/m2ib)**|
+|**2023-12-28**|**Non-Vacuous Generalization Bounds for Large Language Models**|Sanae Lotfi et.al.|[2312.17173](http://arxiv.org/abs/2312.17173)|null|
+|**2023-12-28**|**Large Language Model for Causal Decision Making**|Haitao Jiang et.al.|[2312.17122](http://arxiv.org/abs/2312.17122)|null|
 |**2023-12-26**|**Principled Instructions Are All You Need for Questioning LLaMA-1/2, GPT-3.5/4**|Sondos Mahmoud Bsharat et.al.|[2312.16171](http://arxiv.org/abs/2312.16171)|**[link](https://github.com/vila-lab/atlas)**|
 |**2023-12-26**|**Zero-Shot Cross-Lingual Reranking with Large Language Models for Low-Resource Languages**|Mofetoluwa Adeyemi et.al.|[2312.16159](http://arxiv.org/abs/2312.16159)|null|
 |**2023-12-26**|**RoleEval: A Bilingual Role Evaluation Benchmark for Large Language Models**|Tianhao Shen et.al.|[2312.16132](http://arxiv.org/abs/2312.16132)|null|
@@ -2523,6 +2533,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-28**|**Do Androids Know They're Only Dreaming of Electric Sheep?**|Sky CH-Wang et.al.|[2312.17249](http://arxiv.org/abs/2312.17249)|null|
+|**2023-12-28**|**Multi-Prompts Learning with Cross-Modal Alignment for Attribute-based Person Re-Identification**|Yajing Zhai et.al.|[2312.16797](http://arxiv.org/abs/2312.16797)|null|
+|**2023-12-26**|**Dynamic In-Context Learning from Nearest Neighbors for Bundle Generation**|Zhu Sun et.al.|[2312.16262](http://arxiv.org/abs/2312.16262)|null|
 |**2023-12-26**|**Supervised Knowledge Makes Large Language Models Better In-context Learners**|Linyi Yang et.al.|[2312.15918](http://arxiv.org/abs/2312.15918)|null|
 |**2023-12-26**|**KnowledgeNavigator: Leveraging Large Language Models for Enhanced Reasoning over Knowledge Graph**|Tiezheng Guo et.al.|[2312.15880](http://arxiv.org/abs/2312.15880)|null|
 |**2023-12-25**|**Alleviating Hallucinations of Large Language Models through Induced Hallucinations**|Yue Zhang et.al.|[2312.15710](http://arxiv.org/abs/2312.15710)|**[link](https://github.com/hillzhang1999/icd)**|
