@@ -2242,6 +2242,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-02**|**Self-Play Fine-Tuning Converts Weak Language Models to Strong Language Models**|Zixiang Chen et.al.|[2401.01335](http://arxiv.org/abs/2401.01335)|null|
+|**2024-01-02**|**LLM Maybe LongLM: Self-Extend LLM Context Window Without Tuning**|Hongye Jin et.al.|[2401.01325](http://arxiv.org/abs/2401.01325)|null|
+|**2024-01-02**|**A Comprehensive Survey of Hallucination Mitigation Techniques in Large Language Models**|S. M Towhidul Islam Tonmoy et.al.|[2401.01313](http://arxiv.org/abs/2401.01313)|null|
+|**2024-01-02**|**LLM Harmony: Multi-Agent Communication for Problem Solving**|Sumedh Rasal et.al.|[2401.01312](http://arxiv.org/abs/2401.01312)|null|
+|**2024-01-02**|**Large Legal Fictions: Profiling Legal Hallucinations in Large Language Models**|Matthew Dahl et.al.|[2401.01301](http://arxiv.org/abs/2401.01301)|null|
+|**2024-01-02**|**A Comprehensive Study of Knowledge Editing for Large Language Models**|Ningyu Zhang et.al.|[2401.01286](http://arxiv.org/abs/2401.01286)|**[link](https://github.com/zjunlp/easyedit)**|
+|**2024-01-02**|**CharacterEval: A Chinese Benchmark for Role-Playing Conversational Agent Evaluation**|Quan Tu et.al.|[2401.01275](http://arxiv.org/abs/2401.01275)|null|
+|**2024-01-02**|**LLbezpeky: Leveraging Large Language Models for Vulnerability Detection**|Noble Saji Mathews et.al.|[2401.01269](http://arxiv.org/abs/2401.01269)|null|
+|**2024-01-02**|**Fairness Certification for Natural Language Processing and Large Language Models**|Vincent Freiberger et.al.|[2401.01262](http://arxiv.org/abs/2401.01262)|null|
+|**2024-01-02**|**VideoDrafter: Content-Consistent Multi-Scene Video Generation with LLM**|Fuchen Long et.al.|[2401.01256](http://arxiv.org/abs/2401.01256)|null|
 |**2023-12-29**|**Principled Gradient-based Markov Chain Monte Carlo for Text Generation**|Li Du et.al.|[2312.17710](http://arxiv.org/abs/2312.17710)|null|
 |**2023-12-29**|**Jatmo: Prompt Injection Defense by Task-Specific Finetuning**|Julien Piet et.al.|[2312.17673](http://arxiv.org/abs/2312.17673)|null|
 |**2023-12-29**|**Gemini in Reasoning: Unveiling Commonsense in Multimodal Large Language Models**|Yuqing Wang et.al.|[2312.17661](http://arxiv.org/abs/2312.17661)|**[link](https://github.com/eternityyw/gemini-commonsense-evaluation)**|
@@ -2459,6 +2469,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-02**|**Quality and Quantity of Machine Translation References for Automated Metrics**|Vilém Zouhar et.al.|[2401.01283](http://arxiv.org/abs/2401.01283)|null|
+|**2024-01-01**|**A & B == B & A: Triggering Logical Reasoning Failures in Large Language Models**|Yuxuan Wan et.al.|[2401.00757](http://arxiv.org/abs/2401.00757)|null|
+|**2024-01-01**|**Machine Translation Testing via Syntactic Tree Pruning**|Quanjun Zhang et.al.|[2401.00751](http://arxiv.org/abs/2401.00751)|**[link](https://github.com/isenglab/stp)**|
+|**2023-12-27**|**AI-driven platform for systematic nomenclature and intelligent knowledge acquisition of natural medicinal materials**|Zijie Yang et.al.|[2401.00020](http://arxiv.org/abs/2401.00020)|null|
 |**2023-12-26**|**Heterogeneous Encoders Scaling In The Transformer For Neural Machine Translation**|Jia Cheng Hu et.al.|[2312.15872](http://arxiv.org/abs/2312.15872)|null|
 |**2023-12-25**|**PersianLLaMA: Towards Building First Persian Large Language Model**|Mohammad Amin Abbasi et.al.|[2312.15713](http://arxiv.org/abs/2312.15713)|null|
 |**2023-12-22**|**On the Use of Metaphor Translation in Psychiatry**|Lois Wong et.al.|[2312.14845](http://arxiv.org/abs/2312.14845)|null|
@@ -2544,6 +2558,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-02**|**A Comprehensive Survey of Hallucination Mitigation Techniques in Large Language Models**|S. M Towhidul Islam Tonmoy et.al.|[2401.01313](http://arxiv.org/abs/2401.01313)|null|
+|**2024-01-02**|**Large Legal Fictions: Profiling Legal Hallucinations in Large Language Models**|Matthew Dahl et.al.|[2401.01301](http://arxiv.org/abs/2401.01301)|null|
+|**2023-12-31**|**LaFFi: Leveraging Hybrid Natural Language Feedback for Fine-tuning Language Models**|Qianxi Li et.al.|[2401.00907](http://arxiv.org/abs/2401.00907)|null|
+|**2024-01-02**|**A Reliable Knowledge Processing Framework for Combustion Science using Foundation Models**|Vansh Sharma et.al.|[2401.00544](http://arxiv.org/abs/2401.00544)|null|
+|**2023-12-31**|**RAGTruth: A Hallucination Corpus for Developing Trustworthy Retrieval-Augmented Language Models**|Yuanhao Wu et.al.|[2401.00396](http://arxiv.org/abs/2401.00396)|null|
+|**2023-12-30**|**Red Teaming for Large Language Models At Scale: Tackling Hallucinations on Mathematics Tasks**|Aleksander Buszydlik et.al.|[2401.00290](http://arxiv.org/abs/2401.00290)|**[link](https://github.com/redteamingforllms/redteamingforllms)**|
+|**2023-12-30**|**Advancing TTP Analysis: Harnessing the Power of Encoder-Only and Decoder-Only Language Models with Retrieval Augmented Generation**|Reza Fayyazi et.al.|[2401.00280](http://arxiv.org/abs/2401.00280)|null|
+|**2023-12-29**|**Cooperation on the Fly: Exploring Language Agents for Ad Hoc Teamwork in the Avalon Game**|Zijing Shi et.al.|[2312.17515](http://arxiv.org/abs/2312.17515)|null|
+|**2023-12-29**|**Truth Forest: Toward Multi-Scale Truthfulness in Large Language Models through Intervention without Tuning**|Zhongzhi Chen et.al.|[2312.17484](http://arxiv.org/abs/2312.17484)|**[link](https://github.com/jongjyh/trfr)**|
 |**2023-12-28**|**Do Androids Know They're Only Dreaming of Electric Sheep?**|Sky CH-Wang et.al.|[2312.17249](http://arxiv.org/abs/2312.17249)|null|
 |**2023-12-28**|**Multi-Prompts Learning with Cross-Modal Alignment for Attribute-based Person Re-Identification**|Yajing Zhai et.al.|[2312.16797](http://arxiv.org/abs/2312.16797)|null|
 |**2023-12-26**|**Dynamic In-Context Learning from Nearest Neighbors for Bundle Generation**|Zhu Sun et.al.|[2312.16262](http://arxiv.org/abs/2312.16262)|null|
