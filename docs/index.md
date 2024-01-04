@@ -2189,6 +2189,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-03**|**Towards Modeling Uncertainties of Self-explaining Neural Networks via Conformal Prediction**|Wei Qian et.al.|[2401.01549](http://arxiv.org/abs/2401.01549)|null|
 |**2023-12-27**|**Stateful FastConformer with Cache-based Inference for Streaming Automatic Speech Recognition**|Vahid Noroozi et.al.|[2312.17279](http://arxiv.org/abs/2312.17279)|null|
 |**2023-12-22**|**Language Model is a Branch Predictor for Simultaneous Machine Translation**|Aoxiong Yin et.al.|[2312.14488](http://arxiv.org/abs/2312.14488)|null|
 |**2023-12-21**|**Trochoid Search Optimization**|Abdesslem Layeb et.al.|[2312.13597](http://arxiv.org/abs/2312.13597)|null|
@@ -2215,6 +2216,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-03**|**Mining Temporal Attack Patterns from Cyberthreat Intelligence Reports**|Md Rayhanur Rahman et.al.|[2401.01883](http://arxiv.org/abs/2401.01883)|null|
+|**2024-01-03**|**A Vision Check-up for Language Models**|Pratyusha Sharma et.al.|[2401.01862](http://arxiv.org/abs/2401.01862)|null|
+|**2024-01-03**|**Multilingual Instruction Tuning With Just a Pinch of Multilinguality**|Uri Shaham et.al.|[2401.01854](http://arxiv.org/abs/2401.01854)|null|
+|**2024-01-03**|**Iterative Mask Filling: An Effective Text Augmentation Method Using Masked Language Modeling**|Himmet Toprak Kesgin et.al.|[2401.01830](http://arxiv.org/abs/2401.01830)|null|
+|**2024-01-03**|**Physio: An LLM-Based Physiotherapy Advisor**|Rúben Almeida et.al.|[2401.01825](http://arxiv.org/abs/2401.01825)|null|
+|**2024-01-03**|**Large Language Models Relearn Removed Concepts**|Michelle Lo et.al.|[2401.01814](http://arxiv.org/abs/2401.01814)|null|
+|**2024-01-03**|**Navigating Uncertainty: Optimizing API Dependency for Hallucination Reduction in Closed-Book Question Answering**|Pierre Erbacher et.al.|[2401.01780](http://arxiv.org/abs/2401.01780)|null|
+|**2024-01-03**|**Cross-target Stance Detection by Exploiting Target Analytical Perspectives**|Daijun Ding et.al.|[2401.01761](http://arxiv.org/abs/2401.01761)|null|
+|**2024-01-03**|**Few-shot Adaptation of Multi-modal Foundation Models: A Survey**|Fan Liu et.al.|[2401.01736](http://arxiv.org/abs/2401.01736)|null|
+|**2024-01-03**|**Economics Arena for Large Language Models**|Shangmin Guo et.al.|[2401.01735](http://arxiv.org/abs/2401.01735)|null|
 |**2024-01-02**|**Self-Play Fine-Tuning Converts Weak Language Models to Strong Language Models**|Zixiang Chen et.al.|[2401.01335](http://arxiv.org/abs/2401.01335)|null|
 |**2024-01-02**|**LLM Maybe LongLM: Self-Extend LLM Context Window Without Tuning**|Hongye Jin et.al.|[2401.01325](http://arxiv.org/abs/2401.01325)|null|
 |**2024-01-02**|**A Comprehensive Survey of Hallucination Mitigation Techniques in Large Language Models**|S. M Towhidul Islam Tonmoy et.al.|[2401.01313](http://arxiv.org/abs/2401.01313)|null|
@@ -2440,7 +2451,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-01-02**|**Quality and Quantity of Machine Translation References for Automated Metrics**|Vilém Zouhar et.al.|[2401.01283](http://arxiv.org/abs/2401.01283)|null|
+|**2024-01-02**|**To Diverge or Not to Diverge: A Morphosyntactic Perspective on Machine Translation vs Human Translation**|Jiaming Luo et.al.|[2401.01419](http://arxiv.org/abs/2401.01419)|null|
+|**2024-01-03**|**Quality and Quantity of Machine Translation References for Automated Metrics**|Vilém Zouhar et.al.|[2401.01283](http://arxiv.org/abs/2401.01283)|null|
 |**2024-01-01**|**A & B == B & A: Triggering Logical Reasoning Failures in Large Language Models**|Yuxuan Wan et.al.|[2401.00757](http://arxiv.org/abs/2401.00757)|null|
 |**2024-01-01**|**Machine Translation Testing via Syntactic Tree Pruning**|Quanjun Zhang et.al.|[2401.00751](http://arxiv.org/abs/2401.00751)|**[link](https://github.com/isenglab/stp)**|
 |**2023-12-27**|**AI-driven platform for systematic nomenclature and intelligent knowledge acquisition of natural medicinal materials**|Zijie Yang et.al.|[2401.00020](http://arxiv.org/abs/2401.00020)|null|
@@ -2525,7 +2537,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-01-02**|**A Comprehensive Survey of Hallucination Mitigation Techniques in Large Language Models**|S. M Towhidul Islam Tonmoy et.al.|[2401.01313](http://arxiv.org/abs/2401.01313)|null|
+|**2024-01-03**|**Navigating Uncertainty: Optimizing API Dependency for Hallucination Reduction in Closed-Book Question Answering**|Pierre Erbacher et.al.|[2401.01780](http://arxiv.org/abs/2401.01780)|null|
+|**2024-01-03**|**De-Hallucinator: Iterative Grounding for LLM-Based Code Completion**|Aryaz Eghbali et.al.|[2401.01701](http://arxiv.org/abs/2401.01701)|null|
+|**2024-01-03**|**Hallucinations in Neural Automatic Speech Recognition: Identifying Errors and Hallucinatory Models**|Rita Frieske et.al.|[2401.01572](http://arxiv.org/abs/2401.01572)|null|
+|**2024-01-03**|**Enhancing Multilingual Information Retrieval in Mixed Human Resources Environments: A RAG Model Implementation for Multicultural Enterprise**|Syed Rameel Ahmad et.al.|[2401.01511](http://arxiv.org/abs/2401.01511)|null|
+|**2024-01-03**|**Question-Answering Based Summarization of Electronic Health Records using Retrieval Augmented Generation**|Walid Saba et.al.|[2401.01469](http://arxiv.org/abs/2401.01469)|null|
+|**2024-01-03**|**A Comprehensive Survey of Hallucination Mitigation Techniques in Large Language Models**|S. M Towhidul Islam Tonmoy et.al.|[2401.01313](http://arxiv.org/abs/2401.01313)|null|
 |**2024-01-02**|**Large Legal Fictions: Profiling Legal Hallucinations in Large Language Models**|Matthew Dahl et.al.|[2401.01301](http://arxiv.org/abs/2401.01301)|null|
 |**2023-12-31**|**LaFFi: Leveraging Hybrid Natural Language Feedback for Fine-tuning Language Models**|Qianxi Li et.al.|[2401.00907](http://arxiv.org/abs/2401.00907)|null|
 |**2024-01-02**|**A Reliable Knowledge Processing Framework for Combustion Science using Foundation Models**|Vansh Sharma et.al.|[2401.00544](http://arxiv.org/abs/2401.00544)|null|
