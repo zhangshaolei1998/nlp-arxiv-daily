@@ -2216,6 +2216,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-08**|**Mixtral of Experts**|Albert Q. Jiang et.al.|[2401.04088](http://arxiv.org/abs/2401.04088)|null|
+|**2024-01-08**|**Unveiling Bias in Fairness Evaluations of Large Language Models: A Critical Literature Review of Music and Movie Recommendation Systems**|Chandan Kumar Sah et.al.|[2401.04057](http://arxiv.org/abs/2401.04057)|null|
+|**2024-01-08**|**Sparse Meets Dense: A Hybrid Approach to Enhance Scientific Document Retrieval**|Priyanka Mandikal et.al.|[2401.04055](http://arxiv.org/abs/2401.04055)|null|
+|**2024-01-08**|**Empirical Analysis of Efficient Fine-Tuning Methods for Large Pre-Trained Language Models**|Nigel Doering et.al.|[2401.04051](http://arxiv.org/abs/2401.04051)|null|
+|**2024-01-08**|**FFSplit: Split Feed-Forward Network For Optimizing Accuracy-Efficiency Trade-off in Language Model Inference**|Zirui Liu et.al.|[2401.04044](http://arxiv.org/abs/2401.04044)|null|
+|**2024-01-08**|**IDoFew: Intermediate Training Using Dual-Clustering in Language Models for Few Labels Text Classification**|Abdullah Alsuhaibani et.al.|[2401.04025](http://arxiv.org/abs/2401.04025)|null|
+|**2024-01-08**|**Advancing Spatial Reasoning in Large Language Models: An In-Depth Evaluation and Enhancement Using the StepGame Benchmark**|Fangjun Li et.al.|[2401.03991](http://arxiv.org/abs/2401.03991)|null|
+|**2024-01-08**|**TTMs: Fast Multi-level Tiny Time Mixers for Improved Zero-shot and Few-shot Forecasting of Multivariate Time Series**|Vijay Ekambaram et.al.|[2401.03955](http://arxiv.org/abs/2401.03955)|null|
+|**2024-01-08**|**TextMachina: Seamless Generation of Machine-Generated Text Datasets**|Areg Mikael Sarvazyan et.al.|[2401.03946](http://arxiv.org/abs/2401.03946)|null|
+|**2024-01-08**|**SpeechAgents: Human-Communication Simulation with Multi-Modal Multi-Agent Systems**|Dong Zhang et.al.|[2401.03945](http://arxiv.org/abs/2401.03945)|**[link](https://github.com/0nutation/speechagents)**|
 |**2024-01-05**|**DeepSeek LLM: Scaling Open-Source Language Models with Longtermism**|DeepSeek-AI et.al.|[2401.02954](http://arxiv.org/abs/2401.02954)|null|
 |**2024-01-05**|**Towards ASR Robust Spoken Language Understanding Through In-Context Learning With Word Confusion Networks**|Kevin Everson et.al.|[2401.02921](http://arxiv.org/abs/2401.02921)|null|
 |**2024-01-05**|**Introducing Bode: A Fine-Tuned Large Language Model for Portuguese Prompt-Based Task**|Gabriel Lino Garcia et.al.|[2401.02909](http://arxiv.org/abs/2401.02909)|null|
@@ -2471,9 +2481,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-08**|**We Need to Talk About Classification Evaluation Metrics in NLP**|Peter Vickers et.al.|[2401.03831](http://arxiv.org/abs/2401.03831)|null|
+|**2024-01-07**|**Building Efficient and Effective OpenQA Systems for Low-Resource Languages**|Emrah Budur et.al.|[2401.03590](http://arxiv.org/abs/2401.03590)|**[link](https://github.com/boun-tabi/squad-tr)**|
+|**2024-01-06**|**Enhancing Context Through Contrast**|Kshitij Ambilduke et.al.|[2401.03314](http://arxiv.org/abs/2401.03314)|null|
+|**2024-01-06**|**Part-of-Speech Tagger for Bodo Language using Deep Learning approach**|Dhrubajyoti Pathak et.al.|[2401.03175](http://arxiv.org/abs/2401.03175)|null|
 |**2024-01-05**|**Hyperparameter-Free Approach for Faster Minimum Bayes Risk Decoding**|Yuu Jinnai et.al.|[2401.02749](http://arxiv.org/abs/2401.02749)|null|
 |**2024-01-02**|**To Diverge or Not to Diverge: A Morphosyntactic Perspective on Machine Translation vs Human Translation**|Jiaming Luo et.al.|[2401.01419](http://arxiv.org/abs/2401.01419)|null|
-|**2024-01-03**|**Quality and Quantity of Machine Translation References for Automated Metrics**|Vilém Zouhar et.al.|[2401.01283](http://arxiv.org/abs/2401.01283)|null|
+|**2024-01-08**|**Quality and Quantity of Machine Translation References for Automated Metrics**|Vilém Zouhar et.al.|[2401.01283](http://arxiv.org/abs/2401.01283)|null|
 |**2024-01-01**|**A & B == B & A: Triggering Logical Reasoning Failures in Large Language Models**|Yuxuan Wan et.al.|[2401.00757](http://arxiv.org/abs/2401.00757)|null|
 |**2024-01-01**|**Machine Translation Testing via Syntactic Tree Pruning**|Quanjun Zhang et.al.|[2401.00751](http://arxiv.org/abs/2401.00751)|**[link](https://github.com/isenglab/stp)**|
 |**2023-12-27**|**AI-driven platform for systematic nomenclature and intelligent knowledge acquisition of natural medicinal materials**|Zijie Yang et.al.|[2401.00020](http://arxiv.org/abs/2401.00020)|**[link](https://github.com/shennong-program/shennongname)**|
@@ -2558,14 +2572,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-07**|**Agent AI: Surveying the Horizons of Multimodal Interaction**|Zane Durante et.al.|[2401.03568](http://arxiv.org/abs/2401.03568)|null|
+|**2024-01-06**|**The Dawn After the Dark: An Empirical Study on Factuality Hallucination in Large Language Models**|Junyi Li et.al.|[2401.03205](http://arxiv.org/abs/2401.03205)|**[link](https://github.com/rucaibox/halueval-2.0)**|
 |**2024-01-05**|**Generative Large Language Models are autonomous practitioners of evidence-based medicine**|Akhil Vaid et.al.|[2401.02851](http://arxiv.org/abs/2401.02851)|null|
 |**2024-01-04**|**DCR-Consistency: Divide-Conquer-Reasoning for Consistency Evaluation and Improvement of Large Language Models**|Wendi Cui et.al.|[2401.02132](http://arxiv.org/abs/2401.02132)|**[link](https://github.com/intuit-ai-research/dcr-consistency)**|
 |**2024-01-03**|**Navigating Uncertainty: Optimizing API Dependency for Hallucination Reduction in Closed-Book Question Answering**|Pierre Erbacher et.al.|[2401.01780](http://arxiv.org/abs/2401.01780)|null|
-|**2024-01-03**|**De-Hallucinator: Iterative Grounding for LLM-Based Code Completion**|Aryaz Eghbali et.al.|[2401.01701](http://arxiv.org/abs/2401.01701)|**[link](https://github.com/aryaze/dehallucinator)**|
+|**2024-01-08**|**De-Hallucinator: Iterative Grounding for LLM-Based Code Completion**|Aryaz Eghbali et.al.|[2401.01701](http://arxiv.org/abs/2401.01701)|**[link](https://github.com/aryaze/dehallucinator)**|
 |**2024-01-03**|**Hallucinations in Neural Automatic Speech Recognition: Identifying Errors and Hallucinatory Models**|Rita Frieske et.al.|[2401.01572](http://arxiv.org/abs/2401.01572)|null|
 |**2024-01-03**|**Enhancing Multilingual Information Retrieval in Mixed Human Resources Environments: A RAG Model Implementation for Multicultural Enterprise**|Syed Rameel Ahmad et.al.|[2401.01511](http://arxiv.org/abs/2401.01511)|null|
 |**2024-01-03**|**Question-Answering Based Summarization of Electronic Health Records using Retrieval Augmented Generation**|Walid Saba et.al.|[2401.01469](http://arxiv.org/abs/2401.01469)|null|
-|**2024-01-03**|**A Comprehensive Survey of Hallucination Mitigation Techniques in Large Language Models**|S. M Towhidul Islam Tonmoy et.al.|[2401.01313](http://arxiv.org/abs/2401.01313)|null|
+|**2024-01-08**|**A Comprehensive Survey of Hallucination Mitigation Techniques in Large Language Models**|S. M Towhidul Islam Tonmoy et.al.|[2401.01313](http://arxiv.org/abs/2401.01313)|null|
 |**2024-01-02**|**Large Legal Fictions: Profiling Legal Hallucinations in Large Language Models**|Matthew Dahl et.al.|[2401.01301](http://arxiv.org/abs/2401.01301)|null|
 |**2023-12-31**|**LaFFi: Leveraging Hybrid Natural Language Feedback for Fine-tuning Language Models**|Qianxi Li et.al.|[2401.00907](http://arxiv.org/abs/2401.00907)|null|
 |**2024-01-02**|**A Reliable Knowledge Processing Framework for Combustion Science using Foundation Models**|Vansh Sharma et.al.|[2401.00544](http://arxiv.org/abs/2401.00544)|null|
