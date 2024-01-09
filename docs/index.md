@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.01.08
+## Updated on 2024.01.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2219,7 +2219,7 @@ layout: default
 |**2024-01-05**|**DeepSeek LLM: Scaling Open-Source Language Models with Longtermism**|DeepSeek-AI et.al.|[2401.02954](http://arxiv.org/abs/2401.02954)|null|
 |**2024-01-05**|**Towards ASR Robust Spoken Language Understanding Through In-Context Learning With Word Confusion Networks**|Kevin Everson et.al.|[2401.02921](http://arxiv.org/abs/2401.02921)|null|
 |**2024-01-05**|**Introducing Bode: A Fine-Tuned Large Language Model for Portuguese Prompt-Based Task**|Gabriel Lino Garcia et.al.|[2401.02909](http://arxiv.org/abs/2401.02909)|null|
-|**2024-01-05**|**MLLM-Protector: Ensuring MLLM's Safety without Hurting Performance**|Renjie Pi et.al.|[2401.02906](http://arxiv.org/abs/2401.02906)|null|
+|**2024-01-05**|**MLLM-Protector: Ensuring MLLM's Safety without Hurting Performance**|Renjie Pi et.al.|[2401.02906](http://arxiv.org/abs/2401.02906)|**[link](https://github.com/pipilurj/mllm-protector)**|
 |**2024-01-05**|**AFSPP: Agent Framework for Shaping Preference and Personality with Large Language Models**|Zihong He et.al.|[2401.02870](http://arxiv.org/abs/2401.02870)|null|
 |**2024-01-05**|**Generative Large Language Models are autonomous practitioners of evidence-based medicine**|Akhil Vaid et.al.|[2401.02851](http://arxiv.org/abs/2401.02851)|null|
 |**2024-01-05**|**Thousands of AI Authors on the Future of AI**|Katja Grace et.al.|[2401.02843](http://arxiv.org/abs/2401.02843)|null|
