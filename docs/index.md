@@ -2216,6 +2216,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-09**|**Model Editing Can Hurt General Abilities of Large Language Models**|Jia-Chen Gu et.al.|[2401.04700](http://arxiv.org/abs/2401.04700)|**[link](https://github.com/jasonforjoy/model-editing-hurt)**|
+|**2024-01-09**|**Narrowing the Knowledge Evaluation Gap: Open-Domain Question Answering with Multi-Granularity Answers**|Gal Yona et.al.|[2401.04695](http://arxiv.org/abs/2401.04695)|null|
+|**2024-01-09**|**RoSA: Accurate Parameter-Efficient Fine-Tuning via Robust Adaptation**|Mahdi Nikdan et.al.|[2401.04679](http://arxiv.org/abs/2401.04679)|null|
+|**2024-01-09**|**Lightning Attention-2: A Free Lunch for Handling Unlimited Sequence Lengths in Large Language Models**|Zhen Qin et.al.|[2401.04658](http://arxiv.org/abs/2401.04658)|null|
+|**2024-01-09**|**Applying Large Language Models API to Issue Classification Problem**|Gabriel Aracena et.al.|[2401.04637](http://arxiv.org/abs/2401.04637)|null|
+|**2024-01-09**|**DebugBench: Evaluating Debugging Capability of Large Language Models**|Runchu Tian et.al.|[2401.04621](http://arxiv.org/abs/2401.04621)|**[link](https://github.com/thunlp/debugbench)**|
+|**2024-01-09**|**Agent Alignment in Evolving Social Norms**|Shimin Li et.al.|[2401.04620](http://arxiv.org/abs/2401.04620)|null|
+|**2024-01-09**|**Language Detection for Transliterated Content**|Selva Kumar S et.al.|[2401.04619](http://arxiv.org/abs/2401.04619)|null|
+|**2024-01-09**|**An Assessment on Comprehending Mental Health through Large Language Models**|Mihael Arcan et.al.|[2401.04592](http://arxiv.org/abs/2401.04592)|null|
+|**2024-01-09**|**Evaluating Language Model Agency through Negotiations**|Tim R. Davidson et.al.|[2401.04536](http://arxiv.org/abs/2401.04536)|null|
 |**2024-01-08**|**Mixtral of Experts**|Albert Q. Jiang et.al.|[2401.04088](http://arxiv.org/abs/2401.04088)|null|
 |**2024-01-08**|**Unveiling Bias in Fairness Evaluations of Large Language Models: A Critical Literature Review of Music and Movie Recommendation Systems**|Chandan Kumar Sah et.al.|[2401.04057](http://arxiv.org/abs/2401.04057)|null|
 |**2024-01-08**|**Sparse Meets Dense: A Hybrid Approach to Enhance Scientific Document Retrieval**|Priyanka Mandikal et.al.|[2401.04055](http://arxiv.org/abs/2401.04055)|null|
@@ -2481,6 +2491,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-09**|**LAMPAT: Low-Rank Adaption for Multilingual Paraphrasing Using Adversarial Training**|Khoi M. Le et.al.|[2401.04348](http://arxiv.org/abs/2401.04348)|**[link](https://github.com/phkhanhtrinh23/LAMPAT)**|
 |**2024-01-08**|**We Need to Talk About Classification Evaluation Metrics in NLP**|Peter Vickers et.al.|[2401.03831](http://arxiv.org/abs/2401.03831)|null|
 |**2024-01-07**|**Building Efficient and Effective OpenQA Systems for Low-Resource Languages**|Emrah Budur et.al.|[2401.03590](http://arxiv.org/abs/2401.03590)|**[link](https://github.com/boun-tabi/squad-tr)**|
 |**2024-01-06**|**Enhancing Context Through Contrast**|Kshitij Ambilduke et.al.|[2401.03314](http://arxiv.org/abs/2401.03314)|null|
@@ -2572,6 +2583,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-09**|**Model Editing Can Hurt General Abilities of Large Language Models**|Jia-Chen Gu et.al.|[2401.04700](http://arxiv.org/abs/2401.04700)|**[link](https://github.com/jasonforjoy/model-editing-hurt)**|
+|**2024-01-09**|**TechGPT-2.0: A large language model project to solve the task of knowledge graph construction**|Jiaqi Wang et.al.|[2401.04507](http://arxiv.org/abs/2401.04507)|**[link](https://github.com/neukg/techgpt-2.0)**|
 |**2024-01-07**|**Agent AI: Surveying the Horizons of Multimodal Interaction**|Zane Durante et.al.|[2401.03568](http://arxiv.org/abs/2401.03568)|null|
 |**2024-01-06**|**The Dawn After the Dark: An Empirical Study on Factuality Hallucination in Large Language Models**|Junyi Li et.al.|[2401.03205](http://arxiv.org/abs/2401.03205)|**[link](https://github.com/rucaibox/halueval-2.0)**|
 |**2024-01-05**|**Generative Large Language Models are autonomous practitioners of evidence-based medicine**|Akhil Vaid et.al.|[2401.02851](http://arxiv.org/abs/2401.02851)|null|
