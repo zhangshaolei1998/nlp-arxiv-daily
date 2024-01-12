@@ -2214,6 +2214,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-11**|**R-BI: Regularized Batched Inputs enhance Incremental Decoding Framework for Low-Latency Simultaneous Speech Translation**|Jiaxin Guo et.al.|[2401.05700](http://arxiv.org/abs/2401.05700)|null|
 |**2024-01-10**|**ANIM-400K: A Large-Scale Dataset for Automated End-To-End Dubbing of Video**|Kevin Cai et.al.|[2401.05314](http://arxiv.org/abs/2401.05314)|null|
 |**2024-01-03**|**Towards Modeling Uncertainties of Self-explaining Neural Networks via Conformal Prediction**|Wei Qian et.al.|[2401.01549](http://arxiv.org/abs/2401.01549)|null|
 |**2023-12-27**|**Stateful FastConformer with Cache-based Inference for Streaming Automatic Speech Recognition**|Vahid Noroozi et.al.|[2312.17279](http://arxiv.org/abs/2312.17279)|null|
@@ -2244,6 +2245,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-11**|**Distilling Vision-Language Models on Millions of Videos**|Yue Zhao et.al.|[2401.06129](http://arxiv.org/abs/2401.06129)|null|
+|**2024-01-11**|**TOFU: A Task of Fictitious Unlearning for LLMs**|Pratyush Maini et.al.|[2401.06121](http://arxiv.org/abs/2401.06121)|null|
+|**2024-01-11**|**Extreme Compression of Large Language Models via Additive Quantization**|Vage Egiazarian et.al.|[2401.06118](http://arxiv.org/abs/2401.06118)|null|
+|**2024-01-11**|**Patchscope: A Unifying Framework for Inspecting Hidden Representations of Language Models**|Asma Ghandeharioun et.al.|[2401.06102](http://arxiv.org/abs/2401.06102)|null|
+|**2024-01-11**|**A Closer Look at AUROC and AUPRC under Class Imbalance**|Matthew B. A. McDermott et.al.|[2401.06091](http://arxiv.org/abs/2401.06091)|**[link](https://github.com/mmcdermott/auc_is_all_you_need)**|
+|**2024-01-11**|**Autocompletion of Chief Complaints in the Electronic Health Records using Large Language Models**|K M Sajjadul Islam et.al.|[2401.06088](http://arxiv.org/abs/2401.06088)|null|
+|**2024-01-11**|**Improving Large Language Models via Fine-grained Reinforcement Learning with Minimum Editing Constraint**|Zhipeng Chen et.al.|[2401.06081](http://arxiv.org/abs/2401.06081)|null|
+|**2024-01-11**|**Secrets of RLHF in Large Language Models Part II: Reward Modeling**|Binghai Wang et.al.|[2401.06080](http://arxiv.org/abs/2401.06080)|**[link](https://github.com/openlmlab/moss-rlhf)**|
+|**2024-01-11**|**LEGO:Language Enhanced Multi-modal Grounding Model**|Zhaowei Li et.al.|[2401.06071](http://arxiv.org/abs/2401.06071)|**[link](https://github.com/lzw-lzw/lego)**|
+|**2024-01-11**|**DeepSeekMoE: Towards Ultimate Expert Specialization in Mixture-of-Experts Language Models**|Damai Dai et.al.|[2401.06066](http://arxiv.org/abs/2401.06066)|**[link](https://github.com/deepseek-ai/deepseek-moe)**|
 |**2024-01-10**|**Leveraging Print Debugging to Improve Code Generation in Large Language Models**|Xueyu Hu et.al.|[2401.05319](http://arxiv.org/abs/2401.05319)|null|
 |**2024-01-10**|**Theory of Mind abilities of Large Language Models in Human-Robot Interaction : An Illusion?**|Mudit Verma et.al.|[2401.05302](http://arxiv.org/abs/2401.05302)|null|
 |**2024-01-10**|**I am a Strange Dataset: Metalinguistic Tests for Language Models**|Tristan Thrush et.al.|[2401.05300](http://arxiv.org/abs/2401.05300)|**[link](https://github.com/tristanthrush/i-am-a-strange-dataset)**|
@@ -2531,6 +2542,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-11**|**Towards Boosting Many-to-Many Multilingual Machine Translation with Large Language Models**|Pengzhi Gao et.al.|[2401.05861](http://arxiv.org/abs/2401.05861)|**[link](https://github.com/gpengzhi/crossconst-llm)**|
+|**2024-01-11**|**Tuning LLMs with Contrastive Alignment Instructions for Machine Translation in Unseen, Low-resource Languages**|Zhuoyuan Mao et.al.|[2401.05811](http://arxiv.org/abs/2401.05811)|null|
+|**2024-01-11**|**A Shocking Amount of the Web is Machine Translated: Insights from Multi-Way Parallelism**|Brian Thompson et.al.|[2401.05749](http://arxiv.org/abs/2401.05749)|null|
+|**2024-01-11**|**Natural Language Processing for Dialects of a Language: A Survey**|Aditya Joshi et.al.|[2401.05632](http://arxiv.org/abs/2401.05632)|null|
+|**2024-01-11**|**POMP: Probability-driven Meta-graph Prompter for LLMs in Low-resource Unsupervised Neural Machine Translation**|Shilong Pan et.al.|[2401.05596](http://arxiv.org/abs/2401.05596)|null|
 |**2024-01-10**|**Can ChatGPT Rival Neural Machine Translation? A Comparative Study**|Zhaokun Jiang et.al.|[2401.05176](http://arxiv.org/abs/2401.05176)|null|
 |**2024-01-10**|**Aligning Translation-Specific Understanding to General Understanding in Large Language Models**|Yichong Huang et.al.|[2401.05072](http://arxiv.org/abs/2401.05072)|null|
 |**2024-01-10**|**Whose wife is it anyway? Assessing bias against same-gender relationships in machine translation**|Ian Stewart et.al.|[2401.04972](http://arxiv.org/abs/2401.04972)|null|
@@ -2607,6 +2623,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-11**|**R-BI: Regularized Batched Inputs enhance Incremental Decoding Framework for Low-Latency Simultaneous Speech Translation**|Jiaxin Guo et.al.|[2401.05700](http://arxiv.org/abs/2401.05700)|null|
 |**2023-12-23**|**TransFace: Unit-Based Audio-Visual Speech Synthesizer for Talking Head Translation**|Xize Cheng et.al.|[2312.15197](http://arxiv.org/abs/2312.15197)|null|
 |**2023-12-21**|**EmphAssess : a Prosodic Benchmark on Assessing Emphasis Transfer in Speech-to-Speech Models**|Maureen de Seyssel et.al.|[2312.14069](http://arxiv.org/abs/2312.14069)|**[link](https://github.com/facebookresearch/emphassess)**|
 |**2023-12-21**|**Speech Translation with Large Language Models: An Industrial Practice**|Zhichao Huang et.al.|[2312.13585](http://arxiv.org/abs/2312.13585)|null|
@@ -2630,6 +2647,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-11**|**SH2: Self-Highlighted Hesitation Helps You Decode More Truthfully**|Jushi Kai et.al.|[2401.05930](http://arxiv.org/abs/2401.05930)|null|
+|**2024-01-11**|**Seven Failure Points When Engineering a Retrieval Augmented Generation System**|Scott Barnett et.al.|[2401.05856](http://arxiv.org/abs/2401.05856)|null|
+|**2024-01-11**|**Hallucination Benchmark in Medical Visual Question Answering**|Jinge Wu et.al.|[2401.05827](http://arxiv.org/abs/2401.05827)|null|
+|**2024-01-11**|**Development in times of hype: How freelancers explore Generative AI?**|Mateusz Dolata et.al.|[2401.05790](http://arxiv.org/abs/2401.05790)|null|
+|**2024-01-11**|**Evidence to Generate (E2G): A Single-agent Two-step Prompting for Context Grounded and Retrieval Augmented Reasoning**|Md Rizwan Parvez et.al.|[2401.05787](http://arxiv.org/abs/2401.05787)|null|
+|**2024-01-10**|**Diffusion Priors for Dynamic View Synthesis from Monocular Videos**|Chaoyang Wang et.al.|[2401.05583](http://arxiv.org/abs/2401.05583)|null|
 |**2024-01-09**|**Model Editing Can Hurt General Abilities of Large Language Models**|Jia-Chen Gu et.al.|[2401.04700](http://arxiv.org/abs/2401.04700)|**[link](https://github.com/jasonforjoy/model-editing-hurt)**|
 |**2024-01-09**|**TechGPT-2.0: A large language model project to solve the task of knowledge graph construction**|Jiaqi Wang et.al.|[2401.04507](http://arxiv.org/abs/2401.04507)|**[link](https://github.com/neukg/techgpt-2.0)**|
 |**2024-01-07**|**Agent AI: Surveying the Horizons of Multimodal Interaction**|Zane Durante et.al.|[2401.03568](http://arxiv.org/abs/2401.03568)|**[link](https://github.com/guilk/kat)**|
