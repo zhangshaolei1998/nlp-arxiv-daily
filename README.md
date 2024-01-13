@@ -2215,7 +2215,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-01-11**|**R-BI: Regularized Batched Inputs enhance Incremental Decoding Framework for Low-Latency Simultaneous Speech Translation**|Jiaxin Guo et.al.|[2401.05700](http://arxiv.org/abs/2401.05700)|null|
-|**2024-01-10**|**ANIM-400K: A Large-Scale Dataset for Automated End-To-End Dubbing of Video**|Kevin Cai et.al.|[2401.05314](http://arxiv.org/abs/2401.05314)|null|
+|**2024-01-10**|**ANIM-400K: A Large-Scale Dataset for Automated End-To-End Dubbing of Video**|Kevin Cai et.al.|[2401.05314](http://arxiv.org/abs/2401.05314)|**[link](https://github.com/davidmchan/anim400k)**|
 |**2024-01-03**|**Towards Modeling Uncertainties of Self-explaining Neural Networks via Conformal Prediction**|Wei Qian et.al.|[2401.01549](http://arxiv.org/abs/2401.01549)|null|
 |**2023-12-27**|**Stateful FastConformer with Cache-based Inference for Streaming Automatic Speech Recognition**|Vahid Noroozi et.al.|[2312.17279](http://arxiv.org/abs/2312.17279)|null|
 |**2023-12-22**|**Language Model is a Branch Predictor for Simultaneous Machine Translation**|Aoxiong Yin et.al.|[2312.14488](http://arxiv.org/abs/2312.14488)|null|
