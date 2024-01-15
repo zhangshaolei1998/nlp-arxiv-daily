@@ -2189,10 +2189,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-12**|**WisdoM: Improving Multimodal Sentiment Analysis by Fusing Contextual World Knowledge**|Wenbin Wang et.al.|[2401.06659](http://arxiv.org/abs/2401.06659)|null|
 |**2024-01-11**|**R-BI: Regularized Batched Inputs enhance Incremental Decoding Framework for Low-Latency Simultaneous Speech Translation**|Jiaxin Guo et.al.|[2401.05700](http://arxiv.org/abs/2401.05700)|null|
 |**2024-01-10**|**ANIM-400K: A Large-Scale Dataset for Automated End-To-End Dubbing of Video**|Kevin Cai et.al.|[2401.05314](http://arxiv.org/abs/2401.05314)|**[link](https://github.com/davidmchan/anim400k)**|
 |**2024-01-03**|**Towards Modeling Uncertainties of Self-explaining Neural Networks via Conformal Prediction**|Wei Qian et.al.|[2401.01549](http://arxiv.org/abs/2401.01549)|null|
-|**2023-12-27**|**Stateful FastConformer with Cache-based Inference for Streaming Automatic Speech Recognition**|Vahid Noroozi et.al.|[2312.17279](http://arxiv.org/abs/2312.17279)|null|
+|**2024-01-11**|**Stateful Conformer with Cache-based Inference for Streaming Automatic Speech Recognition**|Vahid Noroozi et.al.|[2312.17279](http://arxiv.org/abs/2312.17279)|null|
 |**2023-12-22**|**Language Model is a Branch Predictor for Simultaneous Machine Translation**|Aoxiong Yin et.al.|[2312.14488](http://arxiv.org/abs/2312.14488)|null|
 |**2023-12-21**|**Trochoid Search Optimization**|Abdesslem Layeb et.al.|[2312.13597](http://arxiv.org/abs/2312.13597)|null|
 |**2023-12-16**|**Conformer-Based Speech Recognition On Extreme Edge-Computing Devices**|Mingbin Xu et.al.|[2312.10359](http://arxiv.org/abs/2312.10359)|null|
@@ -2218,6 +2219,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-12**|**Mind Your Format: Towards Consistent Evaluation of In-Context Learning Improvements**|Anton Voronov et.al.|[2401.06766](http://arxiv.org/abs/2401.06766)|null|
+|**2024-01-12**|**Automated Test Case Repair Using Language Models**|Ahmadreza Saboor Yaraghi et.al.|[2401.06765](http://arxiv.org/abs/2401.06765)|null|
+|**2024-01-12**|**APAR: LLMs Can Do Auto-Parallel Auto-Regressive Decoding**|Mingdao Liu et.al.|[2401.06761](http://arxiv.org/abs/2401.06761)|null|
+|**2024-01-12**|**The Unreasonable Effectiveness of Easy Training Data for Hard Tasks**|Peter Hase et.al.|[2401.06751](http://arxiv.org/abs/2401.06751)|**[link](https://github.com/allenai/easy-to-hard-generalization)**|
+|**2024-01-12**|**Relying on the Unreliable: The Impact of Language Models' Reluctance to Express Uncertainty**|Kaitlyn Zhou et.al.|[2401.06730](http://arxiv.org/abs/2401.06730)|null|
+|**2024-01-12**|**Few-Shot Detection of Machine-Generated Text using Style Representations**|Rafael Rivera Soto et.al.|[2401.06712](http://arxiv.org/abs/2401.06712)|null|
+|**2024-01-12**|**Reliability Analysis of Psychological Concept Extraction and Classification in User-penned Text**|Muskan Garg et.al.|[2401.06709](http://arxiv.org/abs/2401.06709)|null|
+|**2024-01-12**|**Multi-Candidate Speculative Decoding**|Sen Yang et.al.|[2401.06706](http://arxiv.org/abs/2401.06706)|**[link](https://github.com/njunlp/mcsd)**|
+|**2024-01-12**|**An Experimental Design Framework for Label-Efficient Supervised Finetuning of Large Language Models**|Gantavya Bhatt et.al.|[2401.06692](http://arxiv.org/abs/2401.06692)|null|
+|**2024-01-12**|**Don't Rank, Combine! Combining Machine Translation Hypotheses Using Quality Estimation**|Giorgos Vernikos et.al.|[2401.06688](http://arxiv.org/abs/2401.06688)|null|
 |**2024-01-11**|**Distilling Vision-Language Models on Millions of Videos**|Yue Zhao et.al.|[2401.06129](http://arxiv.org/abs/2401.06129)|null|
 |**2024-01-11**|**TOFU: A Task of Fictitious Unlearning for LLMs**|Pratyush Maini et.al.|[2401.06121](http://arxiv.org/abs/2401.06121)|null|
 |**2024-01-11**|**Extreme Compression of Large Language Models via Additive Quantization**|Vage Egiazarian et.al.|[2401.06118](http://arxiv.org/abs/2401.06118)|**[link](https://github.com/vahe1994/aqlm)**|
@@ -2513,6 +2524,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-12**|**Machine Translation Models are Zero-Shot Detectors of Translation Direction**|Michelle Wastl et.al.|[2401.06769](http://arxiv.org/abs/2401.06769)|**[link](https://github.com/zurichnlp/translation-direction-detection)**|
+|**2024-01-12**|**Navigating the Metrics Maze: Reconciling Score Magnitudes and Accuracies**|Tom Kocmi et.al.|[2401.06760](http://arxiv.org/abs/2401.06760)|null|
+|**2024-01-12**|**Don't Rank, Combine! Combining Machine Translation Hypotheses Using Quality Estimation**|Giorgos Vernikos et.al.|[2401.06688](http://arxiv.org/abs/2401.06688)|null|
+|**2024-01-12**|**Lost in the Source Language: How Large Language Models Evaluate the Quality of Machine Translation**|Xu Huang et.al.|[2401.06568](http://arxiv.org/abs/2401.06568)|null|
+|**2024-01-12**|**Adapting Large Language Models for Document-Level Machine Translation**|Minghao Wu et.al.|[2401.06468](http://arxiv.org/abs/2401.06468)|null|
+|**2024-01-12**|**An approach for mistranslation removal from popular dataset for Indic MT Task**|Sudhansu Bala Das et.al.|[2401.06398](http://arxiv.org/abs/2401.06398)|null|
+|**2024-01-11**|**End to end Hindi to English speech conversion using Bark, mBART and a finetuned XLSR Wav2Vec2**|Aniket Tathe et.al.|[2401.06183](http://arxiv.org/abs/2401.06183)|null|
 |**2024-01-11**|**Towards Boosting Many-to-Many Multilingual Machine Translation with Large Language Models**|Pengzhi Gao et.al.|[2401.05861](http://arxiv.org/abs/2401.05861)|**[link](https://github.com/gpengzhi/crossconst-llm)**|
 |**2024-01-11**|**Tuning LLMs with Contrastive Alignment Instructions for Machine Translation in Unseen, Low-resource Languages**|Zhuoyuan Mao et.al.|[2401.05811](http://arxiv.org/abs/2401.05811)|null|
 |**2024-01-11**|**A Shocking Amount of the Web is Machine Translated: Insights from Multi-Way Parallelism**|Brian Thompson et.al.|[2401.05749](http://arxiv.org/abs/2401.05749)|null|
@@ -2614,6 +2632,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-11**|**Eyes Wide Shut? Exploring the Visual Shortcomings of Multimodal LLMs**|Shengbang Tong et.al.|[2401.06209](http://arxiv.org/abs/2401.06209)|null|
 |**2024-01-11**|**SH2: Self-Highlighted Hesitation Helps You Decode More Truthfully**|Jushi Kai et.al.|[2401.05930](http://arxiv.org/abs/2401.05930)|null|
 |**2024-01-11**|**Seven Failure Points When Engineering a Retrieval Augmented Generation System**|Scott Barnett et.al.|[2401.05856](http://arxiv.org/abs/2401.05856)|null|
 |**2024-01-11**|**Hallucination Benchmark in Medical Visual Question Answering**|Jinge Wu et.al.|[2401.05827](http://arxiv.org/abs/2401.05827)|null|
