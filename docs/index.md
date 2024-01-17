@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.01.16
+## Updated on 2024.01.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2527,7 +2527,7 @@ layout: default
 |**2024-01-12**|**Machine Translation Models are Zero-Shot Detectors of Translation Direction**|Michelle Wastl et.al.|[2401.06769](http://arxiv.org/abs/2401.06769)|**[link](https://github.com/zurichnlp/translation-direction-detection)**|
 |**2024-01-12**|**Navigating the Metrics Maze: Reconciling Score Magnitudes and Accuracies**|Tom Kocmi et.al.|[2401.06760](http://arxiv.org/abs/2401.06760)|null|
 |**2024-01-12**|**Don't Rank, Combine! Combining Machine Translation Hypotheses Using Quality Estimation**|Giorgos Vernikos et.al.|[2401.06688](http://arxiv.org/abs/2401.06688)|null|
-|**2024-01-12**|**Lost in the Source Language: How Large Language Models Evaluate the Quality of Machine Translation**|Xu Huang et.al.|[2401.06568](http://arxiv.org/abs/2401.06568)|null|
+|**2024-01-12**|**Lost in the Source Language: How Large Language Models Evaluate the Quality of Machine Translation**|Xu Huang et.al.|[2401.06568](http://arxiv.org/abs/2401.06568)|**[link](https://github.com/xuuhuang/lost_in_the_src)**|
 |**2024-01-12**|**Adapting Large Language Models for Document-Level Machine Translation**|Minghao Wu et.al.|[2401.06468](http://arxiv.org/abs/2401.06468)|null|
 |**2024-01-12**|**An approach for mistranslation removal from popular dataset for Indic MT Task**|Sudhansu Bala Das et.al.|[2401.06398](http://arxiv.org/abs/2401.06398)|null|
 |**2024-01-11**|**End to end Hindi to English speech conversion using Bark, mBART and a finetuned XLSR Wav2Vec2**|Aniket Tathe et.al.|[2401.06183](http://arxiv.org/abs/2401.06183)|null|
