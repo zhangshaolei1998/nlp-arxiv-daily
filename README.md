@@ -2246,6 +2246,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-16**|**Hallucination Detection and Hallucination Mitigation: An Investigation**|Junliang Luo et.al.|[2401.08358](http://arxiv.org/abs/2401.08358)|null|
+|**2024-01-16**|**Salute the Classic: Revisiting Challenges of Machine Translation in the Age of Large Language Models**|Jianhui Pang et.al.|[2401.08350](http://arxiv.org/abs/2401.08350)|null|
+|**2024-01-16**|**Understanding User Experience in Large Language Model Interactions**|Jiayin Wang et.al.|[2401.08329](http://arxiv.org/abs/2401.08329)|null|
+|**2024-01-16**|**RoTBench: A Multi-Level Benchmark for Evaluating the Robustness of Large Language Models in Tool Learning**|Junjie Ye et.al.|[2401.08326](http://arxiv.org/abs/2401.08326)|null|
+|**2024-01-16**|**Application of LLM Agents in Recruitment: A Novel Framework for Resume Screening**|Chengguang Gan et.al.|[2401.08315](http://arxiv.org/abs/2401.08315)|null|
+|**2024-01-16**|**Anchor function: a type of benchmark functions for studying language models**|Zhongwang Zhang et.al.|[2401.08309](http://arxiv.org/abs/2401.08309)|null|
+|**2024-01-16**|**DAPT: A Dual Attention Framework for Parameter-Efficient Continual Learning of Large Language Models**|Weixiang Zhao et.al.|[2401.08295](http://arxiv.org/abs/2401.08295)|null|
+|**2024-01-16**|**Inferflow: an Efficient and Highly Configurable Inference Engine for Large Language Models**|Shuming Shi et.al.|[2401.08294](http://arxiv.org/abs/2401.08294)|**[link](https://github.com/inferflow/inferflow)**|
+|**2024-01-16**|**AesBench: An Expert Benchmark for Multimodal Large Language Models on Image Aesthetics Perception**|Yipo Huang et.al.|[2401.08276](http://arxiv.org/abs/2401.08276)|**[link](https://github.com/yipoh/aesbench)**|
+|**2024-01-16**|**Large Language Models are Null-Shot Learners**|Pittawat Taveekitworachai et.al.|[2401.08273](http://arxiv.org/abs/2401.08273)|null|
 |**2024-01-12**|**Mind Your Format: Towards Consistent Evaluation of In-Context Learning Improvements**|Anton Voronov et.al.|[2401.06766](http://arxiv.org/abs/2401.06766)|null|
 |**2024-01-12**|**Automated Test Case Repair Using Language Models**|Ahmadreza Saboor Yaraghi et.al.|[2401.06765](http://arxiv.org/abs/2401.06765)|null|
 |**2024-01-12**|**APAR: LLMs Can Do Auto-Parallel Auto-Regressive Decoding**|Mingdao Liu et.al.|[2401.06761](http://arxiv.org/abs/2401.06761)|null|
@@ -2553,6 +2563,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-16**|**Salute the Classic: Revisiting Challenges of Machine Translation in the Age of Large Language Models**|Jianhui Pang et.al.|[2401.08350](http://arxiv.org/abs/2401.08350)|null|
+|**2024-01-16**|**Enhancing Document-level Translation of Large Language Model via Translation Mixed-instructions**|Yachao Li et.al.|[2401.08088](http://arxiv.org/abs/2401.08088)|null|
+|**2024-01-15**|**A Novel Approach for Automatic Program Repair using Round-Trip Translation with Large Language Models**|Fernando Vallecillos Ruiz et.al.|[2401.07994](http://arxiv.org/abs/2401.07994)|null|
+|**2024-01-15**|**Towards Automatic Translation of Machine Learning Visual Insights to Analytical Assertions**|Arumoy Shome et.al.|[2401.07696](http://arxiv.org/abs/2401.07696)|null|
+|**2024-01-15**|**Only Send What You Need: Learning to Communicate Efficiently in Federated Multilingual Machine Translation**|Yun-Wei Chu et.al.|[2401.07456](http://arxiv.org/abs/2401.07456)|null|
+|**2024-01-13**|**MiTTenS: A Dataset for Evaluating Misgendering in Translation**|Kevin Robinson et.al.|[2401.06935](http://arxiv.org/abs/2401.06935)|**[link](https://github.com/google-research-datasets/mittens)**|
 |**2024-01-12**|**Machine Translation Models are Zero-Shot Detectors of Translation Direction**|Michelle Wastl et.al.|[2401.06769](http://arxiv.org/abs/2401.06769)|**[link](https://github.com/zurichnlp/translation-direction-detection)**|
 |**2024-01-12**|**Navigating the Metrics Maze: Reconciling Score Magnitudes and Accuracies**|Tom Kocmi et.al.|[2401.06760](http://arxiv.org/abs/2401.06760)|null|
 |**2024-01-12**|**Don't Rank, Combine! Combining Machine Translation Hypotheses Using Quality Estimation**|Giorgos Vernikos et.al.|[2401.06688](http://arxiv.org/abs/2401.06688)|null|
@@ -2665,6 +2681,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-16**|**Hallucination Detection and Hallucination Mitigation: An Investigation**|Junliang Luo et.al.|[2401.08358](http://arxiv.org/abs/2401.08358)|null|
+|**2024-01-16**|**Large Language Models are Null-Shot Learners**|Pittawat Taveekitworachai et.al.|[2401.08273](http://arxiv.org/abs/2401.08273)|null|
+|**2024-01-15**|**The Pitfalls of Defining Hallucination**|Kees van Deemter et.al.|[2401.07897](http://arxiv.org/abs/2401.07897)|null|
+|**2024-01-15**|**The Chronicles of RAG: The Retriever, the Chunk and the Generator**|Paulo Finardi et.al.|[2401.07883](http://arxiv.org/abs/2401.07883)|null|
+|**2024-01-13**|**Dual-View Data Hallucination with Semantic Relation Guidance for Few-Shot Image Recognition**|Hefeng Wu et.al.|[2401.07061](http://arxiv.org/abs/2401.07061)|null|
+|**2024-01-12**|**Fine-grained Hallucination Detection and Editing for Language Models**|Abhika Mishra et.al.|[2401.06855](http://arxiv.org/abs/2401.06855)|null|
 |**2024-01-11**|**Eyes Wide Shut? Exploring the Visual Shortcomings of Multimodal LLMs**|Shengbang Tong et.al.|[2401.06209](http://arxiv.org/abs/2401.06209)|null|
 |**2024-01-11**|**SH2: Self-Highlighted Hesitation Helps You Decode More Truthfully**|Jushi Kai et.al.|[2401.05930](http://arxiv.org/abs/2401.05930)|null|
 |**2024-01-11**|**Seven Failure Points When Engineering a Retrieval Augmented Generation System**|Scott Barnett et.al.|[2401.05856](http://arxiv.org/abs/2401.05856)|null|
