@@ -2246,6 +2246,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-17**|**Vlogger: Make Your Dream A Vlog**|Shaobin Zhuang et.al.|[2401.09414](http://arxiv.org/abs/2401.09414)|**[link](https://github.com/zhuangshaobin/vlogger)**|
+|**2024-01-17**|**POP-3D: Open-Vocabulary 3D Occupancy Prediction from Images**|Antonin Vobecky et.al.|[2401.09413](http://arxiv.org/abs/2401.09413)|null|
+|**2024-01-17**|**Deciphering Textual Authenticity: A Generalized Strategy through the Lens of Large Language Semantics for Detecting Human vs. Machine-Generated Text**|Mazal Bethany et.al.|[2401.09407](http://arxiv.org/abs/2401.09407)|null|
+|**2024-01-17**|**Stuck in the Quicksand of Numeracy, Far from AGI Summit: Evaluating LLMs' Mathematical Competency through Ontology-guided Perturbations**|Pengfei Hong et.al.|[2401.09395](http://arxiv.org/abs/2401.09395)|null|
+|**2024-01-17**|**Efficient slot labelling**|Vladimir Vlasov et.al.|[2401.09343](http://arxiv.org/abs/2401.09343)|null|
+|**2024-01-17**|**Large Language Models Are Neurosymbolic Reasoners**|Meng Fang et.al.|[2401.09334](http://arxiv.org/abs/2401.09334)|null|
+|**2024-01-17**|**Material Informatics through Neural Networks on Ab-Initio Electron Charge Densities: the Role of Transfer Learning**|Dario Massa et.al.|[2401.09301](http://arxiv.org/abs/2401.09301)|null|
+|**2024-01-17**|**Preparing Lessons for Progressive Training on Language Models**|Yu Pan et.al.|[2401.09192](http://arxiv.org/abs/2401.09192)|null|
+|**2024-01-17**|**Beyond Anti-Forgetting: Multimodal Continual Instruction Tuning with Positive Forward Transfer**|Junhao Zheng et.al.|[2401.09181](http://arxiv.org/abs/2401.09181)|null|
+|**2024-01-17**|**ADCNet: a unified framework for predicting the activity of antibody-drug conjugates**|Liye Chen et.al.|[2401.09176](http://arxiv.org/abs/2401.09176)|**[link](https://github.com/idruglab/adcnet)**|
 |**2024-01-16**|**Machine Translation with Large Language Models: Prompt Engineering for Persian, English, and Russian Directions**|Nooshin Pourkamali et.al.|[2401.08429](http://arxiv.org/abs/2401.08429)|null|
 |**2024-01-16**|**Ask the experts: sourcing high-quality datasets for nutritional counselling through Human-AI collaboration**|Simone Balloccu et.al.|[2401.08420](http://arxiv.org/abs/2401.08420)|**[link](https://github.com/uccollab/hai-coaching)**|
 |**2024-01-16**|**Contrastive Preference Optimization: Pushing the Boundaries of LLM Performance in Machine Translation**|Haoran Xu et.al.|[2401.08417](http://arxiv.org/abs/2401.08417)|**[link](https://github.com/fe1ixxu/alma)**|
@@ -2571,7 +2581,7 @@
 |---|---|---|---|---|
 |**2024-01-16**|**Machine Translation with Large Language Models: Prompt Engineering for Persian, English, and Russian Directions**|Nooshin Pourkamali et.al.|[2401.08429](http://arxiv.org/abs/2401.08429)|null|
 |**2024-01-16**|**Contrastive Preference Optimization: Pushing the Boundaries of LLM Performance in Machine Translation**|Haoran Xu et.al.|[2401.08417](http://arxiv.org/abs/2401.08417)|**[link](https://github.com/fe1ixxu/alma)**|
-|**2024-01-16**|**Salute the Classic: Revisiting Challenges of Machine Translation in the Age of Large Language Models**|Jianhui Pang et.al.|[2401.08350](http://arxiv.org/abs/2401.08350)|null|
+|**2024-01-17**|**Salute the Classic: Revisiting Challenges of Machine Translation in the Age of Large Language Models**|Jianhui Pang et.al.|[2401.08350](http://arxiv.org/abs/2401.08350)|null|
 |**2024-01-16**|**Enhancing Document-level Translation of Large Language Model via Translation Mixed-instructions**|Yachao Li et.al.|[2401.08088](http://arxiv.org/abs/2401.08088)|null|
 |**2024-01-15**|**A Novel Approach for Automatic Program Repair using Round-Trip Translation with Large Language Models**|Fernando Vallecillos Ruiz et.al.|[2401.07994](http://arxiv.org/abs/2401.07994)|null|
 |**2024-01-15**|**Towards Automatic Translation of Machine Learning Visual Insights to Analytical Assertions**|Arumoy Shome et.al.|[2401.07696](http://arxiv.org/abs/2401.07696)|null|
@@ -2689,13 +2699,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-17**|**BibSonomy Meets ChatLLMs for Publication Management: From Chat to Publication Management: Organizing your related work using BibSonomy & LLMs**|Tom Völker et.al.|[2401.09092](http://arxiv.org/abs/2401.09092)|null|
+|**2024-01-13**|**Combining Confidence Elicitation and Sample-based Methods for Uncertainty Quantification in Misinformation Mitigation**|Mauricio Rivera et.al.|[2401.08694](http://arxiv.org/abs/2401.08694)|null|
 |**2024-01-16**|**Ask the experts: sourcing high-quality datasets for nutritional counselling through Human-AI collaboration**|Simone Balloccu et.al.|[2401.08420](http://arxiv.org/abs/2401.08420)|**[link](https://github.com/uccollab/hai-coaching)**|
 |**2024-01-16**|**Hallucination Detection and Hallucination Mitigation: An Investigation**|Junliang Luo et.al.|[2401.08358](http://arxiv.org/abs/2401.08358)|null|
 |**2024-01-16**|**Large Language Models are Null-Shot Learners**|Pittawat Taveekitworachai et.al.|[2401.08273](http://arxiv.org/abs/2401.08273)|null|
 |**2024-01-15**|**The Pitfalls of Defining Hallucination**|Kees van Deemter et.al.|[2401.07897](http://arxiv.org/abs/2401.07897)|null|
 |**2024-01-15**|**The Chronicles of RAG: The Retriever, the Chunk and the Generator**|Paulo Finardi et.al.|[2401.07883](http://arxiv.org/abs/2401.07883)|null|
 |**2024-01-13**|**Dual-View Data Hallucination with Semantic Relation Guidance for Few-Shot Image Recognition**|Hefeng Wu et.al.|[2401.07061](http://arxiv.org/abs/2401.07061)|null|
-|**2024-01-12**|**Fine-grained Hallucination Detection and Editing for Language Models**|Abhika Mishra et.al.|[2401.06855](http://arxiv.org/abs/2401.06855)|null|
+|**2024-01-17**|**Fine-grained Hallucination Detection and Editing for Language Models**|Abhika Mishra et.al.|[2401.06855](http://arxiv.org/abs/2401.06855)|null|
 |**2024-01-11**|**Eyes Wide Shut? Exploring the Visual Shortcomings of Multimodal LLMs**|Shengbang Tong et.al.|[2401.06209](http://arxiv.org/abs/2401.06209)|null|
 |**2024-01-11**|**SH2: Self-Highlighted Hesitation Helps You Decode More Truthfully**|Jushi Kai et.al.|[2401.05930](http://arxiv.org/abs/2401.05930)|null|
 |**2024-01-11**|**Seven Failure Points When Engineering a Retrieval Augmented Generation System**|Scott Barnett et.al.|[2401.05856](http://arxiv.org/abs/2401.05856)|null|
