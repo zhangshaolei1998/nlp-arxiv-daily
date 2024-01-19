@@ -2214,6 +2214,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-18**|**Simultaneous Tactile Estimation and Control for Extrinsic Dexterity**|Antonia Bronars et.al.|[2401.10230](http://arxiv.org/abs/2401.10230)|null|
 |**2024-01-12**|**WisdoM: Improving Multimodal Sentiment Analysis by Fusing Contextual World Knowledge**|Wenbin Wang et.al.|[2401.06659](http://arxiv.org/abs/2401.06659)|null|
 |**2024-01-11**|**R-BI: Regularized Batched Inputs enhance Incremental Decoding Framework for Low-Latency Simultaneous Speech Translation**|Jiaxin Guo et.al.|[2401.05700](http://arxiv.org/abs/2401.05700)|null|
 |**2024-01-10**|**ANIM-400K: A Large-Scale Dataset for Automated End-To-End Dubbing of Video**|Kevin Cai et.al.|[2401.05314](http://arxiv.org/abs/2401.05314)|**[link](https://github.com/davidmchan/anim400k)**|
@@ -2246,6 +2247,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-18**|**Towards Language-Driven Video Inpainting via Multimodal Large Language Models**|Jianzong Wu et.al.|[2401.10226](http://arxiv.org/abs/2401.10226)|null|
+|**2024-01-18**|**ChatQA: Building GPT-4 Level Conversational QA Models**|Zihan Liu et.al.|[2401.10225](http://arxiv.org/abs/2401.10225)|null|
+|**2024-01-18**|**Beyond Reference-Based Metrics: Analyzing Behaviors of Open LLMs on Data-to-Text Generation**|Zdeněk Kasner et.al.|[2401.10186](http://arxiv.org/abs/2401.10186)|null|
+|**2024-01-18**|**Comparing Traditional and LLM-based Search for Image Geolocation**|Albatool Wazzan et.al.|[2401.10184](http://arxiv.org/abs/2401.10184)|null|
+|**2024-01-18**|**Spatial-Temporal Large Language Model for Traffic Prediction**|Chenxi Liu et.al.|[2401.10134](http://arxiv.org/abs/2401.10134)|null|
+|**2024-01-18**|**Marrying Adapters and Mixup to Efficiently Enhance the Adversarial Robustness of Pre-Trained Language Models for Text Classification**|Tuc Nguyen et.al.|[2401.10111](http://arxiv.org/abs/2401.10111)|null|
+|**2024-01-18**|**CLIP feature-based randomized control using images and text for multiple tasks and robots**|Kazuki Shibata et.al.|[2401.10085](http://arxiv.org/abs/2401.10085)|null|
+|**2024-01-18**|**Code Prompting Elicits Conditional Reasoning Abilities in Text+Code LLMs**|Haritz Puerto et.al.|[2401.10065](http://arxiv.org/abs/2401.10065)|**[link](https://github.com/ukplab/arxiv2024-conditional-reasoning-llms)**|
+|**2024-01-18**|**DiffusionGPT: LLM-Driven Text-to-Image Generation System**|Jie Qin et.al.|[2401.10061](http://arxiv.org/abs/2401.10061)|null|
+|**2024-01-18**|**CMFN: Cross-Modal Fusion Network for Irregular Scene Text Recognition**|Jinzhi Zheng et.al.|[2401.10041](http://arxiv.org/abs/2401.10041)|null|
 |**2024-01-17**|**Vlogger: Make Your Dream A Vlog**|Shaobin Zhuang et.al.|[2401.09414](http://arxiv.org/abs/2401.09414)|**[link](https://github.com/zhuangshaobin/vlogger)**|
 |**2024-01-17**|**POP-3D: Open-Vocabulary 3D Occupancy Prediction from Images**|Antonin Vobecky et.al.|[2401.09413](http://arxiv.org/abs/2401.09413)|null|
 |**2024-01-17**|**Deciphering Textual Authenticity: A Generalized Strategy through the Lens of Large Language Semantics for Detecting Human vs. Machine-Generated Text**|Mazal Bethany et.al.|[2401.09407](http://arxiv.org/abs/2401.09407)|null|
@@ -2579,8 +2590,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-18**|**Gender Bias in Machine Translation and The Era of Large Language Models**|Eva Vanmassenhove et.al.|[2401.10016](http://arxiv.org/abs/2401.10016)|null|
+|**2024-01-18**|**Gradable ChatGPT Translation Evaluation**|Hui Jiao et.al.|[2401.09984](http://arxiv.org/abs/2401.09984)|null|
+|**2024-01-17**|**ClimateGPT: Towards AI Synthesizing Interdisciplinary Research on Climate Change**|David Thulke et.al.|[2401.09646](http://arxiv.org/abs/2401.09646)|null|
 |**2024-01-16**|**Machine Translation with Large Language Models: Prompt Engineering for Persian, English, and Russian Directions**|Nooshin Pourkamali et.al.|[2401.08429](http://arxiv.org/abs/2401.08429)|null|
-|**2024-01-16**|**Contrastive Preference Optimization: Pushing the Boundaries of LLM Performance in Machine Translation**|Haoran Xu et.al.|[2401.08417](http://arxiv.org/abs/2401.08417)|**[link](https://github.com/fe1ixxu/alma)**|
+|**2024-01-18**|**Contrastive Preference Optimization: Pushing the Boundaries of LLM Performance in Machine Translation**|Haoran Xu et.al.|[2401.08417](http://arxiv.org/abs/2401.08417)|**[link](https://github.com/fe1ixxu/alma)**|
 |**2024-01-17**|**Salute the Classic: Revisiting Challenges of Machine Translation in the Age of Large Language Models**|Jianhui Pang et.al.|[2401.08350](http://arxiv.org/abs/2401.08350)|null|
 |**2024-01-16**|**Enhancing Document-level Translation of Large Language Model via Translation Mixed-instructions**|Yachao Li et.al.|[2401.08088](http://arxiv.org/abs/2401.08088)|null|
 |**2024-01-15**|**A Novel Approach for Automatic Program Repair using Round-Trip Translation with Large Language Models**|Fernando Vallecillos Ruiz et.al.|[2401.07994](http://arxiv.org/abs/2401.07994)|null|
@@ -2675,6 +2689,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-18**|**Communication-Efficient Personalized Federated Learning for Speech-to-Text Tasks**|Yichao Du et.al.|[2401.10070](http://arxiv.org/abs/2401.10070)|null|
 |**2024-01-11**|**R-BI: Regularized Batched Inputs enhance Incremental Decoding Framework for Low-Latency Simultaneous Speech Translation**|Jiaxin Guo et.al.|[2401.05700](http://arxiv.org/abs/2401.05700)|null|
 |**2023-12-23**|**TransFace: Unit-Based Audio-Visual Speech Synthesizer for Talking Head Translation**|Xize Cheng et.al.|[2312.15197](http://arxiv.org/abs/2312.15197)|null|
 |**2023-12-21**|**EmphAssess : a Prosodic Benchmark on Assessing Emphasis Transfer in Speech-to-Speech Models**|Maureen de Seyssel et.al.|[2312.14069](http://arxiv.org/abs/2312.14069)|**[link](https://github.com/facebookresearch/emphassess)**|
@@ -2699,6 +2714,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-18**|**Temporal Insight Enhancement: Mitigating Temporal Hallucination in Multimodal Large Language Models**|Li Sun et.al.|[2401.09861](http://arxiv.org/abs/2401.09861)|null|
+|**2024-01-18**|**On the Audio Hallucinations in Large Audio-Video Language Models**|Taichi Nishimura et.al.|[2401.09774](http://arxiv.org/abs/2401.09774)|null|
+|**2024-01-17**|**ClimateGPT: Towards AI Synthesizing Interdisciplinary Research on Climate Change**|David Thulke et.al.|[2401.09646](http://arxiv.org/abs/2401.09646)|null|
 |**2024-01-17**|**BibSonomy Meets ChatLLMs for Publication Management: From Chat to Publication Management: Organizing your related work using BibSonomy & LLMs**|Tom Völker et.al.|[2401.09092](http://arxiv.org/abs/2401.09092)|null|
 |**2024-01-13**|**Combining Confidence Elicitation and Sample-based Methods for Uncertainty Quantification in Misinformation Mitigation**|Mauricio Rivera et.al.|[2401.08694](http://arxiv.org/abs/2401.08694)|null|
 |**2024-01-16**|**Ask the experts: sourcing high-quality datasets for nutritional counselling through Human-AI collaboration**|Simone Balloccu et.al.|[2401.08420](http://arxiv.org/abs/2401.08420)|**[link](https://github.com/uccollab/hai-coaching)**|
