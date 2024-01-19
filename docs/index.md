@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.01.18
+## Updated on 2024.01.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2675,7 +2675,7 @@ layout: default
 |**2024-01-15**|**The Chronicles of RAG: The Retriever, the Chunk and the Generator**|Paulo Finardi et.al.|[2401.07883](http://arxiv.org/abs/2401.07883)|null|
 |**2024-01-13**|**Dual-View Data Hallucination with Semantic Relation Guidance for Few-Shot Image Recognition**|Hefeng Wu et.al.|[2401.07061](http://arxiv.org/abs/2401.07061)|null|
 |**2024-01-17**|**Fine-grained Hallucination Detection and Editing for Language Models**|Abhika Mishra et.al.|[2401.06855](http://arxiv.org/abs/2401.06855)|null|
-|**2024-01-11**|**Eyes Wide Shut? Exploring the Visual Shortcomings of Multimodal LLMs**|Shengbang Tong et.al.|[2401.06209](http://arxiv.org/abs/2401.06209)|null|
+|**2024-01-11**|**Eyes Wide Shut? Exploring the Visual Shortcomings of Multimodal LLMs**|Shengbang Tong et.al.|[2401.06209](http://arxiv.org/abs/2401.06209)|**[link](https://github.com/tsb0601/MMVP)**|
 |**2024-01-11**|**SH2: Self-Highlighted Hesitation Helps You Decode More Truthfully**|Jushi Kai et.al.|[2401.05930](http://arxiv.org/abs/2401.05930)|null|
 |**2024-01-11**|**Seven Failure Points When Engineering a Retrieval Augmented Generation System**|Scott Barnett et.al.|[2401.05856](http://arxiv.org/abs/2401.05856)|null|
 |**2024-01-11**|**Hallucination Benchmark in Medical Visual Question Answering**|Jinge Wu et.al.|[2401.05827](http://arxiv.org/abs/2401.05827)|null|
