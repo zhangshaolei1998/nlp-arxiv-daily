@@ -2214,7 +2214,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-01-18**|**Simultaneous Tactile Estimation and Control for Extrinsic Dexterity**|Antonia Bronars et.al.|[2401.10230](http://arxiv.org/abs/2401.10230)|null|
+|**2024-01-22**|**TEXterity: Tactile Extrinsic deXterity**|Antonia Bronars et.al.|[2401.10230](http://arxiv.org/abs/2401.10230)|null|
 |**2024-01-12**|**WisdoM: Improving Multimodal Sentiment Analysis by Fusing Contextual World Knowledge**|Wenbin Wang et.al.|[2401.06659](http://arxiv.org/abs/2401.06659)|null|
 |**2024-01-11**|**R-BI: Regularized Batched Inputs enhance Incremental Decoding Framework for Low-Latency Simultaneous Speech Translation**|Jiaxin Guo et.al.|[2401.05700](http://arxiv.org/abs/2401.05700)|null|
 |**2024-01-10**|**ANIM-400K: A Large-Scale Dataset for Automated End-To-End Dubbing of Video**|Kevin Cai et.al.|[2401.05314](http://arxiv.org/abs/2401.05314)|**[link](https://github.com/davidmchan/anim400k)**|
@@ -2247,6 +2247,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-22**|**Less Could Be Better: Parameter-efficient Fine-tuning Advances Medical Vision Foundation Models**|Chenyu Lian et.al.|[2401.12215](http://arxiv.org/abs/2401.12215)|**[link](https://github.com/rl4m/med-peft)**|
+|**2024-01-22**|**CheXagent: Towards a Foundation Model for Chest X-Ray Interpretation**|Zhihong Chen et.al.|[2401.12208](http://arxiv.org/abs/2401.12208)|null|
+|**2024-01-22**|**OK-Robot: What Really Matters in Integrating Open-Knowledge Models for Robotics**|Peiqi Liu et.al.|[2401.12202](http://arxiv.org/abs/2401.12202)|null|
+|**2024-01-22**|**APT: Adaptive Pruning and Tuning Pretrained Language Models for Efficient Training and Inference**|Bowen Zhao et.al.|[2401.12200](http://arxiv.org/abs/2401.12200)|null|
+|**2024-01-22**|**Text Embedding Inversion Attacks on Multilingual Language Models**|Yiyi Chen et.al.|[2401.12192](http://arxiv.org/abs/2401.12192)|null|
+|**2024-01-22**|**WARM: On the Benefits of Weight Averaged Reward Models**|Alexandre Ramé et.al.|[2401.12187](http://arxiv.org/abs/2401.12187)|null|
+|**2024-01-22**|**Universal Neurons in GPT2 Language Models**|Wes Gurnee et.al.|[2401.12181](http://arxiv.org/abs/2401.12181)|**[link](https://github.com/wesg52/universal-neurons)**|
+|**2024-01-22**|**In-Context Learning for Extreme Multi-Label Classification**|Karel D'Oosterlinck et.al.|[2401.12178](http://arxiv.org/abs/2401.12178)|null|
+|**2024-01-22**|**SpatialVLM: Endowing Vision-Language Models with Spatial Reasoning Capabilities**|Boyuan Chen et.al.|[2401.12168](http://arxiv.org/abs/2401.12168)|null|
+|**2024-01-22**|**Anisotropy Is Inherent to Self-Attention in Transformers**|Nathan Godey et.al.|[2401.12143](http://arxiv.org/abs/2401.12143)|null|
 |**2024-01-19**|**Reinforcement learning for question answering in programming domain using public community scoring as a human feedback**|Alexey Gorbatovski et.al.|[2401.10882](http://arxiv.org/abs/2401.10882)|null|
 |**2024-01-19**|**Pruning for Protection: Increasing Jailbreak Resistance in Aligned LLMs Without Fine-Tuning**|Adib Hasan et.al.|[2401.10862](http://arxiv.org/abs/2401.10862)|null|
 |**2024-01-19**|**Emotion Classification In Software Engineering Texts: A Comparative Analysis of Pre-trained Transformers Language Models**|Mia Mohammad Imran et.al.|[2401.10845](http://arxiv.org/abs/2401.10845)|null|
@@ -2600,6 +2610,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-22**|**An Empirical Analysis of In-context Learning Abilities of LLMs for MT**|Pranjal A. Chitale et.al.|[2401.12097](http://arxiv.org/abs/2401.12097)|null|
 |**2024-01-18**|**Gender Bias in Machine Translation and The Era of Large Language Models**|Eva Vanmassenhove et.al.|[2401.10016](http://arxiv.org/abs/2401.10016)|null|
 |**2024-01-18**|**Gradable ChatGPT Translation Evaluation**|Hui Jiao et.al.|[2401.09984](http://arxiv.org/abs/2401.09984)|null|
 |**2024-01-17**|**ClimateGPT: Towards AI Synthesizing Interdisciplinary Research on Climate Change**|David Thulke et.al.|[2401.09646](http://arxiv.org/abs/2401.09646)|null|
@@ -2724,6 +2735,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-22**|**Hallucination is Inevitable: An Innate Limitation of Large Language Models**|Ziwei Xu et.al.|[2401.11817](http://arxiv.org/abs/2401.11817)|null|
+|**2024-01-21**|**Towards Reliable and Factual Response Generation: Detecting Unanswerable Questions in Information-Seeking Conversations**|Weronika Łajewska et.al.|[2401.11452](http://arxiv.org/abs/2401.11452)|**[link](https://github.com/iai-group/answerability-prediction)**|
 |**2024-01-19**|**Synthesizing Moving People with 3D Control**|Boyi Li et.al.|[2401.10889](http://arxiv.org/abs/2401.10889)|null|
 |**2024-01-19**|**An AI-Resilient Text Rendering Technique for Reading and Skimming Documents**|Ziwei Gu et.al.|[2401.10873](http://arxiv.org/abs/2401.10873)|null|
 |**2024-01-19**|**Mitigating Hallucinations of Large Language Models via Knowledge Consistent Alignment**|Fanqi Wan et.al.|[2401.10768](http://arxiv.org/abs/2401.10768)|null|
