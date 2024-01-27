@@ -2220,7 +2220,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-01-25**|**TURNA: A Turkish Encoder-Decoder Language Model for Enhanced Understanding and Generation**|Gökçe Uludoğan et.al.|[2401.14373](http://arxiv.org/abs/2401.14373)|null|
+|**2024-01-25**|**TURNA: A Turkish Encoder-Decoder Language Model for Enhanced Understanding and Generation**|Gökçe Uludoğan et.al.|[2401.14373](http://arxiv.org/abs/2401.14373)|**[link](https://github.com/boun-tabi-lmg/turkish-lm-tuner)**|
 |**2024-01-25**|**The Typing Cure: Experiences with Large Language Model Chatbots for Mental Health Support**|Inhwa Song et.al.|[2401.14362](http://arxiv.org/abs/2401.14362)|null|
 |**2024-01-25**|**ServerlessLLM: Locality-Enhanced Serverless Inference for Large Language Models**|Yao Fu et.al.|[2401.14351](http://arxiv.org/abs/2401.14351)|null|
 |**2024-01-25**|**Topologies of Reasoning: Demystifying Chains, Trees, and Graphs of Thoughts**|Maciej Besta et.al.|[2401.14295](http://arxiv.org/abs/2401.14295)|null|
