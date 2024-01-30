@@ -2247,6 +2247,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-29**|**InternLM-XComposer2: Mastering Free-form Text-Image Composition and Comprehension in Vision-Language Large Model**|Xiaoyi Dong et.al.|[2401.16420](http://arxiv.org/abs/2401.16420)|null|
+|**2024-01-29**|**Scaling Sparse Fine-Tuning to Large Language Models**|Alan Ansell et.al.|[2401.16405](http://arxiv.org/abs/2401.16405)|null|
+|**2024-01-29**|**Rephrasing the Web: A Recipe for Compute and Data-Efficient Language Modeling**|Pratyush Maini et.al.|[2401.16380](http://arxiv.org/abs/2401.16380)|null|
+|**2024-01-29**|**TQCompressor: improving tensor decomposition methods in neural networks via permutations**|V. Abronin et.al.|[2401.16367](http://arxiv.org/abs/2401.16367)|null|
+|**2024-01-29**|**The role of library versions in Developer-ChatGPT conversations**|Rachna Raj et.al.|[2401.16340](http://arxiv.org/abs/2401.16340)|null|
+|**2024-01-29**|**Iterative Data Smoothing: Mitigating Reward Overfitting and Overoptimization in RLHF**|Banghua Zhu et.al.|[2401.16335](http://arxiv.org/abs/2401.16335)|null|
+|**2024-01-29**|**Tradeoffs Between Alignment and Helpfulness in Language Models**|Yotam Wolf et.al.|[2401.16332](http://arxiv.org/abs/2401.16332)|null|
+|**2024-01-29**|**Machine Translation Meta Evaluation through Translation Accuracy Challenge Sets**|Nikita Moghe et.al.|[2401.16313](http://arxiv.org/abs/2401.16313)|null|
+|**2024-01-29**|**Security Code Review by LLMs: A Deep Dive into Responses**|Jiaxin Yu et.al.|[2401.16310](http://arxiv.org/abs/2401.16310)|null|
+|**2024-01-29**|**Textual Entailment for Effective Triple Validation in Object Prediction**|Andrés García-Silva et.al.|[2401.16293](http://arxiv.org/abs/2401.16293)|null|
 |**2024-01-26**|**EAGLE: Speculative Sampling Requires Rethinking Feature Uncertainty**|Yuhui Li et.al.|[2401.15077](http://arxiv.org/abs/2401.15077)|null|
 |**2024-01-26**|**From GPT-4 to Gemini and Beyond: Assessing the Landscape of MLLMs on Generalizability, Trustworthiness and Causality through Four Modalities**|Chaochao Lu et.al.|[2401.15071](http://arxiv.org/abs/2401.15071)|null|
 |**2024-01-26**|**Health Text Simplification: An Annotated Corpus for Digestive Cancer Education and Novel Strategies for Reinforcement Learning**|Md Mushfiqur Rahman et.al.|[2401.15043](http://arxiv.org/abs/2401.15043)|null|
@@ -2650,8 +2660,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-29**|**Machine Translation Meta Evaluation through Translation Accuracy Challenge Sets**|Nikita Moghe et.al.|[2401.16313](http://arxiv.org/abs/2401.16313)|null|
+|**2024-01-29**|**Towards Red Teaming in Multimodal and Multilingual Translation**|Christophe Ropers et.al.|[2401.16247](http://arxiv.org/abs/2401.16247)|null|
+|**2024-01-29**|**MultiMUC: Multilingual Template Filling on MUC-4**|William Gantt et.al.|[2401.16209](http://arxiv.org/abs/2401.16209)|null|
+|**2024-01-29**|**Non-Fluent Synthetic Target-Language Data Improve Neural Machine Translation**|Víctor M. Sánchez-Cartagena et.al.|[2401.16086](http://arxiv.org/abs/2401.16086)|null|
+|**2024-01-29**|**Understanding the effects of word-level linguistic annotations in under-resourced neural machine translation**|Víctor M. Sánchez-Cartagena et.al.|[2401.16078](http://arxiv.org/abs/2401.16078)|null|
+|**2024-01-29**|**Stolen Subwords: Importance of Vocabularies for Machine Translation Model Stealing**|Vilém Zouhar et.al.|[2401.16055](http://arxiv.org/abs/2401.16055)|null|
+|**2024-01-29**|**Finding Challenging Metaphors that Confuse Pretrained Language Models**|Yucheng Li et.al.|[2401.16012](http://arxiv.org/abs/2401.16012)|null|
+|**2024-01-27**|**Importance-Aware Data Augmentation for Document-Level Neural Machine Translation**|Minghao Wu et.al.|[2401.15360](http://arxiv.org/abs/2401.15360)|null|
 |**2024-01-25**|**Language Modelling Approaches to Adaptive Machine Translation**|Yasmin Moslem et.al.|[2401.14559](http://arxiv.org/abs/2401.14559)|null|
-|**2024-01-24**|**Misgendering and Assuming Gender in Machine Translation when Working with Low-Resource Languages**|Sourojit Ghosh et.al.|[2401.13165](http://arxiv.org/abs/2401.13165)|null|
+|**2024-01-27**|**Misgendering and Assuming Gender in Machine Translation when Working with Low-Resource Languages**|Sourojit Ghosh et.al.|[2401.13165](http://arxiv.org/abs/2401.13165)|null|
 |**2024-01-23**|**Improving Machine Translation with Human Feedback: An Exploration of Quality Estimation as a Reward Model**|Zhiwei He et.al.|[2401.12873](http://arxiv.org/abs/2401.12873)|null|
 |**2024-01-22**|**How Far Can 100 Samples Go? Unlocking Overall Zero-Shot Multilingual Translation via Tiny Multi-Parallel Data**|Di Wu et.al.|[2401.12413](http://arxiv.org/abs/2401.12413)|null|
 |**2024-01-22**|**An Empirical Analysis of In-context Learning Abilities of LLMs for MT**|Pranjal A. Chitale et.al.|[2401.12097](http://arxiv.org/abs/2401.12097)|null|
@@ -2780,6 +2798,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-29**|**Non-Fluent Synthetic Target-Language Data Improve Neural Machine Translation**|Víctor M. Sánchez-Cartagena et.al.|[2401.16086](http://arxiv.org/abs/2401.16086)|null|
+|**2024-01-29**|**MoE-LLaVA: Mixture of Experts for Large Vision-Language Models**|Bin Lin et.al.|[2401.15947](http://arxiv.org/abs/2401.15947)|**[link](https://github.com/PKU-YuanGroup/MoE-LLaVA)**|
+|**2024-01-29**|**Corrective Retrieval Augmented Generation**|Shi-Qi Yan et.al.|[2401.15884](http://arxiv.org/abs/2401.15884)|null|
+|**2024-01-27**|**Style-News: Incorporating Stylized News Generation and Adversarial Verification for Neural Fake News Detection**|Wei-Yao Wang et.al.|[2401.15509](http://arxiv.org/abs/2401.15509)|null|
+|**2024-01-27**|**Learning to Trust Your Feelings: Leveraging Self-awareness in LLMs for Hallucination Mitigation**|Yuxin Liang et.al.|[2401.15449](http://arxiv.org/abs/2401.15449)|null|
+|**2024-01-27**|**MultiHop-RAG: Benchmarking Retrieval-Augmented Generation for Multi-Hop Queries**|Yixuan Tang et.al.|[2401.15391](http://arxiv.org/abs/2401.15391)|**[link](https://github.com/yixuantt/MultiHop-RAG)**|
+|**2024-01-27**|**A RAG-based Question Answering System Proposal for Understanding Islam: MufassirQAS LLM**|Ahmet Yusuf Alan et.al.|[2401.15378](http://arxiv.org/abs/2401.15378)|null|
+|**2024-01-27**|**Face to Cartoon Incremental Super-Resolution using Knowledge Distillation**|Trinetra Devkatte et.al.|[2401.15366](http://arxiv.org/abs/2401.15366)|null|
+|**2024-01-27**|**Equipping Language Models with Tool Use Capability for Tabular Data Analysis in Finance**|Adrian Theuma et.al.|[2401.15328](http://arxiv.org/abs/2401.15328)|null|
 |**2024-01-25**|**K-QA: A Real-World Medical Q&A Benchmark**|Itay Manes et.al.|[2401.14493](http://arxiv.org/abs/2401.14493)|null|
 |**2024-01-26**|**VALL-T: Decoder-Only Generative Transducer for Robust and Decoding-Controllable Text-to-Speech**|Chenpeng Du et.al.|[2401.14321](http://arxiv.org/abs/2401.14321)|null|
 |**2024-01-24**|**Fine-grained Contract NER using instruction based model**|Hiranmai Sri Adibhatla et.al.|[2401.13545](http://arxiv.org/abs/2401.13545)|**[link](https://github.com/pavanbaswani/fincausal_sharedtask-2023)**|
