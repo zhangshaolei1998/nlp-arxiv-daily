@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.01.31
+## Updated on 2024.02.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2226,7 +2226,7 @@ layout: default
 |**2024-01-30**|**Weak-to-Strong Jailbreaking on Large Language Models**|Xuandong Zhao et.al.|[2401.17256](http://arxiv.org/abs/2401.17256)|**[link](https://github.com/xuandongzhao/weak-to-strong)**|
 |**2024-01-30**|**LLaMP: Large Language Model Made Powerful for High-fidelity Materials Knowledge Retrieval and Distillation**|Yuan Chiang et.al.|[2401.17244](http://arxiv.org/abs/2401.17244)|null|
 |**2024-01-30**|**Morality is Non-Binary: Building a Pluralist Moral Sentence Embedding Space using Contrastive Learning**|Jeongwoo Park et.al.|[2401.17228](http://arxiv.org/abs/2401.17228)|**[link](https://github.com/jeongwoopark0514/morality-is-non-binary)**|
-|**2024-01-30**|**MouSi: Poly-Visual-Expert Vision-Language Models**|Xiaoran Fan et.al.|[2401.17221](http://arxiv.org/abs/2401.17221)|null|
+|**2024-01-30**|**MouSi: Poly-Visual-Expert Vision-Language Models**|Xiaoran Fan et.al.|[2401.17221](http://arxiv.org/abs/2401.17221)|**[link](https://github.com/fudannlplab/mousi)**|
 |**2024-01-30**|**GazeGPT: Augmenting Human Capabilities using Gaze-contingent Contextual AI for Smart Eyewear**|Robert Konrad et.al.|[2401.17217](http://arxiv.org/abs/2401.17217)|null|
 |**2024-01-30**|**Data-efficient Fine-tuning for LLM-based Recommendation**|Xinyu Lin et.al.|[2401.17197](http://arxiv.org/abs/2401.17197)|null|
 |**2024-01-30**|**Transfer Learning for Text Diffusion Models**|Kehang Han et.al.|[2401.17181](http://arxiv.org/abs/2401.17181)|null|
@@ -2646,10 +2646,10 @@ layout: default
 |**2024-01-29**|**Massively Multilingual Text Translation For Low-Resource Languages**|Zhong Zhou et.al.|[2401.16582](http://arxiv.org/abs/2401.16582)|null|
 |**2024-01-29**|**Machine Translation Meta Evaluation through Translation Accuracy Challenge Sets**|Nikita Moghe et.al.|[2401.16313](http://arxiv.org/abs/2401.16313)|null|
 |**2024-01-29**|**Towards Red Teaming in Multimodal and Multilingual Translation**|Christophe Ropers et.al.|[2401.16247](http://arxiv.org/abs/2401.16247)|null|
-|**2024-01-29**|**MultiMUC: Multilingual Template Filling on MUC-4**|William Gantt et.al.|[2401.16209](http://arxiv.org/abs/2401.16209)|null|
-|**2024-01-29**|**Non-Fluent Synthetic Target-Language Data Improve Neural Machine Translation**|Víctor M. Sánchez-Cartagena et.al.|[2401.16086](http://arxiv.org/abs/2401.16086)|null|
+|**2024-01-29**|**MultiMUC: Multilingual Template Filling on MUC-4**|William Gantt et.al.|[2401.16209](http://arxiv.org/abs/2401.16209)|**[link](https://github.com/wgantt/multimuc)**|
+|**2024-01-29**|**Non-Fluent Synthetic Target-Language Data Improve Neural Machine Translation**|Víctor M. Sánchez-Cartagena et.al.|[2401.16086](http://arxiv.org/abs/2401.16086)|**[link](https://github.com/transducens/matilda)**|
 |**2024-01-29**|**Understanding the effects of word-level linguistic annotations in under-resourced neural machine translation**|Víctor M. Sánchez-Cartagena et.al.|[2401.16078](http://arxiv.org/abs/2401.16078)|null|
-|**2024-01-29**|**Stolen Subwords: Importance of Vocabularies for Machine Translation Model Stealing**|Vilém Zouhar et.al.|[2401.16055](http://arxiv.org/abs/2401.16055)|null|
+|**2024-01-29**|**Stolen Subwords: Importance of Vocabularies for Machine Translation Model Stealing**|Vilém Zouhar et.al.|[2401.16055](http://arxiv.org/abs/2401.16055)|**[link](https://github.com/zouharvi/vocab-stealing)**|
 |**2024-01-29**|**Finding Challenging Metaphors that Confuse Pretrained Language Models**|Yucheng Li et.al.|[2401.16012](http://arxiv.org/abs/2401.16012)|null|
 |**2024-01-27**|**Importance-Aware Data Augmentation for Document-Level Neural Machine Translation**|Minghao Wu et.al.|[2401.15360](http://arxiv.org/abs/2401.15360)|null|
 |**2024-01-25**|**Language Modelling Approaches to Adaptive Machine Translation**|Yasmin Moslem et.al.|[2401.14559](http://arxiv.org/abs/2401.14559)|null|
@@ -2779,11 +2779,11 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-01-30**|**LLaMP: Large Language Model Made Powerful for High-fidelity Materials Knowledge Retrieval and Distillation**|Yuan Chiang et.al.|[2401.17244](http://arxiv.org/abs/2401.17244)|null|
-|**2024-01-30**|**CRUD-RAG: A Comprehensive Chinese Benchmark for Retrieval-Augmented Generation of Large Language Models**|Yuanjie Lyu et.al.|[2401.17043](http://arxiv.org/abs/2401.17043)|null|
+|**2024-01-30**|**CRUD-RAG: A Comprehensive Chinese Benchmark for Retrieval-Augmented Generation of Large Language Models**|Yuanjie Lyu et.al.|[2401.17043](http://arxiv.org/abs/2401.17043)|**[link](https://github.com/iaar-shanghai/crud_rag)**|
 |**2024-01-29**|**Democratizing the Creation of Animatable Facial Avatars**|Yilin Zhu et.al.|[2401.16534](http://arxiv.org/abs/2401.16534)|null|
-|**2024-01-29**|**Non-Fluent Synthetic Target-Language Data Improve Neural Machine Translation**|Víctor M. Sánchez-Cartagena et.al.|[2401.16086](http://arxiv.org/abs/2401.16086)|null|
+|**2024-01-29**|**Non-Fluent Synthetic Target-Language Data Improve Neural Machine Translation**|Víctor M. Sánchez-Cartagena et.al.|[2401.16086](http://arxiv.org/abs/2401.16086)|**[link](https://github.com/transducens/matilda)**|
 |**2024-01-29**|**MoE-LLaVA: Mixture of Experts for Large Vision-Language Models**|Bin Lin et.al.|[2401.15947](http://arxiv.org/abs/2401.15947)|**[link](https://github.com/PKU-YuanGroup/MoE-LLaVA)**|
-|**2024-01-29**|**Corrective Retrieval Augmented Generation**|Shi-Qi Yan et.al.|[2401.15884](http://arxiv.org/abs/2401.15884)|null|
+|**2024-01-29**|**Corrective Retrieval Augmented Generation**|Shi-Qi Yan et.al.|[2401.15884](http://arxiv.org/abs/2401.15884)|**[link](https://github.com/huskyinsalt/crag)**|
 |**2024-01-27**|**Style-News: Incorporating Stylized News Generation and Adversarial Verification for Neural Fake News Detection**|Wei-Yao Wang et.al.|[2401.15509](http://arxiv.org/abs/2401.15509)|null|
 |**2024-01-27**|**Learning to Trust Your Feelings: Leveraging Self-awareness in LLMs for Hallucination Mitigation**|Yuxin Liang et.al.|[2401.15449](http://arxiv.org/abs/2401.15449)|null|
 |**2024-01-27**|**MultiHop-RAG: Benchmarking Retrieval-Augmented Generation for Multi-Hop Queries**|Yixuan Tang et.al.|[2401.15391](http://arxiv.org/abs/2401.15391)|**[link](https://github.com/yixuantt/MultiHop-RAG)**|
