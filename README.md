@@ -2247,6 +2247,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-01**|**Evaluating Large Language Models for Generalization and Robustness via Data Compression**|Yucheng Li et.al.|[2402.00861](http://arxiv.org/abs/2402.00861)|null|
+|**2024-02-01**|**Can Large Language Models Understand Context?**|Yilun Zhu et.al.|[2402.00858](http://arxiv.org/abs/2402.00858)|null|
+|**2024-02-01**|**Towards Efficient and Exact Optimization of Language Model Alignment**|Haozhe Ji et.al.|[2402.00856](http://arxiv.org/abs/2402.00856)|null|
+|**2024-02-01**|**SymbolicAI: A framework for logic-based approaches combining generative models and solvers**|Marius-Constantin Dinu et.al.|[2402.00854](http://arxiv.org/abs/2402.00854)|**[link](https://github.com/extensityai/benchmark)**|
+|**2024-02-01**|**Tiny Titans: Can Smaller Large Language Models Punch Above Their Weight in the Real World for Meeting Summarization?**|Xue-Yong Fu et.al.|[2402.00841](http://arxiv.org/abs/2402.00841)|null|
+|**2024-02-01**|**OLMo: Accelerating the Science of Language Models**|Dirk Groeneveld et.al.|[2402.00838](http://arxiv.org/abs/2402.00838)|null|
+|**2024-02-01**|**Common errors in Generative AI systems used for knowledge extraction in the climate action domain**|Denis Havlik et.al.|[2402.00830](http://arxiv.org/abs/2402.00830)|null|
+|**2024-02-01**|**Formal-LLM: Integrating Formal Language and Natural Language for Controllable LLM-based Agents**|Zelong Li et.al.|[2402.00798](http://arxiv.org/abs/2402.00798)|**[link](https://github.com/agiresearch/formal-llm)**|
+|**2024-02-01**|**LLMs learn governing principles of dynamical systems, revealing an in-context neural scaling law**|Toni J. B. Liu et.al.|[2402.00795](http://arxiv.org/abs/2402.00795)|null|
+|**2024-02-01**|**ReAGent: Towards A Model-agnostic Feature Attribution Method for Generative Language Models**|Zhixue Zhao et.al.|[2402.00794](http://arxiv.org/abs/2402.00794)|null|
 |**2024-01-31**|**Do Language Models Exhibit the Same Cognitive Biases in Problem Solving as Human Learners?**|Andreas Opedal et.al.|[2401.18070](http://arxiv.org/abs/2401.18070)|null|
 |**2024-01-31**|**Neural Locality Sensitive Hashing for Entity Blocking**|Runhui Wang et.al.|[2401.18064](http://arxiv.org/abs/2401.18064)|null|
 |**2024-01-31**|**RAPTOR: Recursive Abstractive Processing for Tree-Organized Retrieval**|Parth Sarthi et.al.|[2401.18059](http://arxiv.org/abs/2401.18059)|null|
@@ -2680,11 +2690,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-01**|**Non-Exchangeable Conformal Language Generation with Nearest Neighbors**|Dennis Ulmer et.al.|[2402.00707](http://arxiv.org/abs/2402.00707)|**[link](https://github.com/kaleidophon/non-exchangeable-conformal-language-generation)**|
 |**2024-01-31**|**Neural Machine Translation for Malayalam Paraphrase Generation**|Christeena Varghese et.al.|[2401.17827](http://arxiv.org/abs/2401.17827)|null|
 |**2024-01-30**|**Transfer Learning for Text Diffusion Models**|Kehang Han et.al.|[2401.17181](http://arxiv.org/abs/2401.17181)|null|
 |**2024-01-30**|**MT-Ranker: Reference-free machine translation evaluation by inter-system ranking**|Ibraheem Muhammad Moosa et.al.|[2401.17099](http://arxiv.org/abs/2401.17099)|**[link](https://github.com/ibraheem-moosa/mt-ranker)**|
 |**2024-01-29**|**Massively Multilingual Text Translation For Low-Resource Languages**|Zhong Zhou et.al.|[2401.16582](http://arxiv.org/abs/2401.16582)|null|
-|**2024-01-29**|**Machine Translation Meta Evaluation through Translation Accuracy Challenge Sets**|Nikita Moghe et.al.|[2401.16313](http://arxiv.org/abs/2401.16313)|null|
+|**2024-01-29**|**Machine Translation Meta Evaluation through Translation Accuracy Challenge Sets**|Nikita Moghe et.al.|[2401.16313](http://arxiv.org/abs/2401.16313)|**[link](https://github.com/edinburghnlp/aces)**|
 |**2024-01-29**|**Towards Red Teaming in Multimodal and Multilingual Translation**|Christophe Ropers et.al.|[2401.16247](http://arxiv.org/abs/2401.16247)|null|
 |**2024-01-29**|**MultiMUC: Multilingual Template Filling on MUC-4**|William Gantt et.al.|[2401.16209](http://arxiv.org/abs/2401.16209)|**[link](https://github.com/wgantt/multimuc)**|
 |**2024-01-29**|**Non-Fluent Synthetic Target-Language Data Improve Neural Machine Translation**|Víctor M. Sánchez-Cartagena et.al.|[2401.16086](http://arxiv.org/abs/2401.16086)|**[link](https://github.com/transducens/matilda)**|
@@ -2796,6 +2807,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-01**|**Prosody in Cascade and Direct Speech-to-Text Translation: a case study on Korean Wh-Phrases**|Giulio Zhou et.al.|[2402.00632](http://arxiv.org/abs/2402.00632)|null|
 |**2024-01-17**|**TranSentence: Speech-to-speech Translation via Language-agnostic Sentence-level Speech Encoding without Language-parallel Data**|Seung-Bin Kim et.al.|[2401.12992](http://arxiv.org/abs/2401.12992)|null|
 |**2024-01-18**|**Communication-Efficient Personalized Federated Learning for Speech-to-Text Tasks**|Yichao Du et.al.|[2401.10070](http://arxiv.org/abs/2401.10070)|null|
 |**2024-01-11**|**R-BI: Regularized Batched Inputs enhance Incremental Decoding Framework for Low-Latency Simultaneous Speech Translation**|Jiaxin Guo et.al.|[2401.05700](http://arxiv.org/abs/2401.05700)|null|
@@ -2822,6 +2834,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-01**|**Non-Exchangeable Conformal Language Generation with Nearest Neighbors**|Dennis Ulmer et.al.|[2402.00707](http://arxiv.org/abs/2402.00707)|**[link](https://github.com/kaleidophon/non-exchangeable-conformal-language-generation)**|
+|**2024-02-01**|**Learning Planning-based Reasoning by Trajectories Collection and Process Reward Synthesizing**|Fangkai Jiao et.al.|[2402.00658](http://arxiv.org/abs/2402.00658)|null|
+|**2024-02-01**|**Instruction Makes a Difference**|Tosin Adewumi et.al.|[2402.00453](http://arxiv.org/abs/2402.00453)|**[link](https://github.com/ltu-machine-learning/idocvqa)**|
+|**2024-02-01**|**Don't Hallucinate, Abstain: Identifying LLM Knowledge Gaps via Multi-LLM Collaboration**|Shangbin Feng et.al.|[2402.00367](http://arxiv.org/abs/2402.00367)|null|
+|**2024-02-01**|**A Survey on Hallucination in Large Vision-Language Models**|Hanchao Liu et.al.|[2402.00253](http://arxiv.org/abs/2402.00253)|null|
+|**2024-02-01**|**Efficient Non-Parametric Uncertainty Quantification for Black-Box Large Language Models and Decision Planning**|Yao-Hung Hubert Tsai et.al.|[2402.00251](http://arxiv.org/abs/2402.00251)|null|
 |**2024-01-31**|**Enhancing Multimodal Large Language Models with Vision Detection Models: An Empirical Study**|Qirui Jiao et.al.|[2401.17981](http://arxiv.org/abs/2401.17981)|null|
 |**2024-01-31**|**GUMsley: Evaluating Entity Salience in Summarization for 12 English Genres**|Jessica Lin et.al.|[2401.17974](http://arxiv.org/abs/2401.17974)|null|
 |**2024-01-30**|**LLaMP: Large Language Model Made Powerful for High-fidelity Materials Knowledge Retrieval and Distillation**|Yuan Chiang et.al.|[2401.17244](http://arxiv.org/abs/2401.17244)|null|
