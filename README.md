@@ -2252,7 +2252,7 @@
 |**2024-02-01**|**Towards Efficient and Exact Optimization of Language Model Alignment**|Haozhe Ji et.al.|[2402.00856](http://arxiv.org/abs/2402.00856)|null|
 |**2024-02-01**|**SymbolicAI: A framework for logic-based approaches combining generative models and solvers**|Marius-Constantin Dinu et.al.|[2402.00854](http://arxiv.org/abs/2402.00854)|**[link](https://github.com/extensityai/benchmark)**|
 |**2024-02-01**|**Tiny Titans: Can Smaller Large Language Models Punch Above Their Weight in the Real World for Meeting Summarization?**|Xue-Yong Fu et.al.|[2402.00841](http://arxiv.org/abs/2402.00841)|null|
-|**2024-02-01**|**OLMo: Accelerating the Science of Language Models**|Dirk Groeneveld et.al.|[2402.00838](http://arxiv.org/abs/2402.00838)|null|
+|**2024-02-01**|**OLMo: Accelerating the Science of Language Models**|Dirk Groeneveld et.al.|[2402.00838](http://arxiv.org/abs/2402.00838)|**[link](https://github.com/allenai/olmo)**|
 |**2024-02-01**|**Common errors in Generative AI systems used for knowledge extraction in the climate action domain**|Denis Havlik et.al.|[2402.00830](http://arxiv.org/abs/2402.00830)|null|
 |**2024-02-01**|**Formal-LLM: Integrating Formal Language and Natural Language for Controllable LLM-based Agents**|Zelong Li et.al.|[2402.00798](http://arxiv.org/abs/2402.00798)|**[link](https://github.com/agiresearch/formal-llm)**|
 |**2024-02-01**|**LLMs learn governing principles of dynamical systems, revealing an in-context neural scaling law**|Toni J. B. Liu et.al.|[2402.00795](http://arxiv.org/abs/2402.00795)|null|
