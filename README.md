@@ -2247,6 +2247,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-02**|**TravelPlanner: A Benchmark for Real-World Planning with Language Agents**|Jian Xie et.al.|[2402.01622](http://arxiv.org/abs/2402.01622)|null|
+|**2024-02-02**|**Stochastic Two Points Method for Deep Model Zeroth-order Optimization**|Yijiang Pang et.al.|[2402.01621](http://arxiv.org/abs/2402.01621)|null|
+|**2024-02-02**|**MAGDi: Structured Distillation of Multi-Agent Interaction Graphs Improves Reasoning in Smaller Language Models**|Justin Chih-Yao Chen et.al.|[2402.01620](http://arxiv.org/abs/2402.01620)|**[link](https://github.com/dinobby/magdi)**|
+|**2024-02-02**|**KB-Plugin: A Plug-and-play Framework for Large Language Models to Induce Programs over Low-resourced Knowledge Bases**|Jiajie Zhang et.al.|[2402.01619](http://arxiv.org/abs/2402.01619)|**[link](https://github.com/thu-keg/kb-plugin)**|
+|**2024-02-02**|**Style Vectors for Steering Generative Large Language Model**|Kai Konen et.al.|[2402.01618](http://arxiv.org/abs/2402.01618)|**[link](https://github.com/dlr-sc/style-vectors-for-steering-llms)**|
+|**2024-02-02**|**Foundation Model Sherpas: Guiding Foundation Models through Knowledge and Reasoning**|Debarun Bhattacharjya et.al.|[2402.01602](http://arxiv.org/abs/2402.01602)|null|
+|**2024-02-02**|**BAT: Learning to Reason about Spatial Sounds with Large Language Models**|Zhisheng Zheng et.al.|[2402.01591](http://arxiv.org/abs/2402.01591)|null|
+|**2024-02-02**|**Deep Active Learning for Data Mining from Conflict Text Corpora**|Mihai Croicu et.al.|[2402.01577](http://arxiv.org/abs/2402.01577)|null|
+|**2024-02-02**|**Homogenization Effects of Large Language Models on Human Creative Ideation**|Barrett R. Anderson et.al.|[2402.01536](http://arxiv.org/abs/2402.01536)|null|
+|**2024-02-02**|**Decoding Speculative Decoding**|Minghao Yan et.al.|[2402.01528](http://arxiv.org/abs/2402.01528)|null|
 |**2024-02-01**|**Evaluating Large Language Models for Generalization and Robustness via Data Compression**|Yucheng Li et.al.|[2402.00861](http://arxiv.org/abs/2402.00861)|null|
 |**2024-02-01**|**Can Large Language Models Understand Context?**|Yilun Zhu et.al.|[2402.00858](http://arxiv.org/abs/2402.00858)|null|
 |**2024-02-01**|**Towards Efficient and Exact Optimization of Language Model Alignment**|Haozhe Ji et.al.|[2402.00856](http://arxiv.org/abs/2402.00856)|null|
@@ -2690,6 +2700,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-02**|**Sequence Shortening for Context-Aware Machine Translation**|Paweł Mąka et.al.|[2402.01416](http://arxiv.org/abs/2402.01416)|null|
 |**2024-02-01**|**Non-Exchangeable Conformal Language Generation with Nearest Neighbors**|Dennis Ulmer et.al.|[2402.00707](http://arxiv.org/abs/2402.00707)|**[link](https://github.com/kaleidophon/non-exchangeable-conformal-language-generation)**|
 |**2024-01-31**|**Neural Machine Translation for Malayalam Paraphrase Generation**|Christeena Varghese et.al.|[2401.17827](http://arxiv.org/abs/2401.17827)|null|
 |**2024-01-30**|**Transfer Learning for Text Diffusion Models**|Kehang Han et.al.|[2401.17181](http://arxiv.org/abs/2401.17181)|null|
@@ -2834,6 +2845,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-02**|**A Comparative Analysis of Conversational Large Language Models in Knowledge-Based Text Generation**|Phillip Schneider et.al.|[2402.01495](http://arxiv.org/abs/2402.01495)|**[link](https://github.com/sebischair/llm-kg-d2t)**|
+|**2024-02-02**|**Skip $\textbackslash n$ : A simple method to reduce hallucination in Large Vision-Language Models**|Zongbo Han et.al.|[2402.01345](http://arxiv.org/abs/2402.01345)|**[link](https://github.com/hanmenghan/mihio)**|
+|**2024-02-02**|**Towards a Unified Language Model for Knowledge-Intensive Tasks Utilizing External Corpus**|Xiaoxi Li et.al.|[2402.01176](http://arxiv.org/abs/2402.01176)|null|
+|**2024-02-02**|**PokéLLMon: A Human-Parity Agent for Pokémon Battles with Large Language Models**|Sihao Hu et.al.|[2402.01118](http://arxiv.org/abs/2402.01118)|**[link](https://github.com/git-disl/pokellmon)**|
 |**2024-02-01**|**Non-Exchangeable Conformal Language Generation with Nearest Neighbors**|Dennis Ulmer et.al.|[2402.00707](http://arxiv.org/abs/2402.00707)|**[link](https://github.com/kaleidophon/non-exchangeable-conformal-language-generation)**|
 |**2024-02-01**|**Learning Planning-based Reasoning by Trajectories Collection and Process Reward Synthesizing**|Fangkai Jiao et.al.|[2402.00658](http://arxiv.org/abs/2402.00658)|**[link](https://github.com/sparkjiao/rl-trajectory-reasoning)**|
 |**2024-02-01**|**Instruction Makes a Difference**|Tosin Adewumi et.al.|[2402.00453](http://arxiv.org/abs/2402.00453)|**[link](https://github.com/ltu-machine-learning/idocvqa)**|
