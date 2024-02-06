@@ -2220,6 +2220,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-05**|**Nevermind: Instruction Override and Moderation in Large Language Models**|Edward Kim et.al.|[2402.03303](http://arxiv.org/abs/2402.03303)|null|
+|**2024-02-05**|**DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models**|Zhihong Shao et.al.|[2402.03300](http://arxiv.org/abs/2402.03300)|**[link](https://github.com/deepseek-ai/deepseek-math)**|
+|**2024-02-05**|**GUARD: Role-playing to Generate Natural-language Jailbreakings to Test Guideline Adherence of Large Language Models**|Haibo Jin et.al.|[2402.03299](http://arxiv.org/abs/2402.03299)|null|
+|**2024-02-05**|**Make Every Move Count: LLM-based High-Quality RTL Code Generation Using MCTS**|Matthew DeLorenzo et.al.|[2402.03289](http://arxiv.org/abs/2402.03289)|null|
+|**2024-02-05**|**Deal, or no deal (or who knows)? Forecasting Uncertainty in Conversations using Large Language Models**|Anthony Sicilia et.al.|[2402.03284](http://arxiv.org/abs/2402.03284)|null|
+|**2024-02-05**|**Uncertainty of Thoughts: Uncertainty-Aware Planning Enhances Information Seeking in Large Language Models**|Zhiyuan Hu et.al.|[2402.03271](http://arxiv.org/abs/2402.03271)|**[link](https://github.com/zhiyuanhubj/uot)**|
+|**2024-02-05**|**ISPA: Inter-Species Phonetic Alphabet for Transcribing Animal Sounds**|Masato Hagiwara et.al.|[2402.03269](http://arxiv.org/abs/2402.03269)|**[link](https://github.com/earthspecies/ispa)**|
+|**2024-02-05**|**Understanding the Reasoning Ability of Language Models From the Perspective of Reasoning Paths Aggregation**|Xinyi Wang et.al.|[2402.03268](http://arxiv.org/abs/2402.03268)|null|
+|**2024-02-05**|**CLIP Can Understand Depth**|Dunam Kim et.al.|[2402.03251](http://arxiv.org/abs/2402.03251)|null|
+|**2024-02-05**|**Skill Set Optimization: Reinforcing Language Model Behavior via Transferable Skills**|Kolby Nottingham et.al.|[2402.03244](http://arxiv.org/abs/2402.03244)|null|
 |**2024-02-02**|**TravelPlanner: A Benchmark for Real-World Planning with Language Agents**|Jian Xie et.al.|[2402.01622](http://arxiv.org/abs/2402.01622)|null|
 |**2024-02-02**|**Stochastic Two Points Method for Deep Model Zeroth-order Optimization**|Yijiang Pang et.al.|[2402.01621](http://arxiv.org/abs/2402.01621)|null|
 |**2024-02-02**|**MAGDi: Structured Distillation of Multi-Agent Interaction Graphs Improves Reasoning in Smaller Language Models**|Justin Chih-Yao Chen et.al.|[2402.01620](http://arxiv.org/abs/2402.01620)|**[link](https://github.com/dinobby/magdi)**|
@@ -2671,6 +2681,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-04**|**Predicting Machine Translation Performance on Low-Resource Languages: The Role of Domain Similarity**|Eric Khiu et.al.|[2402.02633](http://arxiv.org/abs/2402.02633)|null|
+|**2024-02-03**|**Revisiting the Markov Property for Machine Translation**|Cunxiao Du et.al.|[2402.02084](http://arxiv.org/abs/2402.02084)|null|
+|**2024-02-03**|**Translation Errors Significantly Impact Low-Resource Languages in Cross-Lingual Learning**|Ashish Sunil Agrawal et.al.|[2402.02080](http://arxiv.org/abs/2402.02080)|**[link](https://github.com/csalt-research/translation-errors-crosslingual-learning)**|
+|**2024-02-02**|**A Morphologically-Aware Dictionary-based Data Augmentation Technique for Machine Translation of Under-Represented Languages**|Md Mahfuz Ibn Alam et.al.|[2402.01939](http://arxiv.org/abs/2402.01939)|null|
+|**2024-02-01**|**Disentangling the Roles of Target-Side Transfer and Regularization in Multilingual Machine Translation**|Yan Meng et.al.|[2402.01772](http://arxiv.org/abs/2402.01772)|null|
 |**2024-02-02**|**Sequence Shortening for Context-Aware Machine Translation**|Paweł Mąka et.al.|[2402.01416](http://arxiv.org/abs/2402.01416)|null|
 |**2024-02-01**|**Non-Exchangeable Conformal Language Generation with Nearest Neighbors**|Dennis Ulmer et.al.|[2402.00707](http://arxiv.org/abs/2402.00707)|**[link](https://github.com/kaleidophon/non-exchangeable-conformal-language-generation)**|
 |**2024-01-31**|**Neural Machine Translation for Malayalam Paraphrase Generation**|Christeena Varghese et.al.|[2401.17827](http://arxiv.org/abs/2401.17827)|null|
@@ -2787,6 +2802,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-02**|**A Case Study on Filtering for End-to-End Speech Translation**|Md Mahfuz Ibn Alam et.al.|[2402.01945](http://arxiv.org/abs/2402.01945)|null|
 |**2024-02-01**|**Prosody in Cascade and Direct Speech-to-Text Translation: a case study on Korean Wh-Phrases**|Giulio Zhou et.al.|[2402.00632](http://arxiv.org/abs/2402.00632)|null|
 |**2024-01-17**|**TranSentence: Speech-to-speech Translation via Language-agnostic Sentence-level Speech Encoding without Language-parallel Data**|Seung-Bin Kim et.al.|[2401.12992](http://arxiv.org/abs/2401.12992)|null|
 |**2024-01-18**|**Communication-Efficient Personalized Federated Learning for Speech-to-Text Tasks**|Yichao Du et.al.|[2401.10070](http://arxiv.org/abs/2401.10070)|null|
@@ -2812,6 +2828,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-05**|**Unified Hallucination Detection for Multimodal Large Language Models**|Xiang Chen et.al.|[2402.03190](http://arxiv.org/abs/2402.03190)|**[link](https://github.com/openkg-org/easydetect)**|
+|**2024-02-05**|**C-RAG: Certified Generation Risks for Retrieval-Augmented Language Models**|Mintong Kang et.al.|[2402.03181](http://arxiv.org/abs/2402.03181)|null|
+|**2024-02-04**|**LLM-Enhanced Data Management**|Xuanhe Zhou et.al.|[2402.02643](http://arxiv.org/abs/2402.02643)|**[link](https://github.com/tsinghuadatabasegroup/db-gpt)**|
+|**2024-02-04**|**A Survey of Large Language Models in Finance (FinLLMs)**|Jean Lee et.al.|[2402.02315](http://arxiv.org/abs/2402.02315)|**[link](https://github.com/adlnlp/finllms)**|
+|**2024-02-03**|**Vi(E)va LLM! A Conceptual Stack for Evaluating and Interpreting Generative AI-based Visualizations**|Luca Podo et.al.|[2402.02167](http://arxiv.org/abs/2402.02167)|null|
+|**2024-02-02**|**(A)I Am Not a Lawyer, But...: Engaging Legal Experts towards Responsible LLM Policies for Legal Advice**|Inyoung Cheong et.al.|[2402.01864](http://arxiv.org/abs/2402.01864)|null|
 |**2024-02-02**|**A Comparative Analysis of Conversational Large Language Models in Knowledge-Based Text Generation**|Phillip Schneider et.al.|[2402.01495](http://arxiv.org/abs/2402.01495)|**[link](https://github.com/sebischair/llm-kg-d2t)**|
 |**2024-02-02**|**Skip $\textbackslash n$ : A simple method to reduce hallucination in Large Vision-Language Models**|Zongbo Han et.al.|[2402.01345](http://arxiv.org/abs/2402.01345)|**[link](https://github.com/hanmenghan/mihio)**|
 |**2024-02-02**|**Towards a Unified Language Model for Knowledge-Intensive Tasks Utilizing External Corpus**|Xiaoxi Li et.al.|[2402.01176](http://arxiv.org/abs/2402.01176)|null|
