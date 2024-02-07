@@ -2195,6 +2195,7 @@ layout: default
 |**2024-01-10**|**ANIM-400K: A Large-Scale Dataset for Automated End-To-End Dubbing of Video**|Kevin Cai et.al.|[2401.05314](http://arxiv.org/abs/2401.05314)|**[link](https://github.com/davidmchan/anim400k)**|
 |**2024-01-03**|**Towards Modeling Uncertainties of Self-explaining Neural Networks via Conformal Prediction**|Wei Qian et.al.|[2401.01549](http://arxiv.org/abs/2401.01549)|null|
 |**2024-01-11**|**Stateful Conformer with Cache-based Inference for Streaming Automatic Speech Recognition**|Vahid Noroozi et.al.|[2312.17279](http://arxiv.org/abs/2312.17279)|null|
+|**2024-02-06**|**Clustered Switchback Experiments: Near-Optimal Rates Under Spatiotemporal Interference**|Su Jia et.al.|[2312.15574](http://arxiv.org/abs/2312.15574)|null|
 |**2023-12-22**|**Language Model is a Branch Predictor for Simultaneous Machine Translation**|Aoxiong Yin et.al.|[2312.14488](http://arxiv.org/abs/2312.14488)|null|
 |**2023-12-21**|**Trochoid Search Optimization**|Abdesslem Layeb et.al.|[2312.13597](http://arxiv.org/abs/2312.13597)|null|
 |**2023-12-16**|**Conformer-Based Speech Recognition On Extreme Edge-Computing Devices**|Mingbin Xu et.al.|[2312.10359](http://arxiv.org/abs/2312.10359)|null|
@@ -2220,6 +2221,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-06**|**AnyTool: Self-Reflective, Hierarchical Agents for Large-Scale API Calls**|Yu Du et.al.|[2402.04253](http://arxiv.org/abs/2402.04253)|null|
+|**2024-02-06**|**HarmBench: A Standardized Evaluation Framework for Automated Red Teaming and Robust Refusal**|Mantas Mazeika et.al.|[2402.04249](http://arxiv.org/abs/2402.04249)|**[link](https://github.com/centerforaisafety/harmbench)**|
+|**2024-02-06**|**Can Mamba Learn How to Learn? A Comparative Study on In-Context Learning Tasks**|Jongho Park et.al.|[2402.04248](http://arxiv.org/abs/2402.04248)|null|
+|**2024-02-06**|**Prioritizing Safeguarding Over Autonomy: Risks of LLM Agents for Science**|Xiangru Tang et.al.|[2402.04247](http://arxiv.org/abs/2402.04247)|null|
+|**2024-02-06**|**CogCoM: Train Large Vision-Language Models Diving into Details through Chain of Manipulations**|Ji Qi et.al.|[2402.04236](http://arxiv.org/abs/2402.04236)|**[link](https://github.com/thudm/cogcom)**|
+|**2024-02-06**|**Can Generative Agents Predict Emotion?**|Ciaran Regan et.al.|[2402.04232](http://arxiv.org/abs/2402.04232)|null|
+|**2024-02-06**|**"Task Success" is not Enough: Investigating the Use of Video-Language Models as Behavior Critics for Catching Undesirable Agent Behaviors**|Lin Guan et.al.|[2402.04210](http://arxiv.org/abs/2402.04210)|null|
+|**2024-02-06**|**Explaining Autonomy: Enhancing Human-Robot Interaction through Explanation Generation with Large Language Models**|David Sobrín-Hidalgo et.al.|[2402.04206](http://arxiv.org/abs/2402.04206)|null|
+|**2024-02-06**|**SHIELD : An Evaluation Benchmark for Face Spoofing and Forgery Detection with Multimodal Large Language Models**|Yichen Shi et.al.|[2402.04178](http://arxiv.org/abs/2402.04178)|**[link](https://github.com/laiyingxin2/shield)**|
+|**2024-02-06**|**Scaling Laws for Downstream Task Performance of Large Language Models**|Berivan Isik et.al.|[2402.04177](http://arxiv.org/abs/2402.04177)|null|
 |**2024-02-05**|**Nevermind: Instruction Override and Moderation in Large Language Models**|Edward Kim et.al.|[2402.03303](http://arxiv.org/abs/2402.03303)|null|
 |**2024-02-05**|**DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models**|Zhihong Shao et.al.|[2402.03300](http://arxiv.org/abs/2402.03300)|**[link](https://github.com/deepseek-ai/deepseek-math)**|
 |**2024-02-05**|**GUARD: Role-playing to Generate Natural-language Jailbreakings to Test Guideline Adherence of Large Language Models**|Haibo Jin et.al.|[2402.03299](http://arxiv.org/abs/2402.03299)|null|
@@ -2681,6 +2692,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-06**|**Linear-time Minimum Bayes Risk Decoding with Reference Aggregation**|Jannis Vamvas et.al.|[2402.04251](http://arxiv.org/abs/2402.04251)|**[link](https://github.com/jvamvas/fastchrf)**|
+|**2024-02-06**|**Scaling Laws for Downstream Task Performance of Large Language Models**|Berivan Isik et.al.|[2402.04177](http://arxiv.org/abs/2402.04177)|null|
+|**2024-02-06**|**Google Translate Error Analysis for Mental Healthcare Information: Evaluating Accuracy, Comprehensibility, and Implications for Multilingual Healthcare Communication**|Jaleh Delfani et.al.|[2402.04023](http://arxiv.org/abs/2402.04023)|null|
+|**2024-02-06**|**Automated Description Generation for Software Patches**|Thanh Trong Vu et.al.|[2402.03805](http://arxiv.org/abs/2402.03805)|null|
 |**2024-02-04**|**Predicting Machine Translation Performance on Low-Resource Languages: The Role of Domain Similarity**|Eric Khiu et.al.|[2402.02633](http://arxiv.org/abs/2402.02633)|null|
 |**2024-02-03**|**Revisiting the Markov Property for Machine Translation**|Cunxiao Du et.al.|[2402.02084](http://arxiv.org/abs/2402.02084)|null|
 |**2024-02-03**|**Translation Errors Significantly Impact Low-Resource Languages in Cross-Lingual Learning**|Ashish Sunil Agrawal et.al.|[2402.02080](http://arxiv.org/abs/2402.02080)|**[link](https://github.com/csalt-research/translation-errors-crosslingual-learning)**|
@@ -2828,6 +2843,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-06**|**Beyond Lines and Circles: Unveiling the Geometric Reasoning Gap in Large Language Models**|Spyridon Mouselinos et.al.|[2402.03877](http://arxiv.org/abs/2402.03877)|null|
+|**2024-02-06**|**The Instinctive Bias: Spurious Images lead to Hallucination in MLLMs**|Tianyang Han et.al.|[2402.03757](http://arxiv.org/abs/2402.03757)|**[link](https://github.com/masaiahhan/correlationqa)**|
+|**2024-02-06**|**INSIDE: LLMs' Internal States Retain the Power of Hallucination Detection**|Chao Chen et.al.|[2402.03744](http://arxiv.org/abs/2402.03744)|null|
+|**2024-02-06**|**Investigating the Utility of ChatGPT in the Issue Tracking System: An Exploratory Study**|Joy Krishan Das et.al.|[2402.03735](http://arxiv.org/abs/2402.03735)|null|
+|**2024-02-06**|**Identifying Reasons for Contraceptive Switching from Real-World Data Using Large Language Models**|Brenda Y. Miao et.al.|[2402.03597](http://arxiv.org/abs/2402.03597)|null|
+|**2024-02-05**|**Enhancing the Stability of LLM-based Speech Generation Systems through Self-Supervised Representations**|Álvaro Martín-Cortinas et.al.|[2402.03407](http://arxiv.org/abs/2402.03407)|null|
 |**2024-02-05**|**Unified Hallucination Detection for Multimodal Large Language Models**|Xiang Chen et.al.|[2402.03190](http://arxiv.org/abs/2402.03190)|**[link](https://github.com/openkg-org/easydetect)**|
 |**2024-02-05**|**C-RAG: Certified Generation Risks for Retrieval-Augmented Language Models**|Mintong Kang et.al.|[2402.03181](http://arxiv.org/abs/2402.03181)|null|
 |**2024-02-04**|**LLM-Enhanced Data Management**|Xuanhe Zhou et.al.|[2402.02643](http://arxiv.org/abs/2402.02643)|**[link](https://github.com/tsinghuadatabasegroup/db-gpt)**|
