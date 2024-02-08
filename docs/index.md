@@ -2189,6 +2189,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-07**|**TransLLaMa: LLM-based Simultaneous Translation System**|Roman Koshkin et.al.|[2402.04636](http://arxiv.org/abs/2402.04636)|null|
 |**2024-01-22**|**TEXterity: Tactile Extrinsic deXterity**|Antonia Bronars et.al.|[2401.10230](http://arxiv.org/abs/2401.10230)|null|
 |**2024-01-12**|**WisdoM: Improving Multimodal Sentiment Analysis by Fusing Contextual World Knowledge**|Wenbin Wang et.al.|[2401.06659](http://arxiv.org/abs/2401.06659)|null|
 |**2024-01-11**|**R-BI: Regularized Batched Inputs enhance Incremental Decoding Framework for Low-Latency Simultaneous Speech Translation**|Jiaxin Guo et.al.|[2401.05700](http://arxiv.org/abs/2401.05700)|null|
@@ -2221,6 +2222,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-07**|**Opening the AI black box: program synthesis via mechanistic interpretability**|Eric J. Michaud et.al.|[2402.05110](http://arxiv.org/abs/2402.05110)|null|
+|**2024-02-07**|**You Can REST Now: Automated Specification Inference and Black-Box Testing of RESTful APIs with Large Language Models**|Alix Decrop et.al.|[2402.05102](http://arxiv.org/abs/2402.05102)|null|
+|**2024-02-07**|**Hydragen: High-Throughput LLM Inference with Shared Prefixes**|Jordan Juravsky et.al.|[2402.05099](http://arxiv.org/abs/2402.05099)|null|
+|**2024-02-07**|**Language-Based Augmentation to Address Shortcut Learning in Object Goal Navigation**|Dennis Hoftijzer et.al.|[2402.05090](http://arxiv.org/abs/2402.05090)|null|
+|**2024-02-07**|**A Roadmap to Pluralistic Alignment**|Taylor Sorensen et.al.|[2402.05070](http://arxiv.org/abs/2402.05070)|null|
+|**2024-02-07**|**SALAD-Bench: A Hierarchical and Comprehensive Safety Benchmark for Large Language Models**|Lijun Li et.al.|[2402.05044](http://arxiv.org/abs/2402.05044)|**[link](https://github.com/opensafetylab/salad-bench)**|
+|**2024-02-07**|**How BERT Speaks Shakespearean English? Evaluating Historical Bias in Contextual Language Models**|Miriam Cuscito et.al.|[2402.05034](http://arxiv.org/abs/2402.05034)|null|
+|**2024-02-07**|**A Sober Look at LLMs for Material Discovery: Are They Actually Good for Bayesian Optimization Over Molecules?**|Agustinus Kristiadi et.al.|[2402.05015](http://arxiv.org/abs/2402.05015)|**[link](https://github.com/wiseodd/lapeft-bayesopt)**|
+|**2024-02-07**|**Pedagogical Alignment of Large Language Models**|Shashank Sonkar et.al.|[2402.05000](http://arxiv.org/abs/2402.05000)|null|
+|**2024-02-07**|**An Enhanced Prompt-Based LLM Reasoning Scheme via Knowledge Graph-Integrated Collaboration**|Yihao Li et.al.|[2402.04978](http://arxiv.org/abs/2402.04978)|null|
 |**2024-02-06**|**AnyTool: Self-Reflective, Hierarchical Agents for Large-Scale API Calls**|Yu Du et.al.|[2402.04253](http://arxiv.org/abs/2402.04253)|null|
 |**2024-02-06**|**HarmBench: A Standardized Evaluation Framework for Automated Red Teaming and Robust Refusal**|Mantas Mazeika et.al.|[2402.04249](http://arxiv.org/abs/2402.04249)|**[link](https://github.com/centerforaisafety/harmbench)**|
 |**2024-02-06**|**Can Mamba Learn How to Learn? A Comparative Study on In-Context Learning Tasks**|Jongho Park et.al.|[2402.04248](http://arxiv.org/abs/2402.04248)|null|
@@ -2692,6 +2703,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-07**|**TransLLaMa: LLM-based Simultaneous Translation System**|Roman Koshkin et.al.|[2402.04636](http://arxiv.org/abs/2402.04636)|null|
+|**2024-02-07**|**Improving Cross-Domain Low-Resource Text Generation through LLM Post-Editing: A Programmer-Interpreter Approach**|Zhuang Li et.al.|[2402.04609](http://arxiv.org/abs/2402.04609)|null|
+|**2024-02-06**|**The Potential of AutoML for Recommender Systems**|Tobias Vente et.al.|[2402.04453](http://arxiv.org/abs/2402.04453)|null|
 |**2024-02-06**|**Linear-time Minimum Bayes Risk Decoding with Reference Aggregation**|Jannis Vamvas et.al.|[2402.04251](http://arxiv.org/abs/2402.04251)|**[link](https://github.com/jvamvas/fastchrf)**|
 |**2024-02-06**|**Scaling Laws for Downstream Task Performance of Large Language Models**|Berivan Isik et.al.|[2402.04177](http://arxiv.org/abs/2402.04177)|null|
 |**2024-02-06**|**Google Translate Error Analysis for Mental Healthcare Information: Evaluating Accuracy, Comprehensibility, and Implications for Multilingual Healthcare Communication**|Jaleh Delfani et.al.|[2402.04023](http://arxiv.org/abs/2402.04023)|null|
@@ -2843,6 +2857,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-07**|**An Enhanced Prompt-Based LLM Reasoning Scheme via Knowledge Graph-Integrated Collaboration**|Yihao Li et.al.|[2402.04978](http://arxiv.org/abs/2402.04978)|null|
+|**2024-02-07**|**Reconfidencing LLMs from the Grouping Loss Perspective**|Lihu Chen et.al.|[2402.04957](http://arxiv.org/abs/2402.04957)|null|
+|**2024-02-06**|**Assured LLM-Based Software Engineering**|Nadia Alshahwan et.al.|[2402.04380](http://arxiv.org/abs/2402.04380)|null|
+|**2024-02-06**|**Training Language Models to Generate Text with Citations via Fine-grained Rewards**|Chengyu Huang et.al.|[2402.04315](http://arxiv.org/abs/2402.04315)|null|
 |**2024-02-06**|**Beyond Lines and Circles: Unveiling the Geometric Reasoning Gap in Large Language Models**|Spyridon Mouselinos et.al.|[2402.03877](http://arxiv.org/abs/2402.03877)|null|
 |**2024-02-06**|**The Instinctive Bias: Spurious Images lead to Hallucination in MLLMs**|Tianyang Han et.al.|[2402.03757](http://arxiv.org/abs/2402.03757)|**[link](https://github.com/masaiahhan/correlationqa)**|
 |**2024-02-06**|**INSIDE: LLMs' Internal States Retain the Power of Hallucination Detection**|Chao Chen et.al.|[2402.03744](http://arxiv.org/abs/2402.03744)|null|
