@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.02.10
+## Updated on 2024.02.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2716,11 +2716,11 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-02-07**|**TransLLaMa: LLM-based Simultaneous Translation System**|Roman Koshkin et.al.|[2402.04636](http://arxiv.org/abs/2402.04636)|null|
 |**2024-02-07**|**Improving Cross-Domain Low-Resource Text Generation through LLM Post-Editing: A Programmer-Interpreter Approach**|Zhuang Li et.al.|[2402.04609](http://arxiv.org/abs/2402.04609)|null|
-|**2024-02-06**|**The Potential of AutoML for Recommender Systems**|Tobias Vente et.al.|[2402.04453](http://arxiv.org/abs/2402.04453)|null|
+|**2024-02-06**|**The Potential of AutoML for Recommender Systems**|Tobias Vente et.al.|[2402.04453](http://arxiv.org/abs/2402.04453)|**[link](https://github.com/isg-siegen/automl_for_recommender_systems)**|
 |**2024-02-06**|**Linear-time Minimum Bayes Risk Decoding with Reference Aggregation**|Jannis Vamvas et.al.|[2402.04251](http://arxiv.org/abs/2402.04251)|**[link](https://github.com/jvamvas/fastchrf)**|
 |**2024-02-06**|**Scaling Laws for Downstream Task Performance of Large Language Models**|Berivan Isik et.al.|[2402.04177](http://arxiv.org/abs/2402.04177)|null|
 |**2024-02-06**|**Google Translate Error Analysis for Mental Healthcare Information: Evaluating Accuracy, Comprehensibility, and Implications for Multilingual Healthcare Communication**|Jaleh Delfani et.al.|[2402.04023](http://arxiv.org/abs/2402.04023)|null|
-|**2024-02-06**|**Automated Description Generation for Software Patches**|Thanh Trong Vu et.al.|[2402.03805](http://arxiv.org/abs/2402.03805)|null|
+|**2024-02-06**|**Automated Description Generation for Software Patches**|Thanh Trong Vu et.al.|[2402.03805](http://arxiv.org/abs/2402.03805)|**[link](https://github.com/vnu-ise/patch-description-generation)**|
 |**2024-02-04**|**Predicting Machine Translation Performance on Low-Resource Languages: The Role of Domain Similarity**|Eric Khiu et.al.|[2402.02633](http://arxiv.org/abs/2402.02633)|null|
 |**2024-02-03**|**Revisiting the Markov Property for Machine Translation**|Cunxiao Du et.al.|[2402.02084](http://arxiv.org/abs/2402.02084)|null|
 |**2024-02-03**|**Translation Errors Significantly Impact Low-Resource Languages in Cross-Lingual Learning**|Ashish Sunil Agrawal et.al.|[2402.02080](http://arxiv.org/abs/2402.02080)|**[link](https://github.com/csalt-research/translation-errors-crosslingual-learning)**|
