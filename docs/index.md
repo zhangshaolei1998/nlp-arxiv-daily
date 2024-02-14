@@ -2223,6 +2223,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-13**|**Mitigating Object Hallucination in Large Vision-Language Models via Classifier-Free Guidance**|Linxi Zhao et.al.|[2402.08680](http://arxiv.org/abs/2402.08680)|null|
+|**2024-02-13**|**COLD-Attack: Jailbreaking LLMs with Stealthiness and Controllability**|Xingang Guo et.al.|[2402.08679](http://arxiv.org/abs/2402.08679)|**[link](https://github.com/yu-fangxu/cold-attack)**|
+|**2024-02-13**|**Human Curriculum Effects Emerge with In-Context Learning in Neural Networks**|Jacob Russin et.al.|[2402.08674](http://arxiv.org/abs/2402.08674)|null|
+|**2024-02-13**|**Rec-GPT4V: Multimodal Recommendation with Large Vision-Language Models**|Yuqing Liu et.al.|[2402.08670](http://arxiv.org/abs/2402.08670)|null|
+|**2024-02-13**|**Improving Generalization in Semantic Parsing by Increasing Natural Language Variation**|Irina Saparina et.al.|[2402.08666](http://arxiv.org/abs/2402.08666)|null|
+|**2024-02-13**|**The Last JITAI? The Unreasonable Effectiveness of Large Language Models in Issuing Just-in-Time Adaptive Interventions: Fostering Physical Activity in a Prospective Cardiac Rehabilitation Setting**|David Haag et.al.|[2402.08658](http://arxiv.org/abs/2402.08658)|null|
+|**2024-02-13**|**PIN: Positional Insert Unlocks Object Localisation Abilities in VLMs**|Michael Dorkenwald et.al.|[2402.08657](http://arxiv.org/abs/2402.08657)|null|
+|**2024-02-13**|**Tandem Transformers for Inference Efficient LLMs**|Aishwarya P S et.al.|[2402.08644](http://arxiv.org/abs/2402.08644)|null|
+|**2024-02-13**|**SemRel2024: A Collection of Semantic Textual Relatedness Datasets for 14 Languages**|Nedjma Ousidhoum et.al.|[2402.08638](http://arxiv.org/abs/2402.08638)|null|
+|**2024-02-13**|**Knowledge Editing on Black-box Large Language Models**|Xiaoshuai Song et.al.|[2402.08631](http://arxiv.org/abs/2402.08631)|null|
 |**2024-02-12**|**A systematic investigation of learnability from single child linguistic input**|Yulu Qin et.al.|[2402.07899](http://arxiv.org/abs/2402.07899)|null|
 |**2024-02-12**|**Suppressing Pink Elephants with Direct Principle Feedback**|Louis Castricato et.al.|[2402.07896](http://arxiv.org/abs/2402.07896)|null|
 |**2024-02-12**|**WildfireGPT: Tailored Large Language Model for Wildfire Analysis**|Yangxinyu Xie et.al.|[2402.07877](http://arxiv.org/abs/2402.07877)|null|
@@ -2736,7 +2746,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-02-12**|**Unsupervised Sign Language Translation and Generation**|Zhengsheng Guo et.al.|[2402.07726](http://arxiv.org/abs/2402.07726)|null|
 |**2024-02-12**|**Large Language Models "Ad Referendum": How Good Are They at Machine Translation in the Legal Domain?**|Vicent Briva-Iglesias et.al.|[2402.07681](http://arxiv.org/abs/2402.07681)|null|
-|**2024-02-12**|**Quality Does Matter: A Detailed Look at the Quality and Utility of Web-Mined Parallel Corpora**|Surangika Ranathunga et.al.|[2402.07446](http://arxiv.org/abs/2402.07446)|**[link](https://github.com/nlpcuom/quality-matters)**|
+|**2024-02-13**|**Quality Does Matter: A Detailed Look at the Quality and Utility of Web-Mined Parallel Corpora**|Surangika Ranathunga et.al.|[2402.07446](http://arxiv.org/abs/2402.07446)|**[link](https://github.com/nlpcuom/quality-matters)**|
 |**2024-02-10**|**GenTranslate: Large Language Models are Generative Multilingual Speech and Machine Translators**|Yuchen Hu et.al.|[2402.06894](http://arxiv.org/abs/2402.06894)|**[link](https://github.com/yuchen005/gentranslate)**|
 |**2024-02-09**|**Inducing Systematicity in Transformers by Attending to Structurally Quantized Embeddings**|Yichen Jiang et.al.|[2402.06492](http://arxiv.org/abs/2402.06492)|**[link](https://github.com/jiangyctarheel/sq-transformer)**|
 |**2024-02-09**|**Promoting Target Data in Context-aware Neural Machine Translation**|Harritxu Gete et.al.|[2402.06342](http://arxiv.org/abs/2402.06342)|null|
@@ -2895,6 +2905,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-13**|**Mitigating Object Hallucination in Large Vision-Language Models via Classifier-Free Guidance**|Linxi Zhao et.al.|[2402.08680](http://arxiv.org/abs/2402.08680)|null|
+|**2024-02-13**|**A Systematic Review of Data-to-Text NLG**|Chinonso Cynthia Osuji et.al.|[2402.08496](http://arxiv.org/abs/2402.08496)|null|
+|**2024-02-13**|**Visually Dehallucinative Instruction Generation**|Sungguk Cha et.al.|[2402.08348](http://arxiv.org/abs/2402.08348)|**[link](https://github.com/ncsoft/cap2qa)**|
+|**2024-02-13**|**Mapping the Ethics of Generative AI: A Comprehensive Scoping Review**|Thilo Hagendorff et.al.|[2402.08323](http://arxiv.org/abs/2402.08323)|null|
+|**2024-02-13**|**On Limitations of the Transformer Architecture**|Binghui Peng et.al.|[2402.08164](http://arxiv.org/abs/2402.08164)|null|
+|**2024-02-12**|**Careless Whisper: Speech-to-Text Hallucination Harms**|Allison Koenecke et.al.|[2402.08021](http://arxiv.org/abs/2402.08021)|**[link](https://github.com/koenecke/hallucination_harms)**|
 |**2024-02-12**|**PoisonedRAG: Knowledge Poisoning Attacks to Retrieval-Augmented Generation of Large Language Models**|Wei Zou et.al.|[2402.07867](http://arxiv.org/abs/2402.07867)|**[link](https://github.com/sleeepeer/poisonedrag)**|
 |**2024-02-12**|**Prismatic VLMs: Investigating the Design Space of Visually-Conditioned Language Models**|Siddharth Karamcheti et.al.|[2402.07865](http://arxiv.org/abs/2402.07865)|null|
 |**2024-02-12**|**Retrieval-Augmented Thought Process as Sequential Decision Making**|Thomas Pouplin et.al.|[2402.07812](http://arxiv.org/abs/2402.07812)|null|
