@@ -2189,6 +2189,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-14**|**Zero-entropy encoders and simultaneous decoders in identification via quantum channels**|Pau Colomer et.al.|[2402.09116](http://arxiv.org/abs/2402.09116)|null|
+|**2024-02-13**|**Optimal Task Assignment and Path Planning using Conflict-Based Search with Precedence and Temporal Constraints**|Yu Quan Chong et.al.|[2402.08772](http://arxiv.org/abs/2402.08772)|null|
 |**2024-02-08**|**MIGC: Multi-Instance Generation Controller for Text-to-Image Synthesis**|Dewei Zhou et.al.|[2402.05408](http://arxiv.org/abs/2402.05408)|**[link](https://github.com/limuloo/migc)**|
 |**2024-02-07**|**TransLLaMa: LLM-based Simultaneous Translation System**|Roman Koshkin et.al.|[2402.04636](http://arxiv.org/abs/2402.04636)|null|
 |**2024-01-22**|**TEXterity: Tactile Extrinsic deXterity**|Antonia Bronars et.al.|[2401.10230](http://arxiv.org/abs/2401.10230)|null|
@@ -2223,6 +2225,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-14**|**AQA-Bench: An Interactive Benchmark for Evaluating LLMs' Sequential Reasoning Ability**|Siwei Yang et.al.|[2402.09404](http://arxiv.org/abs/2402.09404)|**[link](https://github.com/ucsc-vlaa/aqa-bench)**|
+|**2024-02-14**|**Reinforcement Learning from Human Feedback with Active Queries**|Kaixuan Ji et.al.|[2402.09401](http://arxiv.org/abs/2402.09401)|null|
+|**2024-02-14**|**Get More with LESS: Synthesizing Recurrence with KV Cache Compression for Efficient LLM Inference**|Harry Dong et.al.|[2402.09398](http://arxiv.org/abs/2402.09398)|null|
+|**2024-02-14**|**LlaSMol: Advancing Large Language Models for Chemistry with a Large-Scale, Comprehensive, High-Quality Instruction Tuning Dataset**|Botao Yu et.al.|[2402.09391](http://arxiv.org/abs/2402.09391)|**[link](https://github.com/osu-nlp-group/llm4chem)**|
+|**2024-02-14**|**HGOT: Hierarchical Graph of Thoughts for Retrieval-Augmented In-Context Learning in Factuality Evaluation**|Yihao Fang et.al.|[2402.09390](http://arxiv.org/abs/2402.09390)|null|
+|**2024-02-14**|**Transformers Can Achieve Length Generalization But Not Robustly**|Yongchao Zhou et.al.|[2402.09371](http://arxiv.org/abs/2402.09371)|null|
+|**2024-02-14**|**Pseudorandom Error-Correcting Codes**|Miranda Christ et.al.|[2402.09370](http://arxiv.org/abs/2402.09370)|null|
+|**2024-02-14**|**Massively Multi-Cultural Knowledge Acquisition & LM Benchmarking**|Yi Fung et.al.|[2402.09369](http://arxiv.org/abs/2402.09369)|null|
+|**2024-02-14**|**Copyright Traps for Large Language Models**|Matthieu Meeus et.al.|[2402.09363](http://arxiv.org/abs/2402.09363)|null|
+|**2024-02-14**|**HiRE: High Recall Approximate Top- $k$ Estimation for Efficient LLM Inference**|Yashas Samaga B L et.al.|[2402.09360](http://arxiv.org/abs/2402.09360)|null|
 |**2024-02-13**|**Mitigating Object Hallucination in Large Vision-Language Models via Classifier-Free Guidance**|Linxi Zhao et.al.|[2402.08680](http://arxiv.org/abs/2402.08680)|null|
 |**2024-02-13**|**COLD-Attack: Jailbreaking LLMs with Stealthiness and Controllability**|Xingang Guo et.al.|[2402.08679](http://arxiv.org/abs/2402.08679)|**[link](https://github.com/yu-fangxu/cold-attack)**|
 |**2024-02-13**|**Human Curriculum Effects Emerge with In-Context Learning in Neural Networks**|Jacob Russin et.al.|[2402.08674](http://arxiv.org/abs/2402.08674)|null|
@@ -2744,6 +2756,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-14**|**Generating Diverse Translation with Perturbed kNN-MT**|Yuto Nishida et.al.|[2402.09344](http://arxiv.org/abs/2402.09344)|null|
 |**2024-02-12**|**Unsupervised Sign Language Translation and Generation**|Zhengsheng Guo et.al.|[2402.07726](http://arxiv.org/abs/2402.07726)|null|
 |**2024-02-12**|**Large Language Models "Ad Referendum": How Good Are They at Machine Translation in the Legal Domain?**|Vicent Briva-Iglesias et.al.|[2402.07681](http://arxiv.org/abs/2402.07681)|null|
 |**2024-02-13**|**Quality Does Matter: A Detailed Look at the Quality and Utility of Web-Mined Parallel Corpora**|Surangika Ranathunga et.al.|[2402.07446](http://arxiv.org/abs/2402.07446)|**[link](https://github.com/nlpcuom/quality-matters)**|
@@ -2905,6 +2918,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-14**|**HGOT: Hierarchical Graph of Thoughts for Retrieval-Augmented In-Context Learning in Factuality Evaluation**|Yihao Fang et.al.|[2402.09390](http://arxiv.org/abs/2402.09390)|null|
+|**2024-02-14**|**Developing a Framework for Auditing Large Language Models Using Human-in-the-Loop**|Maryam Amirizaniani et.al.|[2402.09346](http://arxiv.org/abs/2402.09346)|null|
+|**2024-02-14**|**AuditLLM: A Tool for Auditing Large Language Models Using Multiprobe Approach**|Maryam Amirizaniani et.al.|[2402.09334](http://arxiv.org/abs/2402.09334)|null|
+|**2024-02-14**|**Leveraging Large Language Models for Enhanced NLP Task Performance through Knowledge Distillation and Optimized Training Strategies**|Yining Huang et.al.|[2402.09282](http://arxiv.org/abs/2402.09282)|null|
+|**2024-02-14**|**Self-Alignment for Factuality: Mitigating Hallucinations in LLMs via Self-Evaluation**|Xiaoying Zhang et.al.|[2402.09267](http://arxiv.org/abs/2402.09267)|null|
+|**2024-02-14**|**Automated Unit Test Improvement using Large Language Models at Meta**|Nadia Alshahwan et.al.|[2402.09171](http://arxiv.org/abs/2402.09171)|null|
+|**2024-02-14**|**Into the Unknown: Self-Learning Large Language Models**|Teddy Ferdinan et.al.|[2402.09147](http://arxiv.org/abs/2402.09147)|**[link](https://github.com/teddy-f-47/self-learning-llm-public)**|
+|**2024-02-14**|**Large Language Model with Graph Convolution for Recommendation**|Yingpeng Du et.al.|[2402.08859](http://arxiv.org/abs/2402.08859)|null|
+|**2024-02-13**|**InstructGraph: Boosting Large Language Models via Graph-centric Instruction Tuning and Preference Alignment**|Jianing Wang et.al.|[2402.08785](http://arxiv.org/abs/2402.08785)|null|
+|**2024-02-13**|**Experts Don't Cheat: Learning What You Don't Know By Predicting Pairs**|Daniel D. Johnson et.al.|[2402.08733](http://arxiv.org/abs/2402.08733)|null|
 |**2024-02-13**|**Mitigating Object Hallucination in Large Vision-Language Models via Classifier-Free Guidance**|Linxi Zhao et.al.|[2402.08680](http://arxiv.org/abs/2402.08680)|null|
 |**2024-02-13**|**A Systematic Review of Data-to-Text NLG**|Chinonso Cynthia Osuji et.al.|[2402.08496](http://arxiv.org/abs/2402.08496)|null|
 |**2024-02-13**|**Visually Dehallucinative Instruction Generation**|Sungguk Cha et.al.|[2402.08348](http://arxiv.org/abs/2402.08348)|**[link](https://github.com/ncsoft/cap2qa)**|
