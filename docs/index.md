@@ -2189,6 +2189,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-16**|**Conversational SimulMT: Efficient Simultaneous Translation with Large Language Models**|Minghan Wang et.al.|[2402.10552](http://arxiv.org/abs/2402.10552)|null|
 |**2024-02-14**|**Zero-entropy encoders and simultaneous decoders in identification via quantum channels**|Pau Colomer et.al.|[2402.09116](http://arxiv.org/abs/2402.09116)|null|
 |**2024-02-13**|**Optimal Task Assignment and Path Planning using Conflict-Based Search with Precedence and Temporal Constraints**|Yu Quan Chong et.al.|[2402.08772](http://arxiv.org/abs/2402.08772)|null|
 |**2024-02-08**|**MIGC: Multi-Instance Generation Controller for Text-to-Image Synthesis**|Dewei Zhou et.al.|[2402.05408](http://arxiv.org/abs/2402.05408)|**[link](https://github.com/limuloo/migc)**|
@@ -2225,6 +2226,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-16**|**PaLM2-VAdapter: Progressively Aligned Language Model Makes a Strong Vision-language Adapter**|Junfei Xiao et.al.|[2402.10896](http://arxiv.org/abs/2402.10896)|null|
+|**2024-02-16**|**RLVF: Learning from Verbal Feedback without Overgeneralization**|Moritz Stephan et.al.|[2402.10893](http://arxiv.org/abs/2402.10893)|null|
+|**2024-02-16**|**Instruction Diversity Drives Generalization To Unseen Tasks**|Dylan Zhang et.al.|[2402.10891](http://arxiv.org/abs/2402.10891)|null|
+|**2024-02-16**|**When is Tree Search Useful for LLM Planning? It Depends on the Discriminator**|Ziru Chen et.al.|[2402.10890](http://arxiv.org/abs/2402.10890)|null|
+|**2024-02-16**|**Multi-modal preference alignment remedies regression of visual instruction tuning on language model**|Shengzhi Li et.al.|[2402.10884](http://arxiv.org/abs/2402.10884)|null|
+|**2024-02-16**|**EcoRank: Budget-Constrained Text Re-ranking Using Large Language Models**|Muhammad Shihab Rashid et.al.|[2402.10866](http://arxiv.org/abs/2402.10866)|null|
+|**2024-02-16**|**Time Series Forecasting with LLMs: Understanding and Enhancing Model Capabilities**|Mingyu Jin et.al.|[2402.10835](http://arxiv.org/abs/2402.10835)|null|
+|**2024-02-16**|**RAG-Driver: Generalisable Driving Explanations with Retrieval-Augmented In-Context Learning in Multi-Modal Large Language Model**|Jianhao Yuan et.al.|[2402.10828](http://arxiv.org/abs/2402.10828)|null|
+|**2024-02-16**|**Quantifying the Persona Effect in LLM Simulations**|Tiancheng Hu et.al.|[2402.10811](http://arxiv.org/abs/2402.10811)|null|
+|**2024-02-16**|**Generative Cross-Modal Retrieval: Memorizing Images in Multimodal Language Models for Retrieval and Beyond**|Yongqi Li et.al.|[2402.10805](http://arxiv.org/abs/2402.10805)|null|
 |**2024-02-15**|**Self-Play Fine-Tuning of Diffusion Models for Text-to-Image Generation**|Huizhuo Yuan et.al.|[2402.10210](http://arxiv.org/abs/2402.10210)|null|
 |**2024-02-15**|**Rewards-in-Context: Multi-objective Alignment of Foundation Models with Dynamic Preference Adjustment**|Rui Yang et.al.|[2402.10207](http://arxiv.org/abs/2402.10207)|null|
 |**2024-02-15**|**Chain-of-Thought Reasoning Without Prompting**|Xuezhi Wang et.al.|[2402.10200](http://arxiv.org/abs/2402.10200)|null|
@@ -2766,6 +2777,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-16**|**Rethinking Human-like Translation Strategy: Integrating Drift-Diffusion Model with Large Language Models for Machine Translation**|Hongbin Na et.al.|[2402.10699](http://arxiv.org/abs/2402.10699)|null|
+|**2024-02-16**|**Conversational SimulMT: Efficient Simultaneous Translation with Large Language Models**|Minghan Wang et.al.|[2402.10552](http://arxiv.org/abs/2402.10552)|null|
 |**2024-02-15**|**Crafting a Good Prompt or Providing Exemplary Dialogues? A Study of In-Context Learning for Persona-based Dialogue Generation**|Jiashu Pu et.al.|[2402.09954](http://arxiv.org/abs/2402.09954)|null|
 |**2024-02-15**|**Improving Non-autoregressive Machine Translation with Error Exposure and Consistency Regularization**|Xinran Chen et.al.|[2402.09725](http://arxiv.org/abs/2402.09725)|null|
 |**2024-02-14**|**Generating Diverse Translation with Perturbed kNN-MT**|Yuto Nishida et.al.|[2402.09344](http://arxiv.org/abs/2402.09344)|null|
@@ -2904,6 +2917,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-16**|**Pushing the Limits of Zero-shot End-to-End Speech Translation**|Ioannis Tsiamas et.al.|[2402.10422](http://arxiv.org/abs/2402.10422)|**[link](https://github.com/mt-upc/zeroswot)**|
 |**2024-02-02**|**A Case Study on Filtering for End-to-End Speech Translation**|Md Mahfuz Ibn Alam et.al.|[2402.01945](http://arxiv.org/abs/2402.01945)|null|
 |**2024-02-01**|**Prosody in Cascade and Direct Speech-to-Text Translation: a case study on Korean Wh-Phrases**|Giulio Zhou et.al.|[2402.00632](http://arxiv.org/abs/2402.00632)|null|
 |**2024-01-17**|**TranSentence: Speech-to-speech Translation via Language-agnostic Sentence-level Speech Encoding without Language-parallel Data**|Seung-Bin Kim et.al.|[2401.12992](http://arxiv.org/abs/2401.12992)|null|
@@ -2930,6 +2944,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-16**|**Trading off Consistency and Dimensionality of Convex Surrogates for the Mode**|Enrique Nueve et.al.|[2402.10818](http://arxiv.org/abs/2402.10818)|null|
+|**2024-02-16**|**When Dataflow Analysis Meets Large Language Models**|Chengpeng Wang et.al.|[2402.10754](http://arxiv.org/abs/2402.10754)|null|
+|**2024-02-16**|**GenRES: Rethinking Evaluation for Generative Relation Extraction in the Era of Large Language Models**|Pengcheng Jiang et.al.|[2402.10744](http://arxiv.org/abs/2402.10744)|null|
+|**2024-02-16**|**Opening the Black Box of Large Language Models: Two Views on Holistic Interpretability**|Haiyan Zhao et.al.|[2402.10688](http://arxiv.org/abs/2402.10688)|null|
+|**2024-02-16**|**Retrieve Only When It Needs: Adaptive Retrieval Augmentation for Hallucination Mitigation in Large Language Models**|Hanxing Ding et.al.|[2402.10612](http://arxiv.org/abs/2402.10612)|null|
+|**2024-02-16**|**Strong hallucinations from negation and how to fix them**|Nicholas Asher et.al.|[2402.10543](http://arxiv.org/abs/2402.10543)|null|
+|**2024-02-16**|**Comparing Hallucination Detection Metrics for Multilingual Generation**|Haoqiang Kang et.al.|[2402.10496](http://arxiv.org/abs/2402.10496)|null|
+|**2024-02-16**|**DELL: Generating Reactions and Explanations for LLM-Based Misinformation Detection**|Herun Wan et.al.|[2402.10426](http://arxiv.org/abs/2402.10426)|null|
+|**2024-02-16**|**Measuring and Reducing LLM Hallucination without Gold-Standard Answers via Expertise-Weighting**|Jiaheng Wei et.al.|[2402.10412](http://arxiv.org/abs/2402.10412)|null|
+|**2024-02-15**|**Large Language Models for Forecasting and Anomaly Detection: A Systematic Literature Review**|Jing Su et.al.|[2402.10350](http://arxiv.org/abs/2402.10350)|null|
 |**2024-02-15**|**Uncertainty Decomposition and Quantification for In-Context Learning of Large Language Models**|Chen Ling et.al.|[2402.10189](http://arxiv.org/abs/2402.10189)|**[link](https://github.com/lingchen0331/uq_icl)**|
 |**2024-02-15**|**Enhancing Large Language Models with Pseudo- and Multisource- Knowledge Graphs for Open-ended Question Answering**|Jiaxiang Liu et.al.|[2402.09911](http://arxiv.org/abs/2402.09911)|null|
 |**2024-02-15**|**EFUF: Efficient Fine-grained Unlearning Framework for Mitigating Hallucinations in Multimodal Large Language Models**|Shangyu Xing et.al.|[2402.09801](http://arxiv.org/abs/2402.09801)|null|
