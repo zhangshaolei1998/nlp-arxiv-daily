@@ -2214,6 +2214,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-19**|**Generation Meets Verification: Accelerating Large Language Model Inference with Smart Parallel Auto-Correct Decoding**|Hanling Yi et.al.|[2402.11809](http://arxiv.org/abs/2402.11809)|null|
 |**2024-02-16**|**Conversational SimulMT: Efficient Simultaneous Translation with Large Language Models**|Minghan Wang et.al.|[2402.10552](http://arxiv.org/abs/2402.10552)|null|
 |**2024-02-14**|**Zero-entropy encoders and simultaneous decoders in identification via quantum channels**|Pau Colomer et.al.|[2402.09116](http://arxiv.org/abs/2402.09116)|null|
 |**2024-02-13**|**Optimal Task Assignment and Path Planning using Conflict-Based Search with Precedence and Temporal Constraints**|Yu Quan Chong et.al.|[2402.08772](http://arxiv.org/abs/2402.08772)|null|
@@ -2253,6 +2254,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-19**|**Sequoia: Scalable, Robust, and Hardware-aware Speculative Decoding**|Zhuoming Chen et.al.|[2402.12374](http://arxiv.org/abs/2402.12374)|null|
+|**2024-02-19**|**AnaloBench: Benchmarking the Identification of Abstract and Long-context Analogies**|Xiao Ye et.al.|[2402.12370](http://arxiv.org/abs/2402.12370)|null|
+|**2024-02-19**|**A Critical Evaluation of AI Feedback for Aligning Large Language Models**|Archit Sharma et.al.|[2402.12366](http://arxiv.org/abs/2402.12366)|**[link](https://github.com/architsharma97/dpo-rlaif)**|
+|**2024-02-19**|**Emergent Word Order Universals from Cognitively-Motivated Language Models**|Tatsuki Kuribayashi et.al.|[2402.12363](http://arxiv.org/abs/2402.12363)|null|
+|**2024-02-19**|**Graph-Based Retriever Captures the Long Tail of Biomedical Knowledge**|Julien Delile et.al.|[2402.12352](http://arxiv.org/abs/2402.12352)|null|
+|**2024-02-19**|**GTBench: Uncovering the Strategic Reasoning Limitations of LLMs via Game-Theoretic Evaluations**|Jinhao Duan et.al.|[2402.12348](http://arxiv.org/abs/2402.12348)|**[link](https://github.com/jinhaoduan/gtbench)**|
+|**2024-02-19**|**Emulated Disalignment: Safety Alignment for Large Language Models May Backfire!**|Zhanhui Zhou et.al.|[2402.12343](http://arxiv.org/abs/2402.12343)|null|
+|**2024-02-19**|**Robust CLIP: Unsupervised Adversarial Fine-Tuning of Vision Embeddings for Robust Large Vision-Language Models**|Christian Schlarmann et.al.|[2402.12336](http://arxiv.org/abs/2402.12336)|**[link](https://github.com/chs20/robustvlm)**|
+|**2024-02-19**|**Query-Based Adversarial Prompt Generation**|Jonathan Hayase et.al.|[2402.12329](http://arxiv.org/abs/2402.12329)|null|
+|**2024-02-19**|**Shall We Talk: Exploring Spontaneous Collaborations of Competing LLM Agents**|Zengqing Wu et.al.|[2402.12327](http://arxiv.org/abs/2402.12327)|**[link](https://github.com/wuzengqing001225/sabm_shallwetalk)**|
 |**2024-02-16**|**PaLM2-VAdapter: Progressively Aligned Language Model Makes a Strong Vision-language Adapter**|Junfei Xiao et.al.|[2402.10896](http://arxiv.org/abs/2402.10896)|null|
 |**2024-02-16**|**RLVF: Learning from Verbal Feedback without Overgeneralization**|Moritz Stephan et.al.|[2402.10893](http://arxiv.org/abs/2402.10893)|null|
 |**2024-02-16**|**Instruction Diversity Drives Generalization To Unseen Tasks**|Dylan Zhang et.al.|[2402.10891](http://arxiv.org/abs/2402.10891)|null|
@@ -2806,9 +2817,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-19**|**NEO-BENCH: Evaluating Robustness of Large Language Models with Neologisms**|Jonathan Zheng et.al.|[2402.12261](http://arxiv.org/abs/2402.12261)|null|
+|**2024-02-19**|**Analysis of Levenshtein Transformer's Decoder and Its Variants**|Ruiyang Zhou et.al.|[2402.12249](http://arxiv.org/abs/2402.12249)|null|
+|**2024-02-19**|**What Do Dialect Speakers Want? A Survey of Attitudes Towards Language Technology for German Dialects**|Verena Blaschke et.al.|[2402.11968](http://arxiv.org/abs/2402.11968)|null|
+|**2024-02-19**|**Semantic Textual Similarity Assessment in Chest X-ray Reports Using a Domain-Specific Cosine-Based Metric**|Sayeh Gholipour Picha et.al.|[2402.11908](http://arxiv.org/abs/2402.11908)|**[link](https://github.com/sayeh1994/medical-corpus-semantic-similarity-evaluation)**|
+|**2024-02-18**|**MORL-Prompt: An Empirical Analysis of Multi-Objective Reinforcement Learning for Discrete Prompt Optimization**|Yasaman Jafari et.al.|[2402.11711](http://arxiv.org/abs/2402.11711)|null|
+|**2024-02-18**|**Advancing Translation Preference Modeling with RLHF: A Step Towards Cost-Effective Solution**|Nuo Xu et.al.|[2402.11525](http://arxiv.org/abs/2402.11525)|null|
 |**2024-02-16**|**Rethinking Human-like Translation Strategy: Integrating Drift-Diffusion Model with Large Language Models for Machine Translation**|Hongbin Na et.al.|[2402.10699](http://arxiv.org/abs/2402.10699)|null|
 |**2024-02-16**|**Conversational SimulMT: Efficient Simultaneous Translation with Large Language Models**|Minghan Wang et.al.|[2402.10552](http://arxiv.org/abs/2402.10552)|null|
-|**2024-02-15**|**Crafting a Good Prompt or Providing Exemplary Dialogues? A Study of In-Context Learning for Persona-based Dialogue Generation**|Jiashu Pu et.al.|[2402.09954](http://arxiv.org/abs/2402.09954)|null|
+|**2024-02-17**|**Crafting a Good Prompt or Providing Exemplary Dialogues? A Study of In-Context Learning for Persona-based Dialogue Generation**|Jiashu Pu et.al.|[2402.09954](http://arxiv.org/abs/2402.09954)|null|
 |**2024-02-15**|**Improving Non-autoregressive Machine Translation with Error Exposure and Consistency Regularization**|Xinran Chen et.al.|[2402.09725](http://arxiv.org/abs/2402.09725)|null|
 |**2024-02-14**|**Generating Diverse Translation with Perturbed kNN-MT**|Yuto Nishida et.al.|[2402.09344](http://arxiv.org/abs/2402.09344)|null|
 |**2024-02-12**|**Unsupervised Sign Language Translation and Generation**|Zhengsheng Guo et.al.|[2402.07726](http://arxiv.org/abs/2402.07726)|null|
@@ -2948,6 +2965,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-19**|**Speech Translation with Speech Foundation Models and Large Language Models: What is There and What is Missing?**|Marco Gaido et.al.|[2402.12025](http://arxiv.org/abs/2402.12025)|null|
 |**2024-02-16**|**Pushing the Limits of Zero-shot End-to-End Speech Translation**|Ioannis Tsiamas et.al.|[2402.10422](http://arxiv.org/abs/2402.10422)|**[link](https://github.com/mt-upc/zeroswot)**|
 |**2024-02-02**|**A Case Study on Filtering for End-to-End Speech Translation**|Md Mahfuz Ibn Alam et.al.|[2402.01945](http://arxiv.org/abs/2402.01945)|null|
 |**2024-02-01**|**Prosody in Cascade and Direct Speech-to-Text Translation: a case study on Korean Wh-Phrases**|Giulio Zhou et.al.|[2402.00632](http://arxiv.org/abs/2402.00632)|null|
@@ -2977,6 +2995,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-19**|**Reformatted Alignment**|Run-Ze Fan et.al.|[2402.12219](http://arxiv.org/abs/2402.12219)|**[link](https://github.com/gair-nlp/realign)**|
+|**2024-02-19**|**Mafin: Enhancing Black-Box Embeddings with Model Augmented Fine-tuning**|Mingtian Zhang et.al.|[2402.12177](http://arxiv.org/abs/2402.12177)|null|
+|**2024-02-19**|**Meta Ranking: Less Capable Language Models are Capable for Single Response Judgement**|Zijun Liu et.al.|[2402.12146](http://arxiv.org/abs/2402.12146)|**[link](https://github.com/thunlp-mt/metaranking)**|
+|**2024-02-19**|**Can LLMs Compute with Reasons?**|Harshit Sandilya et.al.|[2402.12080](http://arxiv.org/abs/2402.12080)|null|
+|**2024-02-19**|**M2K-VDG: Model-Adaptive Multimodal Knowledge Anchor Enhanced Video-grounded Dialogue Generation**|Hongcheng Liu et.al.|[2402.11875](http://arxiv.org/abs/2402.11875)|null|
+|**2024-02-19**|**Structured Chain-of-Thought Prompting for Few-Shot Generation of Content-Grounded QA Conversations**|Md Arafat Sultan et.al.|[2402.11770](http://arxiv.org/abs/2402.11770)|null|
+|**2024-02-18**|**Vision-Flan: Scaling Human-Labeled Tasks in Visual Instruction Tuning**|Zhiyang Xu et.al.|[2402.11690](http://arxiv.org/abs/2402.11690)|null|
+|**2024-02-18**|**Logical Closed Loop: Uncovering Object Hallucinations in Large Vision-Language Models**|Junfei Wu et.al.|[2402.11622](http://arxiv.org/abs/2402.11622)|**[link](https://github.com/hyperwjf/logiccheckgpt)**|
+|**2024-02-18**|**Ain't Misbehavin' -- Using LLMs to Generate Expressive Robot Behavior in Conversations with the Tabletop Robot Haru**|Zining Wang et.al.|[2402.11571](http://arxiv.org/abs/2402.11571)|null|
+|**2024-02-18**|**LongAgent: Scaling Language Models to 128k Context through Multi-Agent Collaboration**|Jun Zhao et.al.|[2402.11550](http://arxiv.org/abs/2402.11550)|null|
 |**2024-02-16**|**Trading off Consistency and Dimensionality of Convex Surrogates for the Mode**|Enrique Nueve et.al.|[2402.10818](http://arxiv.org/abs/2402.10818)|null|
 |**2024-02-16**|**When Dataflow Analysis Meets Large Language Models**|Chengpeng Wang et.al.|[2402.10754](http://arxiv.org/abs/2402.10754)|null|
 |**2024-02-16**|**GenRES: Rethinking Evaluation for Generative Relation Extraction in the Era of Large Language Models**|Pengcheng Jiang et.al.|[2402.10744](http://arxiv.org/abs/2402.10744)|null|
