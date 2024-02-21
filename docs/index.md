@@ -2189,6 +2189,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-20**|**Not All Weights Are Created Equal: Enhancing Energy Efficiency in On-Device Streaming Speech Recognition**|Yang Li et.al.|[2402.13076](http://arxiv.org/abs/2402.13076)|null|
+|**2024-02-20**|**SiLLM: Large Language Models for Simultaneous Machine Translation**|Shoutao Guo et.al.|[2402.13036](http://arxiv.org/abs/2402.13036)|**[link](https://github.com/ictnlp/sillm)**|
 |**2024-02-19**|**Generation Meets Verification: Accelerating Large Language Model Inference with Smart Parallel Auto-Correct Decoding**|Hanling Yi et.al.|[2402.11809](http://arxiv.org/abs/2402.11809)|null|
 |**2024-02-16**|**Conversational SimulMT: Efficient Simultaneous Translation with Large Language Models**|Minghan Wang et.al.|[2402.10552](http://arxiv.org/abs/2402.10552)|null|
 |**2024-02-14**|**Zero-entropy encoders and simultaneous decoders in identification via quantum channels**|Pau Colomer et.al.|[2402.09116](http://arxiv.org/abs/2402.09116)|null|
@@ -2196,7 +2198,7 @@ layout: default
 |**2024-02-08**|**MIGC: Multi-Instance Generation Controller for Text-to-Image Synthesis**|Dewei Zhou et.al.|[2402.05408](http://arxiv.org/abs/2402.05408)|**[link](https://github.com/limuloo/migc)**|
 |**2024-02-07**|**TransLLaMa: LLM-based Simultaneous Translation System**|Roman Koshkin et.al.|[2402.04636](http://arxiv.org/abs/2402.04636)|null|
 |**2024-01-22**|**TEXterity: Tactile Extrinsic deXterity**|Antonia Bronars et.al.|[2401.10230](http://arxiv.org/abs/2401.10230)|null|
-|**2024-01-12**|**WisdoM: Improving Multimodal Sentiment Analysis by Fusing Contextual World Knowledge**|Wenbin Wang et.al.|[2401.06659](http://arxiv.org/abs/2401.06659)|null|
+|**2024-02-20**|**WisdoM: Improving Multimodal Sentiment Analysis by Fusing Contextual World Knowledge**|Wenbin Wang et.al.|[2401.06659](http://arxiv.org/abs/2401.06659)|null|
 |**2024-01-11**|**R-BI: Regularized Batched Inputs enhance Incremental Decoding Framework for Low-Latency Simultaneous Speech Translation**|Jiaxin Guo et.al.|[2401.05700](http://arxiv.org/abs/2401.05700)|null|
 |**2024-01-10**|**ANIM-400K: A Large-Scale Dataset for Automated End-To-End Dubbing of Video**|Kevin Cai et.al.|[2401.05314](http://arxiv.org/abs/2401.05314)|**[link](https://github.com/davidmchan/anim400k)**|
 |**2024-01-03**|**Towards Modeling Uncertainties of Self-explaining Neural Networks via Conformal Prediction**|Wei Qian et.al.|[2401.01549](http://arxiv.org/abs/2401.01549)|null|
@@ -2227,6 +2229,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-20**|**Towards audio language modeling - an overview**|Haibin Wu et.al.|[2402.13236](http://arxiv.org/abs/2402.13236)|null|
+|**2024-02-20**|**Unlocking Insights: Semantic Search in Jupyter Notebooks**|Lan Li et.al.|[2402.13234](http://arxiv.org/abs/2402.13234)|null|
+|**2024-02-20**|**A Touch, Vision, and Language Dataset for Multimodal Alignment**|Letian Fu et.al.|[2402.13232](http://arxiv.org/abs/2402.13232)|null|
+|**2024-02-20**|**Investigating Cultural Alignment of Large Language Models**|Badr AlKhamissi et.al.|[2402.13231](http://arxiv.org/abs/2402.13231)|**[link](https://github.com/bkhmsi/cultural-trends)**|
+|**2024-02-20**|**Smaug: Fixing Failure Modes of Preference Optimisation with DPO-Positive**|Arka Pal et.al.|[2402.13228](http://arxiv.org/abs/2402.13228)|null|
+|**2024-02-20**|**AgentMD: Empowering Language Agents for Risk Prediction with Large-Scale Clinical Tool Learning**|Qiao Jin et.al.|[2402.13225](http://arxiv.org/abs/2402.13225)|null|
+|**2024-02-20**|**RoCode: A Dataset for Measuring Code Intelligence from Problem Definitions in Romanian**|Adrian Cosma et.al.|[2402.13222](http://arxiv.org/abs/2402.13222)|**[link](https://github.com/cosmaadrian/rocode)**|
+|**2024-02-20**|**How Easy is It to Fool Your Multimodal LLMs? An Empirical Analysis on Deceptive Prompts**|Yusu Qian et.al.|[2402.13220](http://arxiv.org/abs/2402.13220)|null|
+|**2024-02-20**|**Softmax Probabilities (Mostly) Predict Large Language Model Correctness on Multiple-Choice Q&A**|Benjamin Plaut et.al.|[2402.13213](http://arxiv.org/abs/2402.13213)|**[link](https://github.com/bplaut/softmax-probs-predict-llm-correctness)**|
+|**2024-02-20**|**Soft Self-Consistency Improves Language Model Agents**|Han Wang et.al.|[2402.13212](http://arxiv.org/abs/2402.13212)|**[link](https://github.com/hannight/soft_self_consistency)**|
 |**2024-02-19**|**Sequoia: Scalable, Robust, and Hardware-aware Speculative Decoding**|Zhuoming Chen et.al.|[2402.12374](http://arxiv.org/abs/2402.12374)|null|
 |**2024-02-19**|**AnaloBench: Benchmarking the Identification of Abstract and Long-context Analogies**|Xiao Ye et.al.|[2402.12370](http://arxiv.org/abs/2402.12370)|null|
 |**2024-02-19**|**A Critical Evaluation of AI Feedback for Aligning Large Language Models**|Archit Sharma et.al.|[2402.12366](http://arxiv.org/abs/2402.12366)|**[link](https://github.com/architsharma97/dpo-rlaif)**|
@@ -2788,6 +2800,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-20**|**SiLLM: Large Language Models for Simultaneous Machine Translation**|Shoutao Guo et.al.|[2402.13036](http://arxiv.org/abs/2402.13036)|**[link](https://github.com/ictnlp/sillm)**|
+|**2024-02-20**|**UMBCLU at SemEval-2024 Task 1A and 1C: Semantic Textual Relatedness with and without machine translation**|Shubhashis Roy Dipta et.al.|[2402.12730](http://arxiv.org/abs/2402.12730)|null|
 |**2024-02-19**|**NEO-BENCH: Evaluating Robustness of Large Language Models with Neologisms**|Jonathan Zheng et.al.|[2402.12261](http://arxiv.org/abs/2402.12261)|null|
 |**2024-02-19**|**Analysis of Levenshtein Transformer's Decoder and Its Variants**|Ruiyang Zhou et.al.|[2402.12249](http://arxiv.org/abs/2402.12249)|null|
 |**2024-02-19**|**What Do Dialect Speakers Want? A Survey of Attitudes Towards Language Technology for German Dialects**|Verena Blaschke et.al.|[2402.11968](http://arxiv.org/abs/2402.11968)|null|
@@ -2934,6 +2948,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-20**|**OWSM-CTC: An Open Encoder-Only Speech Foundation Model for Speech Recognition, Translation, and Language Identification**|Yifan Peng et.al.|[2402.12654](http://arxiv.org/abs/2402.12654)|null|
 |**2024-02-19**|**Speech Translation with Speech Foundation Models and Large Language Models: What is There and What is Missing?**|Marco Gaido et.al.|[2402.12025](http://arxiv.org/abs/2402.12025)|null|
 |**2024-02-16**|**Pushing the Limits of Zero-shot End-to-End Speech Translation**|Ioannis Tsiamas et.al.|[2402.10422](http://arxiv.org/abs/2402.10422)|**[link](https://github.com/mt-upc/zeroswot)**|
 |**2024-02-02**|**A Case Study on Filtering for End-to-End Speech Translation**|Md Mahfuz Ibn Alam et.al.|[2402.01945](http://arxiv.org/abs/2402.01945)|null|
@@ -2962,6 +2977,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-20**|**TofuEval: Evaluating Hallucinations of LLMs on Topic-Focused Dialogue Summarization**|Liyan Tang et.al.|[2402.13249](http://arxiv.org/abs/2402.13249)|**[link](https://github.com/amazon-science/tofueval)**|
+|**2024-02-20**|**How Easy is It to Fool Your Multimodal LLMs? An Empirical Analysis on Deceptive Prompts**|Yusu Qian et.al.|[2402.13220](http://arxiv.org/abs/2402.13220)|null|
+|**2024-02-20**|**Benchmarking Retrieval-Augmented Generation for Medicine**|Guangzhi Xiong et.al.|[2402.13178](http://arxiv.org/abs/2402.13178)|null|
+|**2024-02-20**|**OPDAI at SemEval-2024 Task 6: Small LLMs can Accelerate Hallucination Detection with Weakly Supervised Data**|Chengcheng Wei et.al.|[2402.12913](http://arxiv.org/abs/2402.12913)|null|
+|**2024-02-20**|**GOOD: Towards Domain Generalized Orientated Object Detection**|Qi Bi et.al.|[2402.12765](http://arxiv.org/abs/2402.12765)|null|
+|**2024-02-20**|**Modality-Aware Integration with Large Language Models for Knowledge-based Visual Question Answering**|Junnan Dong et.al.|[2402.12728](http://arxiv.org/abs/2402.12728)|null|
+|**2024-02-20**|**OWSM-CTC: An Open Encoder-Only Speech Foundation Model for Speech Recognition, Translation, and Language Identification**|Yifan Peng et.al.|[2402.12654](http://arxiv.org/abs/2402.12654)|null|
 |**2024-02-19**|**Reformatted Alignment**|Run-Ze Fan et.al.|[2402.12219](http://arxiv.org/abs/2402.12219)|**[link](https://github.com/gair-nlp/realign)**|
 |**2024-02-19**|**Mafin: Enhancing Black-Box Embeddings with Model Augmented Fine-tuning**|Mingtian Zhang et.al.|[2402.12177](http://arxiv.org/abs/2402.12177)|null|
 |**2024-02-19**|**Meta Ranking: Less Capable Language Models are Capable for Single Response Judgement**|Zijun Liu et.al.|[2402.12146](http://arxiv.org/abs/2402.12146)|**[link](https://github.com/thunlp-mt/metaranking)**|
