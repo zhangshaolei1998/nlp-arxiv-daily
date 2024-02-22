@@ -2189,6 +2189,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-21**|**Web bases in degree two from hourglass plabic graphs**|Christian Gaetz et.al.|[2402.13978](http://arxiv.org/abs/2402.13978)|null|
+|**2024-02-20**|**Tree semi-separable matrices: a simultaneous generalization of sequentially and hierarchically semi-separable representations**|Nithin Govindarajan et.al.|[2402.13381](http://arxiv.org/abs/2402.13381)|null|
 |**2024-02-20**|**Not All Weights Are Created Equal: Enhancing Energy Efficiency in On-Device Streaming Speech Recognition**|Yang Li et.al.|[2402.13076](http://arxiv.org/abs/2402.13076)|null|
 |**2024-02-20**|**SiLLM: Large Language Models for Simultaneous Machine Translation**|Shoutao Guo et.al.|[2402.13036](http://arxiv.org/abs/2402.13036)|**[link](https://github.com/ictnlp/sillm)**|
 |**2024-02-19**|**Generation Meets Verification: Accelerating Large Language Model Inference with Smart Parallel Auto-Correct Decoding**|Hanling Yi et.al.|[2402.11809](http://arxiv.org/abs/2402.11809)|null|
@@ -2229,6 +2231,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-21**|**Coercing LLMs to do and reveal (almost) anything**|Jonas Geiping et.al.|[2402.14020](http://arxiv.org/abs/2402.14020)|null|
+|**2024-02-21**|**Is LLM-as-a-Judge Robust? Investigating Universal Adversarial Attacks on Zero-shot LLM Assessment**|Vyas Raina et.al.|[2402.14016](http://arxiv.org/abs/2402.14016)|null|
+|**2024-02-21**|**OlympiadBench: A Challenging Benchmark for Promoting AGI with Olympiad-Level Bilingual Multimodal Scientific Problems**|Chaoqun He et.al.|[2402.14008](http://arxiv.org/abs/2402.14008)|null|
+|**2024-02-21**|**Can Watermarks Survive Translation? On the Cross-lingual Consistency of Text Watermark for Large Language Models**|Zhiwei He et.al.|[2402.14007](http://arxiv.org/abs/2402.14007)|null|
+|**2024-02-21**|**Hallucinations or Attention Misdirection? The Path to Strategic Value Extraction in Business Using Large Language Models**|Aline Ioste et.al.|[2402.14002](http://arxiv.org/abs/2402.14002)|null|
+|**2024-02-21**|**Analysing The Impact of Sequence Composition on Language Model Pre-Training**|Yu Zhao et.al.|[2402.13991](http://arxiv.org/abs/2402.13991)|**[link](https://github.com/yuzhaouoe/pretraining-data-packing)**|
+|**2024-02-21**|**Towards Building Multilingual Language Model for Medicine**|Pengcheng Qiu et.al.|[2402.13963](http://arxiv.org/abs/2402.13963)|**[link](https://github.com/magic-ai4med/mmedlm)**|
+|**2024-02-21**|**Measuring Social Biases in Masked Language Models by Proxy of Prediction Quality**|Rahul Zalkikar et.al.|[2402.13954](http://arxiv.org/abs/2402.13954)|null|
+|**2024-02-21**|**Making Reasoning Matter: Measuring and Improving Faithfulness of Chain-of-Thought Reasoning**|Debjit Paul et.al.|[2402.13950](http://arxiv.org/abs/2402.13950)|null|
+|**2024-02-21**|**Do Efficient Transformers Really Save Computation?**|Kai Yang et.al.|[2402.13934](http://arxiv.org/abs/2402.13934)|null|
 |**2024-02-20**|**Towards audio language modeling -- an overview**|Haibin Wu et.al.|[2402.13236](http://arxiv.org/abs/2402.13236)|null|
 |**2024-02-20**|**Unlocking Insights: Semantic Search in Jupyter Notebooks**|Lan Li et.al.|[2402.13234](http://arxiv.org/abs/2402.13234)|null|
 |**2024-02-20**|**A Touch, Vision, and Language Dataset for Multimodal Alignment**|Letian Fu et.al.|[2402.13232](http://arxiv.org/abs/2402.13232)|null|
@@ -2800,6 +2812,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-21**|**What Linguistic Features and Languages are Important in LLM Translation?**|Ryandito Diandaru et.al.|[2402.13917](http://arxiv.org/abs/2402.13917)|null|
+|**2024-02-21**|**An Augmented Lagrangian Method for Training Recurrent Neural Networks**|Yue Wang et.al.|[2402.13687](http://arxiv.org/abs/2402.13687)|null|
+|**2024-02-21**|**RefuteBench: Evaluating Refuting Instruction-Following for Large Language Models**|Jianhao Yan et.al.|[2402.13463](http://arxiv.org/abs/2402.13463)|null|
+|**2024-02-20**|**Enhanced Hallucination Detection in Neural Machine Translation through Simple Detector Aggregation**|Anas Himmi et.al.|[2402.13331](http://arxiv.org/abs/2402.13331)|null|
 |**2024-02-20**|**SiLLM: Large Language Models for Simultaneous Machine Translation**|Shoutao Guo et.al.|[2402.13036](http://arxiv.org/abs/2402.13036)|**[link](https://github.com/ictnlp/sillm)**|
 |**2024-02-20**|**UMBCLU at SemEval-2024 Task 1A and 1C: Semantic Textual Relatedness with and without machine translation**|Shubhashis Roy Dipta et.al.|[2402.12730](http://arxiv.org/abs/2402.12730)|null|
 |**2024-02-19**|**NEO-BENCH: Evaluating Robustness of Large Language Models with Neologisms**|Jonathan Zheng et.al.|[2402.12261](http://arxiv.org/abs/2402.12261)|null|
@@ -2977,6 +2993,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-21**|**OlympiadBench: A Challenging Benchmark for Promoting AGI with Olympiad-Level Bilingual Multimodal Scientific Problems**|Chaoqun He et.al.|[2402.14008](http://arxiv.org/abs/2402.14008)|null|
+|**2024-02-21**|**Hallucinations or Attention Misdirection? The Path to Strategic Value Extraction in Business Using Large Language Models**|Aline Ioste et.al.|[2402.14002](http://arxiv.org/abs/2402.14002)|null|
+|**2024-02-21**|**SYNFAC-EDIT: Synthetic Imitation Edit Feedback for Factual Alignment in Clinical Summarization**|Prakamya Mishra et.al.|[2402.13919](http://arxiv.org/abs/2402.13919)|null|
+|**2024-02-21**|**Science Checker Reloaded: A Bidirectional Paradigm for Transparency and Logical Reasoning**|Loïc Rakotoson et.al.|[2402.13897](http://arxiv.org/abs/2402.13897)|null|
+|**2024-02-21**|**A Comprehensive Study of Multilingual Confidence Estimation on Large Language Models**|Boyang Xue et.al.|[2402.13606](http://arxiv.org/abs/2402.13606)|null|
+|**2024-02-21**|**ARL2: Aligning Retrievers for Black-box Large Language Models via Self-guided Adaptive Relevance Labeling**|Lingxi Zhang et.al.|[2402.13542](http://arxiv.org/abs/2402.13542)|null|
+|**2024-02-20**|**Emergence and dynamics of delusions and hallucinations across stages in early psychosis**|Catalina Mourgues-Codern et.al.|[2402.13428](http://arxiv.org/abs/2402.13428)|null|
+|**2024-02-20**|**Reliable LLM-based User Simulator for Task-Oriented Dialogue Systems**|Ivan Sekulić et.al.|[2402.13374](http://arxiv.org/abs/2402.13374)|null|
+|**2024-02-20**|**Enhanced Hallucination Detection in Neural Machine Translation through Simple Detector Aggregation**|Anas Himmi et.al.|[2402.13331](http://arxiv.org/abs/2402.13331)|null|
 |**2024-02-20**|**TofuEval: Evaluating Hallucinations of LLMs on Topic-Focused Dialogue Summarization**|Liyan Tang et.al.|[2402.13249](http://arxiv.org/abs/2402.13249)|**[link](https://github.com/amazon-science/tofueval)**|
 |**2024-02-20**|**How Easy is It to Fool Your Multimodal LLMs? An Empirical Analysis on Deceptive Prompts**|Yusu Qian et.al.|[2402.13220](http://arxiv.org/abs/2402.13220)|null|
 |**2024-02-20**|**Benchmarking Retrieval-Augmented Generation for Medicine**|Guangzhi Xiong et.al.|[2402.13178](http://arxiv.org/abs/2402.13178)|null|
