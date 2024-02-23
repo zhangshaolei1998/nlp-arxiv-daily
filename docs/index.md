@@ -2231,6 +2231,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-22**|**PALO: A Polyglot Large Multimodal Model for 5B People**|Muhammad Maaz et.al.|[2402.14818](http://arxiv.org/abs/2402.14818)|**[link](https://github.com/mbzuai-oryx/palo)**|
+|**2024-02-22**|**Fine-Tuning Enhances Existing Mechanisms: A Case Study on Entity Tracking**|Nikhil Prakash et.al.|[2402.14811](http://arxiv.org/abs/2402.14811)|null|
+|**2024-02-22**|**CriticBench: Benchmarking LLMs for Critique-Correct Reasoning**|Zicheng Lin et.al.|[2402.14809](http://arxiv.org/abs/2402.14809)|**[link](https://github.com/CriticBench/CriticBench)**|
+|**2024-02-22**|**RelayAttention for Efficient Large Language Model Serving with Long System Prompts**|Lei Zhu et.al.|[2402.14808](http://arxiv.org/abs/2402.14808)|null|
+|**2024-02-22**|**A Decision-Language Model (DLM) for Dynamic Restless Multi-Armed Bandit Tasks in Public Health**|Nikhil Behari et.al.|[2402.14807](http://arxiv.org/abs/2402.14807)|null|
+|**2024-02-22**|**Identifying Multiple Personalities in Large Language Models with External Evaluation**|Xiaoyang Song et.al.|[2402.14805](http://arxiv.org/abs/2402.14805)|null|
+|**2024-02-22**|**Not All Experts are Equal: Efficient Expert Pruning and Skipping for Mixture-of-Experts Large Language Models**|Xudong Lu et.al.|[2402.14800](http://arxiv.org/abs/2402.14800)|**[link](https://github.com/lucky-lance/expert_sparsity)**|
+|**2024-02-22**|**Enhancing Systematic Decompositional Natural Language Inference Using Informal Logic**|Nathaniel Weir et.al.|[2402.14798](http://arxiv.org/abs/2402.14798)|null|
+|**2024-02-22**|**Zero-shot cross-lingual transfer in instruction tuning of large language model**|Nadezhda Chirkova et.al.|[2402.14778](http://arxiv.org/abs/2402.14778)|null|
+|**2024-02-22**|**2D Matryoshka Sentence Embeddings**|Xianming Li et.al.|[2402.14776](http://arxiv.org/abs/2402.14776)|null|
 |**2024-02-21**|**Coercing LLMs to do and reveal (almost) anything**|Jonas Geiping et.al.|[2402.14020](http://arxiv.org/abs/2402.14020)|**[link](https://github.com/jonasgeiping/carving)**|
 |**2024-02-21**|**Is LLM-as-a-Judge Robust? Investigating Universal Adversarial Attacks on Zero-shot LLM Assessment**|Vyas Raina et.al.|[2402.14016](http://arxiv.org/abs/2402.14016)|null|
 |**2024-02-21**|**OlympiadBench: A Challenging Benchmark for Promoting AGI with Olympiad-Level Bilingual Multimodal Scientific Problems**|Chaoqun He et.al.|[2402.14008](http://arxiv.org/abs/2402.14008)|null|
@@ -2812,9 +2822,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-22**|**Two Counterexamples to \textit{Tokenization and the Noiseless Channel}**|Marco Cognetta et.al.|[2402.14614](http://arxiv.org/abs/2402.14614)|null|
+|**2024-02-22**|**Wizard of Oz Experimentation for Language Technology Applications: Challenges and Tools**|Stephan Schlögl et.al.|[2402.14563](http://arxiv.org/abs/2402.14563)|null|
+|**2024-02-22**|**Does the Generator Mind its Contexts? An Analysis of Generative Model Faithfulness under Context Transfer**|Xinshuo Hu et.al.|[2402.14488](http://arxiv.org/abs/2402.14488)|null|
+|**2024-02-22**|**GATE X-E : A Challenge Set for Gender-Fair Translations from Weakly-Gendered Languages**|Spencer Rarrick et.al.|[2402.14277](http://arxiv.org/abs/2402.14277)|null|
+|**2024-02-21**|**Bangla AI: A Framework for Machine Translation Utilizing Large Language Models for Ethnic Media**|MD Ashraful Goni et.al.|[2402.14179](http://arxiv.org/abs/2402.14179)|null|
 |**2024-02-21**|**What Linguistic Features and Languages are Important in LLM Translation?**|Ryandito Diandaru et.al.|[2402.13917](http://arxiv.org/abs/2402.13917)|null|
 |**2024-02-21**|**An Augmented Lagrangian Method for Training Recurrent Neural Networks**|Yue Wang et.al.|[2402.13687](http://arxiv.org/abs/2402.13687)|null|
-|**2024-02-21**|**RefuteBench: Evaluating Refuting Instruction-Following for Large Language Models**|Jianhao Yan et.al.|[2402.13463](http://arxiv.org/abs/2402.13463)|null|
+|**2024-02-22**|**RefuteBench: Evaluating Refuting Instruction-Following for Large Language Models**|Jianhao Yan et.al.|[2402.13463](http://arxiv.org/abs/2402.13463)|null|
 |**2024-02-20**|**Enhanced Hallucination Detection in Neural Machine Translation through Simple Detector Aggregation**|Anas Himmi et.al.|[2402.13331](http://arxiv.org/abs/2402.13331)|null|
 |**2024-02-20**|**SiLLM: Large Language Models for Simultaneous Machine Translation**|Shoutao Guo et.al.|[2402.13036](http://arxiv.org/abs/2402.13036)|**[link](https://github.com/ictnlp/sillm)**|
 |**2024-02-20**|**UMBCLU at SemEval-2024 Task 1A and 1C: Semantic Textual Relatedness with and without machine translation**|Shubhashis Roy Dipta et.al.|[2402.12730](http://arxiv.org/abs/2402.12730)|null|
@@ -2993,7 +3008,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-02-21**|**OlympiadBench: A Challenging Benchmark for Promoting AGI with Olympiad-Level Bilingual Multimodal Scientific Problems**|Chaoqun He et.al.|[2402.14008](http://arxiv.org/abs/2402.14008)|null|
+|**2024-02-22**|**DualFocus: Integrating Macro and Micro Perspectives in Multi-modal Large Language Models**|Yuhang Cao et.al.|[2402.14767](http://arxiv.org/abs/2402.14767)|**[link](https://github.com/InternLM/InternLM-XComposer/tree/main/projects/DualFocus)**|
+|**2024-02-22**|**Visual Hallucinations of Multi-modal Large Language Models**|Wen Huang et.al.|[2402.14683](http://arxiv.org/abs/2402.14683)|**[link](https://github.com/wenhuang2000/vhtest)**|
+|**2024-02-22**|**Less is More: Mitigating Multimodal Hallucination from an EOS Decision Perspective**|Zihao Yue et.al.|[2402.14545](http://arxiv.org/abs/2402.14545)|**[link](https://github.com/yuezih/less-is-more)**|
+|**2024-02-22**|**Does the Generator Mind its Contexts? An Analysis of Generative Model Faithfulness under Context Transfer**|Xinshuo Hu et.al.|[2402.14488](http://arxiv.org/abs/2402.14488)|null|
+|**2024-02-21**|**OlympiadBench: A Challenging Benchmark for Promoting AGI with Olympiad-Level Bilingual Multimodal Scientific Problems**|Chaoqun He et.al.|[2402.14008](http://arxiv.org/abs/2402.14008)|**[link](https://github.com/openbmb/olympiadbench)**|
 |**2024-02-21**|**Hallucinations or Attention Misdirection? The Path to Strategic Value Extraction in Business Using Large Language Models**|Aline Ioste et.al.|[2402.14002](http://arxiv.org/abs/2402.14002)|null|
 |**2024-02-21**|**SYNFAC-EDIT: Synthetic Imitation Edit Feedback for Factual Alignment in Clinical Summarization**|Prakamya Mishra et.al.|[2402.13919](http://arxiv.org/abs/2402.13919)|null|
 |**2024-02-21**|**Science Checker Reloaded: A Bidirectional Paradigm for Transparency and Logical Reasoning**|Loïc Rakotoson et.al.|[2402.13897](http://arxiv.org/abs/2402.13897)|null|
