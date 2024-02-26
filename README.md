@@ -2218,7 +2218,7 @@
 |**2024-02-20**|**Tree semi-separable matrices: a simultaneous generalization of sequentially and hierarchically semi-separable representations**|Nithin Govindarajan et.al.|[2402.13381](http://arxiv.org/abs/2402.13381)|null|
 |**2024-02-20**|**Not All Weights Are Created Equal: Enhancing Energy Efficiency in On-Device Streaming Speech Recognition**|Yang Li et.al.|[2402.13076](http://arxiv.org/abs/2402.13076)|null|
 |**2024-02-20**|**SiLLM: Large Language Models for Simultaneous Machine Translation**|Shoutao Guo et.al.|[2402.13036](http://arxiv.org/abs/2402.13036)|**[link](https://github.com/ictnlp/sillm)**|
-|**2024-02-19**|**Generation Meets Verification: Accelerating Large Language Model Inference with Smart Parallel Auto-Correct Decoding**|Hanling Yi et.al.|[2402.11809](http://arxiv.org/abs/2402.11809)|null|
+|**2024-02-19**|**Generation Meets Verification: Accelerating Large Language Model Inference with Smart Parallel Auto-Correct Decoding**|Hanling Yi et.al.|[2402.11809](http://arxiv.org/abs/2402.11809)|**[link](https://github.com/hiyouga/llama-factory)**|
 |**2024-02-16**|**Conversational SimulMT: Efficient Simultaneous Translation with Large Language Models**|Minghan Wang et.al.|[2402.10552](http://arxiv.org/abs/2402.10552)|null|
 |**2024-02-14**|**Zero-entropy encoders and simultaneous decoders in identification via quantum channels**|Pau Colomer et.al.|[2402.09116](http://arxiv.org/abs/2402.09116)|null|
 |**2024-02-13**|**Optimal Task Assignment and Path Planning using Conflict-Based Search with Precedence and Temporal Constraints**|Yu Quan Chong et.al.|[2402.08772](http://arxiv.org/abs/2402.08772)|null|
@@ -2258,6 +2258,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-23**|**AgentOhana: Design Unified Data and Training Pipeline for Effective Agent Learning**|Jianguo Zhang et.al.|[2402.15506](http://arxiv.org/abs/2402.15506)|null|
+|**2024-02-23**|**API-BLEND: A Comprehensive Corpora for Training and Benchmarking API LLMs**|Kinjal Basu et.al.|[2402.15491](http://arxiv.org/abs/2402.15491)|null|
+|**2024-02-23**|**Prejudice and Caprice: A Statistical Framework for Measuring Social Discrimination in Large Language Models**|Yiran Liu et.al.|[2402.15481](http://arxiv.org/abs/2402.15481)|null|
+|**2024-02-23**|**Leveraging Domain Knowledge for Efficient Reward Modelling in RLHF: A Case-Study in E-Commerce Opinion Summarization**|Swaroop Nath et.al.|[2402.15473](http://arxiv.org/abs/2402.15473)|**[link](https://github.com/swaroop-nath/reward-approx-social-choice-opp-summ)**|
+|**2024-02-23**|**Repetition Improves Language Model Embeddings**|Jacob Mitchell Springer et.al.|[2402.15449](http://arxiv.org/abs/2402.15449)|**[link](https://github.com/jakespringer/echo-embeddings)**|
+|**2024-02-23**|**A Data-Centric Approach To Generate Faithful and High Quality Patient Summaries with Large Language Models**|Stefan Hegselmann et.al.|[2402.15422](http://arxiv.org/abs/2402.15422)|**[link](https://github.com/stefanhgm/patient_summaries_with_llms)**|
+|**2024-02-23**|**PREDILECT: Preferences Delineated with Zero-Shot Language-based Reasoning in Reinforcement Learning**|Simon Holk et.al.|[2402.15420](http://arxiv.org/abs/2402.15420)|null|
+|**2024-02-23**|**Does Combining Parameter-efficient Modules Improve Few-shot Transfer Accuracy?**|Nader Asadi et.al.|[2402.15414](http://arxiv.org/abs/2402.15414)|null|
+|**2024-02-23**|**Explorations of Self-Repair in Language Models**|Cody Rushing et.al.|[2402.15390](http://arxiv.org/abs/2402.15390)|**[link](https://github.com/starship006/backup_research)**|
+|**2024-02-23**|**Safe Task Planning for Language-Instructed Multi-Robot Systems using Conformal Prediction**|Jun Wang et.al.|[2402.15368](http://arxiv.org/abs/2402.15368)|null|
 |**2024-02-22**|**PALO: A Polyglot Large Multimodal Model for 5B People**|Muhammad Maaz et.al.|[2402.14818](http://arxiv.org/abs/2402.14818)|**[link](https://github.com/mbzuai-oryx/palo)**|
 |**2024-02-22**|**Fine-Tuning Enhances Existing Mechanisms: A Case Study on Entity Tracking**|Nikhil Prakash et.al.|[2402.14811](http://arxiv.org/abs/2402.14811)|null|
 |**2024-02-22**|**CriticBench: Benchmarking LLMs for Critique-Correct Reasoning**|Zicheng Lin et.al.|[2402.14809](http://arxiv.org/abs/2402.14809)|**[link](https://github.com/CriticBench/CriticBench)**|
@@ -2851,6 +2861,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-23**|**Transformers are Expressive, But Are They Expressive Enough for Regression?**|Swaroop Nath et.al.|[2402.15478](http://arxiv.org/abs/2402.15478)|**[link](https://github.com/swaroop-nath/transformer-expressivity)**|
+|**2024-02-23**|**DeMPT: Decoding-enhanced Multi-phase Prompt Tuning for Making LLMs Be Better Context-aware Translators**|Xinglin Lyu et.al.|[2402.15200](http://arxiv.org/abs/2402.15200)|null|
+|**2024-02-23**|**Fine-tuning Large Language Models for Domain-specific Machine Translation**|Jiawei Zheng et.al.|[2402.15061](http://arxiv.org/abs/2402.15061)|null|
 |**2024-02-22**|**Two Counterexamples to \textit{Tokenization and the Noiseless Channel}**|Marco Cognetta et.al.|[2402.14614](http://arxiv.org/abs/2402.14614)|null|
 |**2024-02-22**|**Wizard of Oz Experimentation for Language Technology Applications: Challenges and Tools**|Stephan Schlögl et.al.|[2402.14563](http://arxiv.org/abs/2402.14563)|null|
 |**2024-02-22**|**Does the Generator Mind its Contexts? An Analysis of Generative Model Faithfulness under Context Transfer**|Xinshuo Hu et.al.|[2402.14488](http://arxiv.org/abs/2402.14488)|null|
@@ -3041,6 +3054,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-23**|**A Data-Centric Approach To Generate Faithful and High Quality Patient Summaries with Large Language Models**|Stefan Hegselmann et.al.|[2402.15422](http://arxiv.org/abs/2402.15422)|**[link](https://github.com/stefanhgm/patient_summaries_with_llms)**|
+|**2024-02-23**|**Seeing is Believing: Mitigating Hallucination in Large Vision-Language Models via CLIP-Guided Decoding**|Ailin Deng et.al.|[2402.15300](http://arxiv.org/abs/2402.15300)|null|
+|**2024-02-23**|**Gotcha! Don't trick me with unanswerable questions! Self-aligning Large Language Models for Responding to Unknown Questions**|Yang Deng et.al.|[2402.15062](http://arxiv.org/abs/2402.15062)|null|
+|**2024-02-23**|**CARBD-Ko: A Contextually Annotated Review Benchmark Dataset for Aspect-Level Sentiment Classification in Korean**|Dongjun Jang et.al.|[2402.15046](http://arxiv.org/abs/2402.15046)|null|
+|**2024-02-22**|**GenCeption: Evaluate Multimodal LLMs with Unlabeled Unimodal Data**|Lele Cao et.al.|[2402.14973](http://arxiv.org/abs/2402.14973)|null|
 |**2024-02-22**|**DualFocus: Integrating Macro and Micro Perspectives in Multi-modal Large Language Models**|Yuhang Cao et.al.|[2402.14767](http://arxiv.org/abs/2402.14767)|**[link](https://github.com/InternLM/InternLM-XComposer/tree/main/projects/DualFocus)**|
 |**2024-02-22**|**Visual Hallucinations of Multi-modal Large Language Models**|Wen Huang et.al.|[2402.14683](http://arxiv.org/abs/2402.14683)|**[link](https://github.com/wenhuang2000/vhtest)**|
 |**2024-02-22**|**Less is More: Mitigating Multimodal Hallucination from an EOS Decision Perspective**|Zihao Yue et.al.|[2402.14545](http://arxiv.org/abs/2402.14545)|**[link](https://github.com/yuezih/less-is-more)**|
