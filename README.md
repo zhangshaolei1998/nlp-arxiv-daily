@@ -2258,6 +2258,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-26**|**Integrating Large Language Models with Graphical Session-Based Recommendation**|Naicheng Guo et.al.|[2402.16539](http://arxiv.org/abs/2402.16539)|null|
+|**2024-02-26**|**LLMArena: Assessing Capabilities of Large Language Models in Dynamic Multi-Agent Environments**|Junzhe Chen et.al.|[2402.16499](http://arxiv.org/abs/2402.16499)|null|
+|**2024-02-26**|**On Languaging a Simulation Engine**|Han Liu et.al.|[2402.16482](http://arxiv.org/abs/2402.16482)|null|
+|**2024-02-26**|**Unveiling ChatGPT's Usage in Open Source Projects: A Mining-based Study**|Rosalia Tufano et.al.|[2402.16480](http://arxiv.org/abs/2402.16480)|null|
+|**2024-02-26**|**mEdIT: Multilingual Text Editing via Instruction Tuning**|Vipul Raheja et.al.|[2402.16472](http://arxiv.org/abs/2402.16472)|null|
+|**2024-02-26**|**Unveiling Vulnerability of Self-Attention**|Khai Jiet Liong et.al.|[2402.16470](http://arxiv.org/abs/2402.16470)|null|
+|**2024-02-26**|**Defending LLMs against Jailbreaking Attacks via Backtranslation**|Yihan Wang et.al.|[2402.16459](http://arxiv.org/abs/2402.16459)|null|
+|**2024-02-26**|**ProLLaMA: A Protein Large Language Model for Multi-Task Protein Language Processing**|Liuzhenghao Lv et.al.|[2402.16445](http://arxiv.org/abs/2402.16445)|null|
+|**2024-02-26**|**ShieldLM: Empowering LLMs as Aligned, Customizable and Explainable Safety Detectors**|Zhexin Zhang et.al.|[2402.16444](http://arxiv.org/abs/2402.16444)|**[link](https://github.com/thu-coai/shieldlm)**|
+|**2024-02-26**|**Language-Specific Neurons: The Key to Multilingual Capabilities in Large Language Models**|Tianyi Tang et.al.|[2402.16438](http://arxiv.org/abs/2402.16438)|null|
 |**2024-02-23**|**AgentOhana: Design Unified Data and Training Pipeline for Effective Agent Learning**|Jianguo Zhang et.al.|[2402.15506](http://arxiv.org/abs/2402.15506)|null|
 |**2024-02-23**|**API-BLEND: A Comprehensive Corpora for Training and Benchmarking API LLMs**|Kinjal Basu et.al.|[2402.15491](http://arxiv.org/abs/2402.15491)|null|
 |**2024-02-23**|**Prejudice and Caprice: A Statistical Framework for Measuring Social Discrimination in Large Language Models**|Yiran Liu et.al.|[2402.15481](http://arxiv.org/abs/2402.15481)|null|
@@ -2861,6 +2871,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-26**|**Pre-training Cross-lingual Open Domain Question Answering with Large-scale Synthetic Supervision**|Fan Jiang et.al.|[2402.16508](http://arxiv.org/abs/2402.16508)|**[link](https://github.com/fantabulous-j/class)**|
+|**2024-02-26**|**Improving LLM-based Machine Translation with Systematic Self-Correction**|Zhaopeng Feng et.al.|[2402.16379](http://arxiv.org/abs/2402.16379)|**[link](https://github.com/fzp0424/self_correct_mt)**|
+|**2024-02-26**|**Layer-wise Regularized Dropout for Neural Language Models**|Shiwen Ni et.al.|[2402.16361](http://arxiv.org/abs/2402.16361)|null|
+|**2024-02-25**|**Training a Bilingual Language Model by Mapping Tokens onto a Shared Character Space**|Aviad Rom et.al.|[2402.16065](http://arxiv.org/abs/2402.16065)|null|
+|**2024-02-25**|**TMT: Tri-Modal Translation between Speech, Image, and Text by Processing Different Modalities as Different Languages**|Minsu Kim et.al.|[2402.16021](http://arxiv.org/abs/2402.16021)|**[link](https://github.com/ms-dot-k/tmt)**|
 |**2024-02-23**|**Transformers are Expressive, But Are They Expressive Enough for Regression?**|Swaroop Nath et.al.|[2402.15478](http://arxiv.org/abs/2402.15478)|**[link](https://github.com/swaroop-nath/transformer-expressivity)**|
 |**2024-02-23**|**DeMPT: Decoding-enhanced Multi-phase Prompt Tuning for Making LLMs Be Better Context-aware Translators**|Xinglin Lyu et.al.|[2402.15200](http://arxiv.org/abs/2402.15200)|null|
 |**2024-02-23**|**Fine-tuning Large Language Models for Domain-specific Machine Translation**|Jiawei Zheng et.al.|[2402.15061](http://arxiv.org/abs/2402.15061)|null|
@@ -3023,6 +3038,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-25**|**Direct Punjabi to English speech translation using discrete units**|Prabhjot Kaur et.al.|[2402.15967](http://arxiv.org/abs/2402.15967)|null|
 |**2024-02-20**|**OWSM-CTC: An Open Encoder-Only Speech Foundation Model for Speech Recognition, Translation, and Language Identification**|Yifan Peng et.al.|[2402.12654](http://arxiv.org/abs/2402.12654)|null|
 |**2024-02-19**|**Speech Translation with Speech Foundation Models and Large Language Models: What is There and What is Missing?**|Marco Gaido et.al.|[2402.12025](http://arxiv.org/abs/2402.12025)|null|
 |**2024-02-16**|**Pushing the Limits of Zero-shot End-to-End Speech Translation**|Ioannis Tsiamas et.al.|[2402.10422](http://arxiv.org/abs/2402.10422)|**[link](https://github.com/mt-upc/zeroswot)**|
@@ -3054,6 +3070,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-25**|**HypoTermQA: Hypothetical Terms Dataset for Benchmarking Hallucination Tendency of LLMs**|Cem Uluoglakci et.al.|[2402.16211](http://arxiv.org/abs/2402.16211)|null|
+|**2024-02-25**|**AVI-Talking: Learning Audio-Visual Instructions for Expressive 3D Talking Face Generation**|Yasheng Sun et.al.|[2402.16124](http://arxiv.org/abs/2402.16124)|null|
+|**2024-02-25**|**Citation-Enhanced Generation for LLM-based Chatbot**|Weitao Li et.al.|[2402.16063](http://arxiv.org/abs/2402.16063)|null|
+|**2024-02-25**|**Detecting Machine-Generated Texts by Multi-Population Aware Optimization for Maximum Mean Discrepancy**|Shuhai Zhang et.al.|[2402.16041](http://arxiv.org/abs/2402.16041)|**[link](https://github.com/zshsh98/mmd-mp)**|
+|**2024-02-25**|**Rethinking Software Engineering in the Era of Foundation Models: A Curated Catalogue of Challenges in the Development of Trustworthy FMware**|Ahmed E. Hassan et.al.|[2402.15943](http://arxiv.org/abs/2402.15943)|null|
+|**2024-02-24**|**Hal-Eval: A Universal and Fine-grained Hallucination Evaluation Framework for Large Vision Language Models**|Chaoya Jiang et.al.|[2402.15721](http://arxiv.org/abs/2402.15721)|null|
+|**2024-02-23**|**Fine-Grained Self-Endorsement Improves Factuality and Reasoning**|Ante Wang et.al.|[2402.15631](http://arxiv.org/abs/2402.15631)|null|
+|**2024-02-23**|**Fast Adversarial Attacks on Language Models In One GPU Minute**|Vinu Sankar Sadasivan et.al.|[2402.15570](http://arxiv.org/abs/2402.15570)|null|
 |**2024-02-23**|**A Data-Centric Approach To Generate Faithful and High Quality Patient Summaries with Large Language Models**|Stefan Hegselmann et.al.|[2402.15422](http://arxiv.org/abs/2402.15422)|**[link](https://github.com/stefanhgm/patient_summaries_with_llms)**|
 |**2024-02-23**|**Seeing is Believing: Mitigating Hallucination in Large Vision-Language Models via CLIP-Guided Decoding**|Ailin Deng et.al.|[2402.15300](http://arxiv.org/abs/2402.15300)|null|
 |**2024-02-23**|**Gotcha! Don't trick me with unanswerable questions! Self-aligning Large Language Models for Responding to Unknown Questions**|Yang Deng et.al.|[2402.15062](http://arxiv.org/abs/2402.15062)|null|
