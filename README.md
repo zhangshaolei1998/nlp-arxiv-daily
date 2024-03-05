@@ -2214,6 +2214,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-04**|**TEXterity - Tactile Extrinsic deXterity: Simultaneous Tactile Estimation and Control for Extrinsic Dexterity**|Sangwoon Kim et.al.|[2403.00049](http://arxiv.org/abs/2403.00049)|null|
 |**2024-02-28**|**PolyOculus: Simultaneous Multi-view Image-based Novel View Synthesis**|Jason J. Yu et.al.|[2402.17986](http://arxiv.org/abs/2402.17986)|null|
 |**2024-02-27**|**Quantifying the Resolution of a Template after Image Registration**|Matthias Glock et.al.|[2402.17617](http://arxiv.org/abs/2402.17617)|**[link](https://github.com/Stochastik-TU-Ilmenau/image-template-resolution)**|
 |**2024-02-29**|**DiFashion: Towards Personalized Outfit Generation and Recommendation**|Yiyan Xu et.al.|[2402.17279](http://arxiv.org/abs/2402.17279)|null|
@@ -2261,6 +2262,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-02**|**LM4OPT: Unveiling the Potential of Large Language Models in Formulating Mathematical Optimization Problems**|Tasnim Ahmed et.al.|[2403.01342](http://arxiv.org/abs/2403.01342)|null|
+|**2024-03-02**|**Chaining thoughts and LLMs to learn DNA structural biophysics**|Tyler D. Ross et.al.|[2403.01332](http://arxiv.org/abs/2403.01332)|null|
+|**2024-03-02**|**VBART: The Turkish LLM**|Meliksah Turker et.al.|[2403.01308](http://arxiv.org/abs/2403.01308)|null|
+|**2024-03-02**|**Improving the Validity of Automatically Generated Feedback via Reinforcement Learning**|Alexander Scarlatos et.al.|[2403.01304](http://arxiv.org/abs/2403.01304)|**[link](https://github.com/umass-ml4ed/feedback-gen-dpo)**|
+|**2024-03-02**|**NoMAD-Attention: Efficient LLM Inference on CPUs Through Multiply-add-free Attention**|Tianyi Zhang et.al.|[2403.01273](http://arxiv.org/abs/2403.01273)|null|
+|**2024-03-02**|**Employing LLMs for Incident Response Planning and Review**|Sam Hays et.al.|[2403.01271](http://arxiv.org/abs/2403.01271)|null|
+|**2024-03-02**|**Dissecting Language Models: Machine Unlearning via Selective Pruning**|Nicholas Pochinkov et.al.|[2403.01267](http://arxiv.org/abs/2403.01267)|null|
+|**2024-03-02**|**Accelerating Greedy Coordinate Gradient via Probe Sampling**|Yiran Zhao et.al.|[2403.01251](http://arxiv.org/abs/2403.01251)|**[link](https://github.com/zhaoyiran924/probe-sampling)**|
+|**2024-03-02**|**SceneCraft: An LLM Agent for Synthesizing 3D Scene as Blender Code**|Ziniu Hu et.al.|[2403.01248](http://arxiv.org/abs/2403.01248)|null|
+|**2024-03-02**|**Mitigating Catastrophic Forgetting in Large Language Models with Self-Synthesized Rehearsal**|Jianheng Huang et.al.|[2403.01244](http://arxiv.org/abs/2403.01244)|null|
 |**2024-02-29**|**The Counterfeit Conundrum: Can Code Language Models Grasp the Nuances of Their Incorrect Generations?**|Alex Gu et.al.|[2402.19475](http://arxiv.org/abs/2402.19475)|null|
 |**2024-02-29**|**The All-Seeing Project V2: Towards General Relation Comprehension of the Open World**|Weiyun Wang et.al.|[2402.19474](http://arxiv.org/abs/2402.19474)|**[link](https://github.com/opengvlab/all-seeing)**|
 |**2024-02-29**|**Loose LIPS Sink Ships: Asking Questions in Battleship with Language-Informed Program Sampling**|Gabriel Grand et.al.|[2402.19471](http://arxiv.org/abs/2402.19471)|null|
@@ -2905,13 +2916,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-02**|**Machine Translation in the Covid domain: an English-Irish case study for LoResMT 2021**|Séamus Lankford et.al.|[2403.01196](http://arxiv.org/abs/2403.01196)|null|
+|**2024-02-29**|**EBBS: An Ensemble with Bi-Level Beam Search for Zero-Shot Machine Translation**|Yuqiao Wen et.al.|[2403.00144](http://arxiv.org/abs/2403.00144)|null|
 |**2024-02-29**|**Robust Guidance for Unsupervised Data Selection: Capturing Perplexing Named Entities for Domain-Specific Machine Translation**|Seunghyun Ji et.al.|[2402.19267](http://arxiv.org/abs/2402.19267)|**[link](https://github.com/comchobo/capturing-perplexing-named-entities)**|
 |**2024-02-28**|**Fine-Tuned Machine Translation Metrics Struggle in Unseen Domains**|Vilém Zouhar et.al.|[2402.18747](http://arxiv.org/abs/2402.18747)|**[link](https://github.com/amazon-science/bio-mqm-dataset)**|
 |**2024-02-28**|**Leveraging Diverse Modeling Contexts with Collaborating Learning for Neural Machine Translation**|Yusheng Liao et.al.|[2402.18428](http://arxiv.org/abs/2402.18428)|null|
 |**2024-02-28**|**Multi-objective Differentiable Neural Architecture Search**|Rhea Sanjay Sukthanker et.al.|[2402.18213](http://arxiv.org/abs/2402.18213)|null|
 |**2024-02-27**|**When Scaling Meets LLM Finetuning: The Effect of Data, Model and Finetuning Method**|Biao Zhang et.al.|[2402.17193](http://arxiv.org/abs/2402.17193)|null|
 |**2024-02-26**|**Pre-training Cross-lingual Open Domain Question Answering with Large-scale Synthetic Supervision**|Fan Jiang et.al.|[2402.16508](http://arxiv.org/abs/2402.16508)|**[link](https://github.com/fantabulous-j/class)**|
-|**2024-02-26**|**Improving LLM-based Machine Translation with Systematic Self-Correction**|Zhaopeng Feng et.al.|[2402.16379](http://arxiv.org/abs/2402.16379)|**[link](https://github.com/fzp0424/self_correct_mt)**|
+|**2024-03-04**|**Improving LLM-based Machine Translation with Systematic Self-Correction**|Zhaopeng Feng et.al.|[2402.16379](http://arxiv.org/abs/2402.16379)|**[link](https://github.com/fzp0424/self_correct_mt)**|
 |**2024-02-26**|**Layer-wise Regularized Dropout for Neural Language Models**|Shiwen Ni et.al.|[2402.16361](http://arxiv.org/abs/2402.16361)|null|
 |**2024-02-25**|**Training a Bilingual Language Model by Mapping Tokens onto a Shared Character Space**|Aviad Rom et.al.|[2402.16065](http://arxiv.org/abs/2402.16065)|null|
 |**2024-02-25**|**TMT: Tri-Modal Translation between Speech, Image, and Text by Processing Different Modalities as Different Languages**|Minsu Kim et.al.|[2402.16021](http://arxiv.org/abs/2402.16021)|**[link](https://github.com/ms-dot-k/tmt)**|
@@ -3110,8 +3123,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-02**|**RAGged Edges: The Double-Edged Sword of Retrieval-Augmented Chatbots**|Philip Feldman. James R. Foulds et.al.|[2403.01193](http://arxiv.org/abs/2403.01193)|null|
+|**2024-03-01**|**MALTO at SemEval-2024 Task 6: Leveraging Synthetic Data for LLM Hallucination Detection**|Federico Borra et.al.|[2403.00964](http://arxiv.org/abs/2403.00964)|null|
+|**2024-03-01**|**DiaHalu: A Dialogue-level Hallucination Evaluation Benchmark for Large Language Models**|Kedi Chen et.al.|[2403.00896](http://arxiv.org/abs/2403.00896)|null|
+|**2024-03-01**|**Crimson: Empowering Strategic Reasoning in Cybersecurity through Large Language Models**|Jiandong Jin et.al.|[2403.00878](http://arxiv.org/abs/2403.00878)|null|
+|**2024-03-01**|**Self-Consistent Decoding for More Factual Open Responses**|Christopher Malon et.al.|[2403.00696](http://arxiv.org/abs/2403.00696)|**[link](https://github.com/cdmalon/selfconsistent)**|
+|**2024-03-01**|**HALC: Object Hallucination Reduction via Adaptive Focal-Contrast Decoding**|Zhaorun Chen et.al.|[2403.00425](http://arxiv.org/abs/2403.00425)|**[link](https://github.com/billchan226/halc)**|
 |**2024-02-29**|**The All-Seeing Project V2: Towards General Relation Comprehension of the Open World**|Weiyun Wang et.al.|[2402.19474](http://arxiv.org/abs/2402.19474)|**[link](https://github.com/opengvlab/all-seeing)**|
-|**2024-02-29**|**Navigating Hallucinations for Reasoning of Unintentional Activities**|Shresth Grover et.al.|[2402.19405](http://arxiv.org/abs/2402.19405)|null|
+|**2024-03-03**|**Navigating Hallucinations for Reasoning of Unintentional Activities**|Shresth Grover et.al.|[2402.19405](http://arxiv.org/abs/2402.19405)|null|
 |**2024-02-29**|**Training Generative Image Super-Resolution Models by Wavelet-Domain Losses Enables Better Control of Artifacts**|Cansu Korkmaz et.al.|[2402.19215](http://arxiv.org/abs/2402.19215)|**[link](https://github.com/mandalinadagi/wgsr)**|
 |**2024-02-29**|**Whispers that Shake Foundations: Analyzing and Mitigating False Premise Hallucinations in Large Language Models**|Hongbang Yuan et.al.|[2402.19103](http://arxiv.org/abs/2402.19103)|null|
 |**2024-02-29**|**Reducing Hallucinations in Entity Abstract Summarization with Facts-Template Decomposition**|Fangwei Zhu et.al.|[2402.18873](http://arxiv.org/abs/2402.18873)|**[link](https://github.com/solitaryzero/slotsum)**|
