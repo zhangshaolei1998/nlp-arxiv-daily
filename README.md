@@ -2262,6 +2262,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-05**|**The WMDP Benchmark: Measuring and Reducing Malicious Use With Unlearning**|Nathaniel Li et.al.|[2403.03218](http://arxiv.org/abs/2403.03218)|null|
+|**2024-03-05**|**CLEVR-POC: Reasoning-Intensive Visual Question Answering in Partially Observable Environments**|Savitha Sam Abraham et.al.|[2403.03203](http://arxiv.org/abs/2403.03203)|null|
+|**2024-03-05**|**Towards Democratized Flood Risk Management: An Advanced AI Assistant Enabled by GPT-4 for Enhanced Interpretability and Public Engagement**|Rafaela Martelo et.al.|[2403.03188](http://arxiv.org/abs/2403.03188)|**[link](https://github.com/rafaelamartelo/floodgpt-4_prototype)**|
+|**2024-03-05**|**Reliable, Adaptable, and Attributable Language Models with Retrieval**|Akari Asai et.al.|[2403.03187](http://arxiv.org/abs/2403.03187)|null|
+|**2024-03-05**|**MOKA: Open-Vocabulary Robotic Manipulation through Mark-Based Visual Prompting**|Fangchen Liu et.al.|[2403.03174](http://arxiv.org/abs/2403.03174)|null|
+|**2024-03-05**|**SNIFFER: Multimodal Large Language Model for Explainable Out-of-Context Misinformation Detection**|Peng Qi et.al.|[2403.03170](http://arxiv.org/abs/2403.03170)|null|
+|**2024-03-05**|**PARADISE: Evaluating Implicit Planning Skills of Language Models with Procedural Warnings and Tips Dataset**|Arda Uzunoğlu et.al.|[2403.03167](http://arxiv.org/abs/2403.03167)|**[link](https://github.com/gglab-ku/paradise)**|
+|**2024-03-05**|**Quantum Many-Body Physics Calculations with Large Language Models**|Haining Pan et.al.|[2403.03154](http://arxiv.org/abs/2403.03154)|null|
+|**2024-03-05**|**Language Guided Exploration for RL Agents in Text Environments**|Hitesh Golchha et.al.|[2403.03141](http://arxiv.org/abs/2403.03141)|null|
+|**2024-03-05**|**CoGenesis: A Framework Collaborating Large and Small Language Models for Secure Context-Aware Instruction Following**|Kaiyan Zhang et.al.|[2403.03129](http://arxiv.org/abs/2403.03129)|null|
 |**2024-03-02**|**LM4OPT: Unveiling the Potential of Large Language Models in Formulating Mathematical Optimization Problems**|Tasnim Ahmed et.al.|[2403.01342](http://arxiv.org/abs/2403.01342)|null|
 |**2024-03-02**|**Chaining thoughts and LLMs to learn DNA structural biophysics**|Tyler D. Ross et.al.|[2403.01332](http://arxiv.org/abs/2403.01332)|null|
 |**2024-03-02**|**VBART: The Turkish LLM**|Meliksah Turker et.al.|[2403.01308](http://arxiv.org/abs/2403.01308)|null|
@@ -2916,6 +2926,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-05**|**Detecting Concrete Visual Tokens for Multimodal Machine Translation**|Braeden Bowen et.al.|[2403.03075](http://arxiv.org/abs/2403.03075)|null|
+|**2024-03-05**|**Adding Multimodal Capabilities to a Text-only Translation Model**|Vipin Vijayan et.al.|[2403.03045](http://arxiv.org/abs/2403.03045)|null|
+|**2024-03-05**|**The Case for Evaluating Multimodal Translation Models on Text Datasets**|Vipin Vijayan et.al.|[2403.03014](http://arxiv.org/abs/2403.03014)|null|
+|**2024-03-05**|**Eliciting Better Multilingual Structured Reasoning from LLMs through Code**|Bryan Li et.al.|[2403.02567](http://arxiv.org/abs/2403.02567)|null|
+|**2024-03-04**|**adaptMLLM: Fine-Tuning Multilingual Language Models on Low-Resource Languages with Integrated LLM Playgrounds**|Séamus Lankford et.al.|[2403.02370](http://arxiv.org/abs/2403.02370)|**[link](https://github.com/adaptnmt/adaptmllm)**|
+|**2024-03-04**|**adaptNMT: an open-source, language-agnostic development environment for Neural Machine Translation**|Séamus Lankford et.al.|[2403.02367](http://arxiv.org/abs/2403.02367)|null|
+|**2024-03-04**|**Human Evaluation of English--Irish Transformer-Based NMT**|Séamus Lankford et.al.|[2403.02366](http://arxiv.org/abs/2403.02366)|null|
+|**2024-03-04**|**Transformers for Low-Resource Languages:Is Féidir Linn!**|Séamus Lankford et.al.|[2403.01985](http://arxiv.org/abs/2403.01985)|null|
+|**2024-03-04**|**Language and Speech Technology for Central Kurdish Varieties**|Sina Ahmadi et.al.|[2403.01983](http://arxiv.org/abs/2403.01983)|**[link](https://github.com/sinaahmadi/cordi)**|
+|**2024-03-03**|**Enhancing Neural Machine Translation of Low-Resource Languages: Corpus Development, Human Evaluation and Explainable AI Architectures**|Séamus Lankford et.al.|[2403.01580](http://arxiv.org/abs/2403.01580)|null|
 |**2024-03-02**|**Machine Translation in the Covid domain: an English-Irish case study for LoResMT 2021**|Séamus Lankford et.al.|[2403.01196](http://arxiv.org/abs/2403.01196)|null|
 |**2024-02-29**|**EBBS: An Ensemble with Bi-Level Beam Search for Zero-Shot Machine Translation**|Yuqiao Wen et.al.|[2403.00144](http://arxiv.org/abs/2403.00144)|null|
 |**2024-02-29**|**Robust Guidance for Unsupervised Data Selection: Capturing Perplexing Named Entities for Domain-Specific Machine Translation**|Seunghyun Ji et.al.|[2402.19267](http://arxiv.org/abs/2402.19267)|**[link](https://github.com/comchobo/capturing-perplexing-named-entities)**|
@@ -3090,6 +3110,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-04**|**What has LeBenchmark Learnt about French Syntax?**|Zdravko Dugonjić et.al.|[2403.02173](http://arxiv.org/abs/2403.02173)|null|
 |**2024-02-29**|**Compact Speech Translation Models via Discrete Speech Units Pretraining**|Tsz Kin Lam et.al.|[2402.19333](http://arxiv.org/abs/2402.19333)|null|
 |**2024-02-25**|**Direct Punjabi to English speech translation using discrete units**|Prabhjot Kaur et.al.|[2402.15967](http://arxiv.org/abs/2402.15967)|null|
 |**2024-02-20**|**OWSM-CTC: An Open Encoder-Only Speech Foundation Model for Speech Recognition, Translation, and Language Identification**|Yifan Peng et.al.|[2402.12654](http://arxiv.org/abs/2402.12654)|null|
@@ -3123,6 +3144,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-05**|**Reliable, Adaptable, and Attributable Language Models with Retrieval**|Akari Asai et.al.|[2403.03187](http://arxiv.org/abs/2403.03187)|null|
+|**2024-03-05**|**KnowAgent: Knowledge-Augmented Planning for LLM-Based Agents**|Yuqi Zhu et.al.|[2403.03101](http://arxiv.org/abs/2403.03101)|**[link](https://github.com/zjunlp/knowagent)**|
+|**2024-03-05**|**Knowledge Graphs as Context Sources for LLM-Based Explanations of Learning Recommendations**|Hasan Abu-Rasheed et.al.|[2403.03008](http://arxiv.org/abs/2403.03008)|null|
+|**2024-03-05**|**In Search of Truth: An Interrogation Approach to Hallucination Detection**|Yakir Yehuda et.al.|[2403.02889](http://arxiv.org/abs/2403.02889)|null|
+|**2024-03-04**|**FENICE: Factuality Evaluation of summarization based on Natural language Inference and Claim Extraction**|Alessandro Scirè et.al.|[2403.02270](http://arxiv.org/abs/2403.02270)|null|
+|**2024-03-04**|**Large Language Model-Based Evolutionary Optimizer: Reasoning with elitism**|Shuvayan Brahmachary et.al.|[2403.02054](http://arxiv.org/abs/2403.02054)|null|
+|**2024-03-05**|**In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation**|Shiqi Chen et.al.|[2403.01548](http://arxiv.org/abs/2403.01548)|**[link](https://github.com/hkust-nlp/activation_decoding)**|
+|**2024-03-03**|**CR-LT-KGQA: A Knowledge Graph Question Answering Dataset Requiring Commonsense Reasoning and Long-Tail Knowledge**|Willis Guo et.al.|[2403.01395](http://arxiv.org/abs/2403.01395)|**[link](https://github.com/d3mlab/cr-lt-kgqa)**|
+|**2024-03-03**|**Right for Right Reasons: Large Language Models for Verifiable Commonsense Knowledge Graph Question Answering**|Armin Toroghi et.al.|[2403.01390](http://arxiv.org/abs/2403.01390)|null|
+|**2024-03-03**|**Evaluating and Mitigating Number Hallucinations in Large Vision-Language Models: A Consistency Perspective**|Huixuan Zhang et.al.|[2403.01373](http://arxiv.org/abs/2403.01373)|null|
 |**2024-03-02**|**RAGged Edges: The Double-Edged Sword of Retrieval-Augmented Chatbots**|Philip Feldman. James R. Foulds et.al.|[2403.01193](http://arxiv.org/abs/2403.01193)|null|
 |**2024-03-01**|**MALTO at SemEval-2024 Task 6: Leveraging Synthetic Data for LLM Hallucination Detection**|Federico Borra et.al.|[2403.00964](http://arxiv.org/abs/2403.00964)|null|
 |**2024-03-01**|**DiaHalu: A Dialogue-level Hallucination Evaluation Benchmark for Large Language Models**|Kedi Chen et.al.|[2403.00896](http://arxiv.org/abs/2403.00896)|null|
