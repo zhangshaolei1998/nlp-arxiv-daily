@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.03.05
+## Updated on 2024.03.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2189,7 +2189,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-03-04**|**TEXterity - Tactile Extrinsic deXterity: Simultaneous Tactile Estimation and Control for Extrinsic Dexterity**|Sangwoon Kim et.al.|[2403.00049](http://arxiv.org/abs/2403.00049)|null|
+|**2024-03-04**|**TEXterity -- Tactile Extrinsic deXterity: Simultaneous Tactile Estimation and Control for Extrinsic Dexterity**|Sangwoon Kim et.al.|[2403.00049](http://arxiv.org/abs/2403.00049)|null|
 |**2024-02-28**|**PolyOculus: Simultaneous Multi-view Image-based Novel View Synthesis**|Jason J. Yu et.al.|[2402.17986](http://arxiv.org/abs/2402.17986)|null|
 |**2024-02-27**|**Quantifying the Resolution of a Template after Image Registration**|Matthias Glock et.al.|[2402.17617](http://arxiv.org/abs/2402.17617)|**[link](https://github.com/Stochastik-TU-Ilmenau/image-template-resolution)**|
 |**2024-02-29**|**DiFashion: Towards Personalized Outfit Generation and Recommendation**|Yiyan Xu et.al.|[2402.17279](http://arxiv.org/abs/2402.17279)|null|
