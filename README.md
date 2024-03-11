@@ -2262,6 +2262,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-08**|**Bayesian Preference Elicitation with Language Models**|Kunal Handa et.al.|[2403.05534](http://arxiv.org/abs/2403.05534)|null|
+|**2024-03-08**|**Gemini 1.5: Unlocking multimodal understanding across millions of tokens of context**|Machel Reid et.al.|[2403.05530](http://arxiv.org/abs/2403.05530)|null|
+|**2024-03-08**|**GEAR: An Efficient KV Cache Compression Recipefor Near-Lossless Generative Inference of LLM**|Hao Kang et.al.|[2403.05527](http://arxiv.org/abs/2403.05527)|null|
+|**2024-03-08**|**DeepSeek-VL: Towards Real-World Vision-Language Understanding**|Haoyu Lu et.al.|[2403.05525](http://arxiv.org/abs/2403.05525)|**[link](https://github.com/deepseek-ai/deepseek-vl)**|
+|**2024-03-08**|**Beyond Finite Data: Towards Data-free Out-of-distribution Generalization via Extrapola**|Yijiang Li et.al.|[2403.05523](http://arxiv.org/abs/2403.05523)|null|
+|**2024-03-08**|**Authorship Attribution in Bangla Literature (AABL) via Transfer Learning using ULMFiT**|Aisha Khatun et.al.|[2403.05519](http://arxiv.org/abs/2403.05519)|null|
+|**2024-03-08**|**Bias-Augmented Consistency Training Reduces Biased Reasoning in Chain-of-Thought**|James Chua et.al.|[2403.05518](http://arxiv.org/abs/2403.05518)|**[link](https://github.com/raybears/cot-transparency)**|
+|**2024-03-08**|**To Err Is Human, but Llamas Can Learn It Too**|Agnes Luhtaru et.al.|[2403.05493](http://arxiv.org/abs/2403.05493)|null|
+|**2024-03-08**|**Will GPT-4 Run DOOM?**|Adrian de Wynter et.al.|[2403.05468](http://arxiv.org/abs/2403.05468)|null|
+|**2024-03-08**|**Cost-Performance Optimization for Processing Low-Resource Language Tasks Using Commercial LLMs**|Arijit Nag et.al.|[2403.05434](http://arxiv.org/abs/2403.05434)|null|
 |**2024-03-07**|**iScore: Visual Analytics for Interpreting How Language Models Automatically Score Summaries**|Adam Coscia et.al.|[2403.04760](http://arxiv.org/abs/2403.04760)|**[link](https://github.com/adamcoscia/iscore)**|
 |**2024-03-07**|**KnowledgeVIS: Interpreting Language Models by Comparing Fill-in-the-Blank Prompts**|Adam Coscia et.al.|[2403.04758](http://arxiv.org/abs/2403.04758)|**[link](https://github.com/adamcoscia/knowledgevis)**|
 |**2024-03-07**|**LLMs in the Imaginarium: Tool Learning through Simulated Trial and Error**|Boshi Wang et.al.|[2403.04746](http://arxiv.org/abs/2403.04746)|**[link](https://github.com/microsoft/simulated-trial-and-error)**|
@@ -2946,6 +2956,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-08**|**Cross-lingual Transfer or Machine Translation? On Data Augmentation for Monolingual Semantic Textual Similarity**|Sho Hoshino et.al.|[2403.05257](http://arxiv.org/abs/2403.05257)|null|
 |**2024-03-07**|**Towards Automatic Composition of ASP Programs from Natural Language Specifications**|Manuel Borroto et.al.|[2403.04541](http://arxiv.org/abs/2403.04541)|null|
 |**2024-03-07**|**Where does In-context Translation Happen in Large Language Models**|Suzanna Sia et.al.|[2403.04510](http://arxiv.org/abs/2403.04510)|null|
 |**2024-03-07**|**Attempt Towards Stress Transfer in Speech-to-Speech Machine Translation**|Sai Akarsh et.al.|[2403.04178](http://arxiv.org/abs/2403.04178)|null|
@@ -3139,6 +3150,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-08**|**FFSTC: Fongbe to French Speech Translation Corpus**|D. Fortune Kponou et.al.|[2403.05488](http://arxiv.org/abs/2403.05488)|null|
 |**2024-03-04**|**What has LeBenchmark Learnt about French Syntax?**|Zdravko Dugonjić et.al.|[2403.02173](http://arxiv.org/abs/2403.02173)|null|
 |**2024-02-29**|**Compact Speech Translation Models via Discrete Speech Units Pretraining**|Tsz Kin Lam et.al.|[2402.19333](http://arxiv.org/abs/2402.19333)|null|
 |**2024-02-25**|**Direct Punjabi to English speech translation using discrete units**|Prabhjot Kaur et.al.|[2402.15967](http://arxiv.org/abs/2402.15967)|null|
@@ -3173,6 +3185,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-08**|**ChatASU: Evoking LLM's Reflexion to Truly Understand Aspect Sentiment in Dialogues**|Yiding Liu et.al.|[2403.05326](http://arxiv.org/abs/2403.05326)|null|
+|**2024-03-08**|**RAT: Retrieval Augmented Thoughts Elicit Context-Aware Reasoning in Long-Horizon Generation**|Zihao Wang et.al.|[2403.05313](http://arxiv.org/abs/2403.05313)|null|
+|**2024-03-08**|**ERBench: An Entity-Relationship based Automatically Verifiable Hallucination Benchmark for Large Language Models**|Jio Oh et.al.|[2403.05266](http://arxiv.org/abs/2403.05266)|**[link](https://github.com/dilab-kaist/erbench)**|
+|**2024-03-08**|**Debiasing Large Visual Language Models**|Yi-Fan Zhang et.al.|[2403.05262](http://arxiv.org/abs/2403.05262)|**[link](https://github.com/yfzhang114/llava-align)**|
+|**2024-03-08**|**Sora as an AGI World Model? A Complete Survey on Text-to-Video Generation**|Joseph Cho et.al.|[2403.05131](http://arxiv.org/abs/2403.05131)|null|
 |**2024-03-07**|**SnapNTell: Enhancing Entity-Centric Visual Question Answering with Retrieval Augmented Multimodal LLM**|Jielin Qiu et.al.|[2403.04735](http://arxiv.org/abs/2403.04735)|null|
 |**2024-03-07**|**Fact-Checking the Output of Large Language Models via Token-Level Uncertainty Quantification**|Ekaterina Fadeeva et.al.|[2403.04696](http://arxiv.org/abs/2403.04696)|null|
 |**2024-03-07**|**TextMonkey: An OCR-Free Large Multimodal Model for Understanding Document**|Yuliang Liu et.al.|[2403.04473](http://arxiv.org/abs/2403.04473)|**[link](https://github.com/yuliang-liu/monkey)**|
