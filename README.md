@@ -2265,6 +2265,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-14**|**Dynamic Memory Compression: Retrofitting LLMs for Accelerated Inference**|Piotr Nawrot et.al.|[2403.09636](http://arxiv.org/abs/2403.09636)|null|
+|**2024-03-14**|**Transformers Get Stable: An End-to-End Signal Propagation Theory for Language Models**|Akhil Kedia et.al.|[2403.09635](http://arxiv.org/abs/2403.09635)|**[link](https://github.com/akhilkedia/tranformersgetstable)**|
+|**2024-03-14**|**3D-VLA: A 3D Vision-Language-Action Generative World Model**|Haoyu Zhen et.al.|[2403.09631](http://arxiv.org/abs/2403.09631)|null|
+|**2024-03-14**|**Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking**|Eric Zelikman et.al.|[2403.09629](http://arxiv.org/abs/2403.09629)|null|
+|**2024-03-14**|**MM1: Methods, Analysis & Insights from Multimodal LLM Pre-training**|Brandon McKinzie et.al.|[2403.09611](http://arxiv.org/abs/2403.09611)|null|
+|**2024-03-14**|**Large Language Models and Causal Inference in Collaboration: A Comprehensive Survey**|Xiaoyu Liu et.al.|[2403.09606](http://arxiv.org/abs/2403.09606)|null|
+|**2024-03-14**|**Logical Discrete Graphical Models Must Supplement Large Language Models for Information Synthesis**|Gregory Coppola et.al.|[2403.09599](http://arxiv.org/abs/2403.09599)|null|
+|**2024-03-14**|**Renovating Names in Open-Vocabulary Segmentation Benchmarks**|Haiwen Huang et.al.|[2403.09593](http://arxiv.org/abs/2403.09593)|null|
+|**2024-03-14**|**ExploRLLM: Guiding Exploration in Reinforcement Learning with Large Language Models**|Runyu Ma et.al.|[2403.09583](http://arxiv.org/abs/2403.09583)|null|
+|**2024-03-14**|**Eyes Closed, Safety On: Protecting Multimodal LLMs via Image-to-Text Transformation**|Yunhao Gou et.al.|[2403.09572](http://arxiv.org/abs/2403.09572)|null|
 |**2024-03-13**|**Simple and Scalable Strategies to Continually Pre-train Large Language Models**|Adam Ibrahim et.al.|[2403.08763](http://arxiv.org/abs/2403.08763)|null|
 |**2024-03-13**|**Steering LLMs Towards Unbiased Responses: A Causality-Guided Debiasing Framework**|Jingling Li et.al.|[2403.08743](http://arxiv.org/abs/2403.08743)|null|
 |**2024-03-13**|**The Garden of Forking Paths: Observing Dynamic Parameters Distribution in Large Language Models**|Carlo Nicolini et.al.|[2403.08739](http://arxiv.org/abs/2403.08739)|null|
@@ -2989,6 +2999,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-14**|**MT-PATCHER: Selective and Extendable Knowledge Distillation from Large Language Models for Machine Translation**|Jiahuan Li et.al.|[2403.09522](http://arxiv.org/abs/2403.09522)|null|
+|**2024-03-14**|**To Label or Not to Label: Hybrid Active Learning for Neural Machine Translation**|Abdul Hameed Azeemi et.al.|[2403.09259](http://arxiv.org/abs/2403.09259)|null|
+|**2024-03-14**|**Basque and Spanish Counter Narrative Generation: Data Creation and Evaluation**|Jaione Bengoetxea et.al.|[2403.09159](http://arxiv.org/abs/2403.09159)|null|
 |**2024-03-13**|**Is Context Helpful for Chat Translation Evaluation?**|Sweta Agrawal et.al.|[2403.08314](http://arxiv.org/abs/2403.08314)|null|
 |**2024-03-12**|**SemEval-2024 Shared Task 6: SHROOM, a Shared-task on Hallucinations and Related Observable Overgeneration Mistakes**|Timothee Mickus et.al.|[2403.07726](http://arxiv.org/abs/2403.07726)|null|
 |**2024-03-12**|**Triples-to-isiXhosa (T2X): Addressing the Challenges of Low-Resource Agglutinative Data-to-Text Generation**|Francois Meyer et.al.|[2403.07567](http://arxiv.org/abs/2403.07567)|**[link](https://github.com/francois-meyer/t2x)**|
@@ -3191,6 +3204,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-14**|**Transformers Get Stable: An End-to-End Signal Propagation Theory for Language Models**|Akhil Kedia et.al.|[2403.09635](http://arxiv.org/abs/2403.09635)|**[link](https://github.com/akhilkedia/tranformersgetstable)**|
 |**2024-03-08**|**FFSTC: Fongbe to French Speech Translation Corpus**|D. Fortune Kponou et.al.|[2403.05488](http://arxiv.org/abs/2403.05488)|null|
 |**2024-03-04**|**What has LeBenchmark Learnt about French Syntax?**|Zdravko Dugonjić et.al.|[2403.02173](http://arxiv.org/abs/2403.02173)|null|
 |**2024-02-29**|**Compact Speech Translation Models via Discrete Speech Units Pretraining**|Tsz Kin Lam et.al.|[2402.19333](http://arxiv.org/abs/2402.19333)|null|
@@ -3226,6 +3240,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-14**|**Logical Discrete Graphical Models Must Supplement Large Language Models for Information Synthesis**|Gregory Coppola et.al.|[2403.09599](http://arxiv.org/abs/2403.09599)|null|
+|**2024-03-14**|**XReal: Realistic Anatomy and Pathology-Aware X-ray Generation via Controllable Diffusion Model**|Anees Ur Rehman Hashmi et.al.|[2403.09240](http://arxiv.org/abs/2403.09240)|null|
+|**2024-03-14**|**Caveat Lector: Large Language Models in Legal Practice**|Eliza Mik et.al.|[2403.09163](http://arxiv.org/abs/2403.09163)|null|
+|**2024-03-14**|**Evaluating LLMs for Gender Disparities in Notable Persons**|Lauren Rhue et.al.|[2403.09148](http://arxiv.org/abs/2403.09148)|null|
+|**2024-03-14**|**LAMP: A Language Model on the Map**|Pasquale Balsebre et.al.|[2403.09059](http://arxiv.org/abs/2403.09059)|null|
+|**2024-03-14**|**The First to Know: How Token Distributions Reveal Hidden Knowledge in Large Vision-Language Models?**|Qinyu Zhao et.al.|[2403.09037](http://arxiv.org/abs/2403.09037)|null|
+|**2024-03-13**|**Bugs in Large Language Models Generated Code**|Florian Tambon et.al.|[2403.08937](http://arxiv.org/abs/2403.08937)|**[link](https://github.com/flowss/bugsinllms)**|
+|**2024-03-13**|**Detecting Hallucination and Coverage Errors in Retrieval Augmented Generation for Controversial Topics**|Tyler A. Chang et.al.|[2403.08904](http://arxiv.org/abs/2403.08904)|null|
 |**2024-03-13**|**AIGCs Confuse AI Too: Investigating and Explaining Synthetic Image-induced Hallucinations in Large Vision-Language Models**|Yifei Gao et.al.|[2403.08542](http://arxiv.org/abs/2403.08542)|null|
 |**2024-03-12**|**SemEval-2024 Shared Task 6: SHROOM, a Shared-task on Hallucinations and Related Observable Overgeneration Mistakes**|Timothee Mickus et.al.|[2403.07726](http://arxiv.org/abs/2403.07726)|null|
 |**2024-03-14**|**Truth-Aware Context Selection: Mitigating the Hallucinations of Large Language Models Being Misled by Untruthful Contexts**|Tian Yu et.al.|[2403.07556](http://arxiv.org/abs/2403.07556)|**[link](https://github.com/ictnlp/tacs)**|
