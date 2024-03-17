@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.03.16
+## Updated on 2024.03.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3212,7 +3212,7 @@ layout: default
 |**2024-03-14**|**Caveat Lector: Large Language Models in Legal Practice**|Eliza Mik et.al.|[2403.09163](http://arxiv.org/abs/2403.09163)|null|
 |**2024-03-14**|**Evaluating LLMs for Gender Disparities in Notable Persons**|Lauren Rhue et.al.|[2403.09148](http://arxiv.org/abs/2403.09148)|null|
 |**2024-03-14**|**LAMP: A Language Model on the Map**|Pasquale Balsebre et.al.|[2403.09059](http://arxiv.org/abs/2403.09059)|null|
-|**2024-03-14**|**The First to Know: How Token Distributions Reveal Hidden Knowledge in Large Vision-Language Models?**|Qinyu Zhao et.al.|[2403.09037](http://arxiv.org/abs/2403.09037)|null|
+|**2024-03-14**|**The First to Know: How Token Distributions Reveal Hidden Knowledge in Large Vision-Language Models?**|Qinyu Zhao et.al.|[2403.09037](http://arxiv.org/abs/2403.09037)|**[link](https://github.com/qinyu-allen-zhao/lvlm-lp)**|
 |**2024-03-13**|**Bugs in Large Language Models Generated Code**|Florian Tambon et.al.|[2403.08937](http://arxiv.org/abs/2403.08937)|**[link](https://github.com/flowss/bugsinllms)**|
 |**2024-03-13**|**Detecting Hallucination and Coverage Errors in Retrieval Augmented Generation for Controversial Topics**|Tyler A. Chang et.al.|[2403.08904](http://arxiv.org/abs/2403.08904)|null|
 |**2024-03-13**|**AIGCs Confuse AI Too: Investigating and Explaining Synthetic Image-induced Hallucinations in Large Vision-Language Models**|Yifei Gao et.al.|[2403.08542](http://arxiv.org/abs/2403.08542)|null|
