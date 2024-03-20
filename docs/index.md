@@ -2239,6 +2239,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-19**|**LLMLingua-2: Data Distillation for Efficient and Faithful Task-Agnostic Prompt Compression**|Zhuoshi Pan et.al.|[2403.12968](http://arxiv.org/abs/2403.12968)|null|
+|**2024-03-19**|**Chain-of-Spot: Interactive Reasoning Improves Large Vision-Language Models**|Zuyan Liu et.al.|[2403.12966](http://arxiv.org/abs/2403.12966)|**[link](https://github.com/dongyh20/chain-of-spot)**|
+|**2024-03-19**|**Negative Yields Positive: Unified Dual-Path Adapter for Vision-Language Models**|Ce Zhang et.al.|[2403.12964](http://arxiv.org/abs/2403.12964)|**[link](https://github.com/zhangce01/dualadapter)**|
+|**2024-03-19**|**Dated Data: Tracing Knowledge Cutoffs in Large Language Models**|Jeffrey Cheng et.al.|[2403.12958](http://arxiv.org/abs/2403.12958)|null|
+|**2024-03-19**|**Just Shift It: Test-Time Prototype Shifting for Zero-Shot Generalization with Vision-Language Models**|Elaine Sui et.al.|[2403.12952](http://arxiv.org/abs/2403.12952)|**[link](https://github.com/elaine-sui/tps)**|
+|**2024-03-19**|**Automatic Information Extraction From Employment Tribunal Judgements Using Large Language Models**|Joana Ribeiro de Faria et.al.|[2403.12936](http://arxiv.org/abs/2403.12936)|null|
+|**2024-03-19**|**Rapid AIdeation: Generating Ideas With the Self and in Collaboration With Large Language Models**|Gionnieve Lim et.al.|[2403.12928](http://arxiv.org/abs/2403.12928)|null|
+|**2024-03-19**|**Supporting Energy Policy Research with Large Language Models**|Grant Buster et.al.|[2403.12924](http://arxiv.org/abs/2403.12924)|null|
+|**2024-03-19**|**Semantic Layering in Room Segmentation via LLMs**|Taehyeon Kim et.al.|[2403.12920](http://arxiv.org/abs/2403.12920)|null|
+|**2024-03-19**|**Generalizable and Stable Finetuning of Pretrained Language Models on Low-Resource Texts**|Sai Ashish Somayajula et.al.|[2403.12918](http://arxiv.org/abs/2403.12918)|**[link](https://github.com/sai-ashish/attention_guided_weight_mixup_blo)**|
 |**2024-03-18**|**HDLdebugger: Streamlining HDL debugging with Large Language Models**|Xufeng Yao et.al.|[2403.11671](http://arxiv.org/abs/2403.11671)|null|
 |**2024-03-18**|**Prioritized Semantic Learning for Zero-shot Instance Navigation**|Xander Sun et.al.|[2403.11650](http://arxiv.org/abs/2403.11650)|null|
 |**2024-03-18**|**Compositional Kronecker Context Optimization for Vision-Language Models**|Kun Ding et.al.|[2403.11631](http://arxiv.org/abs/2403.11631)|null|
@@ -2981,6 +2991,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-19**|**Multi-Dimensional Machine Translation Evaluation: Model Evaluation and Resource for Korean**|Dojun Park et.al.|[2403.12666](http://arxiv.org/abs/2403.12666)|null|
+|**2024-03-18**|**Enhancing Hokkien Dual Translation by Exploring and Standardizing of Four Writing Systems**|Bo-Han Lu et.al.|[2403.12024](http://arxiv.org/abs/2403.12024)|null|
+|**2024-03-18**|**Investigating Markers and Drivers of Gender Bias in Machine Translations**|Peter J Barclay et.al.|[2403.11896](http://arxiv.org/abs/2403.11896)|null|
 |**2024-03-18**|**A Novel Paradigm Boosting Translation Capabilities of Large Language Models**|Jiaxin Guo et.al.|[2403.11430](http://arxiv.org/abs/2403.11430)|null|
 |**2024-03-17**|**CantonMT: Cantonese to English NMT Platform with Fine-Tuned Models Using Synthetic Back-Translation Data**|Kung Yin Hong et.al.|[2403.11346](http://arxiv.org/abs/2403.11346)|null|
 |**2024-03-16**|**Pointer-Generator Networks for Low-Resource Machine Translation: Don't Copy That!**|Niyati Bafna et.al.|[2403.10963](http://arxiv.org/abs/2403.10963)|null|
@@ -3188,6 +3201,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-19**|**MSLM-S2ST: A Multitask Speech Language Model for Textless Speech-to-Speech Translation with Speaker Style Preservation**|Yifan Peng et.al.|[2403.12408](http://arxiv.org/abs/2403.12408)|null|
 |**2024-03-14**|**Transformers Get Stable: An End-to-End Signal Propagation Theory for Language Models**|Akhil Kedia et.al.|[2403.09635](http://arxiv.org/abs/2403.09635)|**[link](https://github.com/akhilkedia/tranformersgetstable)**|
 |**2024-03-08**|**FFSTC: Fongbe to French Speech Translation Corpus**|D. Fortune Kponou et.al.|[2403.05488](http://arxiv.org/abs/2403.05488)|null|
 |**2024-03-04**|**What has LeBenchmark Learnt about French Syntax?**|Zdravko Dugonjić et.al.|[2403.02173](http://arxiv.org/abs/2403.02173)|null|
@@ -3222,6 +3236,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-19**|**Agent-FLAN: Designing Data and Methods of Effective Agent Tuning for Large Language Models**|Zehui Chen et.al.|[2403.12881](http://arxiv.org/abs/2403.12881)|**[link](https://github.com/internlm/agent-flan)**|
+|**2024-03-19**|**Empowering Air Travelers: A Chatbot for Canadian Air Passenger Rights**|Maksym Taranukhin et.al.|[2403.12678](http://arxiv.org/abs/2403.12678)|null|
+|**2024-03-19**|**AlphaFin: Benchmarking Financial Analysis with Retrieval-Augmented Stock-Chain Framework**|Xiang Li et.al.|[2403.12582](http://arxiv.org/abs/2403.12582)|null|
+|**2024-03-18**|**Zero-Shot Multi-task Hallucination Detection**|Patanjali Bhamidipati et.al.|[2403.12244](http://arxiv.org/abs/2403.12244)|null|
+|**2024-03-18**|**QueryAgent: A Reliable and Efficient Reasoning Framework with Environmental Feedback based Self-Correction**|Xiang Huang et.al.|[2403.11886](http://arxiv.org/abs/2403.11886)|null|
+|**2024-03-18**|**Hallucination in Perceptual Metric-Driven Speech Enhancement Networks**|George Close et.al.|[2403.11732](http://arxiv.org/abs/2403.11732)|null|
 |**2024-03-18**|**DEE: Dual-stage Explainable Evaluation Method for Text Generation**|Shenyu Zhang et.al.|[2403.11509](http://arxiv.org/abs/2403.11509)|null|
 |**2024-03-17**|**StainDiffuser: MultiTask Dual Diffusion Model for Virtual Staining**|Tushar Kataria et.al.|[2403.11340](http://arxiv.org/abs/2403.11340)|null|
 |**2024-03-17**|**PhD: A Prompted Visual Hallucination Evaluation Dataset**|Jiazhen Liu et.al.|[2403.11116](http://arxiv.org/abs/2403.11116)|null|
