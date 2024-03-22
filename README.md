@@ -2214,6 +2214,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-21**|**A Lightweight Attention-based Deep Network via Multi-Scale Feature Fusion for Multi-View Facial Expression Recognition**|Ali Ezati et.al.|[2403.14318](http://arxiv.org/abs/2403.14318)|**[link](https://github.com/ae-1129/lanmsff)**|
 |**2024-03-20**|**Advanced Long-Content Speech Recognition With Factorized Neural Transducer**|Xun Gong et.al.|[2403.13423](http://arxiv.org/abs/2403.13423)|null|
 |**2024-03-16**|**Resilient Fleet Management for Energy-Aware Intra-Factory Logistics**|Mithun Goutham et.al.|[2403.11034](http://arxiv.org/abs/2403.11034)|null|
 |**2024-03-12**|**Parametrized higher semiadditivity and the universality of spans**|Bastiaan Cnossen et.al.|[2403.07676](http://arxiv.org/abs/2403.07676)|null|
@@ -2267,6 +2268,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-21**|**MathVerse: Does Your Multi-modal LLM Truly See the Diagrams in Visual Math Problems?**|Renrui Zhang et.al.|[2403.14624](http://arxiv.org/abs/2403.14624)|null|
+|**2024-03-21**|**Parameter-Efficient Fine-Tuning for Large Models: A Comprehensive Survey**|Zeyu Han et.al.|[2403.14608](http://arxiv.org/abs/2403.14608)|null|
+|**2024-03-21**|**MyVLM: Personalizing VLMs for User-Specific Queries**|Yuval Alaluf et.al.|[2403.14599](http://arxiv.org/abs/2403.14599)|null|
+|**2024-03-21**|**Large Language Models for Multi-Choice Question Classification of Medical Subjects**|Víctor Ponce-López et.al.|[2403.14582](http://arxiv.org/abs/2403.14582)|null|
+|**2024-03-21**|**RAmBLA: A Framework for Evaluating the Reliability of LLMs as Assistants in the Biomedical Domain**|William James Bolton et.al.|[2403.14578](http://arxiv.org/abs/2403.14578)|**[link](https://github.com/gsk-ai/rambla)**|
+|**2024-03-21**|**A Chain-of-Thought Prompting Approach with LLMs for Evaluating Students' Formative Assessment Responses in Science**|Clayton Cohn et.al.|[2403.14565](http://arxiv.org/abs/2403.14565)|null|
+|**2024-03-21**|**The Era of Semantic Decoding**|Maxime Peyrard et.al.|[2403.14562](http://arxiv.org/abs/2403.14562)|null|
+|**2024-03-21**|**Lexicon-Level Contrastive Visual-Grounding Improves Language Modeling**|Chengxu Zhuang et.al.|[2403.14551](http://arxiv.org/abs/2403.14551)|null|
+|**2024-03-21**|**EDT: Improving Large Language Models' Generation by Entropy-based Dynamic Temperature Sampling**|Shimao Zhang et.al.|[2403.14541](http://arxiv.org/abs/2403.14541)|null|
+|**2024-03-21**|**Cobra: Extending Mamba to Multi-Modal Large Language Model for Efficient Inference**|Han Zhao et.al.|[2403.14520](http://arxiv.org/abs/2403.14520)|null|
 |**2024-03-20**|**RAR: Retrieving And Ranking Augmented MLLMs for Visual Recognition**|Ziyu Liu et.al.|[2403.13805](http://arxiv.org/abs/2403.13805)|null|
 |**2024-03-20**|**Learning from Models and Data for Visual Grounding**|Ruozhen He et.al.|[2403.13804](http://arxiv.org/abs/2403.13804)|null|
 |**2024-03-20**|**Reverse Training to Nurse the Reversal Curse**|Olga Golovneva et.al.|[2403.13799](http://arxiv.org/abs/2403.13799)|null|
@@ -3031,6 +3042,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-21**|**Prediction of Translation Techniques for the Translation Process**|Fan Zhou et.al.|[2403.14454](http://arxiv.org/abs/2403.14454)|null|
+|**2024-03-21**|**From Handcrafted Features to LLMs: A Brief Survey for Machine Translation Quality Estimation**|Haofei Zhao et.al.|[2403.14118](http://arxiv.org/abs/2403.14118)|null|
+|**2024-03-20**|**A New Massive Multilingual Dataset for High-Performance Language Technologies**|Ona de Gibert et.al.|[2403.14009](http://arxiv.org/abs/2403.14009)|null|
 |**2024-03-21**|**Do Not Worry if You Do Not Have Data: Building Pretrained Language Models Using Translationese**|Meet Doshi et.al.|[2403.13638](http://arxiv.org/abs/2403.13638)|null|
 |**2024-03-19**|**Self-generated Replay Memories for Continual Neural Machine Translation**|Michele Resta et.al.|[2403.13130](http://arxiv.org/abs/2403.13130)|null|
 |**2024-03-19**|**Multi-Dimensional Machine Translation Evaluation: Model Evaluation and Resource for Korean**|Dojun Park et.al.|[2403.12666](http://arxiv.org/abs/2403.12666)|null|
@@ -3282,9 +3296,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-21**|**RAmBLA: A Framework for Evaluating the Reliability of LLMs as Assistants in the Biomedical Domain**|William James Bolton et.al.|[2403.14578](http://arxiv.org/abs/2403.14578)|**[link](https://github.com/gsk-ai/rambla)**|
+|**2024-03-21**|**Pensieve: Retrospect-then-Compare Mitigates Visual Hallucination**|Dingchen Yang et.al.|[2403.14401](http://arxiv.org/abs/2403.14401)|**[link](https://github.com/dingchenyang99/pensieve)**|
+|**2024-03-20**|**Multi-Modal Hallucination Control by Visual Information Grounding**|Alessandro Favero et.al.|[2403.14003](http://arxiv.org/abs/2403.14003)|null|
 |**2024-03-20**|**Step-Calibrated Diffusion for Biomedical Optical Image Restoration**|Yiwei Lyu et.al.|[2403.13680](http://arxiv.org/abs/2403.13680)|null|
 |**2024-03-20**|**What if...?: Counterfactual Inception to Mitigate Hallucination Effects in Large Multimodal Models**|Junho Kim et.al.|[2403.13513](http://arxiv.org/abs/2403.13513)|null|
-|**2024-03-20**|**FMM-Attack: A Flow-based Multi-modal Adversarial Attack on Video-based LLMs**|Jinmin Li et.al.|[2403.13507](http://arxiv.org/abs/2403.13507)|null|
+|**2024-03-21**|**FMM-Attack: A Flow-based Multi-modal Adversarial Attack on Video-based LLMs**|Jinmin Li et.al.|[2403.13507](http://arxiv.org/abs/2403.13507)|null|
 |**2024-03-21**|**See, Imagine, Plan: Discovering and Hallucinating Tasks from a Single Image**|Chenyang Ma et.al.|[2403.13438](http://arxiv.org/abs/2403.13438)|null|
 |**2024-03-20**|**Polaris: A Safety-focused LLM Constellation Architecture for Healthcare**|Subhabrata Mukherjee et.al.|[2403.13313](http://arxiv.org/abs/2403.13313)|null|
 |**2024-03-19**|**Towards Robots That Know When They Need Help: Affordance-Based Uncertainty for Large Language Model Planners**|James F. Mullen Jr. et.al.|[2403.13198](http://arxiv.org/abs/2403.13198)|null|
