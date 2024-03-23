@@ -3299,8 +3299,8 @@
 |**2024-03-21**|**RAmBLA: A Framework for Evaluating the Reliability of LLMs as Assistants in the Biomedical Domain**|William James Bolton et.al.|[2403.14578](http://arxiv.org/abs/2403.14578)|**[link](https://github.com/gsk-ai/rambla)**|
 |**2024-03-21**|**Pensieve: Retrospect-then-Compare Mitigates Visual Hallucination**|Dingchen Yang et.al.|[2403.14401](http://arxiv.org/abs/2403.14401)|**[link](https://github.com/dingchenyang99/pensieve)**|
 |**2024-03-20**|**Multi-Modal Hallucination Control by Visual Information Grounding**|Alessandro Favero et.al.|[2403.14003](http://arxiv.org/abs/2403.14003)|null|
-|**2024-03-20**|**Step-Calibrated Diffusion for Biomedical Optical Image Restoration**|Yiwei Lyu et.al.|[2403.13680](http://arxiv.org/abs/2403.13680)|null|
-|**2024-03-20**|**What if...?: Counterfactual Inception to Mitigate Hallucination Effects in Large Multimodal Models**|Junho Kim et.al.|[2403.13513](http://arxiv.org/abs/2403.13513)|null|
+|**2024-03-20**|**Step-Calibrated Diffusion for Biomedical Optical Image Restoration**|Yiwei Lyu et.al.|[2403.13680](http://arxiv.org/abs/2403.13680)|**[link](https://github.com/mlneurosurg/restorative_step-calibrated_diffusion)**|
+|**2024-03-20**|**What if...?: Counterfactual Inception to Mitigate Hallucination Effects in Large Multimodal Models**|Junho Kim et.al.|[2403.13513](http://arxiv.org/abs/2403.13513)|**[link](https://github.com/ivy-lvlm/counterfactual-inception)**|
 |**2024-03-21**|**FMM-Attack: A Flow-based Multi-modal Adversarial Attack on Video-based LLMs**|Jinmin Li et.al.|[2403.13507](http://arxiv.org/abs/2403.13507)|null|
 |**2024-03-21**|**See, Imagine, Plan: Discovering and Hallucinating Tasks from a Single Image**|Chenyang Ma et.al.|[2403.13438](http://arxiv.org/abs/2403.13438)|null|
 |**2024-03-20**|**Polaris: A Safety-focused LLM Constellation Architecture for Healthcare**|Subhabrata Mukherjee et.al.|[2403.13313](http://arxiv.org/abs/2403.13313)|null|
