@@ -2241,6 +2241,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-22**|**LLaVA-PruMerge: Adaptive Token Reduction for Efficient Large Multimodal Models**|Yuzhang Shang et.al.|[2403.15388](http://arxiv.org/abs/2403.15388)|null|
+|**2024-03-22**|**Long-CLIP: Unlocking the Long-Text Capability of CLIP**|Beichen Zhang et.al.|[2403.15378](http://arxiv.org/abs/2403.15378)|null|
+|**2024-03-22**|**Can large language models explore in-context?**|Akshay Krishnamurthy et.al.|[2403.15371](http://arxiv.org/abs/2403.15371)|null|
+|**2024-03-22**|**CoLLEGe: Concept Embedding Generation for Large Language Models**|Ryan Teehan et.al.|[2403.15362](http://arxiv.org/abs/2403.15362)|null|
+|**2024-03-22**|**Controlled Training Data Generation with Diffusion Models**|Teresa Yeo et.al.|[2403.15309](http://arxiv.org/abs/2403.15309)|null|
+|**2024-03-22**|**Sphere Neural-Networks for Rational Reasoning**|Tiansi Dong et.al.|[2403.15297](http://arxiv.org/abs/2403.15297)|null|
+|**2024-03-22**|**Measuring Gender and Racial Biases in Large Language Models**|Jiafu An et.al.|[2403.15281](http://arxiv.org/abs/2403.15281)|null|
+|**2024-03-22**|**Bioinformatics and Biomedical Informatics with ChatGPT: Year One Review**|Jinge Wang et.al.|[2403.15274](http://arxiv.org/abs/2403.15274)|null|
+|**2024-03-22**|**Event Temporal Relation Extraction based on Retrieval-Augmented on LLMs**|Xiaobin Zhang et.al.|[2403.15273](http://arxiv.org/abs/2403.15273)|null|
+|**2024-03-22**|**Imagination Augmented Generation: Learning to Imagine Richer Context for Question Answering over Large Language Models**|Huanxuan Liao et.al.|[2403.15268](http://arxiv.org/abs/2403.15268)|**[link](https://github.com/xnhyacinth/iag)**|
 |**2024-03-21**|**MathVerse: Does Your Multi-modal LLM Truly See the Diagrams in Visual Math Problems?**|Renrui Zhang et.al.|[2403.14624](http://arxiv.org/abs/2403.14624)|null|
 |**2024-03-21**|**Parameter-Efficient Fine-Tuning for Large Models: A Comprehensive Survey**|Zeyu Han et.al.|[2403.14608](http://arxiv.org/abs/2403.14608)|null|
 |**2024-03-21**|**MyVLM: Personalizing VLMs for User-Specific Queries**|Yuval Alaluf et.al.|[2403.14599](http://arxiv.org/abs/2403.14599)|null|
@@ -3013,11 +3023,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-21**|**A Collection of Pragmatic-Similarity Judgments over Spoken Dialog Utterances**|Nigel G. Ward et.al.|[2403.14808](http://arxiv.org/abs/2403.14808)|null|
 |**2024-03-21**|**Prediction of Translation Techniques for the Translation Process**|Fan Zhou et.al.|[2403.14454](http://arxiv.org/abs/2403.14454)|null|
 |**2024-03-21**|**From Handcrafted Features to LLMs: A Brief Survey for Machine Translation Quality Estimation**|Haofei Zhao et.al.|[2403.14118](http://arxiv.org/abs/2403.14118)|null|
 |**2024-03-20**|**A New Massive Multilingual Dataset for High-Performance Language Technologies**|Ona de Gibert et.al.|[2403.14009](http://arxiv.org/abs/2403.14009)|null|
 |**2024-03-21**|**Do Not Worry if You Do Not Have Data: Building Pretrained Language Models Using Translationese**|Meet Doshi et.al.|[2403.13638](http://arxiv.org/abs/2403.13638)|null|
-|**2024-03-19**|**Self-generated Replay Memories for Continual Neural Machine Translation**|Michele Resta et.al.|[2403.13130](http://arxiv.org/abs/2403.13130)|null|
+|**2024-03-19**|**Self-generated Replay Memories for Continual Neural Machine Translation**|Michele Resta et.al.|[2403.13130](http://arxiv.org/abs/2403.13130)|**[link](https://github.com/m-resta/sg-rep)**|
 |**2024-03-19**|**Multi-Dimensional Machine Translation Evaluation: Model Evaluation and Resource for Korean**|Dojun Park et.al.|[2403.12666](http://arxiv.org/abs/2403.12666)|null|
 |**2024-03-18**|**Enhancing Hokkien Dual Translation by Exploring and Standardizing of Four Writing Systems**|Bo-Han Lu et.al.|[2403.12024](http://arxiv.org/abs/2403.12024)|null|
 |**2024-03-18**|**Investigating Markers and Drivers of Gender Bias in Machine Translations**|Peter J Barclay et.al.|[2403.11896](http://arxiv.org/abs/2403.11896)|null|
@@ -3263,6 +3274,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-22**|**Sphere Neural-Networks for Rational Reasoning**|Tiansi Dong et.al.|[2403.15297](http://arxiv.org/abs/2403.15297)|null|
+|**2024-03-22**|**Cartoon Hallucinations Detection: Pose-aware In Context Visual Learning**|Bumsoo Kim et.al.|[2403.15048](http://arxiv.org/abs/2403.15048)|null|
 |**2024-03-21**|**RAmBLA: A Framework for Evaluating the Reliability of LLMs as Assistants in the Biomedical Domain**|William James Bolton et.al.|[2403.14578](http://arxiv.org/abs/2403.14578)|**[link](https://github.com/gsk-ai/rambla)**|
 |**2024-03-21**|**Pensieve: Retrospect-then-Compare Mitigates Visual Hallucination**|Dingchen Yang et.al.|[2403.14401](http://arxiv.org/abs/2403.14401)|**[link](https://github.com/dingchenyang99/pensieve)**|
 |**2024-03-20**|**Multi-Modal Hallucination Control by Visual Information Grounding**|Alessandro Favero et.al.|[2403.14003](http://arxiv.org/abs/2403.14003)|null|
