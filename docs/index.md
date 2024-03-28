@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.03.27
+## Updated on 2024.03.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3049,7 +3049,7 @@ layout: default
 |**2024-03-26**|**m3P: Towards Multimodal Multilingual Translation with Multimodal Prompt**|Jian Yang et.al.|[2403.17556](http://arxiv.org/abs/2403.17556)|null|
 |**2024-03-26**|**Large Language Models Are State-of-the-Art Evaluator for Grammatical Error Correction**|Masamune Kobayashi et.al.|[2403.17540](http://arxiv.org/abs/2403.17540)|null|
 |**2024-03-25**|**The Role of $n$ -gram Smoothing in the Age of Neural Networks**|Luca Malagutti et.al.|[2403.17240](http://arxiv.org/abs/2403.17240)|null|
-|**2024-03-25**|**Cross-lingual Contextualized Phrase Retrieval**|Huayang Li et.al.|[2403.16820](http://arxiv.org/abs/2403.16820)|null|
+|**2024-03-25**|**Cross-lingual Contextualized Phrase Retrieval**|Huayang Li et.al.|[2403.16820](http://arxiv.org/abs/2403.16820)|**[link](https://github.com/ghrua/ccpr_release)**|
 |**2024-03-25**|**Can Machine Translation Bridge Multilingual Pretraining and Cross-lingual Transfer Learning?**|Shaoxiong Ji et.al.|[2403.16777](http://arxiv.org/abs/2403.16777)|null|
 |**2024-03-25**|**Synthetic Data Generation and Joint Learning for Robust Code-Mixed Translation**|Kartik et.al.|[2403.16771](http://arxiv.org/abs/2403.16771)|null|
 |**2024-03-20**|**Isometric Neural Machine Translation using Phoneme Count Ratio Reward-based Reinforcement Learning**|Shivam Ratnakant Mhaskar et.al.|[2403.15469](http://arxiv.org/abs/2403.15469)|null|
