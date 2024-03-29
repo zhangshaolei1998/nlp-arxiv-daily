@@ -2214,6 +2214,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-27**|**A census of graph-drawing algorithms based on generalized transversal structures**|Olivier Bernardi et.al.|[2403.18980](http://arxiv.org/abs/2403.18980)|null|
 |**2024-03-27**|**Nijenhuis deformations of Poisson algebras and $F$ -manifold algebras**|Anusuiya Baishya et.al.|[2403.18496](http://arxiv.org/abs/2403.18496)|null|
 |**2024-03-24**|**Frankenstein: Generating Semantic-Compositional 3D Scenes in One Tri-Plane**|Han Yan et.al.|[2403.16210](http://arxiv.org/abs/2403.16210)|null|
 |**2024-03-22**|**InterFusion: Text-Driven Generation of 3D Human-Object Interaction**|Sisi Dai et.al.|[2403.15612](http://arxiv.org/abs/2403.15612)|null|
@@ -2271,6 +2272,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-28**|**InterDreamer: Zero-Shot Text to 3D Dynamic Human-Object Interaction**|Sirui Xu et.al.|[2403.19652](http://arxiv.org/abs/2403.19652)|null|
+|**2024-03-28**|**MagicLens: Self-Supervised Image Retrieval with Open-Ended Instructions**|Kai Zhang et.al.|[2403.19651](http://arxiv.org/abs/2403.19651)|null|
+|**2024-03-28**|**Sparse Feature Circuits: Discovering and Editing Interpretable Causal Graphs in Language Models**|Samuel Marks et.al.|[2403.19647](http://arxiv.org/abs/2403.19647)|**[link](https://github.com/saprmarks/feature-circuits)**|
+|**2024-03-28**|**Change-Agent: Towards Interactive Comprehensive Change Interpretation and Analysis from Change Detection and Change Captioning**|Chenyang Liu et.al.|[2403.19646](http://arxiv.org/abs/2403.19646)|null|
+|**2024-03-28**|**Retrieval-Enhanced Knowledge Editing for Multi-Hop Question Answering in Language Models**|Yucheng Shi et.al.|[2403.19631](http://arxiv.org/abs/2403.19631)|null|
+|**2024-03-28**|**RH20T-P: A Primitive-Level Robotic Dataset Towards Composable Generalization Agents**|Zeren Chen et.al.|[2403.19622](http://arxiv.org/abs/2403.19622)|null|
+|**2024-03-28**|**Keypoint Action Tokens Enable In-Context Imitation Learning in Robotics**|Norman Di Palo et.al.|[2403.19578](http://arxiv.org/abs/2403.19578)|null|
+|**2024-03-28**|**WaterJudge: Quality-Detection Trade-off when Watermarking Large Language Models**|Piotr Molenda et.al.|[2403.19548](http://arxiv.org/abs/2403.19548)|null|
+|**2024-03-28**|**Interpreting Key Mechanisms of Factual Recall in Transformer-Based Language Models**|Ang Lv et.al.|[2403.19521](http://arxiv.org/abs/2403.19521)|null|
+|**2024-03-28**|**Improving Clinical NLP Performance through Language Model-Generated Synthetic Clinical Data**|Shan Chen et.al.|[2403.19511](http://arxiv.org/abs/2403.19511)|**[link](https://github.com/aim-harvard/fake2real)**|
 |**2024-03-27**|**Mini-Gemini: Mining the Potential of Multi-modality Vision Language Models**|Yanwei Li et.al.|[2403.18814](http://arxiv.org/abs/2403.18814)|**[link](https://github.com/dvlab-research/minigemini)**|
 |**2024-03-27**|**Is Modularity Transferable? A Case Study through the Lens of Knowledge Distillation**|Mateusz Klimaszewski et.al.|[2403.18804](http://arxiv.org/abs/2403.18804)|null|
 |**2024-03-27**|**Projective Methods for Mitigating Gender Bias in Pre-trained Language Models**|Hillary Dawkins et.al.|[2403.18803](http://arxiv.org/abs/2403.18803)|null|
@@ -3085,6 +3096,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-28**|**KazParC: Kazakh Parallel Corpus for Machine Translation**|Rustem Yeshpanov et.al.|[2403.19399](http://arxiv.org/abs/2403.19399)|**[link](https://github.com/is2ai/kazparc)**|
+|**2024-03-28**|**EthioMT: Parallel Corpus for Low-resource Ethiopian Languages**|Atnafu Lambebo Tonja et.al.|[2403.19365](http://arxiv.org/abs/2403.19365)|null|
+|**2024-03-28**|**Going Beyond Word Matching: Syntax Improves In-context Example Selection for Machine Translation**|Chenming Tang et.al.|[2403.19285](http://arxiv.org/abs/2403.19285)|null|
+|**2024-03-28**|**LV-CTC: Non-autoregressive ASR with CTC and latent variable models**|Yuya Fujita et.al.|[2403.19207](http://arxiv.org/abs/2403.19207)|null|
+|**2024-03-28**|**Improving Vietnamese-English Medical Machine Translation**|Nhu Vo et.al.|[2403.19161](http://arxiv.org/abs/2403.19161)|null|
+|**2024-03-28**|**A Tulu Resource for Machine Translation**|Manu Narayanan et.al.|[2403.19142](http://arxiv.org/abs/2403.19142)|null|
 |**2024-03-27**|**ACES: Evaluating Automated Audio Captioning Models on the Semantics of Sounds**|Gijs Wijngaard et.al.|[2403.18572](http://arxiv.org/abs/2403.18572)|null|
 |**2024-03-26**|**The Impact of Syntactic and Semantic Proximity on Machine Translation with Back-Translation**|Nicolas Guerin et.al.|[2403.18031](http://arxiv.org/abs/2403.18031)|null|
 |**2024-03-26**|**MIND Your Language: A Multilingual Dataset for Cross-lingual News Recommendation**|Andreea Iana et.al.|[2403.17876](http://arxiv.org/abs/2403.17876)|**[link](https://github.com/andreeaiana/xmind)**|
@@ -3350,6 +3367,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-28**|**Retrieval-Enhanced Knowledge Editing for Multi-Hop Question Answering in Language Models**|Yucheng Shi et.al.|[2403.19631](http://arxiv.org/abs/2403.19631)|null|
+|**2024-03-28**|**JDocQA: Japanese Document Question Answering Dataset for Generative Language Models**|Eri Onami et.al.|[2403.19454](http://arxiv.org/abs/2403.19454)|null|
+|**2024-03-28**|**Large Language Models Are Unconscious of Unreasonability in Math Problems**|Jingyuan Ma et.al.|[2403.19346](http://arxiv.org/abs/2403.19346)|null|
+|**2024-03-28**|**Are Large Language Models Good at Utility Judgments?**|Hengran Zhang et.al.|[2403.19216](http://arxiv.org/abs/2403.19216)|**[link](https://github.com/ict-bigdatalab/utility_judgments)**|
+|**2024-03-28**|**FACTOID: FACtual enTailment fOr hallucInation Detection**|Vipula Rawte et.al.|[2403.19113](http://arxiv.org/abs/2403.19113)|null|
+|**2024-03-28**|**Learning From Correctness Without Prompting Makes LLM Efficient Reasoner**|Yuxuan Yao et.al.|[2403.19094](http://arxiv.org/abs/2403.19094)|null|
+|**2024-03-27**|**"Sorry, Come Again?" Prompting -- Enhancing Comprehension and Diminishing Hallucination with [PAUSE]-injected Optimal Paraphrasing**|Vipula Rawte et.al.|[2403.18976](http://arxiv.org/abs/2403.18976)|null|
 |**2024-03-27**|**Mitigating Hallucinations in Large Vision-Language Models with Instruction Contrastive Decoding**|Xintong Wang et.al.|[2403.18715](http://arxiv.org/abs/2403.18715)|null|
 |**2024-03-27**|**A Diffusion-Based Generative Equalizer for Music Restoration**|Eloi Moliner et.al.|[2403.18636](http://arxiv.org/abs/2403.18636)|null|
 |**2024-03-27**|**Improving Attributed Text Generation of Large Language Models via Preference Learning**|Dongfang Li et.al.|[2403.18381](http://arxiv.org/abs/2403.18381)|null|
