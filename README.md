@@ -2272,6 +2272,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-02**|**Iterated Learning Improves Compositionality in Large Vision-Language Models**|Chenhao Zheng et.al.|[2404.02145](http://arxiv.org/abs/2404.02145)|null|
+|**2024-04-02**|**Topic-based Watermarks for LLM-Generated Text**|Alexander Nemecek et.al.|[2404.02138](http://arxiv.org/abs/2404.02138)|null|
+|**2024-04-02**|**ViTamin: Designing Scalable Vision Models in the Vision-Language Era**|Jienneg Chen et.al.|[2404.02132](http://arxiv.org/abs/2404.02132)|**[link](https://github.com/beckschen/vitamin)**|
+|**2024-04-02**|**FLawN-T5: An Empirical Examination of Effective Instruction-Tuning Data Mixtures for Legal Reasoning**|Joel Niklaus et.al.|[2404.02127](http://arxiv.org/abs/2404.02127)|**[link](https://github.com/joelniklaus/lawinstruct)**|
+|**2024-04-02**|**Exploring Automated Distractor Generation for Math Multiple-choice Questions via Large Language Models**|Wanyong Feng et.al.|[2404.02124](http://arxiv.org/abs/2404.02124)|null|
+|**2024-04-02**|**GINopic: Topic Modeling with Graph Isomorphism Network**|Suman Adhya et.al.|[2404.02115](http://arxiv.org/abs/2404.02115)|**[link](https://github.com/adhyasuman/ginopic)**|
+|**2024-04-02**|**CLAPNQ: Cohesive Long-form Answers from Passages in Natural Questions for RAG systems**|Sara Rosenthal et.al.|[2404.02103](http://arxiv.org/abs/2404.02103)|**[link](https://github.com/primeqa/clapnq)**|
+|**2024-04-02**|**Advancing LLM Reasoning Generalists with Preference Trees**|Lifan Yuan et.al.|[2404.02078](http://arxiv.org/abs/2404.02078)|**[link](https://github.com/openbmb/eurus)**|
+|**2024-04-02**|**Digital Forgetting in Large Language Models: A Survey of Unlearning Methods**|Alberto Blanco-Justicia et.al.|[2404.02062](http://arxiv.org/abs/2404.02062)|null|
+|**2024-04-02**|**Long-context LLMs Struggle with Long In-context Learning**|Tianle Li et.al.|[2404.02060](http://arxiv.org/abs/2404.02060)|**[link](https://github.com/tiger-ai-lab/longiclbench)**|
 |**2024-03-29**|**Unsolvable Problem Detection: Evaluating Trustworthiness of Vision Language Models**|Atsuyuki Miyai et.al.|[2403.20331](http://arxiv.org/abs/2403.20331)|**[link](https://github.com/atsumiyai/upd)**|
 |**2024-03-29**|**Are We on the Right Way for Evaluating Large Vision-Language Models?**|Lin Chen et.al.|[2403.20330](http://arxiv.org/abs/2403.20330)|null|
 |**2024-03-29**|**ReALM: Reference Resolution As Language Modeling**|Joel Ruben Antony Moniz et.al.|[2403.20329](http://arxiv.org/abs/2403.20329)|null|
@@ -3106,8 +3116,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-02**|**HyperCLOVA X Technical Report**|Kang Min Yoo et.al.|[2404.01954](http://arxiv.org/abs/2404.01954)|null|
+|**2024-04-02**|**Towards Better Understanding of Cybercrime: The Role of Fine-Tuned LLMs in Translation**|Veronica Valeros et.al.|[2404.01940](http://arxiv.org/abs/2404.01940)|null|
+|**2024-04-02**|**Transforming LLMs into Cross-modal and Cross-lingual RetrievalSystems**|Frank Palma Gomez et.al.|[2404.01616](http://arxiv.org/abs/2404.01616)|null|
+|**2024-04-01**|**AAdaM at SemEval-2024 Task 1: Augmentation and Adaptation for Multilingual Semantic Textual Relatedness**|Miaoran Zhang et.al.|[2404.01490](http://arxiv.org/abs/2404.01490)|**[link](https://github.com/uds-lsv/aadam)**|
+|**2024-04-01**|**Finding Replicable Human Evaluations via Stable Ranking Probability**|Parker Riley et.al.|[2404.01474](http://arxiv.org/abs/2404.01474)|null|
+|**2024-04-01**|**An image speaks a thousand words, but can everyone listen? On translating images for cultural relevance**|Simran Khanuja et.al.|[2404.01247](http://arxiv.org/abs/2404.01247)|**[link](https://github.com/simran-khanuja/image-transcreation)**|
+|**2024-04-01**|**Advancing AI with Integrity: Ethical Challenges and Solutions in Neural Machine Translation**|Richard Kimera et.al.|[2404.01070](http://arxiv.org/abs/2404.01070)|null|
+|**2024-03-30**|**An Analysis of BPE Vocabulary Trimming in Neural Machine Translation**|Marco Cognetta et.al.|[2404.00397](http://arxiv.org/abs/2404.00397)|null|
 |**2024-03-29**|**A Systematic Analysis of Subwords and Cross-Lingual Transfer in Multilingual Translation**|Francois Meyer et.al.|[2403.20157](http://arxiv.org/abs/2403.20157)|null|
-|**2024-03-28**|**KazParC: Kazakh Parallel Corpus for Machine Translation**|Rustem Yeshpanov et.al.|[2403.19399](http://arxiv.org/abs/2403.19399)|**[link](https://github.com/is2ai/kazparc)**|
+|**2024-04-02**|**KazParC: Kazakh Parallel Corpus for Machine Translation**|Rustem Yeshpanov et.al.|[2403.19399](http://arxiv.org/abs/2403.19399)|**[link](https://github.com/is2ai/kazparc)**|
 |**2024-03-28**|**EthioMT: Parallel Corpus for Low-resource Ethiopian Languages**|Atnafu Lambebo Tonja et.al.|[2403.19365](http://arxiv.org/abs/2403.19365)|null|
 |**2024-03-28**|**Going Beyond Word Matching: Syntax Improves In-context Example Selection for Machine Translation**|Chenming Tang et.al.|[2403.19285](http://arxiv.org/abs/2403.19285)|null|
 |**2024-03-28**|**LV-CTC: Non-autoregressive ASR with CTC and latent variable models**|Yuya Fujita et.al.|[2403.19207](http://arxiv.org/abs/2403.19207)|null|
@@ -3378,6 +3396,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-02**|**CLAPNQ: Cohesive Long-form Answers from Passages in Natural Questions for RAG systems**|Sara Rosenthal et.al.|[2404.02103](http://arxiv.org/abs/2404.02103)|**[link](https://github.com/primeqa/clapnq)**|
+|**2024-04-02**|**Hallucination Diversity-Aware Active Learning for Text Summarization**|Yu Xia et.al.|[2404.01588](http://arxiv.org/abs/2404.01588)|null|
+|**2024-04-01**|**A Preliminary Roadmap for LLMs as Assistants in Exploring, Analyzing, and Visualizing Knowledge Graphs**|Harry Li et.al.|[2404.01425](http://arxiv.org/abs/2404.01425)|null|
+|**2024-04-02**|**Direct Preference Optimization of Video Large Multimodal Models from Language Model Reward**|Ruohong Zhang et.al.|[2404.01258](http://arxiv.org/abs/2404.01258)|**[link](https://github.com/riflezhang/llava-hound-dpo)**|
+|**2024-04-01**|**AILS-NTUA at SemEval-2024 Task 6: Efficient model tuning for hallucination detection and analysis**|Natalia Griogoriadou et.al.|[2404.01210](http://arxiv.org/abs/2404.01210)|null|
+|**2024-04-01**|**Generating Faithful and Complete Hospital-Course Summaries from the Electronic Health Record**|Griffin Adams et.al.|[2404.01189](http://arxiv.org/abs/2404.01189)|null|
+|**2024-04-01**|**Exploring and Evaluating Hallucinations in LLM-Powered Code Generation**|Fang Liu et.al.|[2404.00971](http://arxiv.org/abs/2404.00971)|null|
+|**2024-03-30**|**Linguistic Calibration of Language Models**|Neil Band et.al.|[2404.00474](http://arxiv.org/abs/2404.00474)|null|
+|**2024-03-30**|**Is Factuality Decoding a Free Lunch for LLMs? Evaluation on Knowledge Editing Benchmark**|Baolong Bi et.al.|[2404.00216](http://arxiv.org/abs/2404.00216)|null|
 |**2024-03-29**|**H2RSVLM: Towards Helpful and Honest Remote Sensing Large Vision Language Model**|Chao Pang et.al.|[2403.20213](http://arxiv.org/abs/2403.20213)|**[link](https://github.com/opendatalab/h2rsvlm)**|
 |**2024-03-29**|**StegoGAN: Leveraging Steganography for Non-Bijective Image-to-Image Translation**|Sidi Wu et.al.|[2403.20142](http://arxiv.org/abs/2403.20142)|null|
 |**2024-03-29**|**On Large Language Models' Hallucination with Regard to Known Facts**|Che Jiang et.al.|[2403.20009](http://arxiv.org/abs/2403.20009)|null|
