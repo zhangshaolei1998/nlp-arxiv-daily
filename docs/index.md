@@ -2189,6 +2189,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-02**|**Towards Robust 3D Pose Transfer with Adversarial Learning**|Haoyu Chen et.al.|[2404.02242](http://arxiv.org/abs/2404.02242)|null|
 |**2024-03-27**|**A census of graph-drawing algorithms based on generalized transversal structures**|Olivier Bernardi et.al.|[2403.18980](http://arxiv.org/abs/2403.18980)|null|
 |**2024-03-27**|**Nijenhuis deformations of Poisson algebras and $F$ -manifold algebras**|Anusuiya Baishya et.al.|[2403.18496](http://arxiv.org/abs/2403.18496)|null|
 |**2024-03-24**|**Frankenstein: Generating Semantic-Compositional 3D Scenes in One Tri-Plane**|Han Yan et.al.|[2403.16210](http://arxiv.org/abs/2403.16210)|null|
@@ -2245,6 +2246,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-03**|**ALOHa: A New Measure for Hallucination in Captioning Models**|Suzanne Petryk et.al.|[2404.02904](http://arxiv.org/abs/2404.02904)|null|
+|**2024-04-03**|**MatAtlas: Text-driven Consistent Geometry Texturing and Material Assignment**|Duygu Ceylan et.al.|[2404.02899](http://arxiv.org/abs/2404.02899)|null|
+|**2024-04-03**|**ChatGLM-Math: Improving Math Problem-Solving in Large Language Models with a Self-Critique Pipeline**|Yifan Xu et.al.|[2404.02893](http://arxiv.org/abs/2404.02893)|null|
+|**2024-04-03**|**Linear Attention Sequence Parallelism**|Weigao Sun et.al.|[2404.02882](http://arxiv.org/abs/2404.02882)|**[link](https://github.com/opennlplab/lasp)**|
+|**2024-04-03**|**Integrating Explanations in Learning LTL Specifications from Demonstrations**|Ashutosh Gupta et.al.|[2404.02872](http://arxiv.org/abs/2404.02872)|null|
+|**2024-04-03**|**Toward Inference-optimal Mixture-of-Expert Large Language Models**|Longfei Yun et.al.|[2404.02852](http://arxiv.org/abs/2404.02852)|null|
+|**2024-04-03**|**I-Design: Personalized LLM Interior Designer**|Ata Çelen et.al.|[2404.02838](http://arxiv.org/abs/2404.02838)|null|
+|**2024-04-03**|**Cherry on Top: Parameter Heterogeneity and Quantization in Large Language Models**|Wanyun Cui et.al.|[2404.02837](http://arxiv.org/abs/2404.02837)|null|
+|**2024-04-03**|**Retrieving Examples from Memory for Retrieval Augmented Neural Machine Translation: A Systematic Comparison**|Maxime Bouthors et.al.|[2404.02835](http://arxiv.org/abs/2404.02835)|null|
+|**2024-04-03**|**Empowering Biomedical Discovery with AI Agents**|Shanghua Gao et.al.|[2404.02831](http://arxiv.org/abs/2404.02831)|null|
 |**2024-04-02**|**Iterated Learning Improves Compositionality in Large Vision-Language Models**|Chenhao Zheng et.al.|[2404.02145](http://arxiv.org/abs/2404.02145)|null|
 |**2024-04-02**|**Topic-based Watermarks for LLM-Generated Text**|Alexander Nemecek et.al.|[2404.02138](http://arxiv.org/abs/2404.02138)|null|
 |**2024-04-02**|**ViTamin: Designing Scalable Vision Models in the Vision-Language Era**|Jienneg Chen et.al.|[2404.02132](http://arxiv.org/abs/2404.02132)|**[link](https://github.com/beckschen/vitamin)**|
@@ -3087,6 +3098,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-03**|**Retrieving Examples from Memory for Retrieval Augmented Neural Machine Translation: A Systematic Comparison**|Maxime Bouthors et.al.|[2404.02835](http://arxiv.org/abs/2404.02835)|null|
+|**2024-04-03**|**Large Language Models for Expansion of Spoken Language Understanding Systems to New Languages**|Jakub Hoscilowicz et.al.|[2404.02588](http://arxiv.org/abs/2404.02588)|**[link](https://github.com/samsung/mt-llm-nlu)**|
+|**2024-04-03**|**MaiNLP at SemEval-2024 Task 1: Analyzing Source Language Selection in Cross-Lingual Textual Relatedness**|Shijia Zhou et.al.|[2404.02570](http://arxiv.org/abs/2404.02570)|null|
+|**2024-04-03**|**Backdoor Attack on Multilingual Machine Translation**|Jun Wang et.al.|[2404.02393](http://arxiv.org/abs/2404.02393)|null|
+|**2024-04-03**|**Low-resource neural machine translation with morphological modeling**|Antoine Nzeyimana et.al.|[2404.02392](http://arxiv.org/abs/2404.02392)|**[link](https://github.com/anzeyimana/kinmt_naacl2024)**|
+|**2024-04-03**|**Optical Text Recognition in Nepali and Bengali: A Transformer-based Approach**|S M Rakib Hasan et.al.|[2404.02375](http://arxiv.org/abs/2404.02375)|null|
 |**2024-04-02**|**HyperCLOVA X Technical Report**|Kang Min Yoo et.al.|[2404.01954](http://arxiv.org/abs/2404.01954)|null|
 |**2024-04-02**|**Towards Better Understanding of Cybercrime: The Role of Fine-Tuned LLMs in Translation**|Veronica Valeros et.al.|[2404.01940](http://arxiv.org/abs/2404.01940)|null|
 |**2024-04-02**|**Transforming LLMs into Cross-modal and Cross-lingual RetrievalSystems**|Frank Palma Gomez et.al.|[2404.01616](http://arxiv.org/abs/2404.01616)|null|
@@ -3363,6 +3380,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-03**|**ALOHa: A New Measure for Hallucination in Captioning Models**|Suzanne Petryk et.al.|[2404.02904](http://arxiv.org/abs/2404.02904)|null|
+|**2024-04-03**|**Scalable Model Editing via Customized Expert Networks**|Zihan Yao et.al.|[2404.02699](http://arxiv.org/abs/2404.02699)|**[link](https://github.com/tal-aurorax/scen)**|
+|**2024-04-02**|**Comparative Study of Domain Driven Terms Extraction Using Large Language Models**|Sandeep Chataut et.al.|[2404.02330](http://arxiv.org/abs/2404.02330)|null|
+|**2024-04-02**|**Extracting Norms from Contracts Via ChatGPT: Opportunities and Challenges**|Amanul Haque et.al.|[2404.02269](http://arxiv.org/abs/2404.02269)|null|
 |**2024-04-02**|**CLAPNQ: Cohesive Long-form Answers from Passages in Natural Questions for RAG systems**|Sara Rosenthal et.al.|[2404.02103](http://arxiv.org/abs/2404.02103)|**[link](https://github.com/primeqa/clapnq)**|
 |**2024-04-02**|**Hallucination Diversity-Aware Active Learning for Text Summarization**|Yu Xia et.al.|[2404.01588](http://arxiv.org/abs/2404.01588)|null|
 |**2024-04-01**|**A Preliminary Roadmap for LLMs as Assistants in Exploring, Analyzing, and Visualizing Knowledge Graphs**|Harry Li et.al.|[2404.01425](http://arxiv.org/abs/2404.01425)|null|
