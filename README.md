@@ -2273,6 +2273,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-04**|**OpenNeRF: Open Set 3D Neural Scene Segmentation with Pixel-Wise Features and Rendered Novel Views**|Francis Engelmann et.al.|[2404.03650](http://arxiv.org/abs/2404.03650)|null|
+|**2024-04-04**|**AutoWebGLM: Bootstrap And Reinforce A Large Language Model-based Web Navigating Agent**|Hanyu Lai et.al.|[2404.03648](http://arxiv.org/abs/2404.03648)|**[link](https://github.com/thudm/autowebglm)**|
+|**2024-04-04**|**Capabilities of Large Language Models in Control Engineering: A Benchmark Study on GPT-4, Claude 3 Opus, and Gemini 1.0 Ultra**|Darioush Kevian et.al.|[2404.03647](http://arxiv.org/abs/2404.03647)|null|
+|**2024-04-04**|**Locating and Editing Factual Associations in Mamba**|Arnab Sen Sharma et.al.|[2404.03646](http://arxiv.org/abs/2404.03646)|**[link](https://github.com/arnab-api/romba)**|
+|**2024-04-04**|**Training LLMs over Neurally Compressed Text**|Brian Lester et.al.|[2404.03626](http://arxiv.org/abs/2404.03626)|null|
+|**2024-04-04**|**Standardizing Knowledge Engineering Practices with a Reference Architecture**|Bradley P. Allen et.al.|[2404.03624](http://arxiv.org/abs/2404.03624)|null|
+|**2024-04-04**|**Unveiling LLMs: The Evolution of Latent Representations in a Temporal Knowledge Graph**|Marco Bronzini et.al.|[2404.03623](http://arxiv.org/abs/2404.03623)|null|
+|**2024-04-04**|**Visualization-of-Thought Elicits Spatial Reasoning in Large Language Models**|Wenshan Wu et.al.|[2404.03622](http://arxiv.org/abs/2404.03622)|null|
+|**2024-04-04**|**DeViDe: Faceted medical knowledge for improved medical vision-language pre-training**|Haozhe Luo et.al.|[2404.03618](http://arxiv.org/abs/2404.03618)|null|
+|**2024-04-04**|**Sailor: Open Language Models for South-East Asia**|Longxu Dou et.al.|[2404.03608](http://arxiv.org/abs/2404.03608)|**[link](https://github.com/sail-sg/sailor-llm)**|
 |**2024-04-03**|**ALOHa: A New Measure for Hallucination in Captioning Models**|Suzanne Petryk et.al.|[2404.02904](http://arxiv.org/abs/2404.02904)|null|
 |**2024-04-03**|**MatAtlas: Text-driven Consistent Geometry Texturing and Material Assignment**|Duygu Ceylan et.al.|[2404.02899](http://arxiv.org/abs/2404.02899)|null|
 |**2024-04-03**|**ChatGLM-Math: Improving Math Problem-Solving in Large Language Models with a Self-Critique Pipeline**|Yifan Xu et.al.|[2404.02893](http://arxiv.org/abs/2404.02893)|null|
@@ -3127,6 +3137,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-04**|**Towards Automated Movie Trailer Generation**|Dawit Mureja Argaw et.al.|[2404.03477](http://arxiv.org/abs/2404.03477)|null|
+|**2024-04-03**|**An Incomplete Loop: Deductive, Inductive, and Abductive Learning in Large Language Models**|Emmy Liu et.al.|[2404.03028](http://arxiv.org/abs/2404.03028)|null|
 |**2024-04-03**|**Retrieving Examples from Memory for Retrieval Augmented Neural Machine Translation: A Systematic Comparison**|Maxime Bouthors et.al.|[2404.02835](http://arxiv.org/abs/2404.02835)|null|
 |**2024-04-03**|**Large Language Models for Expansion of Spoken Language Understanding Systems to New Languages**|Jakub Hoscilowicz et.al.|[2404.02588](http://arxiv.org/abs/2404.02588)|**[link](https://github.com/samsung/mt-llm-nlu)**|
 |**2024-04-03**|**MaiNLP at SemEval-2024 Task 1: Analyzing Source Language Selection in Cross-Lingual Textual Relatedness**|Shijia Zhou et.al.|[2404.02570](http://arxiv.org/abs/2404.02570)|null|
@@ -3413,6 +3425,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-04**|**A Cause-Effect Look at Alleviating Hallucination of Knowledge-grounded Dialogue Generation**|Jifan Yu et.al.|[2404.03491](http://arxiv.org/abs/2404.03491)|null|
+|**2024-04-04**|**DELTA: Decomposed Efficient Long-Term Robot Task Planning using Large Language Models**|Yuchen Liu et.al.|[2404.03275](http://arxiv.org/abs/2404.03275)|null|
+|**2024-04-04**|**Uncertainty in Language Models: Assessment through Rank-Calibration**|Xinmeng Huang et.al.|[2404.03163](http://arxiv.org/abs/2404.03163)|null|
+|**2024-04-03**|**KnowHalu: Hallucination Detection via Multi-Form Knowledge Based Factual Checking**|Jiawei Zhang et.al.|[2404.02935](http://arxiv.org/abs/2404.02935)|**[link](https://github.com/javyduck/knowhalu)**|
 |**2024-04-03**|**ALOHa: A New Measure for Hallucination in Captioning Models**|Suzanne Petryk et.al.|[2404.02904](http://arxiv.org/abs/2404.02904)|null|
 |**2024-04-03**|**Scalable Model Editing via Customized Expert Networks**|Zihan Yao et.al.|[2404.02699](http://arxiv.org/abs/2404.02699)|**[link](https://github.com/tal-aurorax/scen)**|
 |**2024-04-02**|**Comparative Study of Domain Driven Terms Extraction Using Large Language Models**|Sandeep Chataut et.al.|[2404.02330](http://arxiv.org/abs/2404.02330)|null|
