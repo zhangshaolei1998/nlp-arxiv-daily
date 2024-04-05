@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.04
+## Updated on 2024.04.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3106,7 +3106,7 @@ layout: default
 |**2024-04-03**|**Optical Text Recognition in Nepali and Bengali: A Transformer-based Approach**|S M Rakib Hasan et.al.|[2404.02375](http://arxiv.org/abs/2404.02375)|null|
 |**2024-04-02**|**HyperCLOVA X Technical Report**|Kang Min Yoo et.al.|[2404.01954](http://arxiv.org/abs/2404.01954)|null|
 |**2024-04-02**|**Towards Better Understanding of Cybercrime: The Role of Fine-Tuned LLMs in Translation**|Veronica Valeros et.al.|[2404.01940](http://arxiv.org/abs/2404.01940)|null|
-|**2024-04-02**|**Transforming LLMs into Cross-modal and Cross-lingual RetrievalSystems**|Frank Palma Gomez et.al.|[2404.01616](http://arxiv.org/abs/2404.01616)|null|
+|**2024-04-04**|**Transforming LLMs into Cross-modal and Cross-lingual Retrieval Systems**|Frank Palma Gomez et.al.|[2404.01616](http://arxiv.org/abs/2404.01616)|null|
 |**2024-04-01**|**AAdaM at SemEval-2024 Task 1: Augmentation and Adaptation for Multilingual Semantic Textual Relatedness**|Miaoran Zhang et.al.|[2404.01490](http://arxiv.org/abs/2404.01490)|**[link](https://github.com/uds-lsv/aadam)**|
 |**2024-04-01**|**Finding Replicable Human Evaluations via Stable Ranking Probability**|Parker Riley et.al.|[2404.01474](http://arxiv.org/abs/2404.01474)|null|
 |**2024-04-01**|**An image speaks a thousand words, but can everyone listen? On translating images for cultural relevance**|Simran Khanuja et.al.|[2404.01247](http://arxiv.org/abs/2404.01247)|**[link](https://github.com/simran-khanuja/image-transcreation)**|
