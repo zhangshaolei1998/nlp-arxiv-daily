@@ -2246,6 +2246,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-08**|**MA-LMM: Memory-Augmented Large Multimodal Model for Long-Term Video Understanding**|Bo He et.al.|[2404.05726](http://arxiv.org/abs/2404.05726)|null|
+|**2024-04-08**|**Ferret-UI: Grounded Mobile UI Understanding with Multimodal LLMs**|Keen You et.al.|[2404.05719](http://arxiv.org/abs/2404.05719)|null|
+|**2024-04-08**|**Comprehensive Study on German Language Models for Clinical and Biomedical Text Understanding**|Ahmad Idrissi-Yaghir et.al.|[2404.05694](http://arxiv.org/abs/2404.05694)|null|
+|**2024-04-08**|**Evaluating Mathematical Reasoning Beyond Accuracy**|Shijie Xia et.al.|[2404.05692](http://arxiv.org/abs/2404.05692)|**[link](https://github.com/gair-nlp/reasoneval)**|
+|**2024-04-08**|**Retrieval-Augmented Open-Vocabulary Object Detection**|Jooyeon Kim et.al.|[2404.05687](http://arxiv.org/abs/2404.05687)|**[link](https://github.com/mlvlab/RALF)**|
+|**2024-04-08**|**MoMA: Multimodal LLM Adapter for Fast Personalized Image Generation**|Kunpeng Song et.al.|[2404.05674](http://arxiv.org/abs/2404.05674)|null|
+|**2024-04-08**|**CoReS: Orchestrating the Dance of Reasoning and Segmentation**|Xiaoyi Bao et.al.|[2404.05673](http://arxiv.org/abs/2404.05673)|null|
+|**2024-04-08**|**Fighting crime with Transformers: Empirical analysis of address parsing methods in payment data**|Haitham Hammami et.al.|[2404.05632](http://arxiv.org/abs/2404.05632)|**[link](https://github.com/hm-haitham/Fighting-crime-with-Transformers-Empirical-analysis-of-address-parsing-methods-in-payment-data)**|
+|**2024-04-08**|**LTNER: Large Language Model Tagging for Named Entity Recognition with Contextualized Entity Marking**|Faren Yan et.al.|[2404.05624](http://arxiv.org/abs/2404.05624)|null|
+|**2024-04-08**|**MULTIFLOW: Shifting Towards Task-Agnostic Vision-Language Pruning**|Matteo Farina et.al.|[2404.05621](http://arxiv.org/abs/2404.05621)|null|
 |**2024-04-05**|**Who Evaluates the Evaluations? Objectively Scoring Text-to-Image Prompt Coherence Metrics with T2IScoreScore (TS2)**|Michael Saxon et.al.|[2404.04251](http://arxiv.org/abs/2404.04251)|null|
 |**2024-04-05**|**Physical Property Understanding from Language-Embedded Feature Fields**|Albert J. Zhai et.al.|[2404.04242](http://arxiv.org/abs/2404.04242)|null|
 |**2024-04-05**|**Cleared for Takeoff? Compositional & Conditional Reasoning may be the Achilles Heel to (Flight-Booking) Language Agents**|Harsh Kohli et.al.|[2404.04237](http://arxiv.org/abs/2404.04237)|null|
@@ -3118,6 +3128,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-08**|**PORTULAN ExtraGLUE Datasets and Models: Kick-starting a Benchmark for the Neural Processing of Portuguese**|Tomás Osório et.al.|[2404.05333](http://arxiv.org/abs/2404.05333)|null|
+|**2024-04-08**|**Semantic Stealth: Adversarial Text Attacks on NLP Using Several Methods**|Roopkatha Dey et.al.|[2404.05159](http://arxiv.org/abs/2404.05159)|null|
+|**2024-04-07**|**F-MALLOC: Feed-forward Memory Allocation for Continual Learning in Neural Machine Translation**|Junhong Wu et.al.|[2404.04846](http://arxiv.org/abs/2404.04846)|null|
+|**2024-04-07**|**SLPL SHROOM at SemEval\-2024 Task 06: A comprehensive study on models ability to detect hallucination**|Pouya Fallah et.al.|[2404.04845](http://arxiv.org/abs/2404.04845)|**[link](https://github.com/sharif-slpl/se-2024-task-06-shroom)**|
+|**2024-04-07**|**Low-Resource Machine Translation through Retrieval-Augmented LLM Prompting: A Study on the Mambai Language**|Raphaël Merx et.al.|[2404.04809](http://arxiv.org/abs/2404.04809)|null|
+|**2024-04-06**|**KazQAD: Kazakh Open-Domain Question Answering Dataset**|Rustem Yeshpanov et.al.|[2404.04487](http://arxiv.org/abs/2404.04487)|null|
 |**2024-04-05**|**Unlocking Parameter-Efficient Fine-Tuning for Low-Resource Language Translation**|Tong Su et.al.|[2404.04212](http://arxiv.org/abs/2404.04212)|null|
 |**2024-04-04**|**Towards Automated Movie Trailer Generation**|Dawit Mureja Argaw et.al.|[2404.03477](http://arxiv.org/abs/2404.03477)|null|
 |**2024-04-03**|**An Incomplete Loop: Deductive, Inductive, and Abductive Learning in Large Language Models**|Emmy Liu et.al.|[2404.03028](http://arxiv.org/abs/2404.03028)|null|
@@ -3403,6 +3419,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-08**|**MedExpQA: Multilingual Benchmarking of Large Language Models for Medical Question Answering**|Iñigo Alonso et.al.|[2404.05590](http://arxiv.org/abs/2404.05590)|null|
+|**2024-04-07**|**HaVTR: Improving Video-Text Retrieval Through Augmentation Using Large Foundation Models**|Yimu Wang et.al.|[2404.05083](http://arxiv.org/abs/2404.05083)|null|
+|**2024-04-07**|**FGAIF: Aligning Large Vision-Language Models with Fine-grained AI Feedback**|Liqiang Jing et.al.|[2404.05046](http://arxiv.org/abs/2404.05046)|**[link](https://github.com/du-nlp-lab/fgaif)**|
+|**2024-04-07**|**Hyperbolic Learning with Synthetic Captions for Open-World Detection**|Fanjie Kong et.al.|[2404.05016](http://arxiv.org/abs/2404.05016)|null|
+|**2024-04-07**|**SLPL SHROOM at SemEval\-2024 Task 06: A comprehensive study on models ability to detect hallucination**|Pouya Fallah et.al.|[2404.04845](http://arxiv.org/abs/2404.04845)|**[link](https://github.com/sharif-slpl/se-2024-task-06-shroom)**|
+|**2024-04-06**|**PoLLMgraph: Unraveling Hallucinations in Large Language Models via State Transition Dynamics**|Derui Zhu et.al.|[2404.04722](http://arxiv.org/abs/2404.04722)|null|
+|**2024-04-06**|**On the Limitations of Large Language Models (LLMs): False Attribution**|Tosin Adewumi et.al.|[2404.04631](http://arxiv.org/abs/2404.04631)|null|
+|**2024-04-06**|**Joint Visual and Text Prompting for Improved Object-Centric Perception with Multimodal Large Language Models**|Songtao Jiang et.al.|[2404.04514](http://arxiv.org/abs/2404.04514)|**[link](https://github.com/jiangsongtao/vtprompt)**|
+|**2024-04-05**|**Exploring Autonomous Agents through the Lens of Large Language Models: A Review**|Saikat Barua et.al.|[2404.04442](http://arxiv.org/abs/2404.04442)|null|
 |**2024-04-05**|**Improving Factual Accuracy of Neural Table-to-Text Output by Addressing Input Problems in ToTTo**|Barkavi Sundararajan et.al.|[2404.04103](http://arxiv.org/abs/2404.04103)|**[link](https://github.com/barkavisj/totto_politics_human_annotations)**|
 |**2024-04-05**|**FFN-SkipLLM: A Hidden Gem for Autoregressive Decoding with Adaptive Feed Forward Skipping**|Ajay Jaiswal et.al.|[2404.03865](http://arxiv.org/abs/2404.03865)|null|
 |**2024-04-04**|**Fakes of Varying Shades: How Warning Affects Human Perception and Engagement Regarding LLM Hallucinations**|Mahjabin Nahar et.al.|[2404.03745](http://arxiv.org/abs/2404.03745)|null|
