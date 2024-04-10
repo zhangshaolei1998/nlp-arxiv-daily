@@ -2246,6 +2246,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-09**|**InternLM-XComposer2-4KHD: A Pioneering Large Vision-Language Model Handling Resolutions from 336 Pixels to 4K HD**|Xiaoyi Dong et.al.|[2404.06512](http://arxiv.org/abs/2404.06512)|**[link](https://github.com/internlm/internlm-xcomposer)**|
+|**2024-04-09**|**Can Feedback Enhance Semantic Grounding in Large Vision-Language Models?**|Yuan-Hong Liao et.al.|[2404.06510](http://arxiv.org/abs/2404.06510)|null|
+|**2024-04-09**|**On the Effect of (Near) Duplicate Subwords in Language Modelling**|Anton Schäfer et.al.|[2404.06508](http://arxiv.org/abs/2404.06508)|**[link](https://github.com/antonschafer/duplicate-subwords)**|
+|**2024-04-09**|**Pitfalls of Conversational LLMs on News Debiasing**|Ipek Baris Schlicht et.al.|[2404.06488](http://arxiv.org/abs/2404.06488)|null|
+|**2024-04-09**|**Ada-LEval: Evaluating long-context LLMs with length-adaptable benchmarks**|Chonghua Wang et.al.|[2404.06480](http://arxiv.org/abs/2404.06480)|**[link](https://github.com/open-compass/ada-leval)**|
+|**2024-04-09**|**Text-Based Reasoning About Vector Graphics**|Zhenhailong Wang et.al.|[2404.06479](http://arxiv.org/abs/2404.06479)|null|
+|**2024-04-09**|**Automated Federated Pipeline for Parameter-Efficient Fine-Tuning of Large Language Models**|Zihan Fang et.al.|[2404.06448](http://arxiv.org/abs/2404.06448)|null|
+|**2024-04-09**|**Large Language Models to the Rescue: Deadlock Resolution in Multi-Robot Systems**|Kunal Garg et.al.|[2404.06413](http://arxiv.org/abs/2404.06413)|null|
+|**2024-04-09**|**AgentQuest: A Modular Benchmark Framework to Measure Progress and Improve LLM Agents**|Luca Gioacchini et.al.|[2404.06411](http://arxiv.org/abs/2404.06411)|**[link](https://github.com/nec-research/agentquest)**|
+|**2024-04-09**|**Take a Look at it! Rethinking How to Evaluate Language Model Jailbreak**|Hongyu Cai et.al.|[2404.06407](http://arxiv.org/abs/2404.06407)|null|
 |**2024-04-08**|**MA-LMM: Memory-Augmented Large Multimodal Model for Long-Term Video Understanding**|Bo He et.al.|[2404.05726](http://arxiv.org/abs/2404.05726)|null|
 |**2024-04-08**|**Ferret-UI: Grounded Mobile UI Understanding with Multimodal LLMs**|Keen You et.al.|[2404.05719](http://arxiv.org/abs/2404.05719)|null|
 |**2024-04-08**|**Comprehensive Study on German Language Models for Clinical and Biomedical Text Understanding**|Ahmad Idrissi-Yaghir et.al.|[2404.05694](http://arxiv.org/abs/2404.05694)|null|
@@ -3128,6 +3138,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-09**|**Exploring the Necessity of Visual Modality in Multimodal Machine Translation using Authentic Datasets**|Zi Long et.al.|[2404.06107](http://arxiv.org/abs/2404.06107)|null|
+|**2024-04-09**|**Interplay of Machine Translation, Diacritics, and Diacritization**|Wei-Rui Chen et.al.|[2404.05943](http://arxiv.org/abs/2404.05943)|null|
 |**2024-04-09**|**PORTULAN ExtraGLUE Datasets and Models: Kick-starting a Benchmark for the Neural Processing of Portuguese**|Tomás Osório et.al.|[2404.05333](http://arxiv.org/abs/2404.05333)|null|
 |**2024-04-08**|**Semantic Stealth: Adversarial Text Attacks on NLP Using Several Methods**|Roopkatha Dey et.al.|[2404.05159](http://arxiv.org/abs/2404.05159)|null|
 |**2024-04-07**|**F-MALLOC: Feed-forward Memory Allocation for Continual Learning in Neural Machine Translation**|Junhong Wu et.al.|[2404.04846](http://arxiv.org/abs/2404.04846)|null|
@@ -3419,6 +3431,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-09**|**Characterizing Multimodal Long-form Summarization: A Case Study on Financial Reports**|Tianyu Cao et.al.|[2404.06162](http://arxiv.org/abs/2404.06162)|null|
+|**2024-04-09**|**SmurfCat at SemEval-2024 Task 6: Leveraging Synthetic Data for Hallucination Detection**|Elisei Rykov et.al.|[2404.06137](http://arxiv.org/abs/2404.06137)|null|
+|**2024-04-09**|**PM4Py.LLM: a Comprehensive Module for Implementing PM on LLMs**|Alessandro Berti et.al.|[2404.06035](http://arxiv.org/abs/2404.06035)|null|
+|**2024-04-09**|**Tackling Structural Hallucination in Image Translation with Local Diffusion**|Seunghoi Kim et.al.|[2404.05980](http://arxiv.org/abs/2404.05980)|null|
+|**2024-04-08**|**The Hallucinations Leaderboard -- An Open Effort to Measure Hallucinations in Large Language Models**|Giwon Hong et.al.|[2404.05904](http://arxiv.org/abs/2404.05904)|null|
 |**2024-04-08**|**MedExpQA: Multilingual Benchmarking of Large Language Models for Medical Question Answering**|Iñigo Alonso et.al.|[2404.05590](http://arxiv.org/abs/2404.05590)|null|
 |**2024-04-07**|**HaVTR: Improving Video-Text Retrieval Through Augmentation Using Large Foundation Models**|Yimu Wang et.al.|[2404.05083](http://arxiv.org/abs/2404.05083)|null|
 |**2024-04-07**|**FGAIF: Aligning Large Vision-Language Models with Fine-grained AI Feedback**|Liqiang Jing et.al.|[2404.05046](http://arxiv.org/abs/2404.05046)|**[link](https://github.com/du-nlp-lab/fgaif)**|
