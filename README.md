@@ -2274,6 +2274,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-11**|**OpenBias: Open-set Bias Detection in Text-to-Image Generative Models**|Moreno D'Incà et.al.|[2404.07990](http://arxiv.org/abs/2404.07990)|null|
+|**2024-04-11**|**Two Effects, One Trigger: On the Modality Gap, Object Bias, and Information Imbalance in Contrastive Vision-Language Representation Learning**|Simon Schrodi et.al.|[2404.07983](http://arxiv.org/abs/2404.07983)|null|
+|**2024-04-11**|**Language Imbalance Can Boost Cross-lingual Generalisation**|Anton Schäfer et.al.|[2404.07982](http://arxiv.org/abs/2404.07982)|**[link](https://github.com/antonschafer/xling-imbalance)**|
+|**2024-04-11**|**Manipulating Large Language Models to Increase Product Visibility**|Aounon Kumar et.al.|[2404.07981](http://arxiv.org/abs/2404.07981)|**[link](https://github.com/aounon/llm-rank-optimizer)**|
+|**2024-04-11**|**LLoCO: Learning Long Contexts Offline**|Sijun Tan et.al.|[2404.07979](http://arxiv.org/abs/2404.07979)|null|
+|**2024-04-11**|**Ferret-v2: An Improved Baseline for Referring and Grounding with Large Language Models**|Haotian Zhang et.al.|[2404.07973](http://arxiv.org/abs/2404.07973)|null|
+|**2024-04-11**|**Rho-1: Not All Tokens Are What You Need**|Zhenghao Lin et.al.|[2404.07965](http://arxiv.org/abs/2404.07965)|**[link](https://github.com/microsoft/rho)**|
+|**2024-04-11**|**On Unified Prompt Tuning for Request Quality Assurance in Public Code Review**|Xinyu Chen et.al.|[2404.07942](http://arxiv.org/abs/2404.07942)|null|
+|**2024-04-11**|**Leveraging Large Language Models (LLMs) to Support Collaborative Human-AI Online Risk Data Annotation**|Jinkyung Park et.al.|[2404.07926](http://arxiv.org/abs/2404.07926)|null|
+|**2024-04-11**|**LaVy: Vietnamese Multimodal Large Language Model**|Chi Tran et.al.|[2404.07922](http://arxiv.org/abs/2404.07922)|null|
 |**2024-04-10**|**BRAVE: Broadening the visual encoding of vision-language models**|Oğuzhan Fatih Kar et.al.|[2404.07204](http://arxiv.org/abs/2404.07204)|null|
 |**2024-04-10**|**UMBRAE: Unified Multimodal Decoding of Brain Signals**|Weihao Xia et.al.|[2404.07202](http://arxiv.org/abs/2404.07202)|null|
 |**2024-04-10**|**Scaling Laws for Data Filtering -- Data Curation cannot be Compute Agnostic**|Sachin Goyal et.al.|[2404.07177](http://arxiv.org/abs/2404.07177)|**[link](https://github.com/locuslab/scaling_laws_data_filtering)**|
@@ -3178,9 +3188,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-11**|**Guiding Large Language Models to Post-Edit Machine Translation with Error Annotations**|Dayeon Ki et.al.|[2404.07851](http://arxiv.org/abs/2404.07851)|**[link](https://github.com/dayeonki/mt_feedback)**|
+|**2024-04-11**|**Curated Datasets and Neural Models for Machine Translation of Informal Registers between Mayan and Spanish Vernaculars**|Andrés Lou et.al.|[2404.07673](http://arxiv.org/abs/2404.07673)|**[link](https://github.com/transducens/mayanv)**|
 |**2024-04-10**|**XNLIeu: a dataset for cross-lingual NLI in Basque**|Maite Heredia et.al.|[2404.06996](http://arxiv.org/abs/2404.06996)|**[link](https://github.com/hitz-zentroa/xnli-eu)**|
 |**2024-04-10**|**Charles Translator: A Machine Translation System between Ukrainian and Czech**|Martin Popel et.al.|[2404.06964](http://arxiv.org/abs/2404.06964)|null|
-|**2024-04-10**|**Accelerating Inference in Large Language Models with a Unified Layer Skipping Strategy**|Yijin Liu et.al.|[2404.06954](http://arxiv.org/abs/2404.06954)|null|
+|**2024-04-10**|**Accelerating Inference in Large Language Models with a Unified Layer Skipping Strategy**|Yijin Liu et.al.|[2404.06954](http://arxiv.org/abs/2404.06954)|**[link](https://github.com/adaxry/unified_layer_skipping)**|
 |**2024-04-10**|**Control-DAG: Constrained Decoding for Non-Autoregressive Directed Acyclic T5 using Weighted Finite State Automata**|Jinghong Chen et.al.|[2404.06854](http://arxiv.org/abs/2404.06854)|**[link](https://github.com/erichen0615/controldag)**|
 |**2024-04-09**|**Exploring the Necessity of Visual Modality in Multimodal Machine Translation using Authentic Datasets**|Zi Long et.al.|[2404.06107](http://arxiv.org/abs/2404.06107)|null|
 |**2024-04-09**|**Interplay of Machine Translation, Diacritics, and Diacritization**|Wei-Rui Chen et.al.|[2404.05943](http://arxiv.org/abs/2404.05943)|null|
@@ -3479,6 +3491,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-11**|**View Selection for 3D Captioning via Diffusion Ranking**|Tiange Luo et.al.|[2404.07984](http://arxiv.org/abs/2404.07984)|null|
+|**2024-04-11**|**"Confidently Nonsensical?'': A Critical Survey on the Perspectives and Challenges of 'Hallucinations' in NLP**|Pranav Narayanan Venkit et.al.|[2404.07461](http://arxiv.org/abs/2404.07461)|null|
+|**2024-04-11**|**Learning to Localize Objects Improves Spatial Reasoning in Visual-LLMs**|Kanchana Ranasinghe et.al.|[2404.07449](http://arxiv.org/abs/2404.07449)|null|
+|**2024-04-10**|**"We Need Structured Output": Towards User-centered Constraints on Large Language Model Output**|Michael Xieyang Liu et.al.|[2404.07362](http://arxiv.org/abs/2404.07362)|null|
 |**2024-04-10**|**BRAVE: Broadening the visual encoding of vision-language models**|Oğuzhan Fatih Kar et.al.|[2404.07204](http://arxiv.org/abs/2404.07204)|null|
 |**2024-04-10**|**Graph Chain-of-Thought: Augmenting Large Language Models by Reasoning on Graphs**|Bowen Jin et.al.|[2404.07103](http://arxiv.org/abs/2404.07103)|null|
 |**2024-04-10**|**Groundedness in Retrieval-augmented Long-form Generation: An Empirical Study**|Alessandro Stolfo et.al.|[2404.07060](http://arxiv.org/abs/2404.07060)|null|
