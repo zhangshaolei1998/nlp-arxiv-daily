@@ -2278,7 +2278,7 @@
 |**2024-04-11**|**Two Effects, One Trigger: On the Modality Gap, Object Bias, and Information Imbalance in Contrastive Vision-Language Representation Learning**|Simon Schrodi et.al.|[2404.07983](http://arxiv.org/abs/2404.07983)|null|
 |**2024-04-11**|**Language Imbalance Can Boost Cross-lingual Generalisation**|Anton Schäfer et.al.|[2404.07982](http://arxiv.org/abs/2404.07982)|**[link](https://github.com/antonschafer/xling-imbalance)**|
 |**2024-04-11**|**Manipulating Large Language Models to Increase Product Visibility**|Aounon Kumar et.al.|[2404.07981](http://arxiv.org/abs/2404.07981)|**[link](https://github.com/aounon/llm-rank-optimizer)**|
-|**2024-04-11**|**LLoCO: Learning Long Contexts Offline**|Sijun Tan et.al.|[2404.07979](http://arxiv.org/abs/2404.07979)|null|
+|**2024-04-11**|**LLoCO: Learning Long Contexts Offline**|Sijun Tan et.al.|[2404.07979](http://arxiv.org/abs/2404.07979)|**[link](https://github.com/jeffreysijuntan/lloco)**|
 |**2024-04-11**|**Ferret-v2: An Improved Baseline for Referring and Grounding with Large Language Models**|Haotian Zhang et.al.|[2404.07973](http://arxiv.org/abs/2404.07973)|null|
 |**2024-04-11**|**Rho-1: Not All Tokens Are What You Need**|Zhenghao Lin et.al.|[2404.07965](http://arxiv.org/abs/2404.07965)|**[link](https://github.com/microsoft/rho)**|
 |**2024-04-11**|**On Unified Prompt Tuning for Request Quality Assurance in Public Code Review**|Xinyu Chen et.al.|[2404.07942](http://arxiv.org/abs/2404.07942)|null|
@@ -3496,7 +3496,7 @@
 |**2024-04-11**|**Learning to Localize Objects Improves Spatial Reasoning in Visual-LLMs**|Kanchana Ranasinghe et.al.|[2404.07449](http://arxiv.org/abs/2404.07449)|null|
 |**2024-04-10**|**"We Need Structured Output": Towards User-centered Constraints on Large Language Model Output**|Michael Xieyang Liu et.al.|[2404.07362](http://arxiv.org/abs/2404.07362)|null|
 |**2024-04-10**|**BRAVE: Broadening the visual encoding of vision-language models**|Oğuzhan Fatih Kar et.al.|[2404.07204](http://arxiv.org/abs/2404.07204)|null|
-|**2024-04-10**|**Graph Chain-of-Thought: Augmenting Large Language Models by Reasoning on Graphs**|Bowen Jin et.al.|[2404.07103](http://arxiv.org/abs/2404.07103)|null|
+|**2024-04-10**|**Graph Chain-of-Thought: Augmenting Large Language Models by Reasoning on Graphs**|Bowen Jin et.al.|[2404.07103](http://arxiv.org/abs/2404.07103)|**[link](https://github.com/petergriffinjin/graph-cot)**|
 |**2024-04-10**|**Groundedness in Retrieval-augmented Long-form Generation: An Empirical Study**|Alessandro Stolfo et.al.|[2404.07060](http://arxiv.org/abs/2404.07060)|null|
 |**2024-04-11**|**MetaCheckGPT -- A Multi-task Hallucination Detector Using LLM Uncertainty and Meta-models**|Rahul Mehta et.al.|[2404.06948](http://arxiv.org/abs/2404.06948)|null|
 |**2024-04-10**|**Not All Contexts Are Equal: Teaching LLMs Credibility-aware Generation**|Ruotong Pan et.al.|[2404.06809](http://arxiv.org/abs/2404.06809)|**[link](https://github.com/panruotong/cag)**|
