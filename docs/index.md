@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.15
+## Updated on 2024.04.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3170,7 +3170,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-04-12**|**Investigating Neural Machine Translation for Low-Resource Languages: Using Bavarian as a Case Study**|Wan-Hua Her et.al.|[2404.08259](http://arxiv.org/abs/2404.08259)|null|
+|**2024-04-12**|**Investigating Neural Machine Translation for Low-Resource Languages: Using Bavarian as a Case Study**|Wan-Hua Her et.al.|[2404.08259](http://arxiv.org/abs/2404.08259)|**[link](https://github.com/whher/nmt-de-bar)**|
 |**2024-04-11**|**Extending Translate-Train for ColBERT-X to African Language CLIR**|Eugene Yang et.al.|[2404.08134](http://arxiv.org/abs/2404.08134)|null|
 |**2024-04-10**|**An inclusive review on deep learning techniques and their scope in handwriting recognition**|Sukhdeep Singh et.al.|[2404.08011](http://arxiv.org/abs/2404.08011)|null|
 |**2024-04-11**|**Guiding Large Language Models to Post-Edit Machine Translation with Error Annotations**|Dayeon Ki et.al.|[2404.07851](http://arxiv.org/abs/2404.07851)|**[link](https://github.com/dayeonki/mt_feedback)**|
