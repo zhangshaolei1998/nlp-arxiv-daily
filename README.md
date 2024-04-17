@@ -2214,6 +2214,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-15**|**Deferred NAM: Low-latency Top-K Context Injection via DeferredContext Encoding for Non-Streaming ASR**|Zelin Wu et.al.|[2404.10180](http://arxiv.org/abs/2404.10180)|null|
 |**2024-04-10**|**Lossless Acceleration of Large Language Model via Adaptive N-gram Parallel Decoding**|Jie Ou et.al.|[2404.08698](http://arxiv.org/abs/2404.08698)|null|
 |**2024-04-11**|**The algebra of the monoid of order-preserving functions on an $n$-set and other reduced $E$ -Fountain semigroups**|Itamar Stein et.al.|[2404.08075](http://arxiv.org/abs/2404.08075)|null|
 |**2024-04-10**|**Electron acceleration and X-ray generation from near-critical-density carbon nanotube foams driven by moderately relativistic lasers**|Zhuo Pan et.al.|[2404.06862](http://arxiv.org/abs/2404.06862)|null|
@@ -2276,6 +2277,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-16**|**Nearly Optimal Algorithms for Contextual Dueling Bandits from Adversarial Feedback**|Qiwei Di et.al.|[2404.10776](http://arxiv.org/abs/2404.10776)|null|
+|**2024-04-16**|**COMBO: Compositional World Models for Embodied Multi-Agent Cooperation**|Hongxin Zhang et.al.|[2404.10775](http://arxiv.org/abs/2404.10775)|null|
+|**2024-04-16**|**Deep Learning and LLM-based Methods Applied to Stellar Lightcurve Classification**|Yu-Yang Li et.al.|[2404.10757](http://arxiv.org/abs/2404.10757)|null|
+|**2024-04-16**|**Is DPO Superior to PPO for LLM Alignment? A Comprehensive Study**|Shusheng Xu et.al.|[2404.10719](http://arxiv.org/abs/2404.10719)|null|
+|**2024-04-16**|**Dual Modalities of Text: Visual and Textual Generative Pre-training**|Yekun Chai et.al.|[2404.10710](http://arxiv.org/abs/2404.10710)|null|
+|**2024-04-16**|**Question Difficulty Ranking for Multiple-Choice Reading Comprehension**|Vatsal Raina et.al.|[2404.10704](http://arxiv.org/abs/2404.10704)|null|
+|**2024-04-16**|**An empirical study on code review activity prediction in practice**|Doriane Olewicki et.al.|[2404.10703](http://arxiv.org/abs/2404.10703)|null|
+|**2024-04-16**|**Automating REST API Postman Test Cases Using LLM**|S Deepika Sri et.al.|[2404.10678](http://arxiv.org/abs/2404.10678)|null|
+|**2024-04-16**|**Self-playing Adversarial Language Game Enhances LLM Reasoning**|Pengyu Cheng et.al.|[2404.10642](http://arxiv.org/abs/2404.10642)|**[link](https://github.com/linear95/spag)**|
+|**2024-04-16**|**HLAT: High-quality Large Language Model Pre-trained on AWS Trainium**|Haozheng Fan et.al.|[2404.10630](http://arxiv.org/abs/2404.10630)|null|
 |**2024-04-15**|**KG-CTG: Citation Generation through Knowledge Graph-guided Large Language Models**|Avinash Anand et.al.|[2404.09763](http://arxiv.org/abs/2404.09763)|null|
 |**2024-04-15**|**Resilience of Large Language Models for Noisy Instructions**|Bin Wang et.al.|[2404.09754](http://arxiv.org/abs/2404.09754)|null|
 |**2024-04-15**|**Personalized Collaborative Fine-Tuning for On-Device Large Language Models**|Nicolas Wagner et.al.|[2404.09753](http://arxiv.org/abs/2404.09753)|null|
@@ -3522,6 +3533,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-16**|**CoTAR: Chain-of-Thought Attribution Reasoning with Multi-level Granularity**|Moshe Berchansky et.al.|[2404.10513](http://arxiv.org/abs/2404.10513)|null|
+|**2024-04-16**|**Reasoning on Efficient Knowledge Paths:Knowledge Graph Guides Large Language Model for Domain Question Answering**|Yuqi Wang et.al.|[2404.10384](http://arxiv.org/abs/2404.10384)|null|
+|**2024-04-16**|**Prescribing the Right Remedy: Mitigating Hallucinations in Large Vision-Language Models via Targeted Instruction Tuning**|Rui Hu et.al.|[2404.10332](http://arxiv.org/abs/2404.10332)|null|
+|**2024-04-16**|**How faithful are RAG models? Quantifying the tug-of-war between RAG and LLMs' internal prior**|Kevin Wu et.al.|[2404.10198](http://arxiv.org/abs/2404.10198)|null|
+|**2024-04-15**|**Constructing Benchmarks and Interventions for Combating Hallucinations in LLMs**|Adi Simhi et.al.|[2404.09971](http://arxiv.org/abs/2404.09971)|null|
+|**2024-04-16**|**Anatomy of Industrial Scale Multilingual ASR**|Francis McCann Ramirez et.al.|[2404.09841](http://arxiv.org/abs/2404.09841)|null|
+|**2024-04-15**|**Benchmarking Llama2, Mistral, Gemma and GPT for Factuality, Toxicity, Bias and Propensity for Hallucinations**|David Nadeau et.al.|[2404.09785](http://arxiv.org/abs/2404.09785)|**[link](https://github.com/innodatalabs/innodata-llm-safety)**|
 |**2024-04-15**|**Harnessing GPT-4V(ision) for Insurance: A Preliminary Exploration**|Chenwei Lin et.al.|[2404.09690](http://arxiv.org/abs/2404.09690)|null|
 |**2024-04-15**|**SparseOcc: Rethinking Sparse Latent Representation for Vision-Based Semantic Occupancy Prediction**|Pin Tang et.al.|[2404.09502](http://arxiv.org/abs/2404.09502)|null|
 |**2024-04-15**|**Mitigating Hallucination in Abstractive Summarization with Domain-Conditional Mutual Information**|Kyubyung Chae et.al.|[2404.09480](http://arxiv.org/abs/2404.09480)|**[link](https://github.com/qqplot/dcpmi)**|
