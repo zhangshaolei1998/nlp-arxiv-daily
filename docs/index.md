@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.17
+## Updated on 2024.04.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2254,7 +2254,7 @@ layout: default
 |**2024-04-16**|**COMBO: Compositional World Models for Embodied Multi-Agent Cooperation**|Hongxin Zhang et.al.|[2404.10775](http://arxiv.org/abs/2404.10775)|null|
 |**2024-04-16**|**Deep Learning and LLM-based Methods Applied to Stellar Lightcurve Classification**|Yu-Yang Li et.al.|[2404.10757](http://arxiv.org/abs/2404.10757)|null|
 |**2024-04-16**|**Is DPO Superior to PPO for LLM Alignment? A Comprehensive Study**|Shusheng Xu et.al.|[2404.10719](http://arxiv.org/abs/2404.10719)|null|
-|**2024-04-16**|**Dual Modalities of Text: Visual and Textual Generative Pre-training**|Yekun Chai et.al.|[2404.10710](http://arxiv.org/abs/2404.10710)|null|
+|**2024-04-17**|**Dual Modalities of Text: Visual and Textual Generative Pre-training**|Yekun Chai et.al.|[2404.10710](http://arxiv.org/abs/2404.10710)|null|
 |**2024-04-16**|**Question Difficulty Ranking for Multiple-Choice Reading Comprehension**|Vatsal Raina et.al.|[2404.10704](http://arxiv.org/abs/2404.10704)|null|
 |**2024-04-16**|**An empirical study on code review activity prediction in practice**|Doriane Olewicki et.al.|[2404.10703](http://arxiv.org/abs/2404.10703)|null|
 |**2024-04-16**|**Automating REST API Postman Test Cases Using LLM**|S Deepika Sri et.al.|[2404.10678](http://arxiv.org/abs/2404.10678)|null|
@@ -3194,7 +3194,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-04-15**|**Bridging the Gap between Different Vocabularies for LLM Ensemble**|Yangyifan Xu et.al.|[2404.09492](http://arxiv.org/abs/2404.09492)|null|
+|**2024-04-15**|**Bridging the Gap between Different Vocabularies for LLM Ensemble**|Yangyifan Xu et.al.|[2404.09492](http://arxiv.org/abs/2404.09492)|**[link](https://github.com/xydaytoy/eva)**|
 |**2024-04-14**|**GeMQuAD : Generating Multilingual Question Answering Datasets from Large Language Models using Few Shot Learning**|Amani Namboori et.al.|[2404.09163](http://arxiv.org/abs/2404.09163)|null|
 |**2024-04-13**|**Multilingual Evaluation of Semantic Textual Relatedness**|Sharvi Endait et.al.|[2404.09047](http://arxiv.org/abs/2404.09047)|null|
 |**2024-04-11**|**Introducing L2M3, A Multilingual Medical Large Language Model to Advance Health Equity in Low-Resource Regions**|Agasthya Gangavarapu et.al.|[2404.08705](http://arxiv.org/abs/2404.08705)|null|
