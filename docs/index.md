@@ -2189,6 +2189,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-17**|**Revealing the spatial nature of sublattice symmetry**|Rong Xiao et.al.|[2404.11398](http://arxiv.org/abs/2404.11398)|null|
 |**2024-04-15**|**Deferred NAM: Low-latency Top-K Context Injection via DeferredContext Encoding for Non-Streaming ASR**|Zelin Wu et.al.|[2404.10180](http://arxiv.org/abs/2404.10180)|null|
 |**2024-04-10**|**Lossless Acceleration of Large Language Model via Adaptive N-gram Parallel Decoding**|Jie Ou et.al.|[2404.08698](http://arxiv.org/abs/2404.08698)|null|
 |**2024-04-11**|**The algebra of the monoid of order-preserving functions on an $n$-set and other reduced $E$ -Fountain semigroups**|Itamar Stein et.al.|[2404.08075](http://arxiv.org/abs/2404.08075)|null|
@@ -2250,6 +2251,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-17**|**Private federated discovery of out-of-vocabulary words for Gboard**|Ziteng Sun et.al.|[2404.11607](http://arxiv.org/abs/2404.11607)|null|
+|**2024-04-17**|**VG4D: Vision-Language Model Goes 4D Video Recognition**|Zhichao Deng et.al.|[2404.11605](http://arxiv.org/abs/2404.11605)|**[link](https://github.com/shark0-0/vg4d)**|
+|**2024-04-17**|**A Deep Dive into Large Language Models for Automated Bug Localization and Repair**|Soneya Binta Hossain et.al.|[2404.11595](http://arxiv.org/abs/2404.11595)|null|
+|**2024-04-17**|**Prompt Optimizer of Text-to-Image Diffusion Models for Abstract Concept Understanding**|Zezhong Fan et.al.|[2404.11589](http://arxiv.org/abs/2404.11589)|null|
+|**2024-04-17**|**LLMTune: Accelerate Database Knob Tuning with Large Language Models**|Xinmei Huang et.al.|[2404.11581](http://arxiv.org/abs/2404.11581)|null|
+|**2024-04-17**|**On the Scalability of GNNs for Molecular Graphs**|Maciej Sypetkowski et.al.|[2404.11568](http://arxiv.org/abs/2404.11568)|null|
+|**2024-04-17**|**MoA: Mixture-of-Attention for Subject-Context Disentanglement in Personalized Image Generation**|Kuan-Chieh et.al.|[2404.11565](http://arxiv.org/abs/2404.11565)|null|
+|**2024-04-17**|**Quantifying Multilingual Performance of Large Language Models Across Languages**|Zihao Li et.al.|[2404.11553](http://arxiv.org/abs/2404.11553)|null|
+|**2024-04-17**|**Evaluating Span Extraction in Generative Paradigm: A Reflection on Aspect-Based Sentiment Analysis**|Soyoung Yang et.al.|[2404.11539](http://arxiv.org/abs/2404.11539)|null|
+|**2024-04-17**|**Select and Reorder: A Novel Approach for Neural Sign Language Production**|Harry Walsh et.al.|[2404.11532](http://arxiv.org/abs/2404.11532)|null|
 |**2024-04-16**|**Nearly Optimal Algorithms for Contextual Dueling Bandits from Adversarial Feedback**|Qiwei Di et.al.|[2404.10776](http://arxiv.org/abs/2404.10776)|null|
 |**2024-04-16**|**COMBO: Compositional World Models for Embodied Multi-Agent Cooperation**|Hongxin Zhang et.al.|[2404.10775](http://arxiv.org/abs/2404.10775)|null|
 |**2024-04-16**|**Deep Learning and LLM-based Methods Applied to Stellar Lightcurve Classification**|Yu-Yang Li et.al.|[2404.10757](http://arxiv.org/abs/2404.10757)|null|
@@ -3194,6 +3205,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-17**|**Neuron Specialization: Leveraging intrinsic task modularity for multilingual machine translation**|Shaomu Tan et.al.|[2404.11201](http://arxiv.org/abs/2404.11201)|null|
 |**2024-04-15**|**Bridging the Gap between Different Vocabularies for LLM Ensemble**|Yangyifan Xu et.al.|[2404.09492](http://arxiv.org/abs/2404.09492)|**[link](https://github.com/xydaytoy/eva)**|
 |**2024-04-14**|**GeMQuAD : Generating Multilingual Question Answering Datasets from Large Language Models using Few Shot Learning**|Amani Namboori et.al.|[2404.09163](http://arxiv.org/abs/2404.09163)|null|
 |**2024-04-13**|**Multilingual Evaluation of Semantic Textual Relatedness**|Sharvi Endait et.al.|[2404.09047](http://arxiv.org/abs/2404.09047)|null|
@@ -3465,6 +3477,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-16**|**Teaching a Multilingual Large Language Model to Understand Multilingual Speech via Multi-Instructional Training**|Pavel Denisov et.al.|[2404.10922](http://arxiv.org/abs/2404.10922)|**[link](https://github.com/akreal/bloomzmms)**|
 |**2024-03-19**|**MSLM-S2ST: A Multitask Speech Language Model for Textless Speech-to-Speech Translation with Speaker Style Preservation**|Yifan Peng et.al.|[2403.12408](http://arxiv.org/abs/2403.12408)|null|
 |**2024-03-14**|**Transformers Get Stable: An End-to-End Signal Propagation Theory for Language Models**|Akhil Kedia et.al.|[2403.09635](http://arxiv.org/abs/2403.09635)|**[link](https://github.com/akhilkedia/tranformersgetstable)**|
 |**2024-03-08**|**FFSTC: Fongbe to French Speech Translation Corpus**|D. Fortune Kponou et.al.|[2403.05488](http://arxiv.org/abs/2403.05488)|null|
@@ -3500,6 +3513,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-17**|**AI-Enhanced Cognitive Behavioral Therapy: Deep Learning and Large Language Models for Extracting Cognitive Pathways from Social Media Texts**|Meng Jiang et.al.|[2404.11449](http://arxiv.org/abs/2404.11449)|null|
+|**2024-04-17**|**Exploring the Transferability of Visual Prompting for Multimodal Large Language Models**|Yichi Zhang et.al.|[2404.11207](http://arxiv.org/abs/2404.11207)|**[link](https://github.com/zycheiheihei/transferable-visual-prompting)**|
+|**2024-04-17**|**Fact :Teaching MLLMs with Faithful, Concise and Transferable Rationales**|Minghe Gao et.al.|[2404.11129](http://arxiv.org/abs/2404.11129)|null|
+|**2024-04-16**|**Uncertainty-Based Abstention in LLMs Improves Safety and Reduces Hallucinations**|Christian Tomani et.al.|[2404.10960](http://arxiv.org/abs/2404.10960)|null|
+|**2024-04-16**|**A computational account of the development and evolution of psychotic symptoms**|Albert Powers et.al.|[2404.10954](http://arxiv.org/abs/2404.10954)|null|
+|**2024-04-16**|**Exploring Augmentation and Cognitive Strategies for AI based Synthetic Personae**|Rafael Arias Gonzalez et.al.|[2404.10890](http://arxiv.org/abs/2404.10890)|null|
+|**2024-04-16**|**Fewer Truncations Improve Language Modeling**|Hantian Ding et.al.|[2404.10830](http://arxiv.org/abs/2404.10830)|null|
 |**2024-04-16**|**CoTAR: Chain-of-Thought Attribution Reasoning with Multi-level Granularity**|Moshe Berchansky et.al.|[2404.10513](http://arxiv.org/abs/2404.10513)|null|
 |**2024-04-16**|**Reasoning on Efficient Knowledge Paths:Knowledge Graph Guides Large Language Model for Domain Question Answering**|Yuqi Wang et.al.|[2404.10384](http://arxiv.org/abs/2404.10384)|null|
 |**2024-04-16**|**Prescribing the Right Remedy: Mitigating Hallucinations in Large Vision-Language Models via Targeted Instruction Tuning**|Rui Hu et.al.|[2404.10332](http://arxiv.org/abs/2404.10332)|null|
