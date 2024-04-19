@@ -2214,6 +2214,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-18**|**Simultaneous Interpretation Corpus Construction by Large Language Models in Distant Language Pair**|Yusuke Sakai et.al.|[2404.12299](http://arxiv.org/abs/2404.12299)|null|
+|**2024-04-18**|**Parallel Decoding via Hidden Transfer for Lossless Large Language Model Acceleration**|Pengfei Wu et.al.|[2404.12022](http://arxiv.org/abs/2404.12022)|null|
 |**2024-04-18**|**Revealing the spatial nature of sublattice symmetry**|Rong Xiao et.al.|[2404.11398](http://arxiv.org/abs/2404.11398)|null|
 |**2024-04-15**|**Deferred NAM: Low-latency Top-K Context Injection via DeferredContext Encoding for Non-Streaming ASR**|Zelin Wu et.al.|[2404.10180](http://arxiv.org/abs/2404.10180)|null|
 |**2024-04-10**|**Lossless Acceleration of Large Language Model via Adaptive N-gram Parallel Decoding**|Jie Ou et.al.|[2404.08698](http://arxiv.org/abs/2404.08698)|**[link](https://github.com/oujieww/anpd)**|
@@ -2278,6 +2280,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-18**|**BLINK: Multimodal Large Language Models Can See but Not Perceive**|Xingyu Fu et.al.|[2404.12390](http://arxiv.org/abs/2404.12390)|null|
+|**2024-04-18**|**Reka Core, Flash, and Edge: A Series of Powerful Multimodal Language Models**|Aitor Ormazabal et.al.|[2404.12387](http://arxiv.org/abs/2404.12387)|null|
+|**2024-04-18**|**MedThink: Explaining Medical Visual Question Answering via Multimodal Decision-Making Rationale**|Xiaotang Gai et.al.|[2404.12372](http://arxiv.org/abs/2404.12372)|null|
+|**2024-04-18**|**When LLMs are Unfit Use FastFit: Fast and Effective Text Classification with Many Classes**|Asaf Yehudai et.al.|[2404.12365](http://arxiv.org/abs/2404.12365)|null|
+|**2024-04-18**|**From $r$ to $Q^*$ : Your Language Model is Secretly a Q-Function**|Rafael Rafailov et.al.|[2404.12358](http://arxiv.org/abs/2404.12358)|null|
+|**2024-04-18**|**Towards a Foundation Model for Partial Differential Equation: Multi-Operator Learning and Extrapolation**|Jingmin Sun et.al.|[2404.12355](http://arxiv.org/abs/2404.12355)|null|
+|**2024-04-18**|**V2Xum-LLM: Cross-Modal Video Summarization with Temporal Prompt Instruction Tuning**|Hang Hua et.al.|[2404.12353](http://arxiv.org/abs/2404.12353)|null|
+|**2024-04-18**|**Large Language Models in Targeted Sentiment Analysis**|Nicolay Rusnachenko et.al.|[2404.12342](http://arxiv.org/abs/2404.12342)|**[link](https://github.com/nicolay-r/reasoning-for-sentiment-analysis-framework)**|
+|**2024-04-18**|**Normative Requirements Operationalization with Large Language Models**|Nick Feng et.al.|[2404.12335](http://arxiv.org/abs/2404.12335)|null|
+|**2024-04-18**|**Reuse Your Rewards: Reward Model Transfer for Zero-Shot Cross-Lingual Alignment**|Zhaofeng Wu et.al.|[2404.12318](http://arxiv.org/abs/2404.12318)|null|
 |**2024-04-18**|**Private federated discovery of out-of-vocabulary words for Gboard**|Ziteng Sun et.al.|[2404.11607](http://arxiv.org/abs/2404.11607)|null|
 |**2024-04-17**|**VG4D: Vision-Language Model Goes 4D Video Recognition**|Zhichao Deng et.al.|[2404.11605](http://arxiv.org/abs/2404.11605)|**[link](https://github.com/shark0-0/vg4d)**|
 |**2024-04-17**|**A Deep Dive into Large Language Models for Automated Bug Localization and Repair**|Soneya Binta Hossain et.al.|[2404.11595](http://arxiv.org/abs/2404.11595)|null|
@@ -3234,6 +3246,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-18**|**Simultaneous Interpretation Corpus Construction by Large Language Models in Distant Language Pair**|Yusuke Sakai et.al.|[2404.12299](http://arxiv.org/abs/2404.12299)|null|
+|**2024-04-18**|**Enhancing Length Extrapolation in Sequential Models with Pointer-Augmented Neural Memory**|Hung Le et.al.|[2404.11870](http://arxiv.org/abs/2404.11870)|null|
 |**2024-04-17**|**Neuron Specialization: Leveraging intrinsic task modularity for multilingual machine translation**|Shaomu Tan et.al.|[2404.11201](http://arxiv.org/abs/2404.11201)|null|
 |**2024-04-15**|**Bridging the Gap between Different Vocabularies for LLM Ensemble**|Yangyifan Xu et.al.|[2404.09492](http://arxiv.org/abs/2404.09492)|**[link](https://github.com/xydaytoy/eva)**|
 |**2024-04-14**|**GeMQuAD : Generating Multilingual Question Answering Datasets from Large Language Models using Few Shot Learning**|Amani Namboori et.al.|[2404.09163](http://arxiv.org/abs/2404.09163)|null|
@@ -3508,6 +3522,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-18**|**Simultaneous Interpretation Corpus Construction by Large Language Models in Distant Language Pair**|Yusuke Sakai et.al.|[2404.12299](http://arxiv.org/abs/2404.12299)|null|
+|**2024-03-25**|**Advancing Speech Translation: A Corpus of Mandarin-English Conversational Telephone Speech**|Shannon Wotherspoon et.al.|[2404.11619](http://arxiv.org/abs/2404.11619)|null|
 |**2024-04-16**|**Teaching a Multilingual Large Language Model to Understand Multilingual Speech via Multi-Instructional Training**|Pavel Denisov et.al.|[2404.10922](http://arxiv.org/abs/2404.10922)|**[link](https://github.com/akreal/bloomzmms)**|
 |**2024-03-19**|**MSLM-S2ST: A Multitask Speech Language Model for Textless Speech-to-Speech Translation with Speaker Style Preservation**|Yifan Peng et.al.|[2403.12408](http://arxiv.org/abs/2403.12408)|null|
 |**2024-03-14**|**Transformers Get Stable: An End-to-End Signal Propagation Theory for Language Models**|Akhil Kedia et.al.|[2403.09635](http://arxiv.org/abs/2403.09635)|**[link](https://github.com/akhilkedia/tranformersgetstable)**|
@@ -3546,6 +3562,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-18**|**Can We Catch the Elephant? The Evolvement of Hallucination Evaluation on Natural Language Generation: A Survey**|Siya Qi et.al.|[2404.12041](http://arxiv.org/abs/2404.12041)|null|
+|**2024-04-17**|**MemLLM: Finetuning LLMs to Use An Explicit Read-Write Memory**|Ali Modarressi et.al.|[2404.11672](http://arxiv.org/abs/2404.11672)|null|
 |**2024-04-17**|**AI-Enhanced Cognitive Behavioral Therapy: Deep Learning and Large Language Models for Extracting Cognitive Pathways from Social Media Texts**|Meng Jiang et.al.|[2404.11449](http://arxiv.org/abs/2404.11449)|null|
 |**2024-04-17**|**Exploring the Transferability of Visual Prompting for Multimodal Large Language Models**|Yichi Zhang et.al.|[2404.11207](http://arxiv.org/abs/2404.11207)|**[link](https://github.com/zycheiheihei/transferable-visual-prompting)**|
 |**2024-04-17**|**Fact :Teaching MLLMs with Faithful, Concise and Transferable Rationales**|Minghe Gao et.al.|[2404.11129](http://arxiv.org/abs/2404.11129)|null|
