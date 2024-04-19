@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.18
+## Updated on 2024.04.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2189,9 +2189,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-04-17**|**Revealing the spatial nature of sublattice symmetry**|Rong Xiao et.al.|[2404.11398](http://arxiv.org/abs/2404.11398)|null|
+|**2024-04-18**|**Revealing the spatial nature of sublattice symmetry**|Rong Xiao et.al.|[2404.11398](http://arxiv.org/abs/2404.11398)|null|
 |**2024-04-15**|**Deferred NAM: Low-latency Top-K Context Injection via DeferredContext Encoding for Non-Streaming ASR**|Zelin Wu et.al.|[2404.10180](http://arxiv.org/abs/2404.10180)|null|
-|**2024-04-10**|**Lossless Acceleration of Large Language Model via Adaptive N-gram Parallel Decoding**|Jie Ou et.al.|[2404.08698](http://arxiv.org/abs/2404.08698)|null|
+|**2024-04-10**|**Lossless Acceleration of Large Language Model via Adaptive N-gram Parallel Decoding**|Jie Ou et.al.|[2404.08698](http://arxiv.org/abs/2404.08698)|**[link](https://github.com/oujieww/anpd)**|
 |**2024-04-11**|**The algebra of the monoid of order-preserving functions on an $n$-set and other reduced $E$ -Fountain semigroups**|Itamar Stein et.al.|[2404.08075](http://arxiv.org/abs/2404.08075)|null|
 |**2024-04-10**|**Electron acceleration and X-ray generation from near-critical-density carbon nanotube foams driven by moderately relativistic lasers**|Zhuo Pan et.al.|[2404.06862](http://arxiv.org/abs/2404.06862)|null|
 |**2024-04-02**|**Towards Robust 3D Pose Transfer with Adversarial Learning**|Haoyu Chen et.al.|[2404.02242](http://arxiv.org/abs/2404.02242)|null|
@@ -2251,7 +2251,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-04-17**|**Private federated discovery of out-of-vocabulary words for Gboard**|Ziteng Sun et.al.|[2404.11607](http://arxiv.org/abs/2404.11607)|null|
+|**2024-04-18**|**Private federated discovery of out-of-vocabulary words for Gboard**|Ziteng Sun et.al.|[2404.11607](http://arxiv.org/abs/2404.11607)|null|
 |**2024-04-17**|**VG4D: Vision-Language Model Goes 4D Video Recognition**|Zhichao Deng et.al.|[2404.11605](http://arxiv.org/abs/2404.11605)|**[link](https://github.com/shark0-0/vg4d)**|
 |**2024-04-17**|**A Deep Dive into Large Language Models for Automated Bug Localization and Repair**|Soneya Binta Hossain et.al.|[2404.11595](http://arxiv.org/abs/2404.11595)|null|
 |**2024-04-17**|**Prompt Optimizer of Text-to-Image Diffusion Models for Abstract Concept Understanding**|Zezhong Fan et.al.|[2404.11589](http://arxiv.org/abs/2404.11589)|null|
