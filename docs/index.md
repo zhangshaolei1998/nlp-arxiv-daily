@@ -2253,6 +2253,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-23**|**Aligning LLM Agents by Learning Latent Preference from User Edits**|Ge Gao et.al.|[2404.15269](http://arxiv.org/abs/2404.15269)|null|
+|**2024-04-23**|**XFT: Unlocking the Power of Code Instruction Tuning by Simply Merging Upcycled Mixture-of-Experts**|Yifeng Ding et.al.|[2404.15247](http://arxiv.org/abs/2404.15247)|**[link](https://github.com/ise-uiuc/xft)**|
+|**2024-04-23**|**CultureBank: An Online Community-Driven Knowledge Base Towards Culturally Aware Language Technologies**|Weiyan Shi et.al.|[2404.15238](http://arxiv.org/abs/2404.15238)|**[link](https://github.com/salt-nlp/culturebank)**|
+|**2024-04-23**|**Revisiting Unnaturalness for Automated Program Repair in the Era of Large Language Models**|Aidan Z. H. Yang et.al.|[2404.15236](http://arxiv.org/abs/2404.15236)|null|
+|**2024-04-23**|**Re-Thinking Inverse Graphics With Large Language Models**|Peter Kulits et.al.|[2404.15228](http://arxiv.org/abs/2404.15228)|null|
+|**2024-04-23**|**Does Instruction Tuning Make LLMs More Consistent?**|Constanza Fierro et.al.|[2404.15206](http://arxiv.org/abs/2404.15206)|null|
+|**2024-04-23**|**Setting up the Data Printer with Improved English to Ukrainian Machine Translation**|Yurii Paniv et.al.|[2404.15196](http://arxiv.org/abs/2404.15196)|null|
+|**2024-04-23**|**Regressive Side Effects of Training Language Models to Mimic Student Misconceptions**|Shashank Sonkar et.al.|[2404.15156](http://arxiv.org/abs/2404.15156)|null|
+|**2024-04-23**|**Bias patterns in the application of LLMs for clinical decision support: A comprehensive study**|Raphael Poulain et.al.|[2404.15149](http://arxiv.org/abs/2404.15149)|null|
+|**2024-04-23**|**Rethinking LLM Memorization through the Lens of Adversarial Compression**|Avi Schwarzschild et.al.|[2404.15146](http://arxiv.org/abs/2404.15146)|null|
 |**2024-04-22**|**AutoAD III: The Prequel -- Back to the Pixels**|Tengda Han et.al.|[2404.14412](http://arxiv.org/abs/2404.14412)|null|
 |**2024-04-22**|**SpaceByte: Towards Deleting Tokenization from Large Language Modeling**|Kevin Slagle et.al.|[2404.14408](http://arxiv.org/abs/2404.14408)|**[link](https://github.com/kjslag/spacebyte)**|
 |**2024-04-22**|**RTP-LX: Can LLMs Evaluate Toxicity in Multilingual Scenarios?**|Adrian de Wynter et.al.|[2404.14397](http://arxiv.org/abs/2404.14397)|null|
@@ -3237,6 +3247,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-23**|**Setting up the Data Printer with Improved English to Ukrainian Machine Translation**|Yurii Paniv et.al.|[2404.15196](http://arxiv.org/abs/2404.15196)|null|
+|**2024-04-23**|**Sentence-Level or Token-Level? A Comprehensive Study on Knowledge Distillation**|Jingxuan Wei et.al.|[2404.14827](http://arxiv.org/abs/2404.14827)|null|
+|**2024-04-23**|**Automated Multi-Language to English Machine Translation Using Generative Pre-Trained Transformers**|Elijah Pelofske et.al.|[2404.14680](http://arxiv.org/abs/2404.14680)|null|
+|**2024-04-20**|**Evaluation of Machine Translation Based on Semantic Dependencies and Keywords**|Kewei Yuan et.al.|[2404.14443](http://arxiv.org/abs/2404.14443)|null|
 |**2024-04-22**|**Fine-Tuning Large Language Models to Translate: Will a Touch of Noisy Data in Misaligned Languages Suffice?**|Dawei Zhu et.al.|[2404.14122](http://arxiv.org/abs/2404.14122)|null|
 |**2024-04-22**|**From LLM to NMT: Advancing Low-Resource Machine Translation with Claude**|Maxim Enis et.al.|[2404.13813](http://arxiv.org/abs/2404.13813)|null|
 |**2024-04-19**|**The Power of Words: Generating PowerShell Attacks from Natural Language**|Pietro Liguori et.al.|[2404.12893](http://arxiv.org/abs/2404.12893)|null|
@@ -3552,6 +3566,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-22**|**Pixels and Predictions: Potential of GPT-4V in Meteorological Imagery Analysis and Forecast Communication**|John R. Lawson et.al.|[2404.15166](http://arxiv.org/abs/2404.15166)|null|
+|**2024-04-23**|**Regressive Side Effects of Training Language Models to Mimic Student Misconceptions**|Shashank Sonkar et.al.|[2404.15156](http://arxiv.org/abs/2404.15156)|null|
+|**2024-04-23**|**Achieving >97% on GSM8K: Deeply Understanding the Problems Makes LLMs Perfect Reasoners**|Qihuang Zhong et.al.|[2404.14963](http://arxiv.org/abs/2404.14963)|null|
+|**2024-04-23**|**Graph Machine Learning in the Era of Large Language Models (LLMs)**|Wenqi Fan et.al.|[2404.14928](http://arxiv.org/abs/2404.14928)|null|
+|**2024-04-23**|**Language in Vivo vs. in Silico: Size Matters but Larger Language Models Still Do Not Comprehend Language on a Par with Humans**|Vittoria Dentella et.al.|[2404.14883](http://arxiv.org/abs/2404.14883)|null|
+|**2024-04-23**|**Retrieval Augmented Generation for Domain-specific Question Answering**|Sanat Sharma et.al.|[2404.14760](http://arxiv.org/abs/2404.14760)|null|
+|**2024-04-23**|**SkinGEN: an Explainable Dermatology Diagnosis-to-Generation Framework with Interactive Vision-Language Models**|Bo Lin et.al.|[2404.14755](http://arxiv.org/abs/2404.14755)|null|
+|**2024-04-23**|**Generate-on-Graph: Treat LLM as both Agent and KG in Incomplete Knowledge Graph Question Answering**|Yao Xu et.al.|[2404.14741](http://arxiv.org/abs/2404.14741)|**[link](https://github.com/yaooxu/gog)**|
+|**2024-04-23**|**FINEMATCH: Aspect-based Fine-grained Image and Text Mismatch Detection and Correction**|Hang Hua et.al.|[2404.14715](http://arxiv.org/abs/2404.14715)|null|
+|**2024-04-22**|**Integrating Chemistry Knowledge in Large Language Models via Prompt Engineering**|Hongxuan Liu et.al.|[2404.14467](http://arxiv.org/abs/2404.14467)|null|
 |**2024-04-22**|**Detecting and Mitigating Hallucination in Large Vision Language Models via Fine-Grained AI Feedback**|Wenyi Xiao et.al.|[2404.14233](http://arxiv.org/abs/2404.14233)|null|
 |**2024-04-22**|**LLMs Know What They Need: Leveraging a Missing Information Guided Framework to Empower Retrieval-Augmented Generation**|Keheng Wang et.al.|[2404.14043](http://arxiv.org/abs/2404.14043)|null|
 |**2024-04-22**|**VALOR-EVAL: Holistic Coverage and Faithfulness Evaluation of Large Vision-Language Models**|Haoyi Qiu et.al.|[2404.13874](http://arxiv.org/abs/2404.13874)|**[link](https://github.com/haoyiq114/valor)**|
