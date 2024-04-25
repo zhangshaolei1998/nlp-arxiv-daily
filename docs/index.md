@@ -2253,6 +2253,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-24**|**Hybrid LLM/Rule-based Approaches to Business Insights Generation from Structured Data**|Aliaksei Vertsel et.al.|[2404.15604](http://arxiv.org/abs/2404.15604)|null|
+|**2024-04-24**|**ImplicitAVE: An Open-Source Dataset and Multimodal LLMs Benchmark for Implicit Attribute Value Extraction**|Henry Peng Zou et.al.|[2404.15592](http://arxiv.org/abs/2404.15592)|null|
+|**2024-04-24**|**Can Foundational Large Language Models Assist with Conducting Pharmaceuticals Manufacturing Investigations?**|Hossein Salami et.al.|[2404.15578](http://arxiv.org/abs/2404.15578)|null|
+|**2024-04-24**|**Retrieval Head Mechanistically Explains Long-Context Factuality**|Wenhao Wu et.al.|[2404.15574](http://arxiv.org/abs/2404.15574)|null|
+|**2024-04-23**|**PRISM: Patient Records Interpretation for Semantic Clinical Trial Matching using Large Language Models**|Shashi Kant Gupta et.al.|[2404.15549](http://arxiv.org/abs/2404.15549)|null|
+|**2024-04-23**|**BattleAgent: Multi-modal Dynamic Emulation on Historical Battles to Complement Historical Analysis**|Shuhang Lin et.al.|[2404.15532](http://arxiv.org/abs/2404.15532)|null|
+|**2024-04-23**|**Towards Systematic Evaluation of Logical Reasoning Ability of Large Language Models**|Mihir Parmar et.al.|[2404.15522](http://arxiv.org/abs/2404.15522)|**[link](https://github.com/mihir3009/logicbench)**|
+|**2024-04-23**|**Visual Delta Generator with Large Multi-modal Models for Semi-supervised Composed Image Retrieval**|Young Kyun Jang et.al.|[2404.15516](http://arxiv.org/abs/2404.15516)|null|
+|**2024-04-23**|**ToM-LM: Delegating Theory Of Mind Reasoning to External Symbolic Executors in Large Language Models**|Weizhi Tang et.al.|[2404.15515](http://arxiv.org/abs/2404.15515)|null|
+|**2024-04-23**|**IryoNLP at MEDIQA-CORR 2024: Tackling the Medical Error Detection & Correction Task On the Shoulders of Medical Agents**|Jean-Philippe Corbeil et.al.|[2404.15488](http://arxiv.org/abs/2404.15488)|**[link](https://github.com/microsoft/iryonlp-mediqa-corr-2024)**|
 |**2024-04-23**|**Aligning LLM Agents by Learning Latent Preference from User Edits**|Ge Gao et.al.|[2404.15269](http://arxiv.org/abs/2404.15269)|null|
 |**2024-04-23**|**XFT: Unlocking the Power of Code Instruction Tuning by Simply Merging Upcycled Mixture-of-Experts**|Yifeng Ding et.al.|[2404.15247](http://arxiv.org/abs/2404.15247)|**[link](https://github.com/ise-uiuc/xft)**|
 |**2024-04-23**|**CultureBank: An Online Community-Driven Knowledge Base Towards Culturally Aware Language Technologies**|Weiyan Shi et.al.|[2404.15238](http://arxiv.org/abs/2404.15238)|**[link](https://github.com/salt-nlp/culturebank)**|
@@ -3247,13 +3257,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-04-23**|**Setting up the Data Printer with Improved English to Ukrainian Machine Translation**|Yurii Paniv et.al.|[2404.15196](http://arxiv.org/abs/2404.15196)|null|
+|**2024-04-23**|**Setting up the Data Printer with Improved English to Ukrainian Machine Translation**|Yurii Paniv et.al.|[2404.15196](http://arxiv.org/abs/2404.15196)|**[link](https://github.com/lang-uk/dragoman)**|
 |**2024-04-23**|**Sentence-Level or Token-Level? A Comprehensive Study on Knowledge Distillation**|Jingxuan Wei et.al.|[2404.14827](http://arxiv.org/abs/2404.14827)|null|
 |**2024-04-23**|**Automated Multi-Language to English Machine Translation Using Generative Pre-Trained Transformers**|Elijah Pelofske et.al.|[2404.14680](http://arxiv.org/abs/2404.14680)|null|
 |**2024-04-20**|**Evaluation of Machine Translation Based on Semantic Dependencies and Keywords**|Kewei Yuan et.al.|[2404.14443](http://arxiv.org/abs/2404.14443)|null|
 |**2024-04-22**|**Fine-Tuning Large Language Models to Translate: Will a Touch of Noisy Data in Misaligned Languages Suffice?**|Dawei Zhu et.al.|[2404.14122](http://arxiv.org/abs/2404.14122)|null|
 |**2024-04-22**|**From LLM to NMT: Advancing Low-Resource Machine Translation with Claude**|Maxim Enis et.al.|[2404.13813](http://arxiv.org/abs/2404.13813)|null|
-|**2024-04-19**|**The Power of Words: Generating PowerShell Attacks from Natural Language**|Pietro Liguori et.al.|[2404.12893](http://arxiv.org/abs/2404.12893)|null|
+|**2024-04-19**|**The Power of Words: Generating PowerShell Attacks from Natural Language**|Pietro Liguori et.al.|[2404.12893](http://arxiv.org/abs/2404.12893)|**[link](https://github.com/dessertlab/powershell-offensive-code-generation)**|
 |**2024-04-18**|**Simultaneous Interpretation Corpus Construction by Large Language Models in Distant Language Pair**|Yusuke Sakai et.al.|[2404.12299](http://arxiv.org/abs/2404.12299)|null|
 |**2024-04-18**|**Enhancing Length Extrapolation in Sequential Models with Pointer-Augmented Neural Memory**|Hung Le et.al.|[2404.11870](http://arxiv.org/abs/2404.11870)|null|
 |**2024-04-17**|**Neuron Specialization: Leveraging intrinsic task modularity for multilingual machine translation**|Shaomu Tan et.al.|[2404.11201](http://arxiv.org/abs/2404.11201)|null|
@@ -3566,6 +3576,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-24**|**Can Foundational Large Language Models Assist with Conducting Pharmaceuticals Manufacturing Investigations?**|Hossein Salami et.al.|[2404.15578](http://arxiv.org/abs/2404.15578)|null|
+|**2024-04-24**|**Retrieval Head Mechanistically Explains Long-Context Factuality**|Wenhao Wu et.al.|[2404.15574](http://arxiv.org/abs/2404.15574)|null|
 |**2024-04-22**|**Pixels and Predictions: Potential of GPT-4V in Meteorological Imagery Analysis and Forecast Communication**|John R. Lawson et.al.|[2404.15166](http://arxiv.org/abs/2404.15166)|null|
 |**2024-04-23**|**Regressive Side Effects of Training Language Models to Mimic Student Misconceptions**|Shashank Sonkar et.al.|[2404.15156](http://arxiv.org/abs/2404.15156)|null|
 |**2024-04-23**|**Achieving >97% on GSM8K: Deeply Understanding the Problems Makes LLMs Perfect Reasoners**|Qihuang Zhong et.al.|[2404.14963](http://arxiv.org/abs/2404.14963)|null|
