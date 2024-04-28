@@ -2286,10 +2286,10 @@
 |**2024-04-25**|**Make Your LLM Fully Utilize the Context**|Shengnan An et.al.|[2404.16811](http://arxiv.org/abs/2404.16811)|**[link](https://github.com/microsoft/FILM)**|
 |**2024-04-25**|**Improving Diversity of Commonsense Generation by Large Language Models via In-Context Learning**|Tianhui Zhang et.al.|[2404.16807](http://arxiv.org/abs/2404.16807)|null|
 |**2024-04-25**|**AAPL: Adding Attributes to Prompt Learning for Vision-Language Models**|Gahyeon Kim et.al.|[2404.16804](http://arxiv.org/abs/2404.16804)|**[link](https://github.com/Gahyeonkim09/AAPL)**|
-|**2024-04-25**|**Weak-to-Strong Extrapolation Expedites Alignment**|Chujie Zheng et.al.|[2404.16792](http://arxiv.org/abs/2404.16792)|null|
+|**2024-04-25**|**Weak-to-Strong Extrapolation Expedites Alignment**|Chujie Zheng et.al.|[2404.16792](http://arxiv.org/abs/2404.16792)|**[link](https://github.com/chujiezheng/llm-extrapolation)**|
 |**2024-04-25**|**SEED-Bench-2-Plus: Benchmarking Multimodal Large Language Models with Text-Rich Visual Comprehension**|Bohao Li et.al.|[2404.16790](http://arxiv.org/abs/2404.16790)|**[link](https://github.com/ailab-cvc/seed-bench)**|
 |**2024-04-25**|**Continual Learning of Large Language Models: A Comprehensive Survey**|Haizhou Shi et.al.|[2404.16789](http://arxiv.org/abs/2404.16789)|**[link](https://github.com/wang-ml-lab/llm-continual-learning-survey)**|
-|**2024-04-25**|**Modeling Selective Feature Attention for Representation-based Siamese Text Matching**|Jianxiang Zang et.al.|[2404.16776](http://arxiv.org/abs/2404.16776)|null|
+|**2024-04-25**|**Modeling Selective Feature Attention for Representation-based Siamese Text Matching**|Jianxiang Zang et.al.|[2404.16776](http://arxiv.org/abs/2404.16776)|**[link](https://github.com/hggzjx/sfa)**|
 |**2024-04-24**|**Hybrid LLM/Rule-based Approaches to Business Insights Generation from Structured Data**|Aliaksei Vertsel et.al.|[2404.15604](http://arxiv.org/abs/2404.15604)|null|
 |**2024-04-24**|**ImplicitAVE: An Open-Source Dataset and Multimodal LLMs Benchmark for Implicit Attribute Value Extraction**|Henry Peng Zou et.al.|[2404.15592](http://arxiv.org/abs/2404.15592)|**[link](https://github.com/HenryPengZou/ImplicitAVE)**|
 |**2024-04-24**|**Can Foundational Large Language Models Assist with Conducting Pharmaceuticals Manufacturing Investigations?**|Hossein Salami et.al.|[2404.15578](http://arxiv.org/abs/2404.15578)|null|
@@ -3632,7 +3632,7 @@
 |**2024-04-24**|**Studying Large Language Model Behaviors Under Realistic Knowledge Conflicts**|Evgenii Kortukov et.al.|[2404.16032](http://arxiv.org/abs/2404.16032)|**[link](https://github.com/kortukov/realistic_knowledge_conflicts)**|
 |**2024-04-24**|**KS-LLM: Knowledge Selection of Large Language Models with Evidence Document for Question Answering**|Xinxin Zheng et.al.|[2404.15660](http://arxiv.org/abs/2404.15660)|null|
 |**2024-04-24**|**Can Foundational Large Language Models Assist with Conducting Pharmaceuticals Manufacturing Investigations?**|Hossein Salami et.al.|[2404.15578](http://arxiv.org/abs/2404.15578)|null|
-|**2024-04-24**|**Retrieval Head Mechanistically Explains Long-Context Factuality**|Wenhao Wu et.al.|[2404.15574](http://arxiv.org/abs/2404.15574)|null|
+|**2024-04-24**|**Retrieval Head Mechanistically Explains Long-Context Factuality**|Wenhao Wu et.al.|[2404.15574](http://arxiv.org/abs/2404.15574)|**[link](https://github.com/nightdessert/retrieval_head)**|
 |**2024-04-22**|**Pixels and Predictions: Potential of GPT-4V in Meteorological Imagery Analysis and Forecast Communication**|John R. Lawson et.al.|[2404.15166](http://arxiv.org/abs/2404.15166)|null|
 |**2024-04-23**|**Regressive Side Effects of Training Language Models to Mimic Student Misconceptions**|Shashank Sonkar et.al.|[2404.15156](http://arxiv.org/abs/2404.15156)|null|
 |**2024-04-23**|**Achieving >97% on GSM8K: Deeply Understanding the Problems Makes LLMs Perfect Reasoners**|Qihuang Zhong et.al.|[2404.14963](http://arxiv.org/abs/2404.14963)|null|
