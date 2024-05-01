@@ -2189,6 +2189,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-30**|**Bridge to Non-Barrier Communication: Gloss-Prompted Fine-grained Cued Speech Gesture Generation with Diffusion Model**|Wentao Lei et.al.|[2404.19277](http://arxiv.org/abs/2404.19277)|null|
 |**2024-04-18**|**Simultaneous Interpretation Corpus Construction by Large Language Models in Distant Language Pair**|Yusuke Sakai et.al.|[2404.12299](http://arxiv.org/abs/2404.12299)|null|
 |**2024-04-18**|**Parallel Decoding via Hidden Transfer for Lossless Large Language Model Acceleration**|Pengfei Wu et.al.|[2404.12022](http://arxiv.org/abs/2404.12022)|null|
 |**2024-04-18**|**Revealing the spatial nature of sublattice symmetry**|Rong Xiao et.al.|[2404.11398](http://arxiv.org/abs/2404.11398)|null|
@@ -2253,6 +2254,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-30**|**Visual Fact Checker: Enabling High-Fidelity Detailed Caption Generation**|Yunhao Ge et.al.|[2404.19752](http://arxiv.org/abs/2404.19752)|null|
+|**2024-04-30**|**PrivComp-KG : Leveraging Knowledge Graph and Large Language Models for Privacy Policy Compliance Verification**|Leon Garza et.al.|[2404.19744](http://arxiv.org/abs/2404.19744)|null|
+|**2024-04-30**|**Better & Faster Large Language Models via Multi-token Prediction**|Fabian Gloeckle et.al.|[2404.19737](http://arxiv.org/abs/2404.19737)|null|
+|**2024-04-30**|**A Framework for Leveraging Human Computation Gaming to Enhance Knowledge Graphs for Accuracy Critical Generative AI Applications**|Steph Buongiorno et.al.|[2404.19729](http://arxiv.org/abs/2404.19729)|null|
+|**2024-04-30**|**PANGeA: Procedural Artificial Narrative using Generative AI for Turn-Based Video Games**|Steph Buongiorno et.al.|[2404.19721](http://arxiv.org/abs/2404.19721)|null|
+|**2024-04-30**|**Assessing LLMs in Malicious Code Deobfuscation of Real-world Malware Campaigns**|Constantinos Patsakis et.al.|[2404.19715](http://arxiv.org/abs/2404.19715)|null|
+|**2024-04-30**|**Automated Generation of High-Quality Medical Simulation Scenarios Through Integration of Semi-Structured Data and Large Language Models**|Scott Sumpter et.al.|[2404.19713](http://arxiv.org/abs/2404.19713)|null|
+|**2024-04-30**|**When to Retrieve: Teaching LLMs to Utilize Information Retrieval Effectively**|Tiziano Labruna et.al.|[2404.19705](http://arxiv.org/abs/2404.19705)|null|
+|**2024-04-30**|**Naturally Supervised 3D Visual Grounding with Language-Regularized Concept Learners**|Chun Feng et.al.|[2404.19696](http://arxiv.org/abs/2404.19696)|null|
+|**2024-04-30**|**MetaCoCo: A New Few-Shot Classification Benchmark with Spurious Correlation**|Min Zhang et.al.|[2404.19644](http://arxiv.org/abs/2404.19644)|null|
 |**2024-04-29**|**Hallucination of Multimodal Large Language Models: A Survey**|Zechen Bai et.al.|[2404.18930](http://arxiv.org/abs/2404.18930)|**[link](https://github.com/showlab/awesome-mllm-hallucination)**|
 |**2024-04-29**|**Holmes: Benchmark the Linguistic Competence of Language Models**|Andreas Waldis et.al.|[2404.18923](http://arxiv.org/abs/2404.18923)|null|
 |**2024-04-29**|**DPO Meets PPO: Reinforced Token Optimization for RLHF**|Han Zhong et.al.|[2404.18922](http://arxiv.org/abs/2404.18922)|null|
@@ -3287,6 +3298,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-30**|**Context-Aware Machine Translation with Source Coreference Explanation**|Huy Hien Vu et.al.|[2404.19505](http://arxiv.org/abs/2404.19505)|**[link](https://github.com/hienvuhuy/transcoref)**|
+|**2024-04-30**|**Which Nigerian-Pidgin does Generative AI speak?: Issues about Representativeness and Bias for Multilingual and Low Resource Languages**|David Ifeoluwa Adelani et.al.|[2404.19442](http://arxiv.org/abs/2404.19442)|null|
+|**2024-04-30**|**Suvach -- Generated Hindi QA benchmark**|Vaishak Narayanan et.al.|[2404.19254](http://arxiv.org/abs/2404.19254)|null|
+|**2024-04-29**|**Unsupervised Binary Code Translation with Application to Code Similarity Detection and Vulnerability Discovery**|Iftakhar Ahmad et.al.|[2404.19025](http://arxiv.org/abs/2404.19025)|null|
 |**2024-04-29**|**3AM: An Ambiguity-Aware Multi-Modal Machine Translation Dataset**|Xinyu Ma et.al.|[2404.18413](http://arxiv.org/abs/2404.18413)|**[link](https://github.com/maxylee/3am)**|
 |**2024-04-28**|**Modeling Orthographic Variation Improves NLP Performance for Nigerian Pidgin**|Pin-Jie Lin et.al.|[2404.18264](http://arxiv.org/abs/2404.18264)|null|
 |**2024-04-27**|**Quality Estimation with $k$ -nearest Neighbors and Automatic Evaluation for Model-specific Quality Estimation**|Tu Anh Dinh et.al.|[2404.18031](http://arxiv.org/abs/2404.18031)|null|
@@ -3580,6 +3595,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-30**|**Does Whisper understand Swiss German? An automatic, qualitative, and human evaluation**|Eyal Liron Dolev et.al.|[2404.19310](http://arxiv.org/abs/2404.19310)|null|
 |**2024-04-18**|**Simultaneous Interpretation Corpus Construction by Large Language Models in Distant Language Pair**|Yusuke Sakai et.al.|[2404.12299](http://arxiv.org/abs/2404.12299)|null|
 |**2024-03-25**|**Advancing Speech Translation: A Corpus of Mandarin-English Conversational Telephone Speech**|Shannon Wotherspoon et.al.|[2404.11619](http://arxiv.org/abs/2404.11619)|null|
 |**2024-04-16**|**Teaching a Multilingual Large Language Model to Understand Multilingual Speech via Multi-Instructional Training**|Pavel Denisov et.al.|[2404.10922](http://arxiv.org/abs/2404.10922)|**[link](https://github.com/akreal/bloomzmms)**|
@@ -3618,6 +3634,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-30**|**Visual Fact Checker: Enabling High-Fidelity Detailed Caption Generation**|Yunhao Ge et.al.|[2404.19752](http://arxiv.org/abs/2404.19752)|null|
+|**2024-04-30**|**RAG and RAU: A Survey on Retrieval-Augmented Language Model in Natural Language Processing**|Yucheng Hu et.al.|[2404.19543](http://arxiv.org/abs/2404.19543)|**[link](https://github.com/2471023025/ralm_survey)**|
 |**2024-04-29**|**Hallucination of Multimodal Large Language Models: A Survey**|Zechen Bai et.al.|[2404.18930](http://arxiv.org/abs/2404.18930)|**[link](https://github.com/showlab/awesome-mllm-hallucination)**|
 |**2024-04-29**|**Autonomous Quality and Hallucination Assessment for Virtual Tissue Staining and Digital Pathology**|Luzhe Huang et.al.|[2404.18458](http://arxiv.org/abs/2404.18458)|null|
 |**2024-04-29**|**Exploring the Limits of Fine-grained LLM-based Physics Inference via Premise Removal Interventions**|Jordan Meadows et.al.|[2404.18384](http://arxiv.org/abs/2404.18384)|null|
