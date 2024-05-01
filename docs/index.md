@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.30
+## Updated on 2024.05.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3291,7 +3291,7 @@ layout: default
 |**2024-04-28**|**Modeling Orthographic Variation Improves NLP Performance for Nigerian Pidgin**|Pin-Jie Lin et.al.|[2404.18264](http://arxiv.org/abs/2404.18264)|null|
 |**2024-04-27**|**Quality Estimation with $k$ -nearest Neighbors and Automatic Evaluation for Model-specific Quality Estimation**|Tu Anh Dinh et.al.|[2404.18031](http://arxiv.org/abs/2404.18031)|null|
 |**2024-04-27**|**Usefulness of Emotional Prosody in Neural Machine Translation**|Charles Brazier et.al.|[2404.17968](http://arxiv.org/abs/2404.17968)|null|
-|**2024-04-27**|**I Have an Attention Bridge to Sell You: Generalization Capabilities of Modular Translation Architectures**|Timothee Mickus et.al.|[2404.17918](http://arxiv.org/abs/2404.17918)|null|
+|**2024-04-30**|**I Have an Attention Bridge to Sell You: Generalization Capabilities of Modular Translation Architectures**|Timothee Mickus et.al.|[2404.17918](http://arxiv.org/abs/2404.17918)|null|
 |**2024-04-27**|**Scaffold-BPE: Enhancing Byte Pair Encoding with Simple and Effective Scaffold Token Removal**|Haoran Lian et.al.|[2404.17808](http://arxiv.org/abs/2404.17808)|null|
 |**2024-04-26**|**TIGQA:An Expert Annotated Question Answering Dataset in Tigrinya**|Hailay Teklehaymanot et.al.|[2404.17194](http://arxiv.org/abs/2404.17194)|null|
 |**2024-04-25**|**IndicGenBench: A Multilingual Benchmark to Evaluate Generation Capabilities of LLMs on Indic Languages**|Harman Singh et.al.|[2404.16816](http://arxiv.org/abs/2404.16816)|null|
