@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.02
+## Updated on 2024.05.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3648,7 +3648,7 @@ layout: default
 |**2024-05-01**|**HalluVault: A Novel Logic Programming-aided Metamorphic Testing Framework for Detecting Fact-Conflicting Hallucinations in Large Language Models**|Ningke Li et.al.|[2405.00648](http://arxiv.org/abs/2405.00648)|null|
 |**2024-05-01**|**Addressing Topic Granularity and Hallucination in Large Language Models for Topic Modelling**|Yida Mu et.al.|[2405.00611](http://arxiv.org/abs/2405.00611)|null|
 |**2024-05-01**|**The Pyramid of Captions**|Delong Chen et.al.|[2405.00485](http://arxiv.org/abs/2405.00485)|null|
-|**2024-05-01**|**BiomedRAG: A Retrieval Augmented Large Language Model for Biomedicine**|Mingchen Li et.al.|[2405.00465](http://arxiv.org/abs/2405.00465)|null|
+|**2024-05-02**|**BiomedRAG: A Retrieval Augmented Large Language Model for Biomedicine**|Mingchen Li et.al.|[2405.00465](http://arxiv.org/abs/2405.00465)|null|
 |**2024-05-01**|**LITO: Learnable Intervention for Truthfulness Optimization**|Farima Fatahi Bayat et.al.|[2405.00301](http://arxiv.org/abs/2405.00301)|null|
 |**2024-04-30**|**CodeHalu: Code Hallucinations in LLMs Driven by Execution-based Verification**|Yuchen Tian et.al.|[2405.00253](http://arxiv.org/abs/2405.00253)|null|
 |**2024-04-30**|**Visual Fact Checker: Enabling High-Fidelity Detailed Caption Generation**|Yunhao Ge et.al.|[2404.19752](http://arxiv.org/abs/2404.19752)|null|
