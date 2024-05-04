@@ -2287,7 +2287,7 @@
 |**2024-05-02**|**OmniDrive: A Holistic LLM-Agent Framework for Autonomous Driving with 3D Perception, Reasoning and Planning**|Shihao Wang et.al.|[2405.01533](http://arxiv.org/abs/2405.01533)|null|
 |**2024-05-02**|**FLAME: Factuality-Aware Alignment for Large Language Models**|Sheng-Chieh Lin et.al.|[2405.01525](http://arxiv.org/abs/2405.01525)|null|
 |**2024-05-02**|**Transformer-Aided Semantic Communications**|Matin Mortaheb et.al.|[2405.01521](http://arxiv.org/abs/2405.01521)|null|
-|**2024-05-02**|**D2PO: Discriminator-Guided DPO with Response Evaluation Models**|Prasann Singhal et.al.|[2405.01511](http://arxiv.org/abs/2405.01511)|null|
+|**2024-05-02**|**D2PO: Discriminator-Guided DPO with Response Evaluation Models**|Prasann Singhal et.al.|[2405.01511](http://arxiv.org/abs/2405.01511)|**[link](https://github.com/PrasannS/d2po)**|
 |**2024-05-02**|**Analyzing the Role of Semantic Representations in the Era of Large Language Models**|Zhijing Jin et.al.|[2405.01502](http://arxiv.org/abs/2405.01502)|**[link](https://github.com/causalnlp/amr_llm)**|
 |**2024-05-02**|**Supporting Business Document Workflows via Collection-Centric Information Foraging with Large Language Models**|Raymond Fok et.al.|[2405.01501](http://arxiv.org/abs/2405.01501)|null|
 |**2024-05-02**|**Controllable Text Generation in the Instruction-Tuning Era**|Dhananjay Ashok et.al.|[2405.01490](http://arxiv.org/abs/2405.01490)|null|
@@ -3353,7 +3353,7 @@
 |**2024-04-30**|**Context-Aware Machine Translation with Source Coreference Explanation**|Huy Hien Vu et.al.|[2404.19505](http://arxiv.org/abs/2404.19505)|**[link](https://github.com/hienvuhuy/transcoref)**|
 |**2024-04-30**|**Which Nigerian-Pidgin does Generative AI speak?: Issues about Representativeness and Bias for Multilingual and Low Resource Languages**|David Ifeoluwa Adelani et.al.|[2404.19442](http://arxiv.org/abs/2404.19442)|null|
 |**2024-04-30**|**Suvach -- Generated Hindi QA benchmark**|Vaishak Narayanan et.al.|[2404.19254](http://arxiv.org/abs/2404.19254)|null|
-|**2024-04-29**|**Unsupervised Binary Code Translation with Application to Code Similarity Detection and Vulnerability Discovery**|Iftakhar Ahmad et.al.|[2404.19025](http://arxiv.org/abs/2404.19025)|null|
+|**2024-04-29**|**Unsupervised Binary Code Translation with Application to Code Similarity Detection and Vulnerability Discovery**|Iftakhar Ahmad et.al.|[2404.19025](http://arxiv.org/abs/2404.19025)|**[link](https://github.com/lannan/unsuperbintrans)**|
 |**2024-04-29**|**3AM: An Ambiguity-Aware Multi-Modal Machine Translation Dataset**|Xinyu Ma et.al.|[2404.18413](http://arxiv.org/abs/2404.18413)|**[link](https://github.com/maxylee/3am)**|
 |**2024-04-28**|**Modeling Orthographic Variation Improves NLP Performance for Nigerian Pidgin**|Pin-Jie Lin et.al.|[2404.18264](http://arxiv.org/abs/2404.18264)|null|
 |**2024-04-27**|**Quality Estimation with $k$ -nearest Neighbors and Automatic Evaluation for Model-specific Quality Estimation**|Tu Anh Dinh et.al.|[2404.18031](http://arxiv.org/abs/2404.18031)|null|
