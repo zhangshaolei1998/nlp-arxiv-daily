@@ -2189,6 +2189,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-09**|**Performance Parameters of Infra-red and Visible-active MXene Photocatalysts for Water Splitting**|Swati Shaw et.al.|[2405.05874](http://arxiv.org/abs/2405.05874)|null|
 |**2024-05-03**|**Coherent XUV super continuum emission from atomic bound states**|Jing Zhao et.al.|[2405.02194](http://arxiv.org/abs/2405.02194)|null|
 |**2024-05-02**|**Almost Symmetric Schur Functions**|Milo Bechtloff Weising et.al.|[2405.01049](http://arxiv.org/abs/2405.01049)|null|
 |**2024-04-30**|**Bridge to Non-Barrier Communication: Gloss-Prompted Fine-grained Cued Speech Gesture Generation with Diffusion Model**|Wentao Lei et.al.|[2404.19277](http://arxiv.org/abs/2404.19277)|null|
@@ -2256,6 +2257,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-09**|**Natural Language Processing RELIES on Linguistics**|Juri Opitz et.al.|[2405.05966](http://arxiv.org/abs/2405.05966)|null|
+|**2024-05-09**|**OpenBA-V2: Reaching 77.3% High Compression Ratio with Fast Multi-Stage Pruning**|Dan Qiao et.al.|[2405.05957](http://arxiv.org/abs/2405.05957)|**[link](https://github.com/opennlg/openba-v2)**|
+|**2024-05-09**|**Probing Multimodal LLMs as World Models for Driving**|Shiva Sreeram et.al.|[2405.05956](http://arxiv.org/abs/2405.05956)|**[link](https://github.com/sreeramsa/drivesim)**|
+|**2024-05-09**|**Smurfs: Leveraging Multiple Proficiency Agents with Context-Efficiency for Tool Planning**|Junzhi Chen et.al.|[2405.05955](http://arxiv.org/abs/2405.05955)|null|
+|**2024-05-09**|**CuMo: Scaling Multimodal LLM with Co-Upcycled Mixture-of-Experts**|Jiachen Li et.al.|[2405.05949](http://arxiv.org/abs/2405.05949)|**[link](https://github.com/shi-labs/cumo)**|
+|**2024-05-09**|**DOLOMITES: Domain-Specific Long-Form Methodical Tasks**|Chaitanya Malaviya et.al.|[2405.05938](http://arxiv.org/abs/2405.05938)|null|
+|**2024-05-09**|**Trustworthy AI-Generative Content in Intelligent 6G Network: Adversarial, Privacy, and Fairness**|Siyuan Li et.al.|[2405.05930](http://arxiv.org/abs/2405.05930)|null|
+|**2024-05-09**|**Does Fine-Tuning LLMs on New Knowledge Encourage Hallucinations?**|Zorik Gekhman et.al.|[2405.05904](http://arxiv.org/abs/2405.05904)|null|
+|**2024-05-09**|**Co-driver: VLM-based Autonomous Driving Assistant with Human-like Behavior and Understanding for Complex Road Scenes**|Ziang Guo et.al.|[2405.05885](http://arxiv.org/abs/2405.05885)|null|
+|**2024-05-09**|**FlockGPT: Guiding UAV Flocking with Linguistic Orchestration**|Artem Lykov et.al.|[2405.05872](http://arxiv.org/abs/2405.05872)|null|
 |**2024-05-08**|**THRONE: An Object-based Hallucination Benchmark for the Free-form Generations of Large Vision-Language Models**|Prannay Kaul et.al.|[2405.05256](http://arxiv.org/abs/2405.05256)|null|
 |**2024-05-09**|**You Only Cache Once: Decoder-Decoder Architectures for Language Models**|Yutao Sun et.al.|[2405.05254](http://arxiv.org/abs/2405.05254)|null|
 |**2024-05-08**|**Open Source Language Models Can Provide Feedback: Evaluating LLMs' Ability to Help Students Using GPT-4-As-A-Judge**|Charles Koutcheme et.al.|[2405.05253](http://arxiv.org/abs/2405.05253)|**[link](https://github.com/koutchemecharles/iticse24)**|
@@ -3360,6 +3371,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-09**|**Using Machine Translation to Augment Multilingual Classification**|Adam King et.al.|[2405.05478](http://arxiv.org/abs/2405.05478)|null|
+|**2024-05-08**|**Automated Program Repair: Emerging trends pose and expose problems for benchmarks**|Joseph Renzullo et.al.|[2405.05455](http://arxiv.org/abs/2405.05455)|null|
+|**2024-05-08**|**Kreyòl-MT: Building MT for Latin American, Caribbean and Colonial African Creole Languages**|Nathaniel R. Robinson et.al.|[2405.05376](http://arxiv.org/abs/2405.05376)|null|
 |**2024-05-08**|**Fine-tuning Pre-trained Named Entity Recognition Models For Indian Languages**|Sankalp Bahad et.al.|[2405.04829](http://arxiv.org/abs/2405.04829)|null|
 |**2024-05-06**|**Guylingo: The Republic of Guyana Creole Corpora**|Christopher Clarke et.al.|[2405.03832](http://arxiv.org/abs/2405.03832)|null|
 |**2024-05-05**|**Relay Decoding: Concatenating Large Language Models for Machine Translation**|Chengpeng Fu et.al.|[2405.02933](http://arxiv.org/abs/2405.02933)|null|
@@ -3705,6 +3719,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-09**|**Does Fine-Tuning LLMs on New Knowledge Encourage Hallucinations?**|Zorik Gekhman et.al.|[2405.05904](http://arxiv.org/abs/2405.05904)|null|
+|**2024-05-09**|**Co-driver: VLM-based Autonomous Driving Assistant with Human-like Behavior and Understanding for Complex Road Scenes**|Ziang Guo et.al.|[2405.05885](http://arxiv.org/abs/2405.05885)|null|
+|**2024-05-09**|**One vs. Many: Comprehending Accurate Information from Multiple Erroneous and Inconsistent AI Generations**|Yoonjoo Lee et.al.|[2405.05581](http://arxiv.org/abs/2405.05581)|null|
 |**2024-05-08**|**THRONE: An Object-based Hallucination Benchmark for the Free-form Generations of Large Vision-Language Models**|Prannay Kaul et.al.|[2405.05256](http://arxiv.org/abs/2405.05256)|null|
 |**2024-05-07**|**Contextual API Completion for Unseen Repositories Using LLMs**|Noor Nashid et.al.|[2405.04600](http://arxiv.org/abs/2405.04600)|null|
 |**2024-05-07**|**Sora Detector: A Unified Hallucination Detection for Large Text-to-Video Models**|Zhixuan Chu et.al.|[2405.04180](http://arxiv.org/abs/2405.04180)|**[link](https://github.com/truthai-lab/soradetector)**|
