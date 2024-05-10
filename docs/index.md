@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.09
+## Updated on 2024.05.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2257,9 +2257,9 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-05-08**|**THRONE: An Object-based Hallucination Benchmark for the Free-form Generations of Large Vision-Language Models**|Prannay Kaul et.al.|[2405.05256](http://arxiv.org/abs/2405.05256)|null|
-|**2024-05-08**|**You Only Cache Once: Decoder-Decoder Architectures for Language Models**|Yutao Sun et.al.|[2405.05254](http://arxiv.org/abs/2405.05254)|null|
+|**2024-05-09**|**You Only Cache Once: Decoder-Decoder Architectures for Language Models**|Yutao Sun et.al.|[2405.05254](http://arxiv.org/abs/2405.05254)|null|
 |**2024-05-08**|**Open Source Language Models Can Provide Feedback: Evaluating LLMs' Ability to Help Students Using GPT-4-As-A-Judge**|Charles Koutcheme et.al.|[2405.05253](http://arxiv.org/abs/2405.05253)|**[link](https://github.com/koutchemecharles/iticse24)**|
-|**2024-05-08**|**LLMs with Personalities in Multi-issue Negotiation Games**|Sean Noh et.al.|[2405.05248](http://arxiv.org/abs/2405.05248)|null|
+|**2024-05-09**|**LLMs with Personalities in Multi-issue Negotiation Games**|Sean Noh et.al.|[2405.05248](http://arxiv.org/abs/2405.05248)|null|
 |**2024-05-08**|**SuFIA: Language-Guided Augmented Dexterity for Robotic Surgical Assistants**|Masoud Moghani et.al.|[2405.05226](http://arxiv.org/abs/2405.05226)|null|
 |**2024-05-08**|**Conv-Basis: A New Paradigm for Efficient Attention Inference and Gradient Computation in Transformers**|Jiuxiang Gu et.al.|[2405.05219](http://arxiv.org/abs/2405.05219)|null|
 |**2024-05-08**|**MIDGARD: Self-Consistency Using Minimum Description Length for Structured Commonsense Reasoning**|Inderjeet Nair et.al.|[2405.05189](http://arxiv.org/abs/2405.05189)|null|
@@ -3665,8 +3665,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-05-07**|**Open Implementation and Study of BEST-RQ for Speech Processing**|Ryan Whetten et.al.|[2405.04296](http://arxiv.org/abs/2405.04296)|null|
-|**2024-04-30**|**Does Whisper understand Swiss German? An automatic, qualitative, and human evaluation**|Eyal Liron Dolev et.al.|[2404.19310](http://arxiv.org/abs/2404.19310)|null|
+|**2024-05-07**|**Open Implementation and Study of BEST-RQ for Speech Processing**|Ryan Whetten et.al.|[2405.04296](http://arxiv.org/abs/2405.04296)|**[link](https://github.com/speechbrain/speechbrain)**|
+|**2024-05-09**|**Does Whisper understand Swiss German? An automatic, qualitative, and human evaluation**|Eyal Liron Dolev et.al.|[2404.19310](http://arxiv.org/abs/2404.19310)|null|
 |**2024-04-18**|**Simultaneous Interpretation Corpus Construction by Large Language Models in Distant Language Pair**|Yusuke Sakai et.al.|[2404.12299](http://arxiv.org/abs/2404.12299)|null|
 |**2024-03-25**|**Advancing Speech Translation: A Corpus of Mandarin-English Conversational Telephone Speech**|Shannon Wotherspoon et.al.|[2404.11619](http://arxiv.org/abs/2404.11619)|null|
 |**2024-04-16**|**Teaching a Multilingual Large Language Model to Understand Multilingual Speech via Multi-Instructional Training**|Pavel Denisov et.al.|[2404.10922](http://arxiv.org/abs/2404.10922)|**[link](https://github.com/akreal/bloomzmms)**|
@@ -3707,11 +3707,11 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-05-08**|**THRONE: An Object-based Hallucination Benchmark for the Free-form Generations of Large Vision-Language Models**|Prannay Kaul et.al.|[2405.05256](http://arxiv.org/abs/2405.05256)|null|
 |**2024-05-07**|**Contextual API Completion for Unseen Repositories Using LLMs**|Noor Nashid et.al.|[2405.04600](http://arxiv.org/abs/2405.04600)|null|
-|**2024-05-07**|**Sora Detector: A Unified Hallucination Detection for Large Text-to-Video Models**|Zhixuan Chu et.al.|[2405.04180](http://arxiv.org/abs/2405.04180)|null|
-|**2024-05-07**|**D-NLP at SemEval-2024 Task 2: Evaluating Clinical Inference Capabilities of Large Language Models**|Duygu Altinok et.al.|[2405.04170](http://arxiv.org/abs/2405.04170)|null|
+|**2024-05-07**|**Sora Detector: A Unified Hallucination Detection for Large Text-to-Video Models**|Zhixuan Chu et.al.|[2405.04180](http://arxiv.org/abs/2405.04180)|**[link](https://github.com/truthai-lab/soradetector)**|
+|**2024-05-07**|**D-NLP at SemEval-2024 Task 2: Evaluating Clinical Inference Capabilities of Large Language Models**|Duygu Altinok et.al.|[2405.04170](http://arxiv.org/abs/2405.04170)|**[link](https://github.com/duygua/semeval2024_nli4ct)**|
 |**2024-05-07**|**Utilizing GPT to Enhance Text Summarization: A Strategy to Minimize Hallucinations**|Hassan Shakil et.al.|[2405.04039](http://arxiv.org/abs/2405.04039)|null|
 |**2024-05-07**|**ERATTA: Extreme RAG for Table To Answers with Large Language Models**|Sohini Roychowdhury et.al.|[2405.03963](http://arxiv.org/abs/2405.03963)|null|
-|**2024-05-06**|**Enhancing Q-Learning with Large Language Model Heuristics**|Xiefeng Wu et.al.|[2405.03341](http://arxiv.org/abs/2405.03341)|null|
+|**2024-05-09**|**Enhancing Q-Learning with Large Language Model Heuristics**|Xiefeng Wu et.al.|[2405.03341](http://arxiv.org/abs/2405.03341)|null|
 |**2024-05-06**|**Animate Your Thoughts: Decoupled Reconstruction of Dynamic Natural Vision from Slow Brain Activity**|Yizhuo Lu et.al.|[2405.03280](http://arxiv.org/abs/2405.03280)|null|
 |**2024-05-08**|**Quantifying the Capabilities of LLMs across Scale and Precision**|Sher Badshah et.al.|[2405.03146](http://arxiv.org/abs/2405.03146)|null|
 |**2024-05-06**|**Compressing Long Context for Enhancing RAG with AMR-based Concept Distillation**|Kaize Shi et.al.|[2405.03085](http://arxiv.org/abs/2405.03085)|null|
