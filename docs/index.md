@@ -2259,6 +2259,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-14**|**Towards Enhanced RAC Accessibility: Leveraging Datasets and LLMs**|Edison Jair Bejarano Sepulveda et.al.|[2405.08792](http://arxiv.org/abs/2405.08792)|null|
+|**2024-05-14**|**Incorporating Clinical Guidelines through Adapting Multi-modal Large Language Model for Prostate Cancer PI-RADS Scoring**|Tiantian Zhang et.al.|[2405.08786](http://arxiv.org/abs/2405.08786)|null|
+|**2024-05-14**|**Is the Pope Catholic? Yes, the Pope is Catholic. Generative Evaluation of Intent Resolution in LLMs**|Akhila Yerukola et.al.|[2405.08760](http://arxiv.org/abs/2405.08760)|null|
+|**2024-05-14**|**Distributed Threat Intelligence at the Edge Devices: A Large Language Model-Driven Approach**|Syed Mhamudul Hasan et.al.|[2405.08755](http://arxiv.org/abs/2405.08755)|null|
+|**2024-05-14**|**Hunyuan-DiT: A Powerful Multi-Resolution Diffusion Transformer with Fine-Grained Chinese Understanding**|Zhimin Li et.al.|[2405.08748](http://arxiv.org/abs/2405.08748)|**[link](https://github.com/tencent/hunyuandit)**|
+|**2024-05-14**|**Beyond Scaling Laws: Understanding Transformer Performance with Associative Memory**|Xueyan Niu et.al.|[2405.08707](http://arxiv.org/abs/2405.08707)|null|
+|**2024-05-14**|**Promoting AI Equity in Science: Generalized Domain Prompt Learning for Accessible VLM Research**|Qinglong Cao et.al.|[2405.08668](http://arxiv.org/abs/2405.08668)|null|
+|**2024-05-14**|**Thinking Tokens for Language Modeling**|David Herel et.al.|[2405.08644](http://arxiv.org/abs/2405.08644)|null|
+|**2024-05-14**|**ALMol: Aligned Language-Molecule Translation LLMs through Offline Preference Contrastive Optimisation**|Dimitris Gkoumas et.al.|[2405.08619](http://arxiv.org/abs/2405.08619)|null|
+|**2024-05-14**|**A Comprehensive Survey of Large Language Models and Multimodal Large Language Models in Medicine**|Hanguang Xiao et.al.|[2405.08603](http://arxiv.org/abs/2405.08603)|null|
 |**2024-05-13**|**Plot2Code: A Comprehensive Benchmark for Evaluating Multi-modal Large Language Models in Code Generation from Scientific Plots**|Chengyue Wu et.al.|[2405.07990](http://arxiv.org/abs/2405.07990)|null|
 |**2024-05-13**|**A Generalist Learner for Multifaceted Medical Image Interpretation**|Hong-Yu Zhou et.al.|[2405.07988](http://arxiv.org/abs/2405.07988)|null|
 |**2024-05-13**|**The Platonic Representation Hypothesis**|Minyoung Huh et.al.|[2405.07987](http://arxiv.org/abs/2405.07987)|**[link](https://github.com/minyoungg/platonic-rep)**|
@@ -3393,6 +3403,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-14**|**Enhancing Gender-Inclusive Machine Translation with Neomorphemes and Large Language Models**|Andrea Piergentili et.al.|[2405.08477](http://arxiv.org/abs/2405.08477)|null|
+|**2024-05-13**|**CANTONMT: Investigating Back-Translation and Model-Switch Mechanisms for Cantonese-English Neural Machine Translation**|Kung Yin Hong et.al.|[2405.08172](http://arxiv.org/abs/2405.08172)|**[link](https://github.com/kenrickkung/cantonesetranslation)**|
 |**2024-05-13**|**An Empirical Study on the Robustness of Massively Multilingual Neural Machine Translation**|Supryadi et.al.|[2405.07673](http://arxiv.org/abs/2405.07673)|**[link](https://github.com/tjunlp-lab/id-zh-mtrobusteval)**|
 |**2024-05-10**|**Learning to Solve Geometry Problems via Simulating Human Dual-Reasoning Process**|Tong Xiao et.al.|[2405.06232](http://arxiv.org/abs/2405.06232)|null|
 |**2024-05-09**|**Using Machine Translation to Augment Multilingual Classification**|Adam King et.al.|[2405.05478](http://arxiv.org/abs/2405.05478)|null|
@@ -3743,6 +3755,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-13**|**Benchmarking Retrieval-Augmented Large Language Models in Biomedical NLP: Application, Robustness, and Self-Awareness**|Mingchen Li et.al.|[2405.08151](http://arxiv.org/abs/2405.08151)|null|
 |**2024-05-13**|**Prompt-based Code Completion via Multi-Retrieval Augmented Generation**|Hanzhuo Tan et.al.|[2405.07530](http://arxiv.org/abs/2405.07530)|null|
 |**2024-05-09**|**LLMs can Find Mathematical Reasoning Mistakes by Pedagogical Chain-of-Thought**|Zhuoxuan Jiang et.al.|[2405.06705](http://arxiv.org/abs/2405.06705)|null|
 |**2024-05-07**|**SUTRA: Scalable Multilingual Language Model Architecture**|Abhijit Bendale et.al.|[2405.06694](http://arxiv.org/abs/2405.06694)|null|
