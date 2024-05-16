@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.15
+## Updated on 2024.05.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2261,13 +2261,13 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-05-14**|**Towards Enhanced RAC Accessibility: Leveraging Datasets and LLMs**|Edison Jair Bejarano Sepulveda et.al.|[2405.08792](http://arxiv.org/abs/2405.08792)|null|
 |**2024-05-14**|**Incorporating Clinical Guidelines through Adapting Multi-modal Large Language Model for Prostate Cancer PI-RADS Scoring**|Tiantian Zhang et.al.|[2405.08786](http://arxiv.org/abs/2405.08786)|null|
-|**2024-05-14**|**Is the Pope Catholic? Yes, the Pope is Catholic. Generative Evaluation of Intent Resolution in LLMs**|Akhila Yerukola et.al.|[2405.08760](http://arxiv.org/abs/2405.08760)|null|
+|**2024-05-14**|**Is the Pope Catholic? Yes, the Pope is Catholic. Generative Evaluation of Intent Resolution in LLMs**|Akhila Yerukola et.al.|[2405.08760](http://arxiv.org/abs/2405.08760)|**[link](https://github.com/Akhila-Yerukola/generative-intention-resolution)**|
 |**2024-05-14**|**Distributed Threat Intelligence at the Edge Devices: A Large Language Model-Driven Approach**|Syed Mhamudul Hasan et.al.|[2405.08755](http://arxiv.org/abs/2405.08755)|null|
 |**2024-05-14**|**Hunyuan-DiT: A Powerful Multi-Resolution Diffusion Transformer with Fine-Grained Chinese Understanding**|Zhimin Li et.al.|[2405.08748](http://arxiv.org/abs/2405.08748)|**[link](https://github.com/tencent/hunyuandit)**|
 |**2024-05-14**|**Beyond Scaling Laws: Understanding Transformer Performance with Associative Memory**|Xueyan Niu et.al.|[2405.08707](http://arxiv.org/abs/2405.08707)|null|
-|**2024-05-14**|**Promoting AI Equity in Science: Generalized Domain Prompt Learning for Accessible VLM Research**|Qinglong Cao et.al.|[2405.08668](http://arxiv.org/abs/2405.08668)|null|
+|**2024-05-14**|**Promoting AI Equity in Science: Generalized Domain Prompt Learning for Accessible VLM Research**|Qinglong Cao et.al.|[2405.08668](http://arxiv.org/abs/2405.08668)|**[link](https://github.com/caoql98/GDPL)**|
 |**2024-05-14**|**Thinking Tokens for Language Modeling**|David Herel et.al.|[2405.08644](http://arxiv.org/abs/2405.08644)|null|
-|**2024-05-14**|**ALMol: Aligned Language-Molecule Translation LLMs through Offline Preference Contrastive Optimisation**|Dimitris Gkoumas et.al.|[2405.08619](http://arxiv.org/abs/2405.08619)|null|
+|**2024-05-15**|**ALMol: Aligned Language-Molecule Translation LLMs through Offline Preference Contrastive Optimisation**|Dimitris Gkoumas et.al.|[2405.08619](http://arxiv.org/abs/2405.08619)|null|
 |**2024-05-14**|**A Comprehensive Survey of Large Language Models and Multimodal Large Language Models in Medicine**|Hanguang Xiao et.al.|[2405.08603](http://arxiv.org/abs/2405.08603)|null|
 |**2024-05-13**|**Plot2Code: A Comprehensive Benchmark for Evaluating Multi-modal Large Language Models in Code Generation from Scientific Plots**|Chengyue Wu et.al.|[2405.07990](http://arxiv.org/abs/2405.07990)|null|
 |**2024-05-13**|**A Generalist Learner for Multifaceted Medical Image Interpretation**|Hong-Yu Zhou et.al.|[2405.07988](http://arxiv.org/abs/2405.07988)|null|
