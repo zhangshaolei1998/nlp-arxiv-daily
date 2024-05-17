@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.16
+## Updated on 2024.05.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3414,7 +3414,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-05-15**|**Word Alignment as Preference for Machine Translation**|Qiyu Wu et.al.|[2405.09223](http://arxiv.org/abs/2405.09223)|null|
-|**2024-05-14**|**LLM-Assisted Rule Based Machine Translation for Low/No-Resource Languages**|Jared Coleman et.al.|[2405.08997](http://arxiv.org/abs/2405.08997)|null|
+|**2024-05-16**|**LLM-Assisted Rule Based Machine Translation for Low/No-Resource Languages**|Jared Coleman et.al.|[2405.08997](http://arxiv.org/abs/2405.08997)|null|
 |**2024-05-14**|**Enhancing Gender-Inclusive Machine Translation with Neomorphemes and Large Language Models**|Andrea Piergentili et.al.|[2405.08477](http://arxiv.org/abs/2405.08477)|null|
 |**2024-05-13**|**CANTONMT: Investigating Back-Translation and Model-Switch Mechanisms for Cantonese-English Neural Machine Translation**|Kung Yin Hong et.al.|[2405.08172](http://arxiv.org/abs/2405.08172)|**[link](https://github.com/kenrickkung/cantonesetranslation)**|
 |**2024-05-13**|**An Empirical Study on the Robustness of Massively Multilingual Neural Machine Translation**|Supryadi et.al.|[2405.07673](http://arxiv.org/abs/2405.07673)|**[link](https://github.com/tjunlp-lab/id-zh-mtrobusteval)**|
@@ -3768,7 +3768,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-05-15**|**Word Alignment as Preference for Machine Translation**|Qiyu Wu et.al.|[2405.09223](http://arxiv.org/abs/2405.09223)|null|
-|**2024-05-13**|**Benchmarking Retrieval-Augmented Large Language Models in Biomedical NLP: Application, Robustness, and Self-Awareness**|Mingchen Li et.al.|[2405.08151](http://arxiv.org/abs/2405.08151)|null|
+|**2024-05-16**|**Benchmarking Retrieval-Augmented Large Language Models in Biomedical NLP: Application, Robustness, and Self-Awareness**|Mingchen Li et.al.|[2405.08151](http://arxiv.org/abs/2405.08151)|null|
 |**2024-05-13**|**Prompt-based Code Completion via Multi-Retrieval Augmented Generation**|Hanzhuo Tan et.al.|[2405.07530](http://arxiv.org/abs/2405.07530)|null|
 |**2024-05-09**|**LLMs can Find Mathematical Reasoning Mistakes by Pedagogical Chain-of-Thought**|Zhuoxuan Jiang et.al.|[2405.06705](http://arxiv.org/abs/2405.06705)|null|
 |**2024-05-07**|**SUTRA: Scalable Multilingual Language Model Architecture**|Abhijit Bendale et.al.|[2405.06694](http://arxiv.org/abs/2405.06694)|null|
