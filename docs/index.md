@@ -2189,6 +2189,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-16**|**Faces that Speak: Jointly Synthesising Talking Face and Speech from Text**|Youngjoon Jang et.al.|[2405.10272](http://arxiv.org/abs/2405.10272)|null|
 |**2024-05-13**|**Monoidal closure of Grothendieck constructions via $Σ$ -tractible monoidal structures and Dialectica formulas**|Fernando Lucatelli Nunes et.al.|[2405.07724](http://arxiv.org/abs/2405.07724)|null|
 |**2024-05-12**|**Reduced Krylov Basis Methods for Parametric Partial Differential Equations**|Yuwen Li et.al.|[2405.07139](http://arxiv.org/abs/2405.07139)|null|
 |**2024-05-09**|**Performance Parameters of Infra-red and Visible-active MXene Photocatalysts for Water Splitting**|Swati Shaw et.al.|[2405.05874](http://arxiv.org/abs/2405.05874)|null|
@@ -2259,6 +2260,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-16**|**UniRAG: Universal Retrieval Augmentation for Multi-Modal Large Language Models**|Sahel Sharifymoghaddam et.al.|[2405.10311](http://arxiv.org/abs/2405.10311)|null|
+|**2024-05-16**|**4D Panoptic Scene Graph Generation**|Jingkang Yang et.al.|[2405.10305](http://arxiv.org/abs/2405.10305)|**[link](https://github.com/Jingkang50/OpenPSG)**|
+|**2024-05-16**|**Conformal Alignment: Knowing When to Trust Foundation Models with Guarantees**|Yu Gui et.al.|[2405.10301](http://arxiv.org/abs/2405.10301)|null|
+|**2024-05-16**|**HW-GPT-Bench: Hardware-Aware Architecture Benchmark for Language Models**|Rhea Sanjay Sukthanker et.al.|[2405.10299](http://arxiv.org/abs/2405.10299)|null|
+|**2024-05-16**|**Fine-Tuning Large Vision-Language Models as Decision-Making Agents via Reinforcement Learning**|Yuexiang Zhai et.al.|[2405.10292](http://arxiv.org/abs/2405.10292)|null|
+|**2024-05-16**|**Timeline-based Sentence Decomposition with In-Context Learning for Temporal Fact Extraction**|Jianhao Chen et.al.|[2405.10288](http://arxiv.org/abs/2405.10288)|null|
+|**2024-05-16**|**FFF: Fixing Flawed Foundations in contrastive pre-training results in very strong Vision-Language models**|Adrian Bulat et.al.|[2405.10286](http://arxiv.org/abs/2405.10286)|null|
+|**2024-05-16**|**Revisiting OPRO: The Limitations of Small-Scale LLMs as Optimizers**|Tuo Zhang et.al.|[2405.10276](http://arxiv.org/abs/2405.10276)|null|
+|**2024-05-16**|**Keep It Private: Unsupervised Privatization of Online Text**|Calvin Bao et.al.|[2405.10260](http://arxiv.org/abs/2405.10260)|**[link](https://github.com/csbao/kip-privatization)**|
+|**2024-05-16**|**When LLMs step into the 3D World: A Survey and Meta-Analysis of 3D Tasks via Multi-modal Large Language Models**|Xianzheng Ma et.al.|[2405.10255](http://arxiv.org/abs/2405.10255)|null|
 |**2024-05-15**|**Modeling Bilingual Sentence Processing: Evaluating RNN and Transformer Architectures for Cross-Language Structural Priming**|Bushi Xiao et.al.|[2405.09508](http://arxiv.org/abs/2405.09508)|null|
 |**2024-05-15**|**Constrained Learning for Causal Inference and Semiparametric Statistics**|Tiffany Tianhui Cai et.al.|[2405.09493](http://arxiv.org/abs/2405.09493)|null|
 |**2024-05-15**|**Beyond Flesch-Kincaid: Prompt-based Metrics Improve Difficulty Classification of Educational Texts**|Donya Rooein et.al.|[2405.09482](http://arxiv.org/abs/2405.09482)|null|
@@ -3767,6 +3778,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-16**|**Spurious reconstruction from brain activity**|Ken Shirakawa et.al.|[2405.10078](http://arxiv.org/abs/2405.10078)|null|
+|**2024-05-16**|**Enhancing Semantics in Multimodal Chain of Thought via Soft Negative Sampling**|Guangmin Zheng et.al.|[2405.09848](http://arxiv.org/abs/2405.09848)|**[link](https://github.com/zgmin/snse-cot)**|
+|**2024-05-16**|**Evaluating Text-to-Speech Synthesis from a Large Discrete Token-based Speech Language Model**|Siyang Wang et.al.|[2405.09768](http://arxiv.org/abs/2405.09768)|null|
+|**2024-05-15**|**Spectral Editing of Activations for Large Language Model Alignment**|Yifu Qiu et.al.|[2405.09719](http://arxiv.org/abs/2405.09719)|null|
+|**2024-05-15**|**Unveiling Hallucination in Text, Image, Video, and Audio Foundation Models: A Comprehensive Review**|Pranab Sahoo et.al.|[2405.09589](http://arxiv.org/abs/2405.09589)|null|
 |**2024-05-15**|**Word Alignment as Preference for Machine Translation**|Qiyu Wu et.al.|[2405.09223](http://arxiv.org/abs/2405.09223)|null|
 |**2024-05-16**|**Benchmarking Retrieval-Augmented Large Language Models in Biomedical NLP: Application, Robustness, and Self-Awareness**|Mingchen Li et.al.|[2405.08151](http://arxiv.org/abs/2405.08151)|null|
 |**2024-05-13**|**Prompt-based Code Completion via Multi-Retrieval Augmented Generation**|Hanzhuo Tan et.al.|[2405.07530](http://arxiv.org/abs/2405.07530)|null|
