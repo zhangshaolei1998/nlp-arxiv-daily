@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.20
+## Updated on 2024.05.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2189,6 +2189,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-16**|**Simultaneous Masking, Not Prompting Optimization: A Paradigm Shift in Fine-tuning LLMs for Simultaneous Translation**|Matthew Raffel et.al.|[2405.10443](http://arxiv.org/abs/2405.10443)|null|
 |**2024-05-16**|**Faces that Speak: Jointly Synthesising Talking Face and Speech from Text**|Youngjoon Jang et.al.|[2405.10272](http://arxiv.org/abs/2405.10272)|null|
 |**2024-05-13**|**Monoidal closure of Grothendieck constructions via $Σ$ -tractible monoidal structures and Dialectica formulas**|Fernando Lucatelli Nunes et.al.|[2405.07724](http://arxiv.org/abs/2405.07724)|null|
 |**2024-05-12**|**Reduced Krylov Basis Methods for Parametric Partial Differential Equations**|Yuwen Li et.al.|[2405.07139](http://arxiv.org/abs/2405.07139)|null|
@@ -2260,6 +2261,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-17**|**Observational Scaling Laws and the Predictability of Language Model Performance**|Yangjun Ruan et.al.|[2405.10938](http://arxiv.org/abs/2405.10938)|null|
+|**2024-05-17**|**A Survey on Large Language Models with Multilingualism: Recent Advances and New Frontiers**|Kaiyu Huang et.al.|[2405.10936](http://arxiv.org/abs/2405.10936)|**[link](https://github.com/kaiyuhwang/mllm-survey)**|
+|**2024-05-17**|**The Local Interaction Basis: Identifying Computationally-Relevant and Sparsely Interacting Features in Neural Networks**|Lucius Bushnaq et.al.|[2405.10928](http://arxiv.org/abs/2405.10928)|null|
+|**2024-05-17**|**COGNET-MD, an evaluation framework and dataset for Large Language Model benchmarks in the medical domain**|Dimitrios P. Panagoulias et.al.|[2405.10893](http://arxiv.org/abs/2405.10893)|null|
+|**2024-05-17**|**Application of Artificial Intelligence in Schizophrenia Rehabilitation Management: Systematic Literature Review**|Hongyi Yang et.al.|[2405.10883](http://arxiv.org/abs/2405.10883)|null|
+|**2024-05-17**|**ECR-Chain: Advancing Generative Language Models to Better Emotion-Cause Reasoners through Reasoning Chains**|Zhaopei Huang et.al.|[2405.10860](http://arxiv.org/abs/2405.10860)|**[link](https://github.com/hzp3517/ecr-chain)**|
+|**2024-05-17**|**The Future of Large Language Model Pre-training is Federated**|Lorenzo Sani et.al.|[2405.10853](http://arxiv.org/abs/2405.10853)|null|
+|**2024-05-17**|**Open-Vocabulary Spatio-Temporal Action Detection**|Tao Wu et.al.|[2405.10832](http://arxiv.org/abs/2405.10832)|null|
+|**2024-05-17**|**Large Language Model (LLM) for Telecommunications: A Comprehensive Survey on Principles, Key Techniques, and Opportunities**|Hao Zhou et.al.|[2405.10825](http://arxiv.org/abs/2405.10825)|null|
+|**2024-05-17**|**ActiveLLM: Large Language Model-based Active Learning for Textual Few-Shot Scenarios**|Markus Bayer et.al.|[2405.10808](http://arxiv.org/abs/2405.10808)|null|
 |**2024-05-16**|**UniRAG: Universal Retrieval Augmentation for Multi-Modal Large Language Models**|Sahel Sharifymoghaddam et.al.|[2405.10311](http://arxiv.org/abs/2405.10311)|null|
 |**2024-05-16**|**4D Panoptic Scene Graph Generation**|Jingkang Yang et.al.|[2405.10305](http://arxiv.org/abs/2405.10305)|**[link](https://github.com/jingkang50/psg4d)**|
 |**2024-05-16**|**Conformal Alignment: Knowing When to Trust Foundation Models with Guarantees**|Yu Gui et.al.|[2405.10301](http://arxiv.org/abs/2405.10301)|null|
@@ -3424,6 +3435,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-17**|**Benchmarking Large Language Models on CFLUE -- A Chinese Financial Language Understanding Evaluation Dataset**|Jie Zhu et.al.|[2405.10542](http://arxiv.org/abs/2405.10542)|**[link](https://github.com/aliyun/cflue)**|
 |**2024-05-15**|**Word Alignment as Preference for Machine Translation**|Qiyu Wu et.al.|[2405.09223](http://arxiv.org/abs/2405.09223)|null|
 |**2024-05-16**|**LLM-Assisted Rule Based Machine Translation for Low/No-Resource Languages**|Jared Coleman et.al.|[2405.08997](http://arxiv.org/abs/2405.08997)|null|
 |**2024-05-14**|**Enhancing Gender-Inclusive Machine Translation with Neomorphemes and Large Language Models**|Andrea Piergentili et.al.|[2405.08477](http://arxiv.org/abs/2405.08477)|null|
@@ -3778,6 +3790,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-17**|**Empowering Small-Scale Knowledge Graphs: A Strategy of Leveraging General-Purpose Knowledge Graphs for Enriched Embeddings**|Albert Sawczyn et.al.|[2405.10745](http://arxiv.org/abs/2405.10745)|null|
+|**2024-05-17**|**Multi-scale Semantic Prior Features Guided Deep Neural Network for Urban Street-view Image**|Jianshun Zeng et.al.|[2405.10504](http://arxiv.org/abs/2405.10504)|null|
+|**2024-05-16**|**Agent Design Pattern Catalogue: A Collection of Architectural Patterns for Foundation Model based Agents**|Yue Liu et.al.|[2405.10467](http://arxiv.org/abs/2405.10467)|null|
 |**2024-05-16**|**Spurious reconstruction from brain activity**|Ken Shirakawa et.al.|[2405.10078](http://arxiv.org/abs/2405.10078)|null|
 |**2024-05-16**|**Enhancing Semantics in Multimodal Chain of Thought via Soft Negative Sampling**|Guangmin Zheng et.al.|[2405.09848](http://arxiv.org/abs/2405.09848)|**[link](https://github.com/zgmin/snse-cot)**|
 |**2024-05-16**|**Evaluating Text-to-Speech Synthesis from a Large Discrete Token-based Speech Language Model**|Siyang Wang et.al.|[2405.09768](http://arxiv.org/abs/2405.09768)|null|
