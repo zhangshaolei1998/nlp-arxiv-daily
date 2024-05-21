@@ -2261,6 +2261,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-20**|**Adapting Large Multimodal Models to Distribution Shifts: The Role of In-Context Learning**|Guanglin Zhou et.al.|[2405.12217](http://arxiv.org/abs/2405.12217)|null|
+|**2024-05-20**|**MathBench: Evaluating the Theory and Application Proficiency of LLMs with a Hierarchical Mathematics Benchmark**|Hongwei Liu et.al.|[2405.12209](http://arxiv.org/abs/2405.12209)|**[link](https://github.com/open-compass/mathbench)**|
+|**2024-05-20**|**Developers' Perceptions on the Impact of ChatGPT in Software Development: A Survey**|Thiago S. Vaillant et.al.|[2405.12195](http://arxiv.org/abs/2405.12195)|null|
+|**2024-05-20**|**CT-Eval: Benchmarking Chinese Text-to-Table Performance in Large Language Models**|Haoxiang Shi et.al.|[2405.12174](http://arxiv.org/abs/2405.12174)|null|
+|**2024-05-20**|**Fennec: Fine-grained Language Model Evaluation and Correction Extended through Branching and Bridging**|Xiaobo Liang et.al.|[2405.12163](http://arxiv.org/abs/2405.12163)|**[link](https://github.com/dropreg/fennec)**|
+|**2024-05-20**|**Eliciting Problem Specifications via Large Language Models**|Robert E. Wray et.al.|[2405.12147](http://arxiv.org/abs/2405.12147)|null|
+|**2024-05-20**|**MoRA: High-Rank Updating for Parameter-Efficient Fine-Tuning**|Ting Jiang et.al.|[2405.12130](http://arxiv.org/abs/2405.12130)|null|
+|**2024-05-20**|**Reindex-Then-Adapt: Improving Large Language Models for Conversational Recommendation**|Zhankui He et.al.|[2405.12119](http://arxiv.org/abs/2405.12119)|null|
+|**2024-05-20**|**Imp: Highly Capable Large Multimodal Models for Mobile Devices**|Zhenwei Shao et.al.|[2405.12107](http://arxiv.org/abs/2405.12107)|null|
+|**2024-05-20**|**DOP: Diagnostic-Oriented Prompting for Large Language Models in Mathematical Correction**|Hao Chen et.al.|[2405.12100](http://arxiv.org/abs/2405.12100)|null|
 |**2024-05-17**|**Observational Scaling Laws and the Predictability of Language Model Performance**|Yangjun Ruan et.al.|[2405.10938](http://arxiv.org/abs/2405.10938)|null|
 |**2024-05-17**|**A Survey on Large Language Models with Multilingualism: Recent Advances and New Frontiers**|Kaiyu Huang et.al.|[2405.10936](http://arxiv.org/abs/2405.10936)|**[link](https://github.com/kaiyuhwang/mllm-survey)**|
 |**2024-05-17**|**The Local Interaction Basis: Identifying Computationally-Relevant and Sparsely Interacting Features in Neural Networks**|Lucius Bushnaq et.al.|[2405.10928](http://arxiv.org/abs/2405.10928)|null|
@@ -3435,6 +3445,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-20**|**FAME-MT Dataset: Formality Awareness Made Easy for Machine Translation Purposes**|Dawid Wiśniewski et.al.|[2405.11942](http://arxiv.org/abs/2405.11942)|**[link](https://github.com/laniqo-public/fame-mt)**|
+|**2024-05-20**|**Chasing COMET: Leveraging Minimum Bayes Risk Decoding for Self-Improving Machine Translation**|Kamil Guttmann et.al.|[2405.11937](http://arxiv.org/abs/2405.11937)|null|
+|**2024-05-20**|**A Novel Cartography-Based Curriculum Learning Method Applied on RoNLI: The First Romanian Natural Language Inference Corpus**|Eduard Poesina et.al.|[2405.11877](http://arxiv.org/abs/2405.11877)|**[link](https://github.com/eduard6421/ronli)**|
+|**2024-05-20**|**Beyond MLE: Investigating SEARNN for Low-Resourced Neural Machine Translation**|Chris Emezue et.al.|[2405.11819](http://arxiv.org/abs/2405.11819)|null|
+|**2024-05-20**|**(Perhaps) Beyond Human Translation: Harnessing Multi-Agent Collaboration for Translating Ultra-Long Literary Texts**|Minghao Wu et.al.|[2405.11804](http://arxiv.org/abs/2405.11804)|null|
+|**2024-05-19**|**Cyber Risks of Machine Translation Critical Errors : Arabic Mental Health Tweets as a Case Study**|Hadeel Saadany et.al.|[2405.11668](http://arxiv.org/abs/2405.11668)|null|
 |**2024-05-17**|**Benchmarking Large Language Models on CFLUE -- A Chinese Financial Language Understanding Evaluation Dataset**|Jie Zhu et.al.|[2405.10542](http://arxiv.org/abs/2405.10542)|**[link](https://github.com/aliyun/cflue)**|
 |**2024-05-15**|**Word Alignment as Preference for Machine Translation**|Qiyu Wu et.al.|[2405.09223](http://arxiv.org/abs/2405.09223)|null|
 |**2024-05-16**|**LLM-Assisted Rule Based Machine Translation for Low/No-Resource Languages**|Jared Coleman et.al.|[2405.08997](http://arxiv.org/abs/2405.08997)|null|
@@ -3790,6 +3806,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-20**|**CT-Eval: Benchmarking Chinese Text-to-Table Performance in Large Language Models**|Haoxiang Shi et.al.|[2405.12174](http://arxiv.org/abs/2405.12174)|null|
+|**2024-05-20**|**KG-RAG: Bridging the Gap Between Knowledge and Creativity**|Diego Sanmartin et.al.|[2405.12035](http://arxiv.org/abs/2405.12035)|null|
+|**2024-05-20**|**Data Augmentation for Text-based Person Retrieval Using Large Language Models**|Zheng Li et.al.|[2405.11971](http://arxiv.org/abs/2405.11971)|null|
+|**2024-05-19**|**Cyber Risks of Machine Translation Critical Errors : Arabic Mental Health Tweets as a Case Study**|Hadeel Saadany et.al.|[2405.11668](http://arxiv.org/abs/2405.11668)|null|
+|**2024-05-18**|**An Opportunistically Parallel Lambda Calculus for Performant Composition of Large Language Models**|Stephen Mell et.al.|[2405.11361](http://arxiv.org/abs/2405.11361)|null|
+|**2024-05-18**|**Smooth Kolmogorov Arnold networks enabling structural knowledge representation**|Moein E. Samadi et.al.|[2405.11318](http://arxiv.org/abs/2405.11318)|null|
+|**2024-05-18**|**BrainStorm @ iREL at SMM4H 2024: Leveraging Translation and Topical Embeddings for Annotation Detection in Tweets**|Manav Chaudhary et.al.|[2405.11192](http://arxiv.org/abs/2405.11192)|null|
+|**2024-05-18**|**Automated Multi-level Preference for MLLMs**|Mengxi Zhang et.al.|[2405.11165](http://arxiv.org/abs/2405.11165)|null|
+|**2024-05-18**|**Detecting Multimodal Situations with Insufficient Context and Abstaining from Baseless Predictions**|Junzhang Liu et.al.|[2405.11145](http://arxiv.org/abs/2405.11145)|null|
+|**2024-05-17**|**Jill Watson: A Virtual Teaching Assistant powered by ChatGPT**|Karan Taneja et.al.|[2405.11070](http://arxiv.org/abs/2405.11070)|null|
 |**2024-05-17**|**Empowering Small-Scale Knowledge Graphs: A Strategy of Leveraging General-Purpose Knowledge Graphs for Enriched Embeddings**|Albert Sawczyn et.al.|[2405.10745](http://arxiv.org/abs/2405.10745)|null|
 |**2024-05-17**|**Multi-scale Semantic Prior Features Guided Deep Neural Network for Urban Street-view Image**|Jianshun Zeng et.al.|[2405.10504](http://arxiv.org/abs/2405.10504)|null|
 |**2024-05-16**|**Agent Design Pattern Catalogue: A Collection of Architectural Patterns for Foundation Model based Agents**|Yue Liu et.al.|[2405.10467](http://arxiv.org/abs/2405.10467)|null|
