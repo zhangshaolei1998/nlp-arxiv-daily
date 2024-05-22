@@ -2189,6 +2189,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-21**|**Generalize Polyp Segmentation via Inpainting across Diverse Backgrounds and Pseudo-Mask Refinement**|Jiajian Ma et.al.|[2405.12784](http://arxiv.org/abs/2405.12784)|**[link](https://github.com/497662892/PolypInpainter)**|
 |**2024-05-16**|**Simultaneous Masking, Not Prompting Optimization: A Paradigm Shift in Fine-tuning LLMs for Simultaneous Translation**|Matthew Raffel et.al.|[2405.10443](http://arxiv.org/abs/2405.10443)|null|
 |**2024-05-16**|**Faces that Speak: Jointly Synthesising Talking Face and Speech from Text**|Youngjoon Jang et.al.|[2405.10272](http://arxiv.org/abs/2405.10272)|null|
 |**2024-05-21**|**Monoidal closure of Grothendieck constructions via $Σ$ -tractable monoidal structures and Dialectica formulas**|Fernando Lucatelli Nunes et.al.|[2405.07724](http://arxiv.org/abs/2405.07724)|null|
@@ -2261,6 +2262,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-21**|**Reducing Transformer Key-Value Cache Size with Cross-Layer Attention**|William Brandon et.al.|[2405.12981](http://arxiv.org/abs/2405.12981)|null|
+|**2024-05-21**|**Energy Rank Alignment: Using Preference Optimization to Search Chemical Space at Scale**|Shriram Chennakesavalu et.al.|[2405.12961](http://arxiv.org/abs/2405.12961)|null|
+|**2024-05-21**|**Aggregation of Reasoning: A Hierarchical Framework for Enhancing Answer Selection in Large Language Models**|Zhangyue Yin et.al.|[2405.12939](http://arxiv.org/abs/2405.12939)|null|
+|**2024-05-21**|**Skin-in-the-Game: Decision Making via Multi-Stakeholder Alignment in LLMs**|Bilgehan Sel et.al.|[2405.12933](http://arxiv.org/abs/2405.12933)|null|
+|**2024-05-21**|**Code-mixed Sentiment and Hate-speech Prediction**|Anjali Yadav et.al.|[2405.12929](http://arxiv.org/abs/2405.12929)|null|
+|**2024-05-21**|**Streamlining Software Reviews: Efficient Predictive Modeling with Minimal Examples**|Tim Menzies et.al.|[2405.12920](http://arxiv.org/abs/2405.12920)|null|
+|**2024-05-21**|**G-DIG: Towards Gradient-based DIverse and hiGh-quality Instruction Data Selection for Machine Translation**|Xingyuan Pan et.al.|[2405.12915](http://arxiv.org/abs/2405.12915)|null|
+|**2024-05-21**|**An Empirical Study and Analysis of Text-to-Image Generation Using Large Language Model-Powered Textual Representation**|Zhiyu Tan et.al.|[2405.12914](http://arxiv.org/abs/2405.12914)|null|
+|**2024-05-21**|**Topic Modelling Case Law Using a Large Language Model and a New Taxonomy for UK Law: AI Insights into Summary Judgment**|Holli Sargeant et.al.|[2405.12910](http://arxiv.org/abs/2405.12910)|null|
+|**2024-05-21**|**Adversarial DPO: Harnessing Harmful Data for Reducing Toxicity with Minimal Impact on Coherence and Evasiveness in Dialogue Agents**|San Kim et.al.|[2405.12900](http://arxiv.org/abs/2405.12900)|null|
 |**2024-05-20**|**Adapting Large Multimodal Models to Distribution Shifts: The Role of In-Context Learning**|Guanglin Zhou et.al.|[2405.12217](http://arxiv.org/abs/2405.12217)|**[link](https://github.com/jameszhou-gl/icl-distribution-shift)**|
 |**2024-05-20**|**MathBench: Evaluating the Theory and Application Proficiency of LLMs with a Hierarchical Mathematics Benchmark**|Hongwei Liu et.al.|[2405.12209](http://arxiv.org/abs/2405.12209)|**[link](https://github.com/open-compass/mathbench)**|
 |**2024-05-20**|**Developers' Perceptions on the Impact of ChatGPT in Software Development: A Survey**|Thiago S. Vaillant et.al.|[2405.12195](http://arxiv.org/abs/2405.12195)|null|
@@ -3445,6 +3456,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-21**|**G-DIG: Towards Gradient-based DIverse and hiGh-quality Instruction Data Selection for Machine Translation**|Xingyuan Pan et.al.|[2405.12915](http://arxiv.org/abs/2405.12915)|null|
+|**2024-05-21**|**A Survey on Multi-modal Machine Translation: Tasks, Methods and Challenges**|Huangjun Shen et.al.|[2405.12669](http://arxiv.org/abs/2405.12669)|null|
 |**2024-05-20**|**FAME-MT Dataset: Formality Awareness Made Easy for Machine Translation Purposes**|Dawid Wiśniewski et.al.|[2405.11942](http://arxiv.org/abs/2405.11942)|**[link](https://github.com/laniqo-public/fame-mt)**|
 |**2024-05-20**|**Chasing COMET: Leveraging Minimum Bayes Risk Decoding for Self-Improving Machine Translation**|Kamil Guttmann et.al.|[2405.11937](http://arxiv.org/abs/2405.11937)|null|
 |**2024-05-21**|**A Novel Cartography-Based Curriculum Learning Method Applied on RoNLI: The First Romanian Natural Language Inference Corpus**|Eduard Poesina et.al.|[2405.11877](http://arxiv.org/abs/2405.11877)|**[link](https://github.com/eduard6421/ronli)**|
@@ -3806,6 +3819,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-21**|**OLAPH: Improving Factuality in Biomedical Long-form Question Answering**|Minbyul Jeong et.al.|[2405.12701](http://arxiv.org/abs/2405.12701)|**[link](https://github.com/dmis-lab/olaph)**|
+|**2024-05-21**|**Retrieval-Augmented Language Model for Extreme Multi-Label Knowledge Graph Link Prediction**|Yu-Hsiang Lin et.al.|[2405.12656](http://arxiv.org/abs/2405.12656)|**[link](https://github.com/exiled1143/retrieval-augmented-language-model-for-multi-label-knowledge-graph-link-prediction)**|
+|**2024-05-21**|**Fight Fire with Fire: How Much Can We Trust ChatGPT on Source Code-Related Tasks?**|Xiao Yu et.al.|[2405.12641](http://arxiv.org/abs/2405.12641)|null|
+|**2024-05-21**|**Quantifying Emergence in Large Language Models**|Hang Chen et.al.|[2405.12617](http://arxiv.org/abs/2405.12617)|**[link](https://github.com/zodiark-ch/emergence-of-llms)**|
+|**2024-05-21**|**LLM+Reasoning+Planning for supporting incomplete user queries in presence of APIs**|Sudhir Agarwal et.al.|[2405.12433](http://arxiv.org/abs/2405.12433)|null|
+|**2024-05-20**|**Scientific Hypothesis Generation by a Large Language Model: Laboratory Validation in Breast Cancer Treatment**|Abbi Abdel-Rehim et.al.|[2405.12258](http://arxiv.org/abs/2405.12258)|null|
 |**2024-05-20**|**CT-Eval: Benchmarking Chinese Text-to-Table Performance in Large Language Models**|Haoxiang Shi et.al.|[2405.12174](http://arxiv.org/abs/2405.12174)|null|
 |**2024-05-20**|**KG-RAG: Bridging the Gap Between Knowledge and Creativity**|Diego Sanmartin et.al.|[2405.12035](http://arxiv.org/abs/2405.12035)|null|
 |**2024-05-20**|**Data Augmentation for Text-based Person Retrieval Using Large Language Models**|Zheng Li et.al.|[2405.11971](http://arxiv.org/abs/2405.11971)|null|
