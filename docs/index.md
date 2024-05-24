@@ -2189,6 +2189,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-22**|**Synchronized Video Storytelling: Generating Video Narrations with Structured Storyline**|Dingyi Yang et.al.|[2405.14040](http://arxiv.org/abs/2405.14040)|null|
+|**2024-05-22**|**Joint Optimization of Streaming and Non-Streaming Automatic Speech Recognition with Multi-Decoder and Knowledge Distillation**|Muhammad Shakeel et.al.|[2405.13514](http://arxiv.org/abs/2405.13514)|null|
 |**2024-05-21**|**Generalize Polyp Segmentation via Inpainting across Diverse Backgrounds and Pseudo-Mask Refinement**|Jiajian Ma et.al.|[2405.12784](http://arxiv.org/abs/2405.12784)|**[link](https://github.com/497662892/PolypInpainter)**|
 |**2024-05-16**|**Simultaneous Masking, Not Prompting Optimization: A Paradigm Shift in Fine-tuning LLMs for Simultaneous Translation**|Matthew Raffel et.al.|[2405.10443](http://arxiv.org/abs/2405.10443)|null|
 |**2024-05-16**|**Faces that Speak: Jointly Synthesising Talking Face and Speech from Text**|Youngjoon Jang et.al.|[2405.10272](http://arxiv.org/abs/2405.10272)|null|
@@ -2262,6 +2264,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-23**|**PuzzleAvatar: Assembling 3D Avatars from Personal Albums**|Yuliang Xiu et.al.|[2405.14869](http://arxiv.org/abs/2405.14869)|null|
+|**2024-05-23**|**A Nurse is Blue and Elephant is Rugby: Cross Domain Alignment in Large Language Models Reveal Human-like Patterns**|Asaf Yehudai et.al.|[2405.14863](http://arxiv.org/abs/2405.14863)|null|
+|**2024-05-23**|**Bitune: Bidirectional Instruction-Tuning**|Dawid J. Kopiczko et.al.|[2405.14862](http://arxiv.org/abs/2405.14862)|null|
+|**2024-05-23**|**Not All Language Model Features Are Linear**|Joshua Engels et.al.|[2405.14860](http://arxiv.org/abs/2405.14860)|**[link](https://github.com/joshengels/multidimensionalfeatures)**|
+|**2024-05-23**|**PV-Tuning: Beyond Straight-Through Estimation for Extreme LLM Compression**|Vladimir Malinovskii et.al.|[2405.14852](http://arxiv.org/abs/2405.14852)|null|
+|**2024-05-23**|**A Textbook Remedy for Domain Shifts: Knowledge Priors for Medical Image Analysis**|Yue Yang et.al.|[2405.14839](http://arxiv.org/abs/2405.14839)|null|
+|**2024-05-23**|**From Explicit CoT to Implicit CoT: Learning to Internalize CoT Step by Step**|Yuntian Deng et.al.|[2405.14838](http://arxiv.org/abs/2405.14838)|null|
+|**2024-05-23**|**HippoRAG: Neurobiologically Inspired Long-Term Memory for Large Language Models**|Bernal Jiménez Gutiérrez et.al.|[2405.14831](http://arxiv.org/abs/2405.14831)|null|
+|**2024-05-23**|**Designing A Sustainable Marine Debris Clean-up Framework without Human Labels**|Raymond Wang et.al.|[2405.14815](http://arxiv.org/abs/2405.14815)|null|
+|**2024-05-23**|**As an AI Language Model, "Yes I Would Recommend Calling the Police'': Norm Inconsistency in LLM Decision-Making**|Shomik Jain et.al.|[2405.14812](http://arxiv.org/abs/2405.14812)|null|
 |**2024-05-21**|**Reducing Transformer Key-Value Cache Size with Cross-Layer Attention**|William Brandon et.al.|[2405.12981](http://arxiv.org/abs/2405.12981)|null|
 |**2024-05-21**|**Energy Rank Alignment: Using Preference Optimization to Search Chemical Space at Scale**|Shriram Chennakesavalu et.al.|[2405.12961](http://arxiv.org/abs/2405.12961)|null|
 |**2024-05-21**|**Aggregation of Reasoning: A Hierarchical Framework for Enhancing Answer Selection in Large Language Models**|Zhangyue Yin et.al.|[2405.12939](http://arxiv.org/abs/2405.12939)|null|
@@ -3456,11 +3468,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-23**|**Exploring Alignment in Shared Cross-lingual Spaces**|Basel Mousi et.al.|[2405.14535](http://arxiv.org/abs/2405.14535)|null|
+|**2024-05-23**|**Improving Language Models Trained with Translated Data via Continual Pre-Training and Dictionary Learning Analysis**|Sabri Boughorbel et.al.|[2405.14277](http://arxiv.org/abs/2405.14277)|null|
 |**2024-05-21**|**G-DIG: Towards Gradient-based DIverse and hiGh-quality Instruction Data Selection for Machine Translation**|Xingyuan Pan et.al.|[2405.12915](http://arxiv.org/abs/2405.12915)|null|
-|**2024-05-21**|**A Survey on Multi-modal Machine Translation: Tasks, Methods and Challenges**|Huangjun Shen et.al.|[2405.12669](http://arxiv.org/abs/2405.12669)|null|
+|**2024-05-23**|**A Survey on Multi-modal Machine Translation: Tasks, Methods and Challenges**|Huangjun Shen et.al.|[2405.12669](http://arxiv.org/abs/2405.12669)|null|
 |**2024-05-20**|**FAME-MT Dataset: Formality Awareness Made Easy for Machine Translation Purposes**|Dawid Wiśniewski et.al.|[2405.11942](http://arxiv.org/abs/2405.11942)|**[link](https://github.com/laniqo-public/fame-mt)**|
 |**2024-05-20**|**Chasing COMET: Leveraging Minimum Bayes Risk Decoding for Self-Improving Machine Translation**|Kamil Guttmann et.al.|[2405.11937](http://arxiv.org/abs/2405.11937)|null|
-|**2024-05-21**|**A Novel Cartography-Based Curriculum Learning Method Applied on RoNLI: The First Romanian Natural Language Inference Corpus**|Eduard Poesina et.al.|[2405.11877](http://arxiv.org/abs/2405.11877)|**[link](https://github.com/eduard6421/ronli)**|
+|**2024-05-22**|**A Novel Cartography-Based Curriculum Learning Method Applied on RoNLI: The First Romanian Natural Language Inference Corpus**|Eduard Poesina et.al.|[2405.11877](http://arxiv.org/abs/2405.11877)|**[link](https://github.com/eduard6421/ronli)**|
 |**2024-05-20**|**Beyond MLE: Investigating SEARNN for Low-Resourced Neural Machine Translation**|Chris Emezue et.al.|[2405.11819](http://arxiv.org/abs/2405.11819)|null|
 |**2024-05-20**|**(Perhaps) Beyond Human Translation: Harnessing Multi-Agent Collaboration for Translating Ultra-Long Literary Texts**|Minghao Wu et.al.|[2405.11804](http://arxiv.org/abs/2405.11804)|null|
 |**2024-05-19**|**Cyber Risks of Machine Translation Critical Errors : Arabic Mental Health Tweets as a Case Study**|Hadeel Saadany et.al.|[2405.11668](http://arxiv.org/abs/2405.11668)|null|
@@ -3779,6 +3793,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-23**|**Self-Taught Recognizer: Toward Unsupervised Adaptation for Speech Foundation Models**|Yuchen Hu et.al.|[2405.14161](http://arxiv.org/abs/2405.14161)|null|
+|**2024-05-22**|**DiffNorm: Self-Supervised Normalization for Non-autoregressive Speech-to-speech Translation**|Weiting Tan et.al.|[2405.13274](http://arxiv.org/abs/2405.13274)|**[link](https://github.com/steventan0110/diffnorm)**|
+|**2024-05-21**|**MELD-ST: An Emotion-aware Speech Translation Dataset**|Sirou Chen et.al.|[2405.13233](http://arxiv.org/abs/2405.13233)|null|
 |**2024-05-07**|**Open Implementation and Study of BEST-RQ for Speech Processing**|Ryan Whetten et.al.|[2405.04296](http://arxiv.org/abs/2405.04296)|**[link](https://github.com/speechbrain/speechbrain)**|
 |**2024-05-09**|**Does Whisper understand Swiss German? An automatic, qualitative, and human evaluation**|Eyal Liron Dolev et.al.|[2404.19310](http://arxiv.org/abs/2404.19310)|null|
 |**2024-04-18**|**Simultaneous Interpretation Corpus Construction by Large Language Models in Distant Language Pair**|Yusuke Sakai et.al.|[2404.12299](http://arxiv.org/abs/2404.12299)|null|
@@ -3819,6 +3836,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-23**|**WISE: Rethinking the Knowledge Memory for Lifelong Model Editing of Large Language Models**|Peng Wang et.al.|[2405.14768](http://arxiv.org/abs/2405.14768)|**[link](https://github.com/zjunlp/easyedit)**|
+|**2024-05-23**|**Exploring Prosocial Irrationality for LLM Agents: A Social Cognition View**|Xuan Liu et.al.|[2405.14744](http://arxiv.org/abs/2405.14744)|null|
+|**2024-05-23**|**Calibrated Self-Rewarding Vision Language Models**|Yiyang Zhou et.al.|[2405.14622](http://arxiv.org/abs/2405.14622)|null|
+|**2024-05-23**|**Explaining Multi-modal Large Language Models by Analyzing their Vision Perception**|Loris Giulivi et.al.|[2405.14612](http://arxiv.org/abs/2405.14612)|null|
+|**2024-05-23**|**Impact of Non-Standard Unicode Characters on Security and Comprehension in Large Language Models**|Johan S Daniel et.al.|[2405.14490](http://arxiv.org/abs/2405.14490)|**[link](https://github.com/raidedcluster/non-standard_unicode_jailbreaks)**|
+|**2024-05-23**|**RefChecker: Reference-based Fine-grained Hallucination Checker and Benchmark for Large Language Models**|Xiangkun Hu et.al.|[2405.14486](http://arxiv.org/abs/2405.14486)|null|
+|**2024-05-23**|**Perception of Knowledge Boundary for Large Language Models through Semi-open-ended Question Answering**|Zhihua Wen et.al.|[2405.14383](http://arxiv.org/abs/2405.14383)|null|
+|**2024-05-23**|**Autoregressive Image Diffusion: Generating Image Sequence and Application in MRI**|Guanxiong Luo et.al.|[2405.14327](http://arxiv.org/abs/2405.14327)|null|
+|**2024-05-23**|**Language processing in humans and computers**|Dusko Pavlovic et.al.|[2405.14233](http://arxiv.org/abs/2405.14233)|null|
+|**2024-05-22**|**Feedback-aligned Mixed LLMs for Machine Language-Molecule Translation**|Dimitris Gkoumas et.al.|[2405.13984](http://arxiv.org/abs/2405.13984)|null|
 |**2024-05-21**|**OLAPH: Improving Factuality in Biomedical Long-form Question Answering**|Minbyul Jeong et.al.|[2405.12701](http://arxiv.org/abs/2405.12701)|**[link](https://github.com/dmis-lab/olaph)**|
 |**2024-05-21**|**Retrieval-Augmented Language Model for Extreme Multi-Label Knowledge Graph Link Prediction**|Yu-Hsiang Lin et.al.|[2405.12656](http://arxiv.org/abs/2405.12656)|**[link](https://github.com/exiled1143/retrieval-augmented-language-model-for-multi-label-knowledge-graph-link-prediction)**|
 |**2024-05-21**|**Fight Fire with Fire: How Much Can We Trust ChatGPT on Source Code-Related Tasks?**|Xiao Yu et.al.|[2405.12641](http://arxiv.org/abs/2405.12641)|null|
