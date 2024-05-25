@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.24
+## Updated on 2024.05.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3841,7 +3841,7 @@ layout: default
 |**2024-05-23**|**Calibrated Self-Rewarding Vision Language Models**|Yiyang Zhou et.al.|[2405.14622](http://arxiv.org/abs/2405.14622)|null|
 |**2024-05-23**|**Explaining Multi-modal Large Language Models by Analyzing their Vision Perception**|Loris Giulivi et.al.|[2405.14612](http://arxiv.org/abs/2405.14612)|null|
 |**2024-05-23**|**Impact of Non-Standard Unicode Characters on Security and Comprehension in Large Language Models**|Johan S Daniel et.al.|[2405.14490](http://arxiv.org/abs/2405.14490)|**[link](https://github.com/raidedcluster/non-standard_unicode_jailbreaks)**|
-|**2024-05-23**|**RefChecker: Reference-based Fine-grained Hallucination Checker and Benchmark for Large Language Models**|Xiangkun Hu et.al.|[2405.14486](http://arxiv.org/abs/2405.14486)|null|
+|**2024-05-23**|**RefChecker: Reference-based Fine-grained Hallucination Checker and Benchmark for Large Language Models**|Xiangkun Hu et.al.|[2405.14486](http://arxiv.org/abs/2405.14486)|**[link](https://github.com/amazon-science/refchecker)**|
 |**2024-05-23**|**Perception of Knowledge Boundary for Large Language Models through Semi-open-ended Question Answering**|Zhihua Wen et.al.|[2405.14383](http://arxiv.org/abs/2405.14383)|null|
 |**2024-05-23**|**Autoregressive Image Diffusion: Generating Image Sequence and Application in MRI**|Guanxiong Luo et.al.|[2405.14327](http://arxiv.org/abs/2405.14327)|null|
 |**2024-05-23**|**Language processing in humans and computers**|Dusko Pavlovic et.al.|[2405.14233](http://arxiv.org/abs/2405.14233)|null|
