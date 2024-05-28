@@ -2291,6 +2291,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-27**|**Matryoshka Multimodal Models**|Mu Cai et.al.|[2405.17430](http://arxiv.org/abs/2405.17430)|null|
+|**2024-05-27**|**NV-Embed: Improved Techniques for Training LLMs as Generalist Embedding Models**|Chankyu Lee et.al.|[2405.17428](http://arxiv.org/abs/2405.17428)|null|
+|**2024-05-27**|**Reason3D: Searching and Reasoning 3D Segmentation via Large Language Model**|Kuan-Chih Huang et.al.|[2405.17427](http://arxiv.org/abs/2405.17427)|**[link](https://github.com/kuanchihhuang/reason3d)**|
+|**2024-05-27**|**LARM: Large Auto-Regressive Model for Long-Horizon Embodied Intelligence**|Zhuoling Li et.al.|[2405.17424](http://arxiv.org/abs/2405.17424)|null|
+|**2024-05-27**|**Privacy-Aware Visual Language Models**|Laurens Samson et.al.|[2405.17423](http://arxiv.org/abs/2405.17423)|null|
+|**2024-05-27**|**Self-Corrected Multimodal Large Language Model for End-to-End Robot Manipulation**|Jiaming Liu et.al.|[2405.17418](http://arxiv.org/abs/2405.17418)|null|
+|**2024-05-27**|**THREAD: Thinking Deeper with Recursive Spawning**|Philip Schroeder et.al.|[2405.17402](http://arxiv.org/abs/2405.17402)|null|
+|**2024-05-27**|**The Expressive Capacity of State Space Models: A Formal Language Perspective**|Yash Sarrof et.al.|[2405.17394](http://arxiv.org/abs/2405.17394)|null|
+|**2024-05-27**|**MindMerger: Efficient Boosting LLM Reasoning in non-English Languages**|Zixian Huang et.al.|[2405.17386](http://arxiv.org/abs/2405.17386)|null|
+|**2024-05-27**|**Unlocking the Secrets of Linear Complexity Sequence Model from A Unified Perspective**|Zhen Qin et.al.|[2405.17383](http://arxiv.org/abs/2405.17383)|null|
 |**2024-05-24**|**Scaling Laws for Discriminative Classification in Large Language Models**|Dean Wyatte et.al.|[2405.15765](http://arxiv.org/abs/2405.15765)|null|
 |**2024-05-24**|**Filtered Corpus Training (FiCT) Shows that Language Models can Generalize from Indirect Evidence**|Abhinav Patil et.al.|[2405.15750](http://arxiv.org/abs/2405.15750)|null|
 |**2024-05-24**|**Sparse maximal update parameterization: A holistic approach to sparse training dynamics**|Nolan Dey et.al.|[2405.15743](http://arxiv.org/abs/2405.15743)|null|
@@ -3507,6 +3517,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-27**|**The Multi-Range Theory of Translation Quality Measurement: MQM scoring models and Statistical Quality Control**|Arle Lommel et.al.|[2405.16969](http://arxiv.org/abs/2405.16969)|null|
+|**2024-05-26**|**M-RAG: Reinforcing Large Language Model Performance through Retrieval-Augmented Generation with Multiple Partitions**|Zheng Wang et.al.|[2405.16420](http://arxiv.org/abs/2405.16420)|null|
 |**2024-05-24**|**Sparse Spectral Training and Inference on Euclidean and Hyperbolic Neural Networks**|Jialin Zhao et.al.|[2405.15481](http://arxiv.org/abs/2405.15481)|null|
 |**2024-05-23**|**Optimizing example selection for retrieval-augmented machine translation with translation memories**|Maxime Bouthors et.al.|[2405.15070](http://arxiv.org/abs/2405.15070)|null|
 |**2024-05-23**|**Exploring Alignment in Shared Cross-lingual Spaces**|Basel Mousi et.al.|[2405.14535](http://arxiv.org/abs/2405.14535)|null|
@@ -3881,6 +3893,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-27**|**Assessing LLMs Suitability for Knowledge Graph Completion**|Vasile Ionut Remus Iga et.al.|[2405.17249](http://arxiv.org/abs/2405.17249)|**[link](https://github.com/ionutiga/llms-for-kgc)**|
+|**2024-05-27**|**RLAIF-V: Aligning MLLMs through Open-Source AI Feedback for Super GPT-4V Trustworthiness**|Tianyu Yu et.al.|[2405.17220](http://arxiv.org/abs/2405.17220)|**[link](https://github.com/rlhf-v/rlaif-v)**|
+|**2024-05-27**|**Think Before You Act: A Two-Stage Framework for Mitigating Gender Bias Towards Vision-Language Tasks**|Yunqi Zhang et.al.|[2405.16860](http://arxiv.org/abs/2405.16860)|**[link](https://github.com/zyq0000/gama)**|
+|**2024-05-27**|**Laboratory-Scale AI: Open-Weight Models are Competitive with ChatGPT Even in Low-Resource Settings**|Robert Wolfe et.al.|[2405.16820](http://arxiv.org/abs/2405.16820)|null|
+|**2024-05-26**|**Implicit Multimodal Alignment: On the Generalization of Frozen LLMs to Multimodal Inputs**|Mustafa Shukor et.al.|[2405.16700](http://arxiv.org/abs/2405.16700)|**[link](https://github.com/mshukor/ima-lmms)**|
+|**2024-05-26**|**GRAG: Graph Retrieval-Augmented Generation**|Yuntong Hu et.al.|[2405.16506](http://arxiv.org/abs/2405.16506)|null|
+|**2024-05-26**|**Looks Too Good To Be True: An Information-Theoretic Analysis of Hallucinations in Generative Restoration Models**|Regev Cohen et.al.|[2405.16475](http://arxiv.org/abs/2405.16475)|null|
+|**2024-05-25**|**LUCIE: A Lightweight Uncoupled ClImate Emulator with long-term stability and physical consistency for O(1000)-member ensembles**|Haiwen Guan et.al.|[2405.16297](http://arxiv.org/abs/2405.16297)|null|
+|**2024-05-25**|**AutoManual: Generating Instruction Manuals by LLM Agents via Interactive Environmental Learning**|Minghao Chen et.al.|[2405.16247](http://arxiv.org/abs/2405.16247)|null|
+|**2024-05-25**|**GeneAgent: Self-verification Language Agent for Gene Set Knowledge Discovery using Domain Databases**|Zhizheng Wang et.al.|[2405.16205](http://arxiv.org/abs/2405.16205)|null|
 |**2024-05-24**|**Scaling Laws for Discriminative Classification in Large Language Models**|Dean Wyatte et.al.|[2405.15765](http://arxiv.org/abs/2405.15765)|null|
 |**2024-05-24**|**VDGD: Mitigating LVLM Hallucinations in Cognitive Prompts by Bridging the Visual Perception Gap**|Sreyan Ghosh et.al.|[2405.15683](http://arxiv.org/abs/2405.15683)|null|
 |**2024-05-24**|**LLM-based Robot Task Planning with Exceptional Handling for General Purpose Service Robots**|Ruoyu Wang et.al.|[2405.15646](http://arxiv.org/abs/2405.15646)|null|
