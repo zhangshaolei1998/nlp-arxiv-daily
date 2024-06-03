@@ -2265,6 +2265,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-31**|**Video-MME: The First-Ever Comprehensive Evaluation Benchmark of Multi-modal LLMs in Video Analysis**|Chaoyou Fu et.al.|[2405.21075](http://arxiv.org/abs/2405.21075)|null|
+|**2024-05-31**|**Code Pretraining Improves Entity Tracking Abilities of Language Models**|Najoung Kim et.al.|[2405.21068](http://arxiv.org/abs/2405.21068)|null|
+|**2024-05-31**|**Transformers are SSMs: Generalized Models and Efficient Algorithms Through Structured State Space Duality**|Tri Dao et.al.|[2405.21060](http://arxiv.org/abs/2405.21060)|null|
+|**2024-05-31**|**Kaleido Diffusion: Improving Conditional Diffusion Models with Autoregressive Latent Modeling**|Jiatao Gu et.al.|[2405.21048](http://arxiv.org/abs/2405.21048)|null|
+|**2024-05-31**|**Grammar-Aligned Decoding**|Kanghee Park et.al.|[2405.21047](http://arxiv.org/abs/2405.21047)|null|
+|**2024-05-31**|**Exploratory Preference Optimization: Harnessing Implicit Q*-Approximation for Sample-Efficient RLHF**|Tengyang Xie et.al.|[2405.21046](http://arxiv.org/abs/2405.21046)|null|
+|**2024-05-31**|**Direct Alignment of Language Models via Quality-Aware Self-Refinement**|Runsheng Yu et.al.|[2405.21040](http://arxiv.org/abs/2405.21040)|null|
+|**2024-05-31**|**Standards for Belief Representations in LLMs**|Daniel A. Herrmann et.al.|[2405.21030](http://arxiv.org/abs/2405.21030)|null|
+|**2024-05-31**|**LACIE: Listener-Aware Finetuning for Confidence Calibration in Large Language Models**|Elias Stengel-Eskin et.al.|[2405.21028](http://arxiv.org/abs/2405.21028)|**[link](https://github.com/esteng/pragmatic_calibration)**|
+|**2024-05-31**|**You Only Scan Once: Efficient Multi-dimension Sequential Modeling with LightNet**|Zhen Qin et.al.|[2405.21022](http://arxiv.org/abs/2405.21022)|null|
 |**2024-05-30**|**MotionLLM: Understanding Human Behaviors from Human Motions and Videos**|Ling-Hao Chen et.al.|[2405.20340](http://arxiv.org/abs/2405.20340)|null|
 |**2024-05-30**|**Visual Perception by Large Language Model's Weights**|Feipeng Ma et.al.|[2405.20339](http://arxiv.org/abs/2405.20339)|null|
 |**2024-05-30**|**Xwin-LM: Strong and Scalable Alignment Practice for LLMs**|Bolin Ni et.al.|[2405.20335](http://arxiv.org/abs/2405.20335)|**[link](https://github.com/xwin-lm/xwin-lm)**|
@@ -3519,6 +3529,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-30**|**How Multilingual Are Large Language Models Fine-Tuned for Translation?**|Aquia Richburg et.al.|[2405.20512](http://arxiv.org/abs/2405.20512)|null|
 |**2024-05-30**|**The Fine-Tuning Paradox: Boosting Translation Quality Without Sacrificing LLM Abilities**|David Stap et.al.|[2405.20089](http://arxiv.org/abs/2405.20089)|null|
 |**2024-05-30**|**Significance of Chain of Thought in Gender Bias Mitigation for English-Dravidian Machine Translation**|Lavanya Prahallad et.al.|[2405.19701](http://arxiv.org/abs/2405.19701)|null|
 |**2024-05-29**|**Critical Learning Periods: Leveraging Early Training Dynamics for Efficient Data Pruning**|Everlyn Asiko Chimoto et.al.|[2405.19462](http://arxiv.org/abs/2405.19462)|null|
@@ -3856,6 +3867,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-30**|**SeamlessExpressiveLM: Speech Language Model for Expressive Speech-to-Speech Translation with Chain-of-Thought**|Hongyu Gong et.al.|[2405.20410](http://arxiv.org/abs/2405.20410)|null|
 |**2024-05-28**|**TransVIP: Speech to Speech Translation System with Voice and Isochrony Preservation**|Chenyang Le et.al.|[2405.17809](http://arxiv.org/abs/2405.17809)|null|
 |**2024-05-23**|**Self-Taught Recognizer: Toward Unsupervised Adaptation for Speech Foundation Models**|Yuchen Hu et.al.|[2405.14161](http://arxiv.org/abs/2405.14161)|**[link](https://github.com/yuchen005/star-adapt)**|
 |**2024-05-22**|**DiffNorm: Self-Supervised Normalization for Non-autoregressive Speech-to-speech Translation**|Weiting Tan et.al.|[2405.13274](http://arxiv.org/abs/2405.13274)|**[link](https://github.com/steventan0110/diffnorm)**|
@@ -3900,6 +3912,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-31**|**Enhancing Noise Robustness of Retrieval-Augmented Language Models with Adaptive Adversarial Training**|Feiteng Fang et.al.|[2405.20978](http://arxiv.org/abs/2405.20978)|null|
+|**2024-05-31**|**DAFNet: Dynamic Auxiliary Fusion for Sequential Model Editing in Large Language Models**|Taolin Zhang et.al.|[2405.20588](http://arxiv.org/abs/2405.20588)|null|
+|**2024-05-30**|**SECURE: Benchmarking Generative Large Language Models for Cybersecurity Advisory**|Dipkamal Bhusal et.al.|[2405.20441](http://arxiv.org/abs/2405.20441)|null|
+|**2024-05-30**|**Facilitating Human-LLM Collaboration through Factuality Scores and Source Attributions**|Hyo Jin Do et.al.|[2405.20434](http://arxiv.org/abs/2405.20434)|null|
+|**2024-05-30**|**Worse than Random? An Embarrassingly Simple Probing Evaluation of Large Multimodal Models in Medical VQA**|Qianqi Yan et.al.|[2405.20421](http://arxiv.org/abs/2405.20421)|**[link](https://github.com/eric-ai-lab/probmed)**|
+|**2024-05-30**|**Hallucination-Free? Assessing the Reliability of Leading AI Legal Research Tools**|Varun Magesh et.al.|[2405.20362](http://arxiv.org/abs/2405.20362)|null|
 |**2024-05-30**|**ANAH: Analytical Annotation of Hallucinations in Large Language Models**|Ziwei Ji et.al.|[2405.20315](http://arxiv.org/abs/2405.20315)|**[link](https://github.com/open-compass/anah)**|
 |**2024-05-31**|**NoiseBoost: Alleviating Hallucination with Noise Perturbation for Multimodal Large Language Models**|Kai Wu et.al.|[2405.20081](http://arxiv.org/abs/2405.20081)|null|
 |**2024-05-30**|**Would I Lie To You? Inference Time Alignment of Language Models using Direct Preference Heads**|Avelina Asada Hadji-Kyriacou et.al.|[2405.20053](http://arxiv.org/abs/2405.20053)|**[link](https://github.com/Avelina9X/direct-preference-heads)**|
