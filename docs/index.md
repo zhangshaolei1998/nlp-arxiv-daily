@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.08
+## Updated on 2024.06.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2189,8 +2189,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-06-06**|**Batch-in-Batch: a new adversarial training framework for initial perturbation and sample selection**|Yinting Wu et.al.|[2406.04070](http://arxiv.org/abs/2406.04070)|null|
-|**2024-06-06**|**Decoder-only Streaming Transformer for Simultaneous Translation**|Shoutao Guo et.al.|[2406.03878](http://arxiv.org/abs/2406.03878)|null|
+|**2024-06-06**|**Batch-in-Batch: a new adversarial training framework for initial perturbation and sample selection**|Yinting Wu et.al.|[2406.04070](http://arxiv.org/abs/2406.04070)|**[link](https://github.com/Yinting-Wu/Batch-in-Batch)**|
+|**2024-06-06**|**Decoder-only Streaming Transformer for Simultaneous Translation**|Shoutao Guo et.al.|[2406.03878](http://arxiv.org/abs/2406.03878)|**[link](https://github.com/ictnlp/DST)**|
 |**2024-06-05**|**StreamSpeech: Simultaneous Speech-to-Speech Translation with Multi-task Learning**|Shaolei Zhang et.al.|[2406.03049](http://arxiv.org/abs/2406.03049)|**[link](https://github.com/ictnlp/streamspeech)**|
 |**2024-06-04**|**Self-Modifying State Modeling for Simultaneous Machine Translation**|Donglei Yu et.al.|[2406.02237](http://arxiv.org/abs/2406.02237)|**[link](https://github.com/EurekaForNLP/SM2)**|
 |**2024-06-01**|**Recent Advances in End-to-End Simultaneous Speech Translation**|Xiaoqian Liu et.al.|[2406.00497](http://arxiv.org/abs/2406.00497)|null|
@@ -3567,7 +3567,7 @@ layout: default
 |**2024-06-06**|**FairytaleQA Translated: Enabling Educational Question and Answer Generation in Less-Resourced Languages**|Bernardo Leite et.al.|[2406.04233](http://arxiv.org/abs/2406.04233)|**[link](https://github.com/bernardoleite/fairytaleqa-translated)**|
 |**2024-06-06**|**How Good is Zero-Shot MT Evaluation for Low Resource Indian Languages?**|Anushka Singh et.al.|[2406.03893](http://arxiv.org/abs/2406.03893)|null|
 |**2024-06-06**|**Evaluating the IWSLT2023 Speech Translation Tasks: Human Annotations, Automatic Metrics, and Segmentation**|Matthias Sperber et.al.|[2406.03881](http://arxiv.org/abs/2406.03881)|null|
-|**2024-06-06**|**Decoder-only Streaming Transformer for Simultaneous Translation**|Shoutao Guo et.al.|[2406.03878](http://arxiv.org/abs/2406.03878)|null|
+|**2024-06-06**|**Decoder-only Streaming Transformer for Simultaneous Translation**|Shoutao Guo et.al.|[2406.03878](http://arxiv.org/abs/2406.03878)|**[link](https://github.com/ictnlp/DST)**|
 |**2024-06-06**|**Recovering document annotations for sentence-level bitext**|Rachel Wicks et.al.|[2406.03869](http://arxiv.org/abs/2406.03869)|null|
 |**2024-06-05**|**What is the Best Way for ChatGPT to Translate Poetry?**|Shanshan Wang et.al.|[2406.03450](http://arxiv.org/abs/2406.03450)|null|
 |**2024-06-05**|**IrokoBench: A New Benchmark for African Languages in the Age of Large Language Models**|David Ifeoluwa Adelani et.al.|[2406.03368](http://arxiv.org/abs/2406.03368)|null|
@@ -3972,11 +3972,11 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-06-06**|**PaCE: Parsimonious Concept Engineering for Large Language Models**|Jinqi Luo et.al.|[2406.04331](http://arxiv.org/abs/2406.04331)|**[link](https://github.com/peterljq/parsimonious-concept-engineering)**|
-|**2024-06-06**|**Semantically Diverse Language Generation for Uncertainty Estimation in Language Models**|Lukas Aichberger et.al.|[2406.04306](http://arxiv.org/abs/2406.04306)|null|
+|**2024-06-06**|**Semantically Diverse Language Generation for Uncertainty Estimation in Language Models**|Lukas Aichberger et.al.|[2406.04306](http://arxiv.org/abs/2406.04306)|**[link](https://github.com/ml-jku/SDLG)**|
 |**2024-06-06**|**Generative AI-in-the-loop: Integrating LLMs and GPTs into the Next Generation Networks**|Han Zhang et.al.|[2406.04276](http://arxiv.org/abs/2406.04276)|null|
 |**2024-06-06**|**Confabulation: The Surprising Value of Large Language Model Hallucinations**|Peiqi Sui et.al.|[2406.04175](http://arxiv.org/abs/2406.04175)|null|
 |**2024-06-06**|**ActionReasoningBench: Reasoning about Actions with and without Ramification Constraints**|Divij Handa et.al.|[2406.04046](http://arxiv.org/abs/2406.04046)|null|
-|**2024-06-06**|**Chaos with Keywords: Exposing Large Language Models Sycophancy to Misleading Keywords and Evaluating Defense Strategies**|Aswin RRV et.al.|[2406.03827](http://arxiv.org/abs/2406.03827)|null|
+|**2024-06-06**|**Chaos with Keywords: Exposing Large Language Models Sycophancy to Misleading Keywords and Evaluating Defense Strategies**|Aswin RRV et.al.|[2406.03827](http://arxiv.org/abs/2406.03827)|**[link](https://github.com/3rdAT/ChaosWithKeywords)**|
 |**2024-06-06**|**AutoJailbreak: Exploring Jailbreak Attacks and Defenses through a Dependency Lens**|Lin Lu et.al.|[2406.03805](http://arxiv.org/abs/2406.03805)|null|
 |**2024-06-05**|**Analyzing LLM Behavior in Dialogue Summarization: Unveiling Circumstantial Hallucination Trends**|Sanjana Ramprasad et.al.|[2406.03487](http://arxiv.org/abs/2406.03487)|null|
 |**2024-06-05**|**Towards Detecting LLMs Hallucination via Markov Chain-based Multi-agent Debate Framework**|Xiaoxi Sun et.al.|[2406.03075](http://arxiv.org/abs/2406.03075)|null|
