@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.11
+## Updated on 2024.06.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -452,7 +452,7 @@
 |**2021-10-03**|**Quadrotor Control on $SU(2)\times R^3$ with SLAM Integration**|Marcus Greiff et.al.|[2110.01099](http://arxiv.org/abs/2110.01099)|null|
 |**2021-10-02**|**Online Incremental Non-Gaussian Inference for SLAM Using Normalizing Flows**|Qiangqiang Huang et.al.|[2110.00876](http://arxiv.org/abs/2110.00876)|**[link](https://github.com/marineroboticsgroup/nf-isam)**|
 
-<p align=right>(<a href=#updated-on-20240611>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240612>back to top</a>)</p>
 
 ## SFM
 
@@ -597,7 +597,7 @@
 |**2021-08-29**|**Solving Viewing Graph Optimization for Simultaneous Position and Rotation Registration**|Seyed-Mahdi Nasiri et.al.|[2108.12876](http://arxiv.org/abs/2108.12876)|null|
 |**2021-08-23**|**Burst Imaging for Light-Constrained Structure-From-Motion**|Ahalya Ravendran et.al.|[2108.09895](http://arxiv.org/abs/2108.09895)|null|
 
-<p align=right>(<a href=#updated-on-20240611>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240612>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -1193,7 +1193,7 @@
 |**2021-09-09**|**CrowdDriven: A New Challenging Dataset for Outdoor Visual Localization**|Ara Jafarzadeh et.al.|[2109.04527](http://arxiv.org/abs/2109.04527)|null|
 |**2021-09-09**|**Keeping an Eye on Things: Deep Learned Features for Long-Term Visual Localization**|Mona Gridseth et.al.|[2109.04041](http://arxiv.org/abs/2109.04041)|**[link](https://github.com/utiasasrl/deep_learned_visual_features)**|
 
-<p align=right>(<a href=#updated-on-20240611>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240612>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -1388,7 +1388,7 @@
 |**2021-08-31**|**A Novel Dataset for Keypoint Detection of quadruped Animals from Images**|Prianka Banik et.al.|[2108.13958](http://arxiv.org/abs/2108.13958)|**[link](https://github.com/prinik/awa-pose)**|
 |**2021-08-27**|**A Matching Algorithm based on Image Attribute Transfer and Local Features for Underwater Acoustic and Optical Images**|Xiaoteng Zhou et.al.|[2108.12151](http://arxiv.org/abs/2108.12151)|null|
 
-<p align=right>(<a href=#updated-on-20240611>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240612>back to top</a>)</p>
 
 ## Image Matching
 
@@ -1573,7 +1573,7 @@
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou et.al.|[2108.12072](http://arxiv.org/abs/2108.12072)|null|
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911](http://arxiv.org/abs/2108.11911)|null|
 
-<p align=right>(<a href=#updated-on-20240611>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240612>back to top</a>)</p>
 
 ## NeRF
 
@@ -2208,15 +2208,15 @@
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
 
-<p align=right>(<a href=#updated-on-20240611>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240612>back to top</a>)</p>
 
 ## Simultaneous Translation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-06-10**|**StreamAtt: Direct Streaming Speech-to-Text Translation with Attention-based Audio History Selection**|Sara Papi et.al.|[2406.06097](http://arxiv.org/abs/2406.06097)|null|
-|**2024-06-08**|**3D MRI Synthesis with Slice-Based Latent Diffusion Models: Improving Tumor Segmentation Tasks in Data-Scarce Regimes**|Aghiles Kebaili et.al.|[2406.05421](http://arxiv.org/abs/2406.05421)|null|
-|**2024-06-06**|**Label-Synchronous Neural Transducer for E2E Simultaneous Speech Translation**|Keqi Deng et.al.|[2406.04541](http://arxiv.org/abs/2406.04541)|null|
+|**2024-06-08**|**3D MRI Synthesis with Slice-Based Latent Diffusion Models: Improving Tumor Segmentation Tasks in Data-Scarce Regimes**|Aghiles Kebaili et.al.|[2406.05421](http://arxiv.org/abs/2406.05421)|**[link](https://github.com/Arksyd96/synthesis-with-slice-based-ldm)**|
+|**2024-06-06**|**Label-Synchronous Neural Transducer for E2E Simultaneous Speech Translation**|Keqi Deng et.al.|[2406.04541](http://arxiv.org/abs/2406.04541)|**[link](https://github.com/D-Keqi/LS-Transducer-SST)**|
 |**2024-06-06**|**Batch-in-Batch: a new adversarial training framework for initial perturbation and sample selection**|Yinting Wu et.al.|[2406.04070](http://arxiv.org/abs/2406.04070)|**[link](https://github.com/Yinting-Wu/Batch-in-Batch)**|
 |**2024-06-06**|**Decoder-only Streaming Transformer for Simultaneous Translation**|Shoutao Guo et.al.|[2406.03878](http://arxiv.org/abs/2406.03878)|**[link](https://github.com/ictnlp/DST)**|
 |**2024-06-05**|**StreamSpeech: Simultaneous Speech-to-Speech Translation with Multi-task Learning**|Shaolei Zhang et.al.|[2406.03049](http://arxiv.org/abs/2406.03049)|**[link](https://github.com/ictnlp/streamspeech)**|
@@ -2294,7 +2294,7 @@
 |**2023-11-07**|**CBSiMT: Mitigating Hallucination in Simultaneous Machine Translation with Weighted Prefix-to-Prefix Training**|Mengge Liu et.al.|[2311.03672](http://arxiv.org/abs/2311.03672)|null|
 |**2023-11-03**|**PRISM: Progressive Restoration for Scene Graph-based Image Manipulation**|Pavel Jahoda et.al.|[2311.02247](http://arxiv.org/abs/2311.02247)|null|
 
-<p align=right>(<a href=#updated-on-20240611>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240612>back to top</a>)</p>
 
 ## Language Model
 
@@ -3610,7 +3610,7 @@
 |**2023-11-29**|**End-to-end Joint Rich and Normalized ASR with a limited amount of rich training data**|Can Cui et.al.|[2311.17741](http://arxiv.org/abs/2311.17741)|null|
 |**2023-11-29**|**GenZI: Zero-Shot 3D Human-Scene Interaction Generation**|Lei Li et.al.|[2311.17737](http://arxiv.org/abs/2311.17737)|null|
 
-<p align=right>(<a href=#updated-on-20240611>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240612>back to top</a>)</p>
 
 ## Machine Translation
 
@@ -3973,13 +3973,13 @@
 |**2023-11-24**|**OpusCleaner and OpusTrainer, open source toolkits for training Machine Translation and Large language models**|Nikolay Bogoychev et.al.|[2311.14838](http://arxiv.org/abs/2311.14838)|**[link](https://github.com/hplt-project/opustrainer)**|
 |**2023-11-24**|**Machine Translation for Ge'ez Language**|Aman Kassahun Wassie et.al.|[2311.14530](http://arxiv.org/abs/2311.14530)|null|
 
-<p align=right>(<a href=#updated-on-20240611>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240612>back to top</a>)</p>
 
 ## Speech Translation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-06-06**|**Label-Synchronous Neural Transducer for E2E Simultaneous Speech Translation**|Keqi Deng et.al.|[2406.04541](http://arxiv.org/abs/2406.04541)|null|
+|**2024-06-06**|**Label-Synchronous Neural Transducer for E2E Simultaneous Speech Translation**|Keqi Deng et.al.|[2406.04541](http://arxiv.org/abs/2406.04541)|**[link](https://github.com/D-Keqi/LS-Transducer-SST)**|
 |**2024-06-06**|**Evaluating the IWSLT2023 Speech Translation Tasks: Human Annotations, Automatic Metrics, and Segmentation**|Matthias Sperber et.al.|[2406.03881](http://arxiv.org/abs/2406.03881)|null|
 |**2024-06-05**|**StreamSpeech: Simultaneous Speech-to-Speech Translation with Multi-task Learning**|Shaolei Zhang et.al.|[2406.03049](http://arxiv.org/abs/2406.03049)|**[link](https://github.com/ictnlp/streamspeech)**|
 |**2024-06-04**|**Textless Acoustic Model with Self-Supervised Distillation for Noise-Robust Expressive Speech-to-Speech Translation**|Min-Jae Hwang et.al.|[2406.02733](http://arxiv.org/abs/2406.02733)|null|
@@ -4028,7 +4028,7 @@
 |**2023-10-23**|**Leveraging Timestamp Information for Serialized Joint Streaming Recognition and Translation**|Sara Papi et.al.|[2310.14806](http://arxiv.org/abs/2310.14806)|null|
 |**2023-10-23**|**Long-Form Speech Translation through Segmentation with Finite-State Decoding Constraints on Large Language Models**|Arya D. McCarthy et.al.|[2310.13678](http://arxiv.org/abs/2310.13678)|null|
 
-<p align=right>(<a href=#updated-on-20240611>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240612>back to top</a>)</p>
 
 ## Hallucination
 
@@ -4039,10 +4039,10 @@
 |**2024-06-10**|**An Empirical Design Justice Approach to Identifying Ethical Considerations in the Intersection of Large Language Models and Social Robotics**|Alva Markelius et.al.|[2406.06400](http://arxiv.org/abs/2406.06400)|null|
 |**2024-06-10**|**Generalizable Human Gaussians from Single-View Image**|Jinnan Chen et.al.|[2406.06050](http://arxiv.org/abs/2406.06050)|**[link](https://github.com/jinnan-chen/HGM)**|
 |**2024-06-10**|**Vript: A Video Is Worth Thousands of Words**|Dongjie Yang et.al.|[2406.06040](http://arxiv.org/abs/2406.06040)|**[link](https://github.com/mutonix/vript)**|
-|**2024-06-09**|**F-LMM: Grounding Frozen Large Multimodal Models**|Size Wu et.al.|[2406.05821](http://arxiv.org/abs/2406.05821)|null|
+|**2024-06-09**|**F-LMM: Grounding Frozen Large Multimodal Models**|Size Wu et.al.|[2406.05821](http://arxiv.org/abs/2406.05821)|**[link](https://github.com/wusize/f-lmm)**|
 |**2024-06-09**|**MrRank: Improving Question Answering Retrieval System through Multi-Result Ranking Model**|Danupat Khamnuansin et.al.|[2406.05733](http://arxiv.org/abs/2406.05733)|null|
 |**2024-06-09**|**VillagerAgent: A Graph-Based Multi-Agent Framework for Coordinating Complex Task Dependencies in Minecraft**|Yubo Dong et.al.|[2406.05720](http://arxiv.org/abs/2406.05720)|**[link](https://github.com/cnsdqd-dyb/villageragent)**|
-|**2024-06-09**|**DomainRAG: A Chinese Benchmark for Evaluating Domain-specific Retrieval-Augmented Generation**|Shuting Wang et.al.|[2406.05654](http://arxiv.org/abs/2406.05654)|null|
+|**2024-06-09**|**DomainRAG: A Chinese Benchmark for Evaluating Domain-specific Retrieval-Augmented Generation**|Shuting Wang et.al.|[2406.05654](http://arxiv.org/abs/2406.05654)|**[link](https://github.com/ShootingWong/DomainRAG)**|
 |**2024-06-08**|**Investigating and Addressing Hallucinations of LLMs in Tasks Involving Negation**|Neeraj Varshney et.al.|[2406.05494](http://arxiv.org/abs/2406.05494)|null|
 |**2024-06-07**|**3D-GRAND: Towards Better Grounding and Less Hallucination for 3D-LLMs**|Jianing Yang et.al.|[2406.05132](http://arxiv.org/abs/2406.05132)|null|
 |**2024-06-07**|**An Empirical Study on Parameter-Efficient Fine-Tuning for MultiModal Large Language Models**|Xiongtao Zhou et.al.|[2406.05130](http://arxiv.org/abs/2406.05130)|null|
@@ -4679,7 +4679,7 @@
 |**2023-11-28**|**Beyond Hallucinations: Enhancing LVLMs through Hallucination-Aware Direct Preference Optimization**|Zhiyuan Zhao et.al.|[2311.16839](http://arxiv.org/abs/2311.16839)|null|
 |**2023-11-27**|**Deceptive-Human: Prompt-to-NeRF 3D Human Generation with 3D-Consistent Synthetic Images**|Shiu-hong Kao et.al.|[2311.16499](http://arxiv.org/abs/2311.16499)|**[link](https://github.com/danielshkao/deceptivehuman)**|
 
-<p align=right>(<a href=#updated-on-20240611>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240612>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

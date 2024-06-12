@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.11
+## Updated on 2024.06.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2190,8 +2190,8 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-06-10**|**StreamAtt: Direct Streaming Speech-to-Text Translation with Attention-based Audio History Selection**|Sara Papi et.al.|[2406.06097](http://arxiv.org/abs/2406.06097)|null|
-|**2024-06-08**|**3D MRI Synthesis with Slice-Based Latent Diffusion Models: Improving Tumor Segmentation Tasks in Data-Scarce Regimes**|Aghiles Kebaili et.al.|[2406.05421](http://arxiv.org/abs/2406.05421)|null|
-|**2024-06-06**|**Label-Synchronous Neural Transducer for E2E Simultaneous Speech Translation**|Keqi Deng et.al.|[2406.04541](http://arxiv.org/abs/2406.04541)|null|
+|**2024-06-08**|**3D MRI Synthesis with Slice-Based Latent Diffusion Models: Improving Tumor Segmentation Tasks in Data-Scarce Regimes**|Aghiles Kebaili et.al.|[2406.05421](http://arxiv.org/abs/2406.05421)|**[link](https://github.com/Arksyd96/synthesis-with-slice-based-ldm)**|
+|**2024-06-06**|**Label-Synchronous Neural Transducer for E2E Simultaneous Speech Translation**|Keqi Deng et.al.|[2406.04541](http://arxiv.org/abs/2406.04541)|**[link](https://github.com/D-Keqi/LS-Transducer-SST)**|
 |**2024-06-06**|**Batch-in-Batch: a new adversarial training framework for initial perturbation and sample selection**|Yinting Wu et.al.|[2406.04070](http://arxiv.org/abs/2406.04070)|**[link](https://github.com/Yinting-Wu/Batch-in-Batch)**|
 |**2024-06-06**|**Decoder-only Streaming Transformer for Simultaneous Translation**|Shoutao Guo et.al.|[2406.03878](http://arxiv.org/abs/2406.03878)|**[link](https://github.com/ictnlp/DST)**|
 |**2024-06-05**|**StreamSpeech: Simultaneous Speech-to-Speech Translation with Multi-task Learning**|Shaolei Zhang et.al.|[2406.03049](http://arxiv.org/abs/2406.03049)|**[link](https://github.com/ictnlp/streamspeech)**|
@@ -3948,7 +3948,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-06-06**|**Label-Synchronous Neural Transducer for E2E Simultaneous Speech Translation**|Keqi Deng et.al.|[2406.04541](http://arxiv.org/abs/2406.04541)|null|
+|**2024-06-06**|**Label-Synchronous Neural Transducer for E2E Simultaneous Speech Translation**|Keqi Deng et.al.|[2406.04541](http://arxiv.org/abs/2406.04541)|**[link](https://github.com/D-Keqi/LS-Transducer-SST)**|
 |**2024-06-06**|**Evaluating the IWSLT2023 Speech Translation Tasks: Human Annotations, Automatic Metrics, and Segmentation**|Matthias Sperber et.al.|[2406.03881](http://arxiv.org/abs/2406.03881)|null|
 |**2024-06-05**|**StreamSpeech: Simultaneous Speech-to-Speech Translation with Multi-task Learning**|Shaolei Zhang et.al.|[2406.03049](http://arxiv.org/abs/2406.03049)|**[link](https://github.com/ictnlp/streamspeech)**|
 |**2024-06-04**|**Textless Acoustic Model with Self-Supervised Distillation for Noise-Robust Expressive Speech-to-Speech Translation**|Min-Jae Hwang et.al.|[2406.02733](http://arxiv.org/abs/2406.02733)|null|
@@ -4006,10 +4006,10 @@ layout: default
 |**2024-06-10**|**An Empirical Design Justice Approach to Identifying Ethical Considerations in the Intersection of Large Language Models and Social Robotics**|Alva Markelius et.al.|[2406.06400](http://arxiv.org/abs/2406.06400)|null|
 |**2024-06-10**|**Generalizable Human Gaussians from Single-View Image**|Jinnan Chen et.al.|[2406.06050](http://arxiv.org/abs/2406.06050)|**[link](https://github.com/jinnan-chen/HGM)**|
 |**2024-06-10**|**Vript: A Video Is Worth Thousands of Words**|Dongjie Yang et.al.|[2406.06040](http://arxiv.org/abs/2406.06040)|**[link](https://github.com/mutonix/vript)**|
-|**2024-06-09**|**F-LMM: Grounding Frozen Large Multimodal Models**|Size Wu et.al.|[2406.05821](http://arxiv.org/abs/2406.05821)|null|
+|**2024-06-09**|**F-LMM: Grounding Frozen Large Multimodal Models**|Size Wu et.al.|[2406.05821](http://arxiv.org/abs/2406.05821)|**[link](https://github.com/wusize/f-lmm)**|
 |**2024-06-09**|**MrRank: Improving Question Answering Retrieval System through Multi-Result Ranking Model**|Danupat Khamnuansin et.al.|[2406.05733](http://arxiv.org/abs/2406.05733)|null|
 |**2024-06-09**|**VillagerAgent: A Graph-Based Multi-Agent Framework for Coordinating Complex Task Dependencies in Minecraft**|Yubo Dong et.al.|[2406.05720](http://arxiv.org/abs/2406.05720)|**[link](https://github.com/cnsdqd-dyb/villageragent)**|
-|**2024-06-09**|**DomainRAG: A Chinese Benchmark for Evaluating Domain-specific Retrieval-Augmented Generation**|Shuting Wang et.al.|[2406.05654](http://arxiv.org/abs/2406.05654)|null|
+|**2024-06-09**|**DomainRAG: A Chinese Benchmark for Evaluating Domain-specific Retrieval-Augmented Generation**|Shuting Wang et.al.|[2406.05654](http://arxiv.org/abs/2406.05654)|**[link](https://github.com/ShootingWong/DomainRAG)**|
 |**2024-06-08**|**Investigating and Addressing Hallucinations of LLMs in Tasks Involving Negation**|Neeraj Varshney et.al.|[2406.05494](http://arxiv.org/abs/2406.05494)|null|
 |**2024-06-07**|**3D-GRAND: Towards Better Grounding and Less Hallucination for 3D-LLMs**|Jianing Yang et.al.|[2406.05132](http://arxiv.org/abs/2406.05132)|null|
 |**2024-06-07**|**An Empirical Study on Parameter-Efficient Fine-Tuning for MultiModal Large Language Models**|Xiongtao Zhou et.al.|[2406.05130](http://arxiv.org/abs/2406.05130)|null|
