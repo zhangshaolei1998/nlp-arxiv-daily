@@ -2189,6 +2189,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-11**|**On the Hallucination in Simultaneous Machine Translation**|Meizhi Zhong et.al.|[2406.07239](http://arxiv.org/abs/2406.07239)|null|
+|**2024-06-11**|**A Non-autoregressive Generation Framework for End-to-End Simultaneous Speech-to-Any Translation**|Zhengrui Ma et.al.|[2406.06937](http://arxiv.org/abs/2406.06937)|**[link](https://github.com/ictnlp/nast-s2x)**|
+|**2024-06-11**|**Agent-SiMT: Agent-assisted Simultaneous Machine Translation with Large Language Models**|Shoutao Guo et.al.|[2406.06910](http://arxiv.org/abs/2406.06910)|null|
 |**2024-06-10**|**StreamAtt: Direct Streaming Speech-to-Text Translation with Attention-based Audio History Selection**|Sara Papi et.al.|[2406.06097](http://arxiv.org/abs/2406.06097)|null|
 |**2024-06-08**|**3D MRI Synthesis with Slice-Based Latent Diffusion Models: Improving Tumor Segmentation Tasks in Data-Scarce Regimes**|Aghiles Kebaili et.al.|[2406.05421](http://arxiv.org/abs/2406.05421)|**[link](https://github.com/Arksyd96/synthesis-with-slice-based-ldm)**|
 |**2024-06-06**|**Label-Synchronous Neural Transducer for E2E Simultaneous Speech Translation**|Keqi Deng et.al.|[2406.04541](http://arxiv.org/abs/2406.04541)|**[link](https://github.com/D-Keqi/LS-Transducer-SST)**|
@@ -2273,6 +2276,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-11**|**A3VLM: Actionable Articulation-Aware Vision Language Model**|Siyuan Huang et.al.|[2406.07549](http://arxiv.org/abs/2406.07549)|null|
+|**2024-06-11**|**Image and Video Tokenization with Binary Spherical Quantization**|Yue Zhao et.al.|[2406.07548](http://arxiv.org/abs/2406.07548)|**[link](https://github.com/zhaoyue-zephyrus/bsq-vit)**|
+|**2024-06-11**|**Open-LLM-Leaderboard: From Multi-choice to Open-style Questions for LLMs Evaluation, Benchmark, and Arena**|Aidar Myrzakhan et.al.|[2406.07545](http://arxiv.org/abs/2406.07545)|**[link](https://github.com/vila-lab/open-llm-leaderboard)**|
+|**2024-06-11**|**QuickLLaMA: Query-aware Inference Acceleration for Large Language Models**|Jingyao Li et.al.|[2406.07528](http://arxiv.org/abs/2406.07528)|**[link](https://github.com/dvlab-research/q-llm)**|
+|**2024-06-11**|**Simple and Effective Masked Diffusion Language Models**|Subham Sekhar Sahoo et.al.|[2406.07524](http://arxiv.org/abs/2406.07524)|**[link](https://github.com/kuleshov-group/mdlm)**|
+|**2024-06-11**|**Samba: Simple Hybrid State Space Models for Efficient Unlimited Context Language Modeling**|Liliang Ren et.al.|[2406.07522](http://arxiv.org/abs/2406.07522)|null|
+|**2024-06-11**|**Beyond Model Collapse: Scaling Up with Synthesized Data Requires Reinforcement**|Yunzhen Feng et.al.|[2406.07515](http://arxiv.org/abs/2406.07515)|null|
+|**2024-06-11**|**THaLLE: Text Hyperlocally Augmented Large Language Extension -- Technical Report**|KBTG Labs et.al.|[2406.07505](http://arxiv.org/abs/2406.07505)|null|
+|**2024-06-11**|**Image Textualization: An Automatic Framework for Creating Accurate and Detailed Image Descriptions**|Renjie Pi et.al.|[2406.07502](http://arxiv.org/abs/2406.07502)|**[link](https://github.com/sterzhang/image-textualization)**|
+|**2024-06-11**|**TextGrad: Automatic "Differentiation" via Text**|Mert Yuksekgonul et.al.|[2406.07496](http://arxiv.org/abs/2406.07496)|**[link](https://github.com/zou-group/textgrad)**|
 |**2024-06-10**|**Autoregressive Model Beats Diffusion: Llama for Scalable Image Generation**|Peize Sun et.al.|[2406.06525](http://arxiv.org/abs/2406.06525)|**[link](https://github.com/foundationvision/llamagen)**|
 |**2024-06-10**|**UMBRELA: UMbrela is the (Open-Source Reproduction of the) Bing RELevance Assessor**|Shivani Upadhyay et.al.|[2406.06519](http://arxiv.org/abs/2406.06519)|**[link](https://github.com/castorini/umbrela)**|
 |**2024-06-10**|**Merlin: A Vision Language Foundation Model for 3D Computed Tomography**|Louis Blankemeier et.al.|[2406.06512](http://arxiv.org/abs/2406.06512)|null|
@@ -3587,6 +3600,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-11**|**Textual Similarity as a Key Metric in Machine Translation Quality Estimation**|Kun Sun et.al.|[2406.07440](http://arxiv.org/abs/2406.07440)|null|
+|**2024-06-11**|**CTC-based Non-autoregressive Textless Speech-to-Speech Translation**|Qingkai Fang et.al.|[2406.07330](http://arxiv.org/abs/2406.07330)|**[link](https://github.com/ictnlp/ctc-s2ut)**|
+|**2024-06-11**|**On the Hallucination in Simultaneous Machine Translation**|Meizhi Zhong et.al.|[2406.07239](http://arxiv.org/abs/2406.07239)|null|
+|**2024-06-11**|**DUAL-REFLECT: Enhancing Large Language Models for Reflective Translation through Dual Learning Feedback Mechanisms**|Andong Chen et.al.|[2406.07232](http://arxiv.org/abs/2406.07232)|**[link](https://github.com/loulianzhang/dual-reflect)**|
+|**2024-06-11**|**Efficiently Exploring Large Language Models for Document-Level Machine Translation with In-context Learning**|Menglong Cui et.al.|[2406.07081](http://arxiv.org/abs/2406.07081)|null|
+|**2024-06-11**|**Paying More Attention to Source Context: Mitigating Unfaithful Translations from Large Language Model**|Hongbin Zhang et.al.|[2406.07036](http://arxiv.org/abs/2406.07036)|**[link](https://github.com/AzureStarz/paying_attention_to_the_source)**|
+|**2024-06-11**|**Agent-SiMT: Agent-assisted Simultaneous Machine Translation with Large Language Models**|Shoutao Guo et.al.|[2406.06910](http://arxiv.org/abs/2406.06910)|null|
 |**2024-06-10**|**Symmetric Dot-Product Attention for Efficient Training of BERT Language Models**|Martin Courtois et.al.|[2406.06366](http://arxiv.org/abs/2406.06366)|null|
 |**2024-06-10**|**Building Bridges: A Dataset for Evaluating Gender-Fair Machine Translation into German**|Manuel Lardelli et.al.|[2406.06131](http://arxiv.org/abs/2406.06131)|**[link](https://github.com/g8a9/building-bridges-gender-fair-german-mt)**|
 |**2024-06-10**|**Efficient k-Nearest-Neighbor Machine Translation with Dynamic Retrieval**|Yan Gao et.al.|[2406.06073](http://arxiv.org/abs/2406.06073)|null|
@@ -3948,6 +3968,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-11**|**CTC-based Non-autoregressive Textless Speech-to-Speech Translation**|Qingkai Fang et.al.|[2406.07330](http://arxiv.org/abs/2406.07330)|**[link](https://github.com/ictnlp/ctc-s2ut)**|
+|**2024-06-11**|**Can We Achieve High-quality Direct Speech-to-Speech Translation without Parallel Speech Data?**|Qingkai Fang et.al.|[2406.07289](http://arxiv.org/abs/2406.07289)|null|
+|**2024-06-11**|**Translating speech with just images**|Dan Oneata et.al.|[2406.07133](http://arxiv.org/abs/2406.07133)|null|
+|**2024-06-11**|**A Non-autoregressive Generation Framework for End-to-End Simultaneous Speech-to-Any Translation**|Zhengrui Ma et.al.|[2406.06937](http://arxiv.org/abs/2406.06937)|**[link](https://github.com/ictnlp/nast-s2x)**|
+|**2024-06-04**|**Discrete Multimodal Transformers with a Pretrained Large Language Model for Mixed-Supervision Speech Processing**|Viet Anh Trinh et.al.|[2406.06582](http://arxiv.org/abs/2406.06582)|null|
 |**2024-06-06**|**Label-Synchronous Neural Transducer for E2E Simultaneous Speech Translation**|Keqi Deng et.al.|[2406.04541](http://arxiv.org/abs/2406.04541)|**[link](https://github.com/D-Keqi/LS-Transducer-SST)**|
 |**2024-06-06**|**Evaluating the IWSLT2023 Speech Translation Tasks: Human Annotations, Automatic Metrics, and Segmentation**|Matthias Sperber et.al.|[2406.03881](http://arxiv.org/abs/2406.03881)|null|
 |**2024-06-05**|**StreamSpeech: Simultaneous Speech-to-Speech Translation with Multi-task Learning**|Shaolei Zhang et.al.|[2406.03049](http://arxiv.org/abs/2406.03049)|**[link](https://github.com/ictnlp/streamspeech)**|
@@ -4001,6 +4026,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-11**|**Image Textualization: An Automatic Framework for Creating Accurate and Detailed Image Descriptions**|Renjie Pi et.al.|[2406.07502](http://arxiv.org/abs/2406.07502)|**[link](https://github.com/sterzhang/image-textualization)**|
+|**2024-06-11**|**Estimating the Hallucination Rate of Generative AI**|Andrew Jesson et.al.|[2406.07457](http://arxiv.org/abs/2406.07457)|null|
+|**2024-06-11**|**On the Hallucination in Simultaneous Machine Translation**|Meizhi Zhong et.al.|[2406.07239](http://arxiv.org/abs/2406.07239)|null|
+|**2024-06-11**|**Towards Human-AI Collaboration in Healthcare: Guided Deferral Systems with Large Language Models**|Joshua Strong et.al.|[2406.07212](http://arxiv.org/abs/2406.07212)|null|
+|**2024-06-11**|**Progressive Query Expansion for Retrieval Over Cost-constrained Data Sources**|Muhammad Shihab Rashid et.al.|[2406.07136](http://arxiv.org/abs/2406.07136)|null|
+|**2024-06-11**|**HalluDial: A Large-Scale Benchmark for Automatic Dialogue-Level Hallucination Evaluation**|Wen Luo et.al.|[2406.07070](http://arxiv.org/abs/2406.07070)|null|
+|**2024-06-11**|**A Probabilistic Framework for LLM Hallucination Detection via Belief Tree Propagation**|Bairu Hou et.al.|[2406.06950](http://arxiv.org/abs/2406.06950)|null|
 |**2024-06-10**|**Direct Preference Optimization for Suppressing Hallucinated Prior Exams in Radiology Report Generation**|Oishi Banerjee et.al.|[2406.06496](http://arxiv.org/abs/2406.06496)|null|
 |**2024-06-10**|**Evaluating the Retrieval Component in LLM-Based Question Answering Systems**|Ashkan Alinejad et.al.|[2406.06458](http://arxiv.org/abs/2406.06458)|null|
 |**2024-06-10**|**An Empirical Design Justice Approach to Identifying Ethical Considerations in the Intersection of Large Language Models and Social Robotics**|Alva Markelius et.al.|[2406.06400](http://arxiv.org/abs/2406.06400)|null|
