@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.13
+## Updated on 2024.06.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -452,7 +452,7 @@
 |**2021-10-03**|**Quadrotor Control on $SU(2)\times R^3$ with SLAM Integration**|Marcus Greiff et.al.|[2110.01099](http://arxiv.org/abs/2110.01099)|null|
 |**2021-10-02**|**Online Incremental Non-Gaussian Inference for SLAM Using Normalizing Flows**|Qiangqiang Huang et.al.|[2110.00876](http://arxiv.org/abs/2110.00876)|**[link](https://github.com/marineroboticsgroup/nf-isam)**|
 
-<p align=right>(<a href=#updated-on-20240613>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240614>back to top</a>)</p>
 
 ## SFM
 
@@ -597,7 +597,7 @@
 |**2021-08-29**|**Solving Viewing Graph Optimization for Simultaneous Position and Rotation Registration**|Seyed-Mahdi Nasiri et.al.|[2108.12876](http://arxiv.org/abs/2108.12876)|null|
 |**2021-08-23**|**Burst Imaging for Light-Constrained Structure-From-Motion**|Ahalya Ravendran et.al.|[2108.09895](http://arxiv.org/abs/2108.09895)|null|
 
-<p align=right>(<a href=#updated-on-20240613>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240614>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -1193,7 +1193,7 @@
 |**2021-09-09**|**CrowdDriven: A New Challenging Dataset for Outdoor Visual Localization**|Ara Jafarzadeh et.al.|[2109.04527](http://arxiv.org/abs/2109.04527)|null|
 |**2021-09-09**|**Keeping an Eye on Things: Deep Learned Features for Long-Term Visual Localization**|Mona Gridseth et.al.|[2109.04041](http://arxiv.org/abs/2109.04041)|**[link](https://github.com/utiasasrl/deep_learned_visual_features)**|
 
-<p align=right>(<a href=#updated-on-20240613>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240614>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -1388,7 +1388,7 @@
 |**2021-08-31**|**A Novel Dataset for Keypoint Detection of quadruped Animals from Images**|Prianka Banik et.al.|[2108.13958](http://arxiv.org/abs/2108.13958)|**[link](https://github.com/prinik/awa-pose)**|
 |**2021-08-27**|**A Matching Algorithm based on Image Attribute Transfer and Local Features for Underwater Acoustic and Optical Images**|Xiaoteng Zhou et.al.|[2108.12151](http://arxiv.org/abs/2108.12151)|null|
 
-<p align=right>(<a href=#updated-on-20240613>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240614>back to top</a>)</p>
 
 ## Image Matching
 
@@ -1573,7 +1573,7 @@
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou et.al.|[2108.12072](http://arxiv.org/abs/2108.12072)|null|
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911](http://arxiv.org/abs/2108.11911)|null|
 
-<p align=right>(<a href=#updated-on-20240613>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240614>back to top</a>)</p>
 
 ## NeRF
 
@@ -2208,13 +2208,13 @@
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
 
-<p align=right>(<a href=#updated-on-20240613>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240614>back to top</a>)</p>
 
 ## Simultaneous Translation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-06-11**|**On the Hallucination in Simultaneous Machine Translation**|Meizhi Zhong et.al.|[2406.07239](http://arxiv.org/abs/2406.07239)|null|
+|**2024-06-11**|**On the Hallucination in Simultaneous Machine Translation**|Meizhi Zhong et.al.|[2406.07239](http://arxiv.org/abs/2406.07239)|**[link](https://github.com/zhongmz/SiMT-Hallucination)**|
 |**2024-06-11**|**A Non-autoregressive Generation Framework for End-to-End Simultaneous Speech-to-Any Translation**|Zhengrui Ma et.al.|[2406.06937](http://arxiv.org/abs/2406.06937)|**[link](https://github.com/ictnlp/nast-s2x)**|
 |**2024-06-12**|**Agent-SiMT: Agent-assisted Simultaneous Machine Translation with Large Language Models**|Shoutao Guo et.al.|[2406.06910](http://arxiv.org/abs/2406.06910)|null|
 |**2024-06-10**|**StreamAtt: Direct Streaming Speech-to-Text Translation with Attention-based Audio History Selection**|Sara Papi et.al.|[2406.06097](http://arxiv.org/abs/2406.06097)|null|
@@ -2297,7 +2297,7 @@
 |**2023-11-07**|**CBSiMT: Mitigating Hallucination in Simultaneous Machine Translation with Weighted Prefix-to-Prefix Training**|Mengge Liu et.al.|[2311.03672](http://arxiv.org/abs/2311.03672)|null|
 |**2023-11-03**|**PRISM: Progressive Restoration for Scene Graph-based Image Manipulation**|Pavel Jahoda et.al.|[2311.02247](http://arxiv.org/abs/2311.02247)|null|
 
-<p align=right>(<a href=#updated-on-20240613>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240614>back to top</a>)</p>
 
 ## Language Model
 
@@ -2310,7 +2310,7 @@
 |**2024-06-12**|**Magpie: Alignment Data Synthesis from Scratch by Prompting Aligned LLMs with Nothing**|Zhangchen Xu et.al.|[2406.08464](http://arxiv.org/abs/2406.08464)|null|
 |**2024-06-12**|**AToM-Bot: Embodied Fulfillment of Unspoken Human Needs with Affective Theory of Mind**|Wei Ding et.al.|[2406.08455](http://arxiv.org/abs/2406.08455)|null|
 |**2024-06-12**|**OLMES: A Standard for Language Model Evaluations**|Yuling Gu et.al.|[2406.08446](http://arxiv.org/abs/2406.08446)|null|
-|**2024-06-12**|**TasTe: Teaching Large Language Models to Translate through Self-Reflection**|Yutong Wang et.al.|[2406.08434](http://arxiv.org/abs/2406.08434)|null|
+|**2024-06-12**|**TasTe: Teaching Large Language Models to Translate through Self-Reflection**|Yutong Wang et.al.|[2406.08434](http://arxiv.org/abs/2406.08434)|**[link](https://github.com/yutongwang1216/reflectionllmmt)**|
 |**2024-06-12**|**Next-Generation Database Interfaces: A Survey of LLM-based Text-to-SQL**|Zijin Hong et.al.|[2406.08426](http://arxiv.org/abs/2406.08426)|null|
 |**2024-06-12**|**OmniCorpus: An Unified Multimodal Corpus of 10 Billion-Level Images Interleaved with Text**|Qingyun Li et.al.|[2406.08418](http://arxiv.org/abs/2406.08418)|**[link](https://github.com/opengvlab/omnicorpus)**|
 |**2024-06-11**|**A3VLM: Actionable Articulation-Aware Vision Language Model**|Siyuan Huang et.al.|[2406.07549](http://arxiv.org/abs/2406.07549)|**[link](https://github.com/changhaonan/a3vlm)**|
@@ -3633,20 +3633,20 @@
 |**2023-11-29**|**End-to-end Joint Rich and Normalized ASR with a limited amount of rich training data**|Can Cui et.al.|[2311.17741](http://arxiv.org/abs/2311.17741)|null|
 |**2023-11-29**|**GenZI: Zero-Shot 3D Human-Scene Interaction Generation**|Lei Li et.al.|[2311.17737](http://arxiv.org/abs/2311.17737)|null|
 
-<p align=right>(<a href=#updated-on-20240613>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240614>back to top</a>)</p>
 
 ## Machine Translation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-06-12**|**TasTe: Teaching Large Language Models to Translate through Self-Reflection**|Yutong Wang et.al.|[2406.08434](http://arxiv.org/abs/2406.08434)|null|
+|**2024-06-12**|**TasTe: Teaching Large Language Models to Translate through Self-Reflection**|Yutong Wang et.al.|[2406.08434](http://arxiv.org/abs/2406.08434)|**[link](https://github.com/yutongwang1216/reflectionllmmt)**|
 |**2024-06-12**|**M3T: A New Benchmark Dataset for Multi-Modal Document-Level Machine Translation**|Benjamin Hsu et.al.|[2406.08255](http://arxiv.org/abs/2406.08255)|**[link](https://github.com/amazon-science/m3t-multi-modal-translation-bench)**|
-|**2024-06-12**|**Languages Transferred Within the Encoder: On Representation Transfer in Zero-Shot Multilingual Translation**|Zhi Qu et.al.|[2406.08092](http://arxiv.org/abs/2406.08092)|null|
+|**2024-06-12**|**Languages Transferred Within the Encoder: On Representation Transfer in Zero-Shot Multilingual Translation**|Zhi Qu et.al.|[2406.08092](http://arxiv.org/abs/2406.08092)|**[link](https://github.com/zhiqu22/ZeroTrans)**|
 |**2024-06-12**|**Unique Security and Privacy Threats of Large Language Model: A Comprehensive Survey**|Shang Wang et.al.|[2406.07973](http://arxiv.org/abs/2406.07973)|null|
-|**2024-06-12**|**Guiding In-Context Learning of LLMs through Quality Estimation for Machine Translation**|Javad Pourmostafa Roshan Sharami et.al.|[2406.07970](http://arxiv.org/abs/2406.07970)|null|
+|**2024-06-12**|**Guiding In-Context Learning of LLMs through Quality Estimation for Machine Translation**|Javad Pourmostafa Roshan Sharami et.al.|[2406.07970](http://arxiv.org/abs/2406.07970)|**[link](https://github.com/JoyeBright/ICLviaQE)**|
 |**2024-06-11**|**Textual Similarity as a Key Metric in Machine Translation Quality Estimation**|Kun Sun et.al.|[2406.07440](http://arxiv.org/abs/2406.07440)|null|
 |**2024-06-11**|**CTC-based Non-autoregressive Textless Speech-to-Speech Translation**|Qingkai Fang et.al.|[2406.07330](http://arxiv.org/abs/2406.07330)|**[link](https://github.com/ictnlp/ctc-s2ut)**|
-|**2024-06-11**|**On the Hallucination in Simultaneous Machine Translation**|Meizhi Zhong et.al.|[2406.07239](http://arxiv.org/abs/2406.07239)|null|
+|**2024-06-11**|**On the Hallucination in Simultaneous Machine Translation**|Meizhi Zhong et.al.|[2406.07239](http://arxiv.org/abs/2406.07239)|**[link](https://github.com/zhongmz/SiMT-Hallucination)**|
 |**2024-06-11**|**DUAL-REFLECT: Enhancing Large Language Models for Reflective Translation through Dual Learning Feedback Mechanisms**|Andong Chen et.al.|[2406.07232](http://arxiv.org/abs/2406.07232)|**[link](https://github.com/loulianzhang/dual-reflect)**|
 |**2024-06-11**|**Efficiently Exploring Large Language Models for Document-Level Machine Translation with In-context Learning**|Menglong Cui et.al.|[2406.07081](http://arxiv.org/abs/2406.07081)|null|
 |**2024-06-11**|**Paying More Attention to Source Context: Mitigating Unfaithful Translations from Large Language Model**|Hongbin Zhang et.al.|[2406.07036](http://arxiv.org/abs/2406.07036)|**[link](https://github.com/AzureStarz/paying_attention_to_the_source)**|
@@ -4008,7 +4008,7 @@
 |**2023-11-24**|**OpusCleaner and OpusTrainer, open source toolkits for training Machine Translation and Large language models**|Nikolay Bogoychev et.al.|[2311.14838](http://arxiv.org/abs/2311.14838)|**[link](https://github.com/hplt-project/opustrainer)**|
 |**2023-11-24**|**Machine Translation for Ge'ez Language**|Aman Kassahun Wassie et.al.|[2311.14530](http://arxiv.org/abs/2311.14530)|null|
 
-<p align=right>(<a href=#updated-on-20240613>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240614>back to top</a>)</p>
 
 ## Speech Translation
 
@@ -4016,7 +4016,7 @@
 |---|---|---|---|---|
 |**2024-06-11**|**CTC-based Non-autoregressive Textless Speech-to-Speech Translation**|Qingkai Fang et.al.|[2406.07330](http://arxiv.org/abs/2406.07330)|**[link](https://github.com/ictnlp/ctc-s2ut)**|
 |**2024-06-11**|**Can We Achieve High-quality Direct Speech-to-Speech Translation without Parallel Speech Data?**|Qingkai Fang et.al.|[2406.07289](http://arxiv.org/abs/2406.07289)|null|
-|**2024-06-11**|**Translating speech with just images**|Dan Oneata et.al.|[2406.07133](http://arxiv.org/abs/2406.07133)|null|
+|**2024-06-11**|**Translating speech with just images**|Dan Oneata et.al.|[2406.07133](http://arxiv.org/abs/2406.07133)|**[link](https://github.com/danoneata/strim)**|
 |**2024-06-11**|**A Non-autoregressive Generation Framework for End-to-End Simultaneous Speech-to-Any Translation**|Zhengrui Ma et.al.|[2406.06937](http://arxiv.org/abs/2406.06937)|**[link](https://github.com/ictnlp/nast-s2x)**|
 |**2024-06-04**|**Discrete Multimodal Transformers with a Pretrained Large Language Model for Mixed-Supervision Speech Processing**|Viet Anh Trinh et.al.|[2406.06582](http://arxiv.org/abs/2406.06582)|null|
 |**2024-06-06**|**Label-Synchronous Neural Transducer for E2E Simultaneous Speech Translation**|Keqi Deng et.al.|[2406.04541](http://arxiv.org/abs/2406.04541)|**[link](https://github.com/D-Keqi/LS-Transducer-SST)**|
@@ -4068,20 +4068,20 @@
 |**2023-10-23**|**Leveraging Timestamp Information for Serialized Joint Streaming Recognition and Translation**|Sara Papi et.al.|[2310.14806](http://arxiv.org/abs/2310.14806)|null|
 |**2023-10-23**|**Long-Form Speech Translation through Segmentation with Finite-State Decoding Constraints on Large Language Models**|Arya D. McCarthy et.al.|[2310.13678](http://arxiv.org/abs/2310.13678)|null|
 
-<p align=right>(<a href=#updated-on-20240613>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240614>back to top</a>)</p>
 
 ## Hallucination
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-06-12**|**Understanding Sounds, Missing the Questions: The Challenge of Object Hallucination in Large Audio-Language Models**|Chun-Yi Kuan et.al.|[2406.08402](http://arxiv.org/abs/2406.08402)|null|
+|**2024-06-12**|**Understanding Sounds, Missing the Questions: The Challenge of Object Hallucination in Large Audio-Language Models**|Chun-Yi Kuan et.al.|[2406.08402](http://arxiv.org/abs/2406.08402)|**[link](https://github.com/kuan2jiu99/audio-hallucination)**|
 |**2024-06-12**|**Toward a Method to Generate Capability Ontologies from Natural Language Descriptions**|Luis Miguel Vieira da Silva et.al.|[2406.07962](http://arxiv.org/abs/2406.07962)|null|
 |**2024-06-11**|**REAL Sampling: Boosting Factuality and Diversity of Open-Ended Generation via Asymptotic Entropy**|Haw-Shiuan Chang et.al.|[2406.07735](http://arxiv.org/abs/2406.07735)|null|
 |**2024-06-11**|**Out-Of-Context Prompting Boosts Fairness and Robustness in Large Language Model Predictions**|Leonardo Cotta et.al.|[2406.07685](http://arxiv.org/abs/2406.07685)|null|
-|**2024-06-11**|**CTIBench: A Benchmark for Evaluating LLMs in Cyber Threat Intelligence**|Md Tanvirul Alam et.al.|[2406.07599](http://arxiv.org/abs/2406.07599)|null|
+|**2024-06-11**|**CTIBench: A Benchmark for Evaluating LLMs in Cyber Threat Intelligence**|Md Tanvirul Alam et.al.|[2406.07599](http://arxiv.org/abs/2406.07599)|**[link](https://github.com/xashru/cti-bench)**|
 |**2024-06-11**|**Image Textualization: An Automatic Framework for Creating Accurate and Detailed Image Descriptions**|Renjie Pi et.al.|[2406.07502](http://arxiv.org/abs/2406.07502)|**[link](https://github.com/sterzhang/image-textualization)**|
 |**2024-06-11**|**Estimating the Hallucination Rate of Generative AI**|Andrew Jesson et.al.|[2406.07457](http://arxiv.org/abs/2406.07457)|null|
-|**2024-06-11**|**On the Hallucination in Simultaneous Machine Translation**|Meizhi Zhong et.al.|[2406.07239](http://arxiv.org/abs/2406.07239)|null|
+|**2024-06-11**|**On the Hallucination in Simultaneous Machine Translation**|Meizhi Zhong et.al.|[2406.07239](http://arxiv.org/abs/2406.07239)|**[link](https://github.com/zhongmz/SiMT-Hallucination)**|
 |**2024-06-11**|**Towards Human-AI Collaboration in Healthcare: Guided Deferral Systems with Large Language Models**|Joshua Strong et.al.|[2406.07212](http://arxiv.org/abs/2406.07212)|null|
 |**2024-06-11**|**Progressive Query Expansion for Retrieval Over Cost-constrained Data Sources**|Muhammad Shihab Rashid et.al.|[2406.07136](http://arxiv.org/abs/2406.07136)|null|
 |**2024-06-11**|**HalluDial: A Large-Scale Benchmark for Automatic Dialogue-Level Hallucination Evaluation**|Wen Luo et.al.|[2406.07070](http://arxiv.org/abs/2406.07070)|null|
@@ -4731,7 +4731,7 @@
 |**2023-11-28**|**Beyond Hallucinations: Enhancing LVLMs through Hallucination-Aware Direct Preference Optimization**|Zhiyuan Zhao et.al.|[2311.16839](http://arxiv.org/abs/2311.16839)|null|
 |**2023-11-27**|**Deceptive-Human: Prompt-to-NeRF 3D Human Generation with 3D-Consistent Synthetic Images**|Shiu-hong Kao et.al.|[2311.16499](http://arxiv.org/abs/2311.16499)|**[link](https://github.com/danielshkao/deceptivehuman)**|
 
-<p align=right>(<a href=#updated-on-20240613>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240614>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
