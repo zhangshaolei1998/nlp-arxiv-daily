@@ -2281,6 +2281,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-17**|**LLaNA: Large Language and NeRF Assistant**|Andrea Amaduzzi et.al.|[2406.11840](http://arxiv.org/abs/2406.11840)|null|
+|**2024-06-17**|**mDPO: Conditional Preference Optimization for Multimodal Large Language Models**|Fei Wang et.al.|[2406.11839](http://arxiv.org/abs/2406.11839)|null|
+|**2024-06-17**|**MMDU: A Multi-Turn Multi-Image Dialog Understanding Benchmark and Instruction-Tuning Dataset for LVLMs**|Ziyu Liu et.al.|[2406.11833](http://arxiv.org/abs/2406.11833)|**[link](https://github.com/liuziyu77/mmdu)**|
+|**2024-06-17**|**Unveiling Encoder-Free Vision-Language Models**|Haiwen Diao et.al.|[2406.11832](http://arxiv.org/abs/2406.11832)|**[link](https://github.com/baaivision/eve)**|
+|**2024-06-17**|**Exploring the Role of Large Language Models in Prompt Encoding for Diffusion Models**|Bingqi Ma et.al.|[2406.11831](http://arxiv.org/abs/2406.11831)|null|
+|**2024-06-17**|**Language Modeling with Editable External Knowledge**|Belinda Z. Li et.al.|[2406.11830](http://arxiv.org/abs/2406.11830)|**[link](https://github.com/belindal/erase)**|
+|**2024-06-17**|**WPO: Enhancing RLHF with Weighted Preference Optimization**|Wenxuan Zhou et.al.|[2406.11827](http://arxiv.org/abs/2406.11827)|**[link](https://github.com/wzhouad/wpo)**|
+|**2024-06-17**|**On Efficient Language and Vision Assistants for Visually-Situated Natural Language Understanding: What Matters in Reading and Reasoning**|Geewook Kim et.al.|[2406.11823](http://arxiv.org/abs/2406.11823)|**[link](https://github.com/naver-ai/elva)**|
+|**2024-06-17**|**Embodied Instruction Following in Unknown Environments**|Zhenyu Wu et.al.|[2406.11818](http://arxiv.org/abs/2406.11818)|null|
+|**2024-06-17**|**Iterative Length-Regularized Direct Preference Optimization: A Case Study on Improving 7B Language Models to GPT-4 Level**|Jie Liu et.al.|[2406.11817](http://arxiv.org/abs/2406.11817)|null|
 |**2024-06-14**|**Quantifying Variance in Evaluation Benchmarks**|Lovish Madaan et.al.|[2406.10229](http://arxiv.org/abs/2406.10229)|null|
 |**2024-06-14**|**Short Film Dataset (SFD): A Benchmark for Story-Level Video Understanding**|Ridouane Ghermi et.al.|[2406.10221](http://arxiv.org/abs/2406.10221)|null|
 |**2024-06-14**|**Semantic Membership Inference Attack against Large Language Models**|Hamid Mozaffari et.al.|[2406.10218](http://arxiv.org/abs/2406.10218)|null|
@@ -3635,6 +3645,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-17**|**Unveiling the Power of Source: Source-based Minimum Bayes Risk Decoding for Neural Machine Translation**|Boxuan Lyu et.al.|[2406.11632](http://arxiv.org/abs/2406.11632)|null|
+|**2024-06-17**|**Style Transfer with Multi-iteration Preference Optimization**|Shuai Liu et.al.|[2406.11581](http://arxiv.org/abs/2406.11581)|null|
+|**2024-06-17**|**Error Span Annotation: A Balanced Approach for Human Evaluation of Machine Translation**|Tom Kocmi et.al.|[2406.11580](http://arxiv.org/abs/2406.11580)|null|
+|**2024-06-17**|**How Good are LLMs at Relation Extraction under Low-Resource Scenario? Comprehensive Evaluation**|Dawulie Jinensibieke et.al.|[2406.11162](http://arxiv.org/abs/2406.11162)|null|
+|**2024-06-16**|**Reconsidering Sentence-Level Sign Language Translation**|Garrett Tanzer et.al.|[2406.11049](http://arxiv.org/abs/2406.11049)|null|
+|**2024-06-16**|**CoSTA: Code-Switched Speech Translation using Aligned Speech-Text Interleaving**|Bhavani Shankar et.al.|[2406.10993](http://arxiv.org/abs/2406.10993)|null|
 |**2024-06-14**|**Datasets for Multilingual Answer Sentence Selection**|Matteo Gabburo et.al.|[2406.10172](http://arxiv.org/abs/2406.10172)|null|
 |**2024-06-14**|**Exploring the Correlation between Human and Machine Evaluation of Simultaneous Speech Translation**|Xiaoman Wang et.al.|[2406.10091](http://arxiv.org/abs/2406.10091)|null|
 |**2024-06-13**|**Improving Autoregressive Training with Dynamic Oracles**|Jianing Yang et.al.|[2406.09393](http://arxiv.org/abs/2406.09393)|null|
@@ -4013,6 +4029,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-16**|**CoSTA: Code-Switched Speech Translation using Aligned Speech-Text Interleaving**|Bhavani Shankar et.al.|[2406.10993](http://arxiv.org/abs/2406.10993)|null|
+|**2024-06-15**|**Lightweight Audio Segmentation for Long-form Speech Translation**|Jaesong Lee et.al.|[2406.10549](http://arxiv.org/abs/2406.10549)|null|
+|**2024-06-12**|**Soft Language Identification for Language-Agnostic Many-to-One End-to-End Speech Translation**|Peidong Wang et.al.|[2406.10276](http://arxiv.org/abs/2406.10276)|null|
 |**2024-06-14**|**Diffusion Synthesizer for Efficient Multilingual Speech to Speech Translation**|Nameer Hirschkind et.al.|[2406.10223](http://arxiv.org/abs/2406.10223)|null|
 |**2024-06-14**|**Exploring the Correlation between Human and Machine Evaluation of Simultaneous Speech Translation**|Xiaoman Wang et.al.|[2406.10091](http://arxiv.org/abs/2406.10091)|null|
 |**2024-06-13**|**Word Order in English-Japanese Simultaneous Interpretation: Analyses and Evaluation using Chunk-wise Monotonic Translation**|Kosuke Doi et.al.|[2406.08940](http://arxiv.org/abs/2406.08940)|null|
@@ -4074,6 +4093,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-17**|**mDPO: Conditional Preference Optimization for Multimodal Large Language Models**|Fei Wang et.al.|[2406.11839](http://arxiv.org/abs/2406.11839)|null|
+|**2024-06-17**|**"Not Aligned" is Not "Malicious": Being Careful about Hallucinations of Large Language Models' Jailbreak**|Lingrui Mei et.al.|[2406.11668](http://arxiv.org/abs/2406.11668)|null|
+|**2024-06-17**|**Counterfactual Debating with Preset Stances for Hallucination Elimination of LLMs**|Yi Fang et.al.|[2406.11514](http://arxiv.org/abs/2406.11514)|null|
+|**2024-06-17**|**CrAM: Credibility-Aware Attention Modification in LLMs for Combating Misinformation in RAG**|Boyi Deng et.al.|[2406.11497](http://arxiv.org/abs/2406.11497)|null|
+|**2024-06-17**|**MedThink: Inducing Medical Large-scale Visual Language Models to Hallucinate Less by Thinking More**|Yue Jiang et.al.|[2406.11451](http://arxiv.org/abs/2406.11451)|null|
+|**2024-06-17**|**$\textit{Refiner}$ : Restructure Retrieval Content Efficiently to Advance Question-Answering Capabilities**|Zhonghao Li et.al.|[2406.11357](http://arxiv.org/abs/2406.11357)|null|
+|**2024-06-17**|**$\texttt{MoE-RBench}$ : Towards Building Reliable Language Models with Sparse Mixture-of-Experts**|Guanjie Chen et.al.|[2406.11353](http://arxiv.org/abs/2406.11353)|null|
+|**2024-06-17**|**LFPLM: A General and Flexible Load Forecasting Framework based on Pre-trained Language Model**|Mingyang Gao et.al.|[2406.11336](http://arxiv.org/abs/2406.11336)|null|
+|**2024-06-17**|**Hallucination Mitigation Prompts Long-term Video Understanding**|Yiwei Sun et.al.|[2406.11333](http://arxiv.org/abs/2406.11333)|null|
+|**2024-06-17**|**Small Agent Can Also Rock! Empowering Small Language Models as Hallucination Detector**|Xiaoxue Cheng et.al.|[2406.11277](http://arxiv.org/abs/2406.11277)|null|
 |**2024-06-14**|**Detecting and Evaluating Medical Hallucinations in Large Vision Language Models**|Jiawei Chen et.al.|[2406.10185](http://arxiv.org/abs/2406.10185)|null|
 |**2024-06-14**|**Know the Unknown: An Uncertainty-Sensitive Method for LLM Instruction Tuning**|Jiaqi Li et.al.|[2406.10099](http://arxiv.org/abs/2406.10099)|null|
 |**2024-06-14**|**Vision-Language Models Meet Meteorology: Developing Models for Extreme Weather Events Detection with Heatmaps**|Jian Chen et.al.|[2406.09838](http://arxiv.org/abs/2406.09838)|**[link](https://github.com/AlexJJJChen/Climate-Zoo)**|
