@@ -2214,6 +2214,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-20**|**SimulSeamless: FBK at IWSLT 2024 Simultaneous Speech Translation**|Sara Papi et.al.|[2406.14177](http://arxiv.org/abs/2406.14177)|**[link](https://github.com/hlt-mt/fbk-fairseq)**|
+|**2024-06-19**|**LLMs Are Zero-Shot Context-Aware Simultaneous Translators**|Roman Koshkin et.al.|[2406.13476](http://arxiv.org/abs/2406.13476)|null|
 |**2024-06-14**|**Exploring the Correlation between Human and Machine Evaluation of Simultaneous Speech Translation**|Xiaoman Wang et.al.|[2406.10091](http://arxiv.org/abs/2406.10091)|null|
 |**2024-06-14**|**Simul-Whisper: Attention-Guided Streaming Whisper with Truncation Detection**|Haoyu Wang et.al.|[2406.10052](http://arxiv.org/abs/2406.10052)|**[link](https://github.com/backspacetg/simul_whisper)**|
 |**2024-06-13**|**Speech ReaLLM -- Real-time Streaming Speech Recognition with Multimodal LLMs by Teaching the Flow of Time**|Frank Seide et.al.|[2406.09569](http://arxiv.org/abs/2406.09569)|null|
@@ -2308,6 +2310,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-20**|**Model Merging and Safety Alignment: One Bad Model Spoils the Bunch**|Hasan Abed Al Kader Hammoud et.al.|[2406.14563](http://arxiv.org/abs/2406.14563)|null|
+|**2024-06-20**|**Whiteboard-of-Thought: Thinking Step-by-Step Across Modalities**|Sachit Menon et.al.|[2406.14562](http://arxiv.org/abs/2406.14562)|null|
+|**2024-06-20**|**How to Compute the Probability of a Word**|Tiago Pimentel et.al.|[2406.14561](http://arxiv.org/abs/2406.14561)|null|
+|**2024-06-20**|**Asynchronous Large Language Model Enhanced Planner for Autonomous Driving**|Yuan Chen et.al.|[2406.14556](http://arxiv.org/abs/2406.14556)|null|
+|**2024-06-20**|**GraphReader: Building Graph-based Agent to Enhance Long-Context Abilities of Large Language Models**|Shilong Li et.al.|[2406.14550](http://arxiv.org/abs/2406.14550)|null|
+|**2024-06-20**|**Uncovering Latent Memories: Assessing Data Leakage and Memorization Patterns in Large Language Models**|Sunny Duan et.al.|[2406.14549](http://arxiv.org/abs/2406.14549)|null|
+|**2024-06-20**|**Connecting the Dots: LLMs can Infer and Verbalize Latent Structure from Disparate Training Data**|Johannes Treutlein et.al.|[2406.14546](http://arxiv.org/abs/2406.14546)|null|
+|**2024-06-20**|**Unmasking Database Vulnerabilities: Zero-Knowledge Schema Inference Attacks in Text-to-SQL Systems**|Đorđe Klisura et.al.|[2406.14545](http://arxiv.org/abs/2406.14545)|null|
+|**2024-06-20**|**Prism: A Framework for Decoupling and Assessing the Capabilities of VLMs**|Yuxuan Qiao et.al.|[2406.14544](http://arxiv.org/abs/2406.14544)|**[link](https://github.com/sparksjoe/prism)**|
+|**2024-06-20**|**Are LLMs Naturally Good at Synthetic Tabular Data Generation?**|Shengzhe Xu et.al.|[2406.14541](http://arxiv.org/abs/2406.14541)|null|
 |**2024-06-18**|**DrVideo: Document Retrieval Based Long Video Understanding**|Ziyu Ma et.al.|[2406.12846](http://arxiv.org/abs/2406.12846)|null|
 |**2024-06-18**|**Interpretable Preferences via Multi-Objective Reward Modeling and Mixture-of-Experts**|Haoxiang Wang et.al.|[2406.12845](http://arxiv.org/abs/2406.12845)|**[link](https://github.com/RLHFlow/RLHF-Reward-Modeling)**|
 |**2024-06-18**|**Synergizing Foundation Models and Federated Learning: A Survey**|Shenghui Li et.al.|[2406.12844](http://arxiv.org/abs/2406.12844)|null|
@@ -3684,6 +3696,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-20**|**xCOMET-lite: Bridging the Gap Between Efficiency and Quality in Learned MT Evaluation Metrics**|Daniil Larionov et.al.|[2406.14553](http://arxiv.org/abs/2406.14553)|null|
+|**2024-06-20**|**Translating Across Cultures: LLMs for Intralingual Cultural Adaptation**|Pushpdeep Singh et.al.|[2406.14504](http://arxiv.org/abs/2406.14504)|null|
+|**2024-06-20**|**On the Evaluation Practices in Multilingual NLP: Can Machine Translation Offer an Alternative to Human Translations?**|Rochelle Choenni et.al.|[2406.14267](http://arxiv.org/abs/2406.14267)|null|
+|**2024-06-20**|**Complexity of Symbolic Representation in Working Memory of Transformer Correlates with the Complexity of a Task**|Alsu Sagirova et.al.|[2406.14213](http://arxiv.org/abs/2406.14213)|null|
+|**2024-06-19**|**MMTE: Corpus and Metrics for Evaluating Machine Translation Quality of Metaphorical Language**|Shun Wang et.al.|[2406.13698](http://arxiv.org/abs/2406.13698)|null|
+|**2024-06-19**|**Lexically Grounded Subword Segmentation**|Jindřich Libovický et.al.|[2406.13560](http://arxiv.org/abs/2406.13560)|null|
+|**2024-06-19**|**LLMs Are Zero-Shot Context-Aware Simultaneous Translators**|Roman Koshkin et.al.|[2406.13476](http://arxiv.org/abs/2406.13476)|null|
+|**2024-06-19**|**Evaluating Structural Generalization in Neural Machine Translation**|Ryoma Kumon et.al.|[2406.13363](http://arxiv.org/abs/2406.13363)|null|
+|**2024-06-19**|**How effective is Multi-source pivoting for Translation of Low Resource Indian Languages?**|Pranav Gaikwad et.al.|[2406.13332](http://arxiv.org/abs/2406.13332)|null|
 |**2024-06-18**|**Self-Distillation for Model Stacking Unlocks Cross-Lingual NLU in 200+ Languages**|Fabian David Schmidt et.al.|[2406.12739](http://arxiv.org/abs/2406.12739)|null|
 |**2024-06-18**|**Low-Resource Machine Translation through the Lens of Personalized Federated Learning**|Viktor Moskvoretskii et.al.|[2406.12564](http://arxiv.org/abs/2406.12564)|**[link](https://github.com/vityavitalich/meritfed)**|
 |**2024-06-18**|**AI-Assisted Human Evaluation of Machine Translation**|Vilém Zouhar et.al.|[2406.12419](http://arxiv.org/abs/2406.12419)|null|
@@ -4076,6 +4097,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-20**|**SimulSeamless: FBK at IWSLT 2024 Simultaneous Speech Translation**|Sara Papi et.al.|[2406.14177](http://arxiv.org/abs/2406.14177)|**[link](https://github.com/hlt-mt/fbk-fairseq)**|
 |**2024-06-16**|**CoSTA: Code-Switched Speech Translation using Aligned Speech-Text Interleaving**|Bhavani Shankar et.al.|[2406.10993](http://arxiv.org/abs/2406.10993)|null|
 |**2024-06-15**|**Lightweight Audio Segmentation for Long-form Speech Translation**|Jaesong Lee et.al.|[2406.10549](http://arxiv.org/abs/2406.10549)|null|
 |**2024-06-12**|**Soft Language Identification for Language-Agnostic Many-to-One End-to-End Speech Translation**|Peidong Wang et.al.|[2406.10276](http://arxiv.org/abs/2406.10276)|null|
@@ -4142,6 +4164,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-20**|**Does Object Grounding Really Reduce Hallucination of Large Vision-Language Models?**|Gregor Geigle et.al.|[2406.14492](http://arxiv.org/abs/2406.14492)|null|
+|**2024-06-20**|**Q*: Improving Multi-step Reasoning for LLMs with Deliberative Planning**|Chaojie Wang et.al.|[2406.14283](http://arxiv.org/abs/2406.14283)|null|
+|**2024-06-20**|**In Tree Structure Should Sentence Be Generated**|Yaguang Li et.al.|[2406.14189](http://arxiv.org/abs/2406.14189)|**[link](https://github.com/arklyg/sentree)**|
+|**2024-06-20**|**MACAROON: Training Vision-Language Models To Be Your Engaged Partners**|Shujin Wu et.al.|[2406.14137](http://arxiv.org/abs/2406.14137)|null|
+|**2024-06-20**|**VGA: Vision GUI Assistant -- Minimizing Hallucinations through Image-Centric Fine-Tuning**|Ziyang Meng et.al.|[2406.14056](http://arxiv.org/abs/2406.14056)|null|
+|**2024-06-20**|**HIGHT: Hierarchical Graph Tokenization for Graph-Language Alignment**|Yongqiang Chen et.al.|[2406.14021](http://arxiv.org/abs/2406.14021)|null|
+|**2024-06-20**|**Large Language Models are Skeptics: False Negative Problem of Input-conflicting Hallucination**|Jongyoon Song et.al.|[2406.13929](http://arxiv.org/abs/2406.13929)|null|
+|**2024-06-20**|**From Descriptive Richness to Bias: Unveiling the Dark Side of Generative Image Caption Enrichment**|Yusuke Hirota et.al.|[2406.13912](http://arxiv.org/abs/2406.13912)|null|
+|**2024-06-19**|**Using Multimodal Large Language Models for Automated Detection of Traffic Safety Critical Events**|Mohammad Abu Tami et.al.|[2406.13894](http://arxiv.org/abs/2406.13894)|null|
+|**2024-06-19**|**Knowledge Graph-Enhanced Large Language Models via Path Selection**|Haochen Liu et.al.|[2406.13862](http://arxiv.org/abs/2406.13862)|**[link](https://github.com/haochenliu2000/kelp)**|
 |**2024-06-18**|**AGLA: Mitigating Object Hallucinations in Large Vision-Language Models with Assembly of Global and Local Attention**|Wenbin An et.al.|[2406.12718](http://arxiv.org/abs/2406.12718)|null|
 |**2024-06-18**|**Stealth edits for provably fixing or attacking large language models**|Oliver J. Sutton et.al.|[2406.12670](http://arxiv.org/abs/2406.12670)|**[link](https://github.com/qinghua-zhou/stealth-edits)**|
 |**2024-06-18**|**Do More Details Always Introduce More Hallucinations in LVLM-based Image Captioning?**|Mingqian Feng et.al.|[2406.12663](http://arxiv.org/abs/2406.12663)|null|
