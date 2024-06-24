@@ -2189,8 +2189,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-21**|**Algebraic characterization of dendricity**|France Gheeraert et.al.|[2406.15075](http://arxiv.org/abs/2406.15075)|null|
 |**2024-06-20**|**SimulSeamless: FBK at IWSLT 2024 Simultaneous Speech Translation**|Sara Papi et.al.|[2406.14177](http://arxiv.org/abs/2406.14177)|**[link](https://github.com/hlt-mt/fbk-fairseq)**|
-|**2024-06-21**|**LLMs Are Zero-Shot Context-Aware Simultaneous Translators**|Roman Koshkin et.al.|[2406.13476](http://arxiv.org/abs/2406.13476)|null|
+|**2024-06-21**|**LLMs Are Zero-Shot Context-Aware Simultaneous Translators**|Roman Koshkin et.al.|[2406.13476](http://arxiv.org/abs/2406.13476)|**[link](https://github.com/romankoshkin/tollmatch)**|
 |**2024-06-14**|**Exploring the Correlation between Human and Machine Evaluation of Simultaneous Speech Translation**|Xiaoman Wang et.al.|[2406.10091](http://arxiv.org/abs/2406.10091)|null|
 |**2024-06-14**|**Simul-Whisper: Attention-Guided Streaming Whisper with Truncation Detection**|Haoyu Wang et.al.|[2406.10052](http://arxiv.org/abs/2406.10052)|**[link](https://github.com/backspacetg/simul_whisper)**|
 |**2024-06-13**|**Speech ReaLLM -- Real-time Streaming Speech Recognition with Multimodal LLMs by Teaching the Flow of Time**|Frank Seide et.al.|[2406.09569](http://arxiv.org/abs/2406.09569)|null|
@@ -2283,6 +2284,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-21**|**GenoTEX: A Benchmark for Evaluating LLM-Based Exploration of Gene Expression Data in Alignment with Bioinformaticians**|Haoyang Liu et.al.|[2406.15341](http://arxiv.org/abs/2406.15341)|**[link](https://github.com/liu-hy/genotex)**|
+|**2024-06-21**|**Gradient-Mask Tuning Elevates the Upper Limits of LLM Performance**|Haoling Li et.al.|[2406.15330](http://arxiv.org/abs/2406.15330)|null|
+|**2024-06-21**|**Bug In the Code Stack: Can LLMs Find Bugs in Large Python Code Stacks**|Hokyung Lee et.al.|[2406.15325](http://arxiv.org/abs/2406.15325)|null|
+|**2024-06-21**|**Cognitive Map for Language Models: Optimal Planning via Verbally Representing the World Model**|Doyoung Kim et.al.|[2406.15275](http://arxiv.org/abs/2406.15275)|null|
+|**2024-06-21**|**Towards Fine-Grained Citation Evaluation in Generated Text: A Comparative Analysis of Faithfulness Metrics**|Weijia Zhang et.al.|[2406.15264](http://arxiv.org/abs/2406.15264)|null|
+|**2024-06-21**|**Unsupervised Morphological Tree Tokenizer**|Qingyang Zhu et.al.|[2406.15245](http://arxiv.org/abs/2406.15245)|null|
+|**2024-06-21**|**Detecting Synthetic Lyrics with Few-Shot Inference**|Yanis Labrak et.al.|[2406.15231](http://arxiv.org/abs/2406.15231)|null|
+|**2024-06-21**|**A LLM-Based Ranking Method for the Evaluation of Automatic Counter-Narrative Generation**|Irune Zubiaga et.al.|[2406.15227](http://arxiv.org/abs/2406.15227)|null|
+|**2024-06-21**|**Unsupervised Extraction of Dialogue Policies from Conversations**|Makesh Narsimhan Sreedhar et.al.|[2406.15214](http://arxiv.org/abs/2406.15214)|null|
+|**2024-06-21**|**Prompting Whisper for QA-driven Zero-shot End-to-end Spoken Language Understanding**|Mohan Li et.al.|[2406.15209](http://arxiv.org/abs/2406.15209)|null|
 |**2024-06-20**|**Model Merging and Safety Alignment: One Bad Model Spoils the Bunch**|Hasan Abed Al Kader Hammoud et.al.|[2406.14563](http://arxiv.org/abs/2406.14563)|null|
 |**2024-06-20**|**Whiteboard-of-Thought: Thinking Step-by-Step Across Modalities**|Sachit Menon et.al.|[2406.14562](http://arxiv.org/abs/2406.14562)|null|
 |**2024-06-20**|**How to Compute the Probability of a Word**|Tiago Pimentel et.al.|[2406.14561](http://arxiv.org/abs/2406.14561)|null|
@@ -3667,13 +3678,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-21**|**Enhancing Idiomatic Representation in Multiple Languages via an Adaptive Contrastive Triplet Loss**|Wei He et.al.|[2406.15175](http://arxiv.org/abs/2406.15175)|null|
 |**2024-06-20**|**xCOMET-lite: Bridging the Gap Between Efficiency and Quality in Learned MT Evaluation Metrics**|Daniil Larionov et.al.|[2406.14553](http://arxiv.org/abs/2406.14553)|null|
 |**2024-06-20**|**Translating Across Cultures: LLMs for Intralingual Cultural Adaptation**|Pushpdeep Singh et.al.|[2406.14504](http://arxiv.org/abs/2406.14504)|null|
 |**2024-06-20**|**On the Evaluation Practices in Multilingual NLP: Can Machine Translation Offer an Alternative to Human Translations?**|Rochelle Choenni et.al.|[2406.14267](http://arxiv.org/abs/2406.14267)|null|
 |**2024-06-20**|**Complexity of Symbolic Representation in Working Memory of Transformer Correlates with the Complexity of a Task**|Alsu Sagirova et.al.|[2406.14213](http://arxiv.org/abs/2406.14213)|null|
 |**2024-06-19**|**MMTE: Corpus and Metrics for Evaluating Machine Translation Quality of Metaphorical Language**|Shun Wang et.al.|[2406.13698](http://arxiv.org/abs/2406.13698)|null|
 |**2024-06-19**|**Lexically Grounded Subword Segmentation**|Jindřich Libovický et.al.|[2406.13560](http://arxiv.org/abs/2406.13560)|null|
-|**2024-06-21**|**LLMs Are Zero-Shot Context-Aware Simultaneous Translators**|Roman Koshkin et.al.|[2406.13476](http://arxiv.org/abs/2406.13476)|null|
+|**2024-06-21**|**LLMs Are Zero-Shot Context-Aware Simultaneous Translators**|Roman Koshkin et.al.|[2406.13476](http://arxiv.org/abs/2406.13476)|**[link](https://github.com/romankoshkin/tollmatch)**|
 |**2024-06-19**|**Evaluating Structural Generalization in Neural Machine Translation**|Ryoma Kumon et.al.|[2406.13363](http://arxiv.org/abs/2406.13363)|null|
 |**2024-06-19**|**How effective is Multi-source pivoting for Translation of Low Resource Indian Languages?**|Pranav Gaikwad et.al.|[2406.13332](http://arxiv.org/abs/2406.13332)|null|
 |**2024-06-18**|**Self-Distillation for Model Stacking Unlocks Cross-Lingual NLU in 200+ Languages**|Fabian David Schmidt et.al.|[2406.12739](http://arxiv.org/abs/2406.12739)|null|
@@ -4131,6 +4143,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-21**|**Towards Fine-Grained Citation Evaluation in Generated Text: A Comparative Analysis of Faithfulness Metrics**|Weijia Zhang et.al.|[2406.15264](http://arxiv.org/abs/2406.15264)|null|
+|**2024-06-21**|**Behaviour Distillation**|Andrei Lupu et.al.|[2406.15042](http://arxiv.org/abs/2406.15042)|**[link](https://github.com/flairox/behaviour-distillation)**|
+|**2024-06-21**|**Human-AI collectives produce the most accurate differential diagnoses**|N. Zöller et.al.|[2406.14981](http://arxiv.org/abs/2406.14981)|null|
+|**2024-06-21**|**FlowBench: Revisiting and Benchmarking Workflow-Guided Planning for LLM-based Agents**|Ruixuan Xiao et.al.|[2406.14884](http://arxiv.org/abs/2406.14884)|null|
+|**2024-06-20**|**Evaluating RAG-Fusion with RAGElo: an Automated Elo-based Framework**|Zackary Rackauckas et.al.|[2406.14783](http://arxiv.org/abs/2406.14783)|null|
+|**2024-06-20**|**ChatGPT as Research Scientist: Probing GPT's Capabilities as a Research Librarian, Research Ethicist, Data Generator and Data Predictor**|Steven A. Lehr et.al.|[2406.14765](http://arxiv.org/abs/2406.14765)|null|
 |**2024-06-20**|**Does Object Grounding Really Reduce Hallucination of Large Vision-Language Models?**|Gregor Geigle et.al.|[2406.14492](http://arxiv.org/abs/2406.14492)|null|
 |**2024-06-20**|**Q*: Improving Multi-step Reasoning for LLMs with Deliberative Planning**|Chaojie Wang et.al.|[2406.14283](http://arxiv.org/abs/2406.14283)|null|
 |**2024-06-20**|**In Tree Structure Should Sentence Be Generated**|Yaguang Li et.al.|[2406.14189](http://arxiv.org/abs/2406.14189)|**[link](https://github.com/arklyg/sentree)**|
