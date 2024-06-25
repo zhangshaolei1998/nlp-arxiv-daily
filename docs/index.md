@@ -2189,6 +2189,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-24**|**Simultaneous Generation of Quantum Frequency Combs across Distinct Modal Families in a Single $Si_3 N_4$ Whispering Gallery Mode Resonator**|Bo Ji et.al.|[2406.16622](http://arxiv.org/abs/2406.16622)|null|
+|**2024-06-23**|**Decoder-only Architecture for Streaming End-to-end Speech Recognition**|Emiru Tsunoo et.al.|[2406.16107](http://arxiv.org/abs/2406.16107)|null|
 |**2024-06-21**|**Algebraic characterization of dendricity**|France Gheeraert et.al.|[2406.15075](http://arxiv.org/abs/2406.15075)|null|
 |**2024-06-20**|**SimulSeamless: FBK at IWSLT 2024 Simultaneous Speech Translation**|Sara Papi et.al.|[2406.14177](http://arxiv.org/abs/2406.14177)|**[link](https://github.com/hlt-mt/fbk-fairseq)**|
 |**2024-06-21**|**LLMs Are Zero-Shot Context-Aware Simultaneous Translators**|Roman Koshkin et.al.|[2406.13476](http://arxiv.org/abs/2406.13476)|**[link](https://github.com/romankoshkin/tollmatch)**|
@@ -2284,6 +2286,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-24**|**Cambrian-1: A Fully Open, Vision-Centric Exploration of Multimodal LLMs**|Shengbang Tong et.al.|[2406.16860](http://arxiv.org/abs/2406.16860)|**[link](https://github.com/cambrian-mllm/cambrian)**|
+|**2024-06-24**|**EAGLE-2: Faster Inference of Language Models with Dynamic Draft Trees**|Yuhui Li et.al.|[2406.16858](http://arxiv.org/abs/2406.16858)|null|
+|**2024-06-24**|**Long Context Transfer from Language to Vision**|Peiyuan Zhang et.al.|[2406.16852](http://arxiv.org/abs/2406.16852)|**[link](https://github.com/evolvinglmms-lab/longva)**|
+|**2024-06-24**|**Losing Visual Needles in Image Haystacks: Vision Language Models are Easily Distracted in Short and Long Contexts**|Aditya Sharma et.al.|[2406.16851](http://arxiv.org/abs/2406.16851)|null|
+|**2024-06-24**|**RaTEScore: A Metric for Radiology Report Generation**|Weike Zhao et.al.|[2406.16845](http://arxiv.org/abs/2406.16845)|null|
+|**2024-06-24**|**From Decoding to Meta-Generation: Inference-time Algorithms for Large Language Models**|Sean Welleck et.al.|[2406.16838](http://arxiv.org/abs/2406.16838)|null|
+|**2024-06-24**|**USDC: A Dataset of $\underline{U}$ser $\underline{S}$tance and $\underline{D}$ogmatism in Long $\underline{C}$ onversations**|Mounika Marreddy et.al.|[2406.16833](http://arxiv.org/abs/2406.16833)|null|
+|**2024-06-24**|**Understanding and Mitigating Tokenization Bias in Language Models**|Buu Phan et.al.|[2406.16829](http://arxiv.org/abs/2406.16829)|null|
+|**2024-06-24**|**Ragnarök: A Reusable RAG Framework and Baselines for TREC 2024 Retrieval-Augmented Generation Track**|Ronak Pradeep et.al.|[2406.16828](http://arxiv.org/abs/2406.16828)|null|
+|**2024-06-24**|**GPT-4V Explorations: Mining Autonomous Driving**|Zixuan Li et.al.|[2406.16817](http://arxiv.org/abs/2406.16817)|null|
 |**2024-06-21**|**GenoTEX: A Benchmark for Evaluating LLM-Based Exploration of Gene Expression Data in Alignment with Bioinformaticians**|Haoyang Liu et.al.|[2406.15341](http://arxiv.org/abs/2406.15341)|**[link](https://github.com/liu-hy/genotex)**|
 |**2024-06-21**|**Gradient-Mask Tuning Elevates the Upper Limits of LLM Performance**|Haoling Li et.al.|[2406.15330](http://arxiv.org/abs/2406.15330)|null|
 |**2024-06-21**|**Bug In the Code Stack: Can LLMs Find Bugs in Large Python Code Stacks**|Hokyung Lee et.al.|[2406.15325](http://arxiv.org/abs/2406.15325)|null|
@@ -3678,6 +3690,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-24**|**The Progression of Transformers from Language to Vision to MOT: A Literature Review on Multi-Object Tracking with Transformers**|Abhi Kamboj et.al.|[2406.16784](http://arxiv.org/abs/2406.16784)|null|
+|**2024-06-24**|**Blending LLMs into Cascaded Speech Translation: KIT's Offline Speech Translation System for IWSLT 2024**|Sai Koneru et.al.|[2406.16777](http://arxiv.org/abs/2406.16777)|null|
+|**2024-06-23**|**Crosslingual Capabilities and Knowledge Barriers in Multilingual Large Language Models**|Lynn Chua et.al.|[2406.16135](http://arxiv.org/abs/2406.16135)|**[link](https://github.com/google-research/crosslingual-knowledge-barriers)**|
+|**2024-06-22**|**Ladder: A Model-Agnostic Framework Boosting LLM-based Machine Translation to the Next Level**|Zhaopeng Feng et.al.|[2406.15741](http://arxiv.org/abs/2406.15741)|**[link](https://github.com/fzp0424/ladder)**|
+|**2024-06-21**|**Shortcomings of LLMs for Low-Resource Translation: Retrieval and Understanding are Both the Problem**|Sara Court et.al.|[2406.15625](http://arxiv.org/abs/2406.15625)|null|
 |**2024-06-21**|**Enhancing Idiomatic Representation in Multiple Languages via an Adaptive Contrastive Triplet Loss**|Wei He et.al.|[2406.15175](http://arxiv.org/abs/2406.15175)|null|
 |**2024-06-20**|**xCOMET-lite: Bridging the Gap Between Efficiency and Quality in Learned MT Evaluation Metrics**|Daniil Larionov et.al.|[2406.14553](http://arxiv.org/abs/2406.14553)|null|
 |**2024-06-20**|**Translating Across Cultures: LLMs for Intralingual Cultural Adaptation**|Pushpdeep Singh et.al.|[2406.14504](http://arxiv.org/abs/2406.14504)|null|
@@ -4078,6 +4095,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-24**|**Blending LLMs into Cascaded Speech Translation: KIT's Offline Speech Translation System for IWSLT 2024**|Sai Koneru et.al.|[2406.16777](http://arxiv.org/abs/2406.16777)|null|
 |**2024-06-20**|**SimulSeamless: FBK at IWSLT 2024 Simultaneous Speech Translation**|Sara Papi et.al.|[2406.14177](http://arxiv.org/abs/2406.14177)|**[link](https://github.com/hlt-mt/fbk-fairseq)**|
 |**2024-06-16**|**CoSTA: Code-Switched Speech Translation using Aligned Speech-Text Interleaving**|Bhavani Shankar et.al.|[2406.10993](http://arxiv.org/abs/2406.10993)|null|
 |**2024-06-15**|**Lightweight Audio Segmentation for Long-form Speech Translation**|Jaesong Lee et.al.|[2406.10549](http://arxiv.org/abs/2406.10549)|null|
@@ -4143,6 +4161,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-24**|**DaLPSR: Leverage Degradation-Aligned Language Prompt for Real-World Image Super-Resolution**|Aiwen Jiang et.al.|[2406.16477](http://arxiv.org/abs/2406.16477)|null|
+|**2024-06-24**|**Evaluating and Analyzing Relationship Hallucinations in LVLMs**|Mingrui Wu et.al.|[2406.16449](http://arxiv.org/abs/2406.16449)|null|
+|**2024-06-24**|**VideoHallucer: Evaluating Intrinsic and Extrinsic Hallucinations in Large Video-Language Models**|Yuxuan Wang et.al.|[2406.16338](http://arxiv.org/abs/2406.16338)|null|
+|**2024-06-24**|**Prompt-Consistency Image Generation (PCIG): A Unified Framework Integrating LLMs, Knowledge Graphs, and Controllable Diffusion Models**|Yichen Sun et.al.|[2406.16333](http://arxiv.org/abs/2406.16333)|null|
+|**2024-06-22**|**Teaching LLMs to Abstain across Languages via Multilingual Feedback**|Shangbin Feng et.al.|[2406.15948](http://arxiv.org/abs/2406.15948)|null|
+|**2024-06-22**|**Semantic Entropy Probes: Robust and Cheap Hallucination Detection in LLMs**|Jannik Kossen et.al.|[2406.15927](http://arxiv.org/abs/2406.15927)|null|
+|**2024-06-21**|**Large Language Models have Intrinsic Self-Correction Ability**|Dancheng Liu et.al.|[2406.15673](http://arxiv.org/abs/2406.15673)|null|
+|**2024-06-21**|**Benchmarking Uncertainty Quantification Methods for Large Language Models with LM-Polygraph**|Roman Vashurin et.al.|[2406.15627](http://arxiv.org/abs/2406.15627)|null|
 |**2024-06-21**|**Towards Fine-Grained Citation Evaluation in Generated Text: A Comparative Analysis of Faithfulness Metrics**|Weijia Zhang et.al.|[2406.15264](http://arxiv.org/abs/2406.15264)|null|
 |**2024-06-21**|**Behaviour Distillation**|Andrei Lupu et.al.|[2406.15042](http://arxiv.org/abs/2406.15042)|**[link](https://github.com/flairox/behaviour-distillation)**|
 |**2024-06-21**|**Human-AI collectives produce the most accurate differential diagnoses**|N. Zöller et.al.|[2406.14981](http://arxiv.org/abs/2406.14981)|null|
