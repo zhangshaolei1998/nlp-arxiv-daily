@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.25
+## Updated on 2024.06.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2193,7 +2193,7 @@ layout: default
 |**2024-06-23**|**Decoder-only Architecture for Streaming End-to-end Speech Recognition**|Emiru Tsunoo et.al.|[2406.16107](http://arxiv.org/abs/2406.16107)|null|
 |**2024-06-21**|**Algebraic characterization of dendricity**|France Gheeraert et.al.|[2406.15075](http://arxiv.org/abs/2406.15075)|null|
 |**2024-06-20**|**SimulSeamless: FBK at IWSLT 2024 Simultaneous Speech Translation**|Sara Papi et.al.|[2406.14177](http://arxiv.org/abs/2406.14177)|**[link](https://github.com/hlt-mt/fbk-fairseq)**|
-|**2024-06-21**|**LLMs Are Zero-Shot Context-Aware Simultaneous Translators**|Roman Koshkin et.al.|[2406.13476](http://arxiv.org/abs/2406.13476)|**[link](https://github.com/romankoshkin/tollmatch)**|
+|**2024-06-25**|**LLMs Are Zero-Shot Context-Aware Simultaneous Translators**|Roman Koshkin et.al.|[2406.13476](http://arxiv.org/abs/2406.13476)|**[link](https://github.com/romankoshkin/tollmatch)**|
 |**2024-06-14**|**Exploring the Correlation between Human and Machine Evaluation of Simultaneous Speech Translation**|Xiaoman Wang et.al.|[2406.10091](http://arxiv.org/abs/2406.10091)|null|
 |**2024-06-14**|**Simul-Whisper: Attention-Guided Streaming Whisper with Truncation Detection**|Haoyu Wang et.al.|[2406.10052](http://arxiv.org/abs/2406.10052)|**[link](https://github.com/backspacetg/simul_whisper)**|
 |**2024-06-13**|**Speech ReaLLM -- Real-time Streaming Speech Recognition with Multimodal LLMs by Teaching the Flow of Time**|Frank Seide et.al.|[2406.09569](http://arxiv.org/abs/2406.09569)|null|
