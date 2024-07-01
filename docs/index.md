@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.30
+## Updated on 2024.07.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2191,7 +2191,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-06-27**|**Accelerating Multiphase Flow Simulations with Denoising Diffusion Model Driven Initializations**|Jaehong Chung et.al.|[2406.19333](http://arxiv.org/abs/2406.19333)|null|
 |**2024-06-27**|**Streaming Decoder-Only Automatic Speech Recognition with Discrete Speech Units: A Pilot Study**|Peikun Chen et.al.|[2406.18862](http://arxiv.org/abs/2406.18862)|null|
-|**2024-06-26**|**Themis: Towards Flexible and Interpretable NLG Evaluation**|Xinyu Hu et.al.|[2406.18365](http://arxiv.org/abs/2406.18365)|null|
+|**2024-06-26**|**Themis: Towards Flexible and Interpretable NLG Evaluation**|Xinyu Hu et.al.|[2406.18365](http://arxiv.org/abs/2406.18365)|**[link](https://github.com/PKU-ONELab/Themis)**|
 |**2024-06-24**|**Simultaneous Generation of Quantum Frequency Combs across Distinct Modal Families in a Single $Si_3 N_4$ Whispering Gallery Mode Resonator**|Bo Ji et.al.|[2406.16622](http://arxiv.org/abs/2406.16622)|null|
 |**2024-06-23**|**Decoder-only Architecture for Streaming End-to-end Speech Recognition**|Emiru Tsunoo et.al.|[2406.16107](http://arxiv.org/abs/2406.16107)|null|
 |**2024-06-21**|**Algebraic characterization of dendricity**|France Gheeraert et.al.|[2406.15075](http://arxiv.org/abs/2406.15075)|null|
@@ -2298,7 +2298,7 @@ layout: default
 |**2024-06-27**|**Jump Starting Bandits with LLM-Generated Prior Knowledge**|Parand A. Alamdari et.al.|[2406.19317](http://arxiv.org/abs/2406.19317)|null|
 |**2024-06-27**|**From Artificial Needles to Real Haystacks: Improving Retrieval Capabilities in LLMs by Finetuning on Synthetic Data**|Zheyang Xiong et.al.|[2406.19292](http://arxiv.org/abs/2406.19292)|null|
 |**2024-06-27**|**PhysioLLM: Supporting Personalized Health Insights with Wearables and Large Language Models**|Cathy Mengying Fang et.al.|[2406.19283](http://arxiv.org/abs/2406.19283)|null|
-|**2024-06-27**|**HuatuoGPT-Vision, Towards Injecting Medical Visual Knowledge into Multimodal LLMs at Scale**|Junying Chen et.al.|[2406.19280](http://arxiv.org/abs/2406.19280)|null|
+|**2024-06-27**|**HuatuoGPT-Vision, Towards Injecting Medical Visual Knowledge into Multimodal LLMs at Scale**|Junying Chen et.al.|[2406.19280](http://arxiv.org/abs/2406.19280)|**[link](https://github.com/freedomintelligence/huatuogpt-vision)**|
 |**2024-06-26**|**Symbolic Learning Enables Self-Evolving Agents**|Wangchunshu Zhou et.al.|[2406.18532](http://arxiv.org/abs/2406.18532)|**[link](https://github.com/aiwaves-cn/agents)**|
 |**2024-06-26**|**PrExMe! Large Scale Prompt Exploration of Open Source LLMs for Machine Translation and Summarization Evaluation**|Christoph Leiter et.al.|[2406.18528](http://arxiv.org/abs/2406.18528)|null|
 |**2024-06-26**|**CharXiv: Charting Gaps in Realistic Chart Understanding in Multimodal LLMs**|Zirui Wang et.al.|[2406.18521](http://arxiv.org/abs/2406.18521)|null|
