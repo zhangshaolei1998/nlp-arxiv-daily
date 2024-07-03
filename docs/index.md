@@ -2189,6 +2189,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-01**|**Non-intersecting Paths and the Determinant of the Distance Matrix of a Tree**|Emmanuel Briand et.al.|[2407.01227](http://arxiv.org/abs/2407.01227)|null|
+|**2024-06-30**|**NAIST Simultaneous Speech Translation System for IWSLT 2024**|Yuka Ko et.al.|[2407.00826](http://arxiv.org/abs/2407.00826)|null|
 |**2024-06-28**|**Triangulated structures induced by mutations**|Ryota Iitsuka et.al.|[2406.19625](http://arxiv.org/abs/2406.19625)|null|
 |**2024-06-27**|**Accelerating Multiphase Flow Simulations with Denoising Diffusion Model Driven Initializations**|Jaehong Chung et.al.|[2406.19333](http://arxiv.org/abs/2406.19333)|null|
 |**2024-06-27**|**Streaming Decoder-Only Automatic Speech Recognition with Discrete Speech Units: A Pilot Study**|Peikun Chen et.al.|[2406.18862](http://arxiv.org/abs/2406.18862)|null|
@@ -2290,6 +2292,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-02**|**MInference 1.0: Accelerating Pre-filling for Long-Context LLMs via Dynamic Sparse Attention**|Huiqiang Jiang et.al.|[2407.02490](http://arxiv.org/abs/2407.02490)|**[link](https://github.com/microsoft/MInference)**|
+|**2024-07-02**|**Neurocache: Efficient Vector Retrieval for Long-range Language Modeling**|Ali Safaya et.al.|[2407.02486](http://arxiv.org/abs/2407.02486)|**[link](https://github.com/alisafaya/neurocache)**|
+|**2024-07-02**|**RankRAG: Unifying Context Ranking with Retrieval-Augmented Generation in LLMs**|Yue Yu et.al.|[2407.02485](http://arxiv.org/abs/2407.02485)|null|
+|**2024-07-02**|**MMedAgent: Learning to Use Medical Tools with Multi-modal Agent**|Binxu Li et.al.|[2407.02483](http://arxiv.org/abs/2407.02483)|null|
+|**2024-07-02**|**Understanding Alignment in Multimodal LLMs: A Comprehensive Study**|Elmira Amirloo et.al.|[2407.02477](http://arxiv.org/abs/2407.02477)|null|
+|**2024-07-02**|**Open Scene Graphs for Open World Object-Goal Navigation**|Joel Loo et.al.|[2407.02473](http://arxiv.org/abs/2407.02473)|null|
+|**2024-07-02**|**ValueScope: Unveiling Implicit Norms and Values via Return Potential Model of Social Interactions**|Chan Young Park et.al.|[2407.02472](http://arxiv.org/abs/2407.02472)|**[link](https://github.com/stellali7/valueScope)**|
+|**2024-07-02**|**Reliable Confidence Intervals for Information Retrieval Evaluation Using Generative A.I**|Harrie Oosterhuis et.al.|[2407.02464](http://arxiv.org/abs/2407.02464)|null|
+|**2024-07-02**|**Ensemble of pre-trained language models and data augmentation for hate speech detection from Arabic tweets**|Kheir Eddine Daouadi et.al.|[2407.02448](http://arxiv.org/abs/2407.02448)|null|
+|**2024-07-02**|**Video Watermarking: Safeguarding Your Video from (Unauthorized) Annotations by Video-based LLMs**|Jinmin Li et.al.|[2407.02411](http://arxiv.org/abs/2407.02411)|null|
 |**2024-06-28**|**Web2Code: A Large-scale Webpage-to-Code Dataset and Evaluation Framework for Multimodal LLMs**|Sukmin Yun et.al.|[2406.20098](http://arxiv.org/abs/2406.20098)|**[link](https://github.com/mbzuai-llm/web2code)**|
 |**2024-06-28**|**LLaRA: Supercharging Robot Learning Data for Vision-Language Policy**|Xiang Li et.al.|[2406.20095](http://arxiv.org/abs/2406.20095)|**[link](https://github.com/lostxine/llara)**|
 |**2024-06-28**|**Scaling Synthetic Data Creation with 1,000,000,000 Personas**|Xin Chan et.al.|[2406.20094](http://arxiv.org/abs/2406.20094)|null|
@@ -3734,6 +3746,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-02**|**How to Learn in a Noisy World? Self-Correcting the Real-World Data Noise on Machine Translation**|Yan Meng et.al.|[2407.02208](http://arxiv.org/abs/2407.02208)|null|
+|**2024-07-01**|**ESALE: Enhancing Code-Summary Alignment Learning for Source Code Summarization**|Chunrong Fang et.al.|[2407.01646](http://arxiv.org/abs/2407.01646)|null|
+|**2024-07-01**|**Language Portability Strategies for Open-domain Dialogue with Pre-trained Language Models from High to Low Resource Languages**|Ahmed Njifenjou et.al.|[2407.01315](http://arxiv.org/abs/2407.01315)|null|
+|**2024-07-01**|**Investigating the potential of Sparse Mixtures-of-Experts for multi-domain neural machine translation**|Nadezhda Chirkova et.al.|[2407.01126](http://arxiv.org/abs/2407.01126)|null|
+|**2024-06-29**|**Towards Massive Multilingual Holistic Bias**|Xiaoqing Ellen Tan et.al.|[2407.00486](http://arxiv.org/abs/2407.00486)|null|
+|**2024-06-29**|**A Recipe of Parallel Corpora Exploitation for Multilingual Large Language Models**|Peiqin Lin et.al.|[2407.00436](http://arxiv.org/abs/2407.00436)|null|
+|**2024-06-29**|**Too Late to Train, Too Early To Use? A Study on Necessity and Viability of Low-Resource Bengali LLMs**|Tamzeed Mahfuz et.al.|[2407.00416](http://arxiv.org/abs/2407.00416)|null|
+|**2024-06-28**|**Prompt Refinement with Image Pivot for Text-to-Image Generation**|Jingtao Zhan et.al.|[2407.00247](http://arxiv.org/abs/2407.00247)|null|
 |**2024-06-28**|**Less is More: Accurate Speech Recognition & Translation without Web-Scale Data**|Krishna C. Puvvada et.al.|[2406.19674](http://arxiv.org/abs/2406.19674)|null|
 |**2024-06-27**|**Voices Unheard: NLP Resources and Models for Yorùbá Regional Dialects**|Orevaoghene Ahia et.al.|[2406.19564](http://arxiv.org/abs/2406.19564)|null|
 |**2024-06-27**|**xTower: A Multilingual LLM for Explaining and Correcting Translation Errors**|Marcos Treviso et.al.|[2406.19482](http://arxiv.org/abs/2406.19482)|null|
@@ -4146,6 +4166,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-01**|**Cross-Lingual Transfer Learning for Speech Translation**|Rao Ma et.al.|[2407.01130](http://arxiv.org/abs/2407.01130)|null|
+|**2024-06-30**|**NAIST Simultaneous Speech Translation System for IWSLT 2024**|Yuka Ko et.al.|[2407.00826](http://arxiv.org/abs/2407.00826)|null|
 |**2024-06-28**|**Less is More: Accurate Speech Recognition & Translation without Web-Scale Data**|Krishna C. Puvvada et.al.|[2406.19674](http://arxiv.org/abs/2406.19674)|null|
 |**2024-06-27**|**Leveraging Synthetic Audio Data for End-to-End Low-Resource Speech Translation**|Yasmin Moslem et.al.|[2406.17363](http://arxiv.org/abs/2406.17363)|null|
 |**2024-06-24**|**Blending LLMs into Cascaded Speech Translation: KIT's Offline Speech Translation System for IWSLT 2024**|Sai Koneru et.al.|[2406.16777](http://arxiv.org/abs/2406.16777)|null|
@@ -4214,6 +4236,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-02**|**Understanding Alignment in Multimodal LLMs: A Comprehensive Study**|Elmira Amirloo et.al.|[2407.02477](http://arxiv.org/abs/2407.02477)|null|
+|**2024-07-02**|**Pelican: Correcting Hallucination in Vision-LLMs via Claim Decomposition and Program of Thought Verification**|Pritish Sahu et.al.|[2407.02352](http://arxiv.org/abs/2407.02352)|null|
+|**2024-07-02**|**MeMemo: On-device Retrieval Augmentation for Private and Personalized Text Generation**|Zijie J. Wang et.al.|[2407.01972](http://arxiv.org/abs/2407.01972)|**[link](https://github.com/poloclub/mememo)**|
+|**2024-07-01**|**MMLongBench-Doc: Benchmarking Long-context Document Understanding with Visualizations**|Yubo Ma et.al.|[2407.01523](http://arxiv.org/abs/2407.01523)|null|
+|**2024-07-01**|**Optimization of Retrieval-Augmented Generation Context with Outlier Detection**|Vitaly Bulgakov et.al.|[2407.01403](http://arxiv.org/abs/2407.01403)|null|
+|**2024-07-01**|**Free-text Rationale Generation under Readability Level Control**|Yi-Sheng Hsu et.al.|[2407.01384](http://arxiv.org/abs/2407.01384)|null|
+|**2024-07-01**|**Searching for Best Practices in Retrieval-Augmented Generation**|Xiaohua Wang et.al.|[2407.01219](http://arxiv.org/abs/2407.01219)|null|
+|**2024-07-01**|**EconNLI: Evaluating Large Language Models on Economics Reasoning**|Yue Guo et.al.|[2407.01212](http://arxiv.org/abs/2407.01212)|**[link](https://github.com/irenehere/econnli)**|
+|**2024-07-01**|**LLM Uncertainty Quantification through Directional Entailment Graph and Claim Level Response Augmentation**|Longchao Da et.al.|[2407.00994](http://arxiv.org/abs/2407.00994)|null|
+|**2024-07-01**|**FineSurE: Fine-grained Summarization Evaluation using LLMs**|Hwanjun Song et.al.|[2407.00908](http://arxiv.org/abs/2407.00908)|**[link](https://github.com/disl-lab/finesure-acl24)**|
 |**2024-06-28**|**Molecular Facts: Desiderata for Decontextualization in LLM Fact Verification**|Anisha Gunjal et.al.|[2406.20079](http://arxiv.org/abs/2406.20079)|**[link](https://github.com/anisha2102/molecular_facts)**|
 |**2024-06-28**|**Applying RLAIF for Code Generation with API-usage in Lightweight LLMs**|Sujan Dutta et.al.|[2406.20060](http://arxiv.org/abs/2406.20060)|null|
 |**2024-06-28**|**ToolBeHonest: A Multi-level Hallucination Diagnostic Benchmark for Tool-Augmented Large Language Models**|Yuxiang Zhang et.al.|[2406.20015](http://arxiv.org/abs/2406.20015)|**[link](https://github.com/toolbehonest/toolbehonest)**|
