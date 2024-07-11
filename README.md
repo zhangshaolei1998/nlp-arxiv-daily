@@ -2322,6 +2322,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-10**|**Training on the Test Task Confounds Evaluation and Emergence**|Ricardo Dominguez-Olmedo et.al.|[2407.07890](http://arxiv.org/abs/2407.07890)|**[link](https://github.com/socialfoundations/training-on-the-test-task)**|
+|**2024-07-10**|**Towards Robust Alignment of Language Models: Distributionally Robustifying Direct Preference Optimization**|Junkang Wu et.al.|[2407.07880](http://arxiv.org/abs/2407.07880)|**[link](https://github.com/junkangwu/dr_dpo)**|
+|**2024-07-10**|**FACTS About Building Retrieval Augmented Generation-based Chatbots**|Rama Akkiraju et.al.|[2407.07858](http://arxiv.org/abs/2407.07858)|null|
+|**2024-07-10**|**OpenDiLoCo: An Open-Source Framework for Globally Distributed Low-Communication Training**|Sami Jaghouar et.al.|[2407.07852](http://arxiv.org/abs/2407.07852)|null|
+|**2024-07-10**|**Natural Language Mechanisms via Self-Resolution with Foundation Models**|Nicolas Della Penna et.al.|[2407.07845](http://arxiv.org/abs/2407.07845)|null|
+|**2024-07-10**|**Decompose and Compare Consistency: Measuring VLMs' Answer Reliability via Task-Decomposition Consistency Comparison**|Qian Yang et.al.|[2407.07840](http://arxiv.org/abs/2407.07840)|null|
+|**2024-07-10**|**Transformer Alignment in Large Language Models**|Murdock Aubry et.al.|[2407.07810](http://arxiv.org/abs/2407.07810)|null|
+|**2024-07-10**|**AVCap: Leveraging Audio-Visual Features as Text Tokens for Captioning**|Jongsuk Kim et.al.|[2407.07801](http://arxiv.org/abs/2407.07801)|null|
+|**2024-07-10**|**Attribute or Abstain: Large Language Models as Long Document Assistants**|Jan Buchmann et.al.|[2407.07799](http://arxiv.org/abs/2407.07799)|**[link](https://github.com/ukplab/arxiv2024-attribute-or-abstain)**|
+|**2024-07-10**|**Evaluating Large Language Models with Grid-Based Game Competitions: An Extensible LLM Benchmark and Leaderboard**|Oguzhan Topsakal et.al.|[2407.07796](http://arxiv.org/abs/2407.07796)|**[link](https://github.com/research-outcome/llm-game-benchmark)**|
 |**2024-07-09**|**AnyTaskTune: Advanced Domain-Specific Solutions through Task-Fine-Tuning**|Jiaxi Cui et.al.|[2407.07094](http://arxiv.org/abs/2407.07094)|**[link](https://github.com/pandavt/datatager)**|
 |**2024-07-09**|**FBI-LLM: Scaling Up Fully Binarized LLMs from Scratch via Autoregressive Distillation**|Liqun Ma et.al.|[2407.07093](http://arxiv.org/abs/2407.07093)|**[link](https://github.com/liqunma/fbi-llm)**|
 |**2024-07-09**|**CopyBench: Measuring Literal and Non-Literal Reproduction of Copyright-Protected Text in Language Model Generation**|Tong Chen et.al.|[2407.07087](http://arxiv.org/abs/2407.07087)|null|
@@ -3818,6 +3828,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-10**|**Arabic Automatic Story Generation with Large Language Models**|Ahmed Oumar El-Shangiti et.al.|[2407.07551](http://arxiv.org/abs/2407.07551)|null|
 |**2024-07-09**|**Segment-Based Interactive Machine Translation for Pre-trained Models**|Angel Navarro et.al.|[2407.06990](http://arxiv.org/abs/2407.06990)|null|
 |**2024-07-09**|**A Word Order Synchronization Metric for Evaluating Simultaneous Interpretation and Translation**|Mana Makinae et.al.|[2407.06650](http://arxiv.org/abs/2407.06650)|null|
 |**2024-07-09**|**Enhancing Low-Resource NMT with a Multilingual Encoder and Knowledge Distillation: A Case Study**|Aniruddha Roy et.al.|[2407.06538](http://arxiv.org/abs/2407.06538)|null|
@@ -4334,6 +4345,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-10**|**Decompose and Compare Consistency: Measuring VLMs' Answer Reliability via Task-Decomposition Consistency Comparison**|Qian Yang et.al.|[2407.07840](http://arxiv.org/abs/2407.07840)|null|
+|**2024-07-10**|**Attribute or Abstain: Large Language Models as Long Document Assistants**|Jan Buchmann et.al.|[2407.07799](http://arxiv.org/abs/2407.07799)|**[link](https://github.com/ukplab/arxiv2024-attribute-or-abstain)**|
+|**2024-07-10**|**LokiLM: Technical Report**|Justin Kiefel et.al.|[2407.07370](http://arxiv.org/abs/2407.07370)|null|
+|**2024-07-10**|**Learning with Instance-Dependent Noisy Labels by Anchor Hallucination and Hard Sample Label Correction**|Po-Hsuan Huang et.al.|[2407.07331](http://arxiv.org/abs/2407.07331)|null|
+|**2024-07-10**|**Fuse, Reason and Verify: Geometry Problem Solving with Parsed Clauses from Diagram**|Ming-Liang Zhang et.al.|[2407.07327](http://arxiv.org/abs/2407.07327)|null|
 |**2024-07-09**|**Lookback Lens: Detecting and Mitigating Contextual Hallucinations in Large Language Models Using Only Attention Maps**|Yung-Sung Chuang et.al.|[2407.07071](http://arxiv.org/abs/2407.07071)|**[link](https://github.com/voidism/lookback-lens)**|
 |**2024-07-09**|**Combining Knowledge Graphs and Large Language Models**|Amanda Kau et.al.|[2407.06564](http://arxiv.org/abs/2407.06564)|null|
 |**2024-07-08**|**DebUnc: Mitigating Hallucinations in Large Language Model Agent Communication with Uncertainty Estimations**|Luke Yoffe et.al.|[2407.06426](http://arxiv.org/abs/2407.06426)|**[link](https://github.com/lukeyoffe/debunc)**|
