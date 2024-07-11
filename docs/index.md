@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.10
+## Updated on 2024.07.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2189,6 +2189,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-09**|**A Word Order Synchronization Metric for Evaluating Simultaneous Interpretation and Translation**|Mana Makinae et.al.|[2407.06650](http://arxiv.org/abs/2407.06650)|null|
 |**2024-07-09**|**Fine-Grained Multi-View Hand Reconstruction Using Inverse Rendering**|Qijun Gan et.al.|[2407.05680](http://arxiv.org/abs/2407.05680)|**[link](https://github.com/agnjason/fmhr)**|
 |**2024-07-05**|**XLSR-Transducer: Streaming ASR for Self-Supervised Pretrained Models**|Shashi Kumar et.al.|[2407.04439](http://arxiv.org/abs/2407.04439)|null|
 |**2024-07-01**|**Non-intersecting Paths and the Determinant of the Distance Matrix of a Tree**|Emmanuel Briand et.al.|[2407.01227](http://arxiv.org/abs/2407.01227)|null|
@@ -2294,6 +2295,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-09**|**AnyTaskTune: Advanced Domain-Specific Solutions through Task-Fine-Tuning**|Jiaxi Cui et.al.|[2407.07094](http://arxiv.org/abs/2407.07094)|**[link](https://github.com/pandavt/datatager)**|
+|**2024-07-09**|**FBI-LLM: Scaling Up Fully Binarized LLMs from Scratch via Autoregressive Distillation**|Liqun Ma et.al.|[2407.07093](http://arxiv.org/abs/2407.07093)|**[link](https://github.com/liqunma/fbi-llm)**|
+|**2024-07-09**|**CopyBench: Measuring Literal and Non-Literal Reproduction of Copyright-Protected Text in Language Model Generation**|Tong Chen et.al.|[2407.07087](http://arxiv.org/abs/2407.07087)|null|
+|**2024-07-09**|**Hypothetical Minds: Scaffolding Theory of Mind for Multi-Agent Tasks with Large Language Models**|Logan Cross et.al.|[2407.07086](http://arxiv.org/abs/2407.07086)|**[link](https://github.com/locross93/hypothetical-minds)**|
+|**2024-07-09**|**Adapting LLMs to Hebrew: Unveiling DictaLM 2.0 with Enhanced Vocabulary and Instruction Capabilities**|Shaltiel Shmidman et.al.|[2407.07080](http://arxiv.org/abs/2407.07080)|null|
+|**2024-07-09**|**Lookback Lens: Detecting and Mitigating Contextual Hallucinations in Large Language Models Using Only Attention Maps**|Yung-Sung Chuang et.al.|[2407.07071](http://arxiv.org/abs/2407.07071)|**[link](https://github.com/voidism/lookback-lens)**|
+|**2024-07-09**|**Prompting Techniques for Secure Code Generation: A Systematic Investigation**|Catherine Tony et.al.|[2407.07064](http://arxiv.org/abs/2407.07064)|null|
+|**2024-07-10**|**Internet of Agents: Weaving a Web of Heterogeneous Agents for Collaborative Intelligence**|Weize Chen et.al.|[2407.07061](http://arxiv.org/abs/2407.07061)|**[link](https://github.com/openbmb/ioa)**|
+|**2024-07-10**|**Multimodal Self-Instruct: Synthetic Abstract Image and Visual Reasoning Instruction Using Language Model**|Wenqi Zhang et.al.|[2407.07053](http://arxiv.org/abs/2407.07053)|**[link](https://github.com/zwq2018/multi-modal-self-instruct)**|
+|**2024-07-09**|**Exploring Scalability of Self-Training for Open-Vocabulary Temporal Action Localization**|Jeongseok Hyun et.al.|[2407.07024](http://arxiv.org/abs/2407.07024)|**[link](https://github.com/hyunjs/stov-tal)**|
 |**2024-07-08**|**Multi-Object Hallucination in Vision-Language Models**|Xuweiyi Chen et.al.|[2407.06192](http://arxiv.org/abs/2407.06192)|null|
 |**2024-07-08**|**Video-STaR: Self-Training Enables Video Instruction Tuning with Any Supervision**|Orr Zohar et.al.|[2407.06189](http://arxiv.org/abs/2407.06189)|**[link](https://github.com/orrzohar/Video-STaR)**|
 |**2024-07-08**|**CrowdMoGen: Zero-Shot Text-Driven Collective Motion Generation**|Xinying Guo et.al.|[2407.06188](http://arxiv.org/abs/2407.06188)|null|
@@ -3778,9 +3789,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-09**|**Segment-Based Interactive Machine Translation for Pre-trained Models**|Angel Navarro et.al.|[2407.06990](http://arxiv.org/abs/2407.06990)|null|
+|**2024-07-09**|**A Word Order Synchronization Metric for Evaluating Simultaneous Interpretation and Translation**|Mana Makinae et.al.|[2407.06650](http://arxiv.org/abs/2407.06650)|null|
+|**2024-07-09**|**Enhancing Low-Resource NMT with a Multilingual Encoder and Knowledge Distillation: A Case Study**|Aniruddha Roy et.al.|[2407.06538](http://arxiv.org/abs/2407.06538)|null|
+|**2024-07-07**|**Predicting Word Similarity in Context with Referential Translation Machines**|Ergun Biçici et.al.|[2407.06230](http://arxiv.org/abs/2407.06230)|null|
 |**2024-07-08**|**Large Language Models for Judicial Entity Extraction: A Comparative Study**|Atin Sakkeer Hussain et.al.|[2407.05786](http://arxiv.org/abs/2407.05786)|null|
 |**2024-07-07**|**How Effective are State Space Models for Machine Translation?**|Hugo Pitorro et.al.|[2407.05489](http://arxiv.org/abs/2407.05489)|null|
-|**2024-07-07**|**SmurfCat at PAN 2024 TextDetox: Alignment of Multilingual Transformers for Text Detoxification**|Elisei Rykov et.al.|[2407.05449](http://arxiv.org/abs/2407.05449)|**[link](https://github.com/s-nlp/multilingual-transformer-detoxification)**|
+|**2024-07-10**|**SmurfCat at PAN 2024 TextDetox: Alignment of Multilingual Transformers for Text Detoxification**|Elisei Rykov et.al.|[2407.05449](http://arxiv.org/abs/2407.05449)|**[link](https://github.com/s-nlp/multilingual-transformer-detoxification)**|
 |**2024-07-07**|**Rethinking Targeted Adversarial Attacks For Neural Machine Translation**|Junjie Wu et.al.|[2407.05319](http://arxiv.org/abs/2407.05319)|**[link](https://github.com/wujunjie1998/twga)**|
 |**2024-07-06**|**Enhancing Language Learning through Technology: Introducing a New English-Azerbaijani (Arabic Script) Parallel Corpus**|Jalil Nourmohammadi Khiarak et.al.|[2407.05189](http://arxiv.org/abs/2407.05189)|null|
 |**2024-07-06**|**Identifying Intensity of the Structure and Content in Tweets and the Discriminative Power of Attributes in Context with Referential Translation Machines**|Ergun Biçici et.al.|[2407.05154](http://arxiv.org/abs/2407.05154)|null|
@@ -4286,6 +4301,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-09**|**Lookback Lens: Detecting and Mitigating Contextual Hallucinations in Large Language Models Using Only Attention Maps**|Yung-Sung Chuang et.al.|[2407.07071](http://arxiv.org/abs/2407.07071)|**[link](https://github.com/voidism/lookback-lens)**|
+|**2024-07-09**|**Combining Knowledge Graphs and Large Language Models**|Amanda Kau et.al.|[2407.06564](http://arxiv.org/abs/2407.06564)|null|
+|**2024-07-08**|**DebUnc: Mitigating Hallucinations in Large Language Model Agent Communication with Uncertainty Estimations**|Luke Yoffe et.al.|[2407.06426](http://arxiv.org/abs/2407.06426)|**[link](https://github.com/lukeyoffe/debunc)**|
 |**2024-07-08**|**Multi-Object Hallucination in Vision-Language Models**|Xuweiyi Chen et.al.|[2407.06192](http://arxiv.org/abs/2407.06192)|null|
 |**2024-07-08**|**Vision-Language Models under Cultural and Inclusive Considerations**|Antonia Karamolegkou et.al.|[2407.06177](http://arxiv.org/abs/2407.06177)|null|
 |**2024-07-08**|**From Loops to Oops: Fallback Behaviors of Language Models Under Uncertainty**|Maor Ivgi et.al.|[2407.06071](http://arxiv.org/abs/2407.06071)|**[link](https://github.com/mivg/fallbacks)**|
