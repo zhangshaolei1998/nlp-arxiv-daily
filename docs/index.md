@@ -2189,6 +2189,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-11**|**Live2Diff: Live Stream Translation via Uni-directional Attention in Video Diffusion Models**|Zhening Xing et.al.|[2407.08701](http://arxiv.org/abs/2407.08701)|null|
+|**2024-07-11**|**Corners with polynomial side length**|Noah Kravitz et.al.|[2407.08637](http://arxiv.org/abs/2407.08637)|null|
 |**2024-07-09**|**A Word Order Synchronization Metric for Evaluating Simultaneous Interpretation and Translation**|Mana Makinae et.al.|[2407.06650](http://arxiv.org/abs/2407.06650)|null|
 |**2024-07-09**|**Fine-Grained Multi-View Hand Reconstruction Using Inverse Rendering**|Qijun Gan et.al.|[2407.05680](http://arxiv.org/abs/2407.05680)|**[link](https://github.com/agnjason/fmhr)**|
 |**2024-07-05**|**XLSR-Transducer: Streaming ASR for Self-Supervised Pretrained Models**|Shashi Kumar et.al.|[2407.04439](http://arxiv.org/abs/2407.04439)|null|
@@ -2295,6 +2297,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-11**|**MAVIS: Mathematical Visual Instruction Tuning**|Renrui Zhang et.al.|[2407.08739](http://arxiv.org/abs/2407.08739)|**[link](https://github.com/zrrskywalker/mavis)**|
+|**2024-07-11**|**Real-Time Anomaly Detection and Reactive Planning with Large Language Models**|Rohan Sinha et.al.|[2407.08735](http://arxiv.org/abs/2407.08735)|null|
+|**2024-07-11**|**Is Your Model Really A Good Math Reasoner? Evaluating Mathematical Reasoning with Checklist**|Zihao Zhou et.al.|[2407.08733](http://arxiv.org/abs/2407.08733)|null|
+|**2024-07-11**|**A Taxonomy for Data Contamination in Large Language Models**|Medha Palavalli et.al.|[2407.08716](http://arxiv.org/abs/2407.08716)|null|
+|**2024-07-11**|**GTA: A Benchmark for General Tool Agents**|Jize Wang et.al.|[2407.08713](http://arxiv.org/abs/2407.08713)|**[link](https://github.com/open-compass/GTA)**|
+|**2024-07-11**|**eyeballvul: a future-proof benchmark for vulnerability detection in the wild**|Timothee Chauvin et.al.|[2407.08708](http://arxiv.org/abs/2407.08708)|**[link](https://github.com/timothee-chauvin/eyeballvul_experiments)**|
+|**2024-07-11**|**Extracting Training Data from Document-Based VQA Models**|Francesco Pinto et.al.|[2407.08707](http://arxiv.org/abs/2407.08707)|null|
+|**2024-07-11**|**HiRes-LLaVA: Restoring Fragmentation Input in High-Resolution Large Vision-Language Models**|Runhui Huang et.al.|[2407.08706](http://arxiv.org/abs/2407.08706)|null|
+|**2024-07-11**|**Live2Diff: Live Stream Translation via Uni-directional Attention in Video Diffusion Models**|Zhening Xing et.al.|[2407.08701](http://arxiv.org/abs/2407.08701)|null|
+|**2024-07-11**|**Mitigating Catastrophic Forgetting in Language Transfer via Model Merging**|Anton Alexandrov et.al.|[2407.08699](http://arxiv.org/abs/2407.08699)|null|
 |**2024-07-10**|**Training on the Test Task Confounds Evaluation and Emergence**|Ricardo Dominguez-Olmedo et.al.|[2407.07890](http://arxiv.org/abs/2407.07890)|**[link](https://github.com/socialfoundations/training-on-the-test-task)**|
 |**2024-07-10**|**Towards Robust Alignment of Language Models: Distributionally Robustifying Direct Preference Optimization**|Junkang Wu et.al.|[2407.07880](http://arxiv.org/abs/2407.07880)|**[link](https://github.com/junkangwu/dr_dpo)**|
 |**2024-07-10**|**FACTS About Building Retrieval Augmented Generation-based Chatbots**|Rama Akkiraju et.al.|[2407.07858](http://arxiv.org/abs/2407.07858)|null|
@@ -3799,6 +3811,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-11**|**Tamil Language Computing: the Present and the Future**|Kengatharaiyer Sarveswaran et.al.|[2407.08618](http://arxiv.org/abs/2407.08618)|null|
 |**2024-07-10**|**Arabic Automatic Story Generation with Large Language Models**|Ahmed Oumar El-Shangiti et.al.|[2407.07551](http://arxiv.org/abs/2407.07551)|null|
 |**2024-07-09**|**Segment-Based Interactive Machine Translation for Pre-trained Models**|Angel Navarro et.al.|[2407.06990](http://arxiv.org/abs/2407.06990)|null|
 |**2024-07-09**|**A Word Order Synchronization Metric for Evaluating Simultaneous Interpretation and Translation**|Mana Makinae et.al.|[2407.06650](http://arxiv.org/abs/2407.06650)|null|
@@ -4312,6 +4325,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-11**|**Uncertainty Estimation of Large Language Models in Medical Question Answering**|Jiaxin Wu et.al.|[2407.08662](http://arxiv.org/abs/2407.08662)|null|
+|**2024-07-11**|**On the Universal Truthfulness Hyperplane Inside LLMs**|Junteng Liu et.al.|[2407.08582](http://arxiv.org/abs/2407.08582)|null|
+|**2024-07-11**|**Lynx: An Open Source Hallucination Evaluation Model**|Selvan Sunitha Ravi et.al.|[2407.08488](http://arxiv.org/abs/2407.08488)|null|
+|**2024-07-10**|**Geospecific View Generation -- Geometry-Context Aware High-resolution Ground View Inference from Satellite Views**|Ningli Xu et.al.|[2407.08061](http://arxiv.org/abs/2407.08061)|null|
+|**2024-07-10**|**Knowledge Overshadowing Causes Amalgamated Hallucination in Large Language Models**|Yuji Zhang et.al.|[2407.08039](http://arxiv.org/abs/2407.08039)|null|
 |**2024-07-10**|**Decompose and Compare Consistency: Measuring VLMs' Answer Reliability via Task-Decomposition Consistency Comparison**|Qian Yang et.al.|[2407.07840](http://arxiv.org/abs/2407.07840)|null|
 |**2024-07-10**|**Attribute or Abstain: Large Language Models as Long Document Assistants**|Jan Buchmann et.al.|[2407.07799](http://arxiv.org/abs/2407.07799)|**[link](https://github.com/ukplab/arxiv2024-attribute-or-abstain)**|
 |**2024-07-10**|**LokiLM: Technical Report**|Justin Kiefel et.al.|[2407.07370](http://arxiv.org/abs/2407.07370)|null|
