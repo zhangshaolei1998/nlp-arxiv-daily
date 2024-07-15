@@ -2189,6 +2189,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-12**|**HPC: Hierarchical Progressive Coding Framework for Volumetric Video**|Zihan Zheng et.al.|[2407.09026](http://arxiv.org/abs/2407.09026)|null|
 |**2024-07-11**|**Live2Diff: Live Stream Translation via Uni-directional Attention in Video Diffusion Models**|Zhening Xing et.al.|[2407.08701](http://arxiv.org/abs/2407.08701)|null|
 |**2024-07-11**|**Corners with polynomial side length**|Noah Kravitz et.al.|[2407.08637](http://arxiv.org/abs/2407.08637)|null|
 |**2024-07-09**|**A Word Order Synchronization Metric for Evaluating Simultaneous Interpretation and Translation**|Mana Makinae et.al.|[2407.06650](http://arxiv.org/abs/2407.06650)|null|
@@ -2297,6 +2298,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-12**|**FairyLandAI: Personalized Fairy Tales utilizing ChatGPT and DALLE-3**|Georgios Makridis et.al.|[2407.09467](http://arxiv.org/abs/2407.09467)|null|
+|**2024-07-12**|**Human-like Episodic Memory for Infinite Context LLMs**|Zafeirios Fountas et.al.|[2407.09450](http://arxiv.org/abs/2407.09450)|null|
+|**2024-07-12**|**ASTPrompter: Weakly Supervised Automated Language Model Red-Teaming to Identify Likely Toxic Prompts**|Amelia F. Hardy et.al.|[2407.09447](http://arxiv.org/abs/2407.09447)|null|
+|**2024-07-12**|**MUSCLE: A Model Update Strategy for Compatible LLM Evolution**|Jessica Echterhoff et.al.|[2407.09435](http://arxiv.org/abs/2407.09435)|null|
+|**2024-07-12**|**Open (Clinical) LLMs are Sensitive to Instruction Phrasings**|Alberto Mario Ceballos Arroyo et.al.|[2407.09429](http://arxiv.org/abs/2407.09429)|null|
+|**2024-07-12**|**TelecomGPT: A Framework to Build Telecom-Specfic Large Language Models**|Hang Zou et.al.|[2407.09424](http://arxiv.org/abs/2407.09424)|null|
+|**2024-07-12**|**Mitigating Entity-Level Hallucination in Large Language Models**|Weihang Su et.al.|[2407.09417](http://arxiv.org/abs/2407.09417)|**[link](https://github.com/oneal2000/entityhallucination)**|
+|**2024-07-12**|**SPIQA: A Dataset for Multimodal Question Answering on Scientific Papers**|Shraman Pramanick et.al.|[2407.09413](http://arxiv.org/abs/2407.09413)|**[link](https://github.com/google/spiqa)**|
+|**2024-07-12**|**Deep Bag-of-Words Model: An Efficient and Interpretable Relevance Architecture for Chinese E-Commerce**|Zhe Lin et.al.|[2407.09395](http://arxiv.org/abs/2407.09395)|null|
+|**2024-07-12**|**PersonaRAG: Enhancing Retrieval-Augmented Generation Systems with User-Centric Agents**|Saber Zerhoudi et.al.|[2407.09394](http://arxiv.org/abs/2407.09394)|null|
 |**2024-07-11**|**MAVIS: Mathematical Visual Instruction Tuning**|Renrui Zhang et.al.|[2407.08739](http://arxiv.org/abs/2407.08739)|**[link](https://github.com/zrrskywalker/mavis)**|
 |**2024-07-11**|**Real-Time Anomaly Detection and Reactive Planning with Large Language Models**|Rohan Sinha et.al.|[2407.08735](http://arxiv.org/abs/2407.08735)|null|
 |**2024-07-11**|**Is Your Model Really A Good Math Reasoner? Evaluating Mathematical Reasoning with Checklist**|Zihao Zhou et.al.|[2407.08733](http://arxiv.org/abs/2407.08733)|null|
@@ -3811,6 +3822,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-12**|**DAHRS: Divergence-Aware Hallucination-Remediated SRL Projection**|Sangpil Youm et.al.|[2407.09283](http://arxiv.org/abs/2407.09283)|null|
+|**2024-07-12**|**Towards Chapter-to-Chapter Context-Aware Literary Translation via Large Language Models**|Linghao Jin et.al.|[2407.08978](http://arxiv.org/abs/2407.08978)|null|
+|**2024-07-11**|**Rule-Based, Neural and LLM Back-Translation: Comparative Insights from a Variant of Ladin**|Samuel Frontull et.al.|[2407.08819](http://arxiv.org/abs/2407.08819)|null|
 |**2024-07-11**|**Tamil Language Computing: the Present and the Future**|Kengatharaiyer Sarveswaran et.al.|[2407.08618](http://arxiv.org/abs/2407.08618)|null|
 |**2024-07-10**|**Arabic Automatic Story Generation with Large Language Models**|Ahmed Oumar El-Shangiti et.al.|[2407.07551](http://arxiv.org/abs/2407.07551)|null|
 |**2024-07-09**|**Segment-Based Interactive Machine Translation for Pre-trained Models**|Angel Navarro et.al.|[2407.06990](http://arxiv.org/abs/2407.06990)|null|
@@ -4253,7 +4267,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-07-05**|**Controlling Whisper: Universal Acoustic Adversarial Attacks to Control Speech Foundation Models**|Vyas Raina et.al.|[2407.04482](http://arxiv.org/abs/2407.04482)|null|
-|**2024-07-11**|**FunAudioLLM: Voice Understanding and Generation Foundation Models for Natural Interaction Between Humans and LLMs**|Keyu An et.al.|[2407.04051](http://arxiv.org/abs/2407.04051)|null|
+|**2024-07-11**|**FunAudioLLM: Voice Understanding and Generation Foundation Models for Natural Interaction Between Humans and LLMs**|Keyu An et.al.|[2407.04051](http://arxiv.org/abs/2407.04051)|**[link](https://github.com/FunAudioLLM/SenseVoice)**|
 |**2024-07-04**|**Finetuning End-to-End Models for Estonian Conversational Spoken Language Translation**|Tiia Sildam et.al.|[2407.03809](http://arxiv.org/abs/2407.03809)|null|
 |**2024-07-01**|**Cross-Lingual Transfer Learning for Speech Translation**|Rao Ma et.al.|[2407.01130](http://arxiv.org/abs/2407.01130)|null|
 |**2024-06-30**|**NAIST Simultaneous Speech Translation System for IWSLT 2024**|Yuka Ko et.al.|[2407.00826](http://arxiv.org/abs/2407.00826)|null|
@@ -4325,6 +4339,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-12**|**Mitigating Entity-Level Hallucination in Large Language Models**|Weihang Su et.al.|[2407.09417](http://arxiv.org/abs/2407.09417)|**[link](https://github.com/oneal2000/entityhallucination)**|
+|**2024-07-12**|**PersonaRAG: Enhancing Retrieval-Augmented Generation Systems with User-Centric Agents**|Saber Zerhoudi et.al.|[2407.09394](http://arxiv.org/abs/2407.09394)|null|
+|**2024-07-12**|**DAHRS: Divergence-Aware Hallucination-Remediated SRL Projection**|Sangpil Youm et.al.|[2407.09283](http://arxiv.org/abs/2407.09283)|null|
+|**2024-07-12**|**The Two Sides of the Coin: Hallucination Generation and Detection with LLMs as Evaluators for LLMs**|Anh Thu Maria Bui et.al.|[2407.09152](http://arxiv.org/abs/2407.09152)|null|
+|**2024-07-12**|**Stepwise Verification and Remediation of Student Reasoning Errors with Large Language Model Tutors**|Nico Daheim et.al.|[2407.09136](http://arxiv.org/abs/2407.09136)|**[link](https://github.com/eth-lre/verify-then-generate)**|
+|**2024-07-11**|**CXR-Agent: Vision-language models for chest X-ray interpretation with uncertainty aware radiology reporting**|Naman Sharma et.al.|[2407.08811](http://arxiv.org/abs/2407.08811)|null|
 |**2024-07-11**|**Uncertainty Estimation of Large Language Models in Medical Question Answering**|Jiaxin Wu et.al.|[2407.08662](http://arxiv.org/abs/2407.08662)|null|
 |**2024-07-11**|**On the Universal Truthfulness Hyperplane Inside LLMs**|Junteng Liu et.al.|[2407.08582](http://arxiv.org/abs/2407.08582)|null|
 |**2024-07-11**|**Lynx: An Open Source Hallucination Evaluation Model**|Selvan Sunitha Ravi et.al.|[2407.08488](http://arxiv.org/abs/2407.08488)|null|
