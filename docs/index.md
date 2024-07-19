@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.18
+## Updated on 2024.07.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4388,7 +4388,7 @@ layout: default
 |**2024-07-16**|**Scientific QA System with Verifiable Answers**|Adela Ljajić et.al.|[2407.11485](http://arxiv.org/abs/2407.11485)|null|
 |**2024-07-16**|**Reflective Instruction Tuning: Mitigating Hallucinations in Large Vision-Language Models**|Jinrui Zhang et.al.|[2407.11422](http://arxiv.org/abs/2407.11422)|null|
 |**2024-07-16**|**A Framework for Evaluating Appropriateness, Trustworthiness, and Safety in Mental Wellness AI Chatbots**|Lucia Chen et.al.|[2407.11387](http://arxiv.org/abs/2407.11387)|null|
-|**2024-07-15**|**Learning from Naturally Occurring Feedback**|Shachar Don-Yehiya et.al.|[2407.10944](http://arxiv.org/abs/2407.10944)|null|
+|**2024-07-15**|**Learning from Naturally Occurring Feedback**|Shachar Don-Yehiya et.al.|[2407.10944](http://arxiv.org/abs/2407.10944)|**[link](https://github.com/shachardon/naturally_occurring_feedback)**|
 |**2024-07-15**|**Think-on-Graph 2.0: Deep and Interpretable Large Language Model Reasoning with Knowledge Graph-guided Retrieval**|Shengjie Ma et.al.|[2407.10805](http://arxiv.org/abs/2407.10805)|null|
 |**2024-07-15**|**GraphEval: A Knowledge-Graph Based LLM Hallucination Evaluation Framework**|Hannah Sansford et.al.|[2407.10793](http://arxiv.org/abs/2407.10793)|null|
 |**2024-07-15**|**Addressing Image Hallucination in Text-to-Image Generation through Factual Image Retrieval**|Youngsun Lim et.al.|[2407.10683](http://arxiv.org/abs/2407.10683)|null|
