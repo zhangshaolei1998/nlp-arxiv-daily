@@ -2189,6 +2189,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-18**|**Fixed and Adaptive Simultaneous Machine Translation Strategies Using Adapters**|Abderrahmane Issam et.al.|[2407.13469](http://arxiv.org/abs/2407.13469)|**[link](https://github.com/issam9/adapters-simt)**|
+|**2024-07-18**|**A light-weight and efficient punctuation and word casing prediction model for on-device streaming ASR**|Jian You et.al.|[2407.13142](http://arxiv.org/abs/2407.13142)|null|
+|**2024-07-18**|**SOMONITOR: Explainable Marketing Data Processing and Analysis with Large Language Models**|Qi Yang et.al.|[2407.13117](http://arxiv.org/abs/2407.13117)|null|
 |**2024-07-15**|**IE-NeRF: Inpainting Enhanced Neural Radiance Fields in the Wild**|Shuaixian Wang et.al.|[2407.10695](http://arxiv.org/abs/2407.10695)|null|
 |**2024-07-14**|**CUSIDE-T: Chunking, Simulating Future and Decoding for Transducer based Streaming ASR**|Wenbo Zhao et.al.|[2407.10255](http://arxiv.org/abs/2407.10255)|null|
 |**2024-07-12**|**HPC: Hierarchical Progressive Coding Framework for Volumetric Video**|Zihan Zheng et.al.|[2407.09026](http://arxiv.org/abs/2407.09026)|null|
@@ -2300,6 +2303,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-18**|**Latent Causal Probing: A Formal Perspective on Probing with Causal Models of Data**|Charles Jin et.al.|[2407.13765](http://arxiv.org/abs/2407.13765)|null|
+|**2024-07-18**|**SegPoint: Segment Any Point Cloud via Large Language Model**|Shuting He et.al.|[2407.13761](http://arxiv.org/abs/2407.13761)|null|
+|**2024-07-18**|**Black-Box Opinion Manipulation Attacks to Retrieval-Augmented Generation of Large Language Models**|Zhuo Chen et.al.|[2407.13757](http://arxiv.org/abs/2407.13757)|null|
+|**2024-07-18**|**CellularLint: A Systematic Approach to Identify Inconsistent Behavior in Cellular Network Specifications**|Mirza Masfiqur Rahman et.al.|[2407.13742](http://arxiv.org/abs/2407.13742)|null|
+|**2024-07-18**|**Baba Is AI: Break the Rules to Beat the Benchmark**|Nathan Cloos et.al.|[2407.13729](http://arxiv.org/abs/2407.13729)|null|
+|**2024-07-18**|**CoDefeater: Using LLMs To Find Defeaters in Assurance Cases**|Usman Gohar et.al.|[2407.13717](http://arxiv.org/abs/2407.13717)|null|
+|**2024-07-18**|**Understanding Reference Policies in Direct Preference Optimization**|Yixin Liu et.al.|[2407.13709](http://arxiv.org/abs/2407.13709)|null|
+|**2024-07-18**|**A Comprehensive Review of Recommender Systems: Transitioning from Theory to Practice**|Shaina Raza et.al.|[2407.13699](http://arxiv.org/abs/2407.13699)|null|
+|**2024-07-18**|**Benchmark Agreement Testing Done Right: A Guide for LLM Benchmark Evaluation**|Yotam Perlitz et.al.|[2407.13696](http://arxiv.org/abs/2407.13696)|**[link](https://github.com/ibm/benchbench)**|
+|**2024-07-18**|**Prover-Verifier Games improve legibility of LLM outputs**|Jan Hendrik Kirchner et.al.|[2407.13692](http://arxiv.org/abs/2407.13692)|null|
 |**2024-07-17**|**LMMs-Eval: Reality Check on the Evaluation of Large Multimodal Models**|Kaichen Zhang et.al.|[2407.12772](http://arxiv.org/abs/2407.12772)|**[link](https://github.com/evolvinglmms-lab/lmms-eval)**|
 |**2024-07-17**|**EchoSight: Advancing Visual-Language Models with Wiki Knowledge**|Yibin Yan et.al.|[2407.12735](http://arxiv.org/abs/2407.12735)|null|
 |**2024-07-17**|**NL2Contact: Natural Language Guided 3D Hand-Object Contact Modeling with Diffusion Model**|Zhongqun Zhang et.al.|[2407.12727](http://arxiv.org/abs/2407.12727)|null|
@@ -3854,6 +3867,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-18**|**Towards Zero-Shot Multimodal Machine Translation**|Matthieu Futeral et.al.|[2407.13579](http://arxiv.org/abs/2407.13579)|null|
+|**2024-07-18**|**Fixed and Adaptive Simultaneous Machine Translation Strategies Using Adapters**|Abderrahmane Issam et.al.|[2407.13469](http://arxiv.org/abs/2407.13469)|**[link](https://github.com/issam9/adapters-simt)**|
+|**2024-07-18**|**Translate-and-Revise: Boosting Large Language Models for Constrained Translation**|Pengcheng Huang et.al.|[2407.13164](http://arxiv.org/abs/2407.13164)|null|
 |**2024-07-16**|**MASIVE: Open-Ended Affective State Identification in English and Spanish**|Nicholas Deas et.al.|[2407.12196](http://arxiv.org/abs/2407.12196)|null|
 |**2024-07-16**|**LLMs-in-the-loop Part-1: Expert Small AI Models for Bio-Medical Text Translation**|Bunyamin Keles et.al.|[2407.12126](http://arxiv.org/abs/2407.12126)|null|
 |**2024-07-16**|**Scaling Sign Language Translation**|Biao Zhang et.al.|[2407.11855](http://arxiv.org/abs/2407.11855)|null|
@@ -4303,6 +4319,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-18**|**Preset-Voice Matching for Privacy Regulated Speech-to-Speech Translation Systems**|Daniel Platnick et.al.|[2407.13153](http://arxiv.org/abs/2407.13153)|null|
 |**2024-07-17**|**Laugh Now Cry Later: Controlling Time-Varying Emotional States of Flow-Matching-Based Zero-Shot Text-to-Speech**|Haibin Wu et.al.|[2407.12229](http://arxiv.org/abs/2407.12229)|null|
 |**2024-06-27**|**SignSpeak: Open-Source Time Series Classification for ASL Translation**|Aditya Makkar et.al.|[2407.12020](http://arxiv.org/abs/2407.12020)|null|
 |**2024-06-26**|**Navigating the Minefield of MT Beam Search in Cascaded Streaming Speech Translation**|Rastislav Rabatin et.al.|[2407.11010](http://arxiv.org/abs/2407.11010)|null|
@@ -4379,6 +4396,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-18**|**Black-Box Opinion Manipulation Attacks to Retrieval-Augmented Generation of Large Language Models**|Zhuo Chen et.al.|[2407.13757](http://arxiv.org/abs/2407.13757)|null|
+|**2024-07-18**|**ANHALTEN: Cross-Lingual Transfer for German Token-Level Reference-Free Hallucination Detection**|Janek Herrlein et.al.|[2407.13702](http://arxiv.org/abs/2407.13702)|**[link](https://github.com/janekh24/anhalten)**|
+|**2024-07-18**|**BEAF: Observing BEfore-AFter Changes to Evaluate Hallucination in Vision-language Models**|Moon Ye-Bin et.al.|[2407.13442](http://arxiv.org/abs/2407.13442)|null|
+|**2024-07-18**|**AI-Assisted SQL Authoring at Industry Scale**|Chandra Maddila et.al.|[2407.13280](http://arxiv.org/abs/2407.13280)|null|
+|**2024-07-18**|**Retrieval-Augmented Generation for Natural Language Processing: A Survey**|Shangyu Wu et.al.|[2407.13193](http://arxiv.org/abs/2407.13193)|null|
+|**2024-07-17**|**Strategies for CT Reconstruction using Diffusion Posterior Sampling with a Nonlinear Model**|Xiao Jiang et.al.|[2407.12956](http://arxiv.org/abs/2407.12956)|null|
+|**2024-07-17**|**Halu-J: Critique-Based Hallucination Judge**|Binjie Wang et.al.|[2407.12943](http://arxiv.org/abs/2407.12943)|null|
+|**2024-07-17**|**Explainable Biomedical Hypothesis Generation via Retrieval Augmented Generation enabled Large Language Models**|Alexander R. Pelletier et.al.|[2407.12888](http://arxiv.org/abs/2407.12888)|null|
 |**2024-07-17**|**Hallucination Index: An Image Quality Metric for Generative Reconstruction Models**|Matthew Tivnan et.al.|[2407.12780](http://arxiv.org/abs/2407.12780)|null|
 |**2024-07-17**|**LLM-based query paraphrasing for video search**|Jiaxin Wu et.al.|[2407.12341](http://arxiv.org/abs/2407.12341)|null|
 |**2024-07-17**|**Optimizing Query Generation for Enhanced Document Retrieval in RAG**|Hamin Koo et.al.|[2407.12325](http://arxiv.org/abs/2407.12325)|null|
