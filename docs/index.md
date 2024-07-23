@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.22
+## Updated on 2024.07.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4416,7 +4416,7 @@ layout: default
 |**2024-07-18**|**Black-Box Opinion Manipulation Attacks to Retrieval-Augmented Generation of Large Language Models**|Zhuo Chen et.al.|[2407.13757](http://arxiv.org/abs/2407.13757)|null|
 |**2024-07-18**|**ANHALTEN: Cross-Lingual Transfer for German Token-Level Reference-Free Hallucination Detection**|Janek Herrlein et.al.|[2407.13702](http://arxiv.org/abs/2407.13702)|**[link](https://github.com/janekh24/anhalten)**|
 |**2024-07-18**|**BEAF: Observing BEfore-AFter Changes to Evaluate Hallucination in Vision-language Models**|Moon Ye-Bin et.al.|[2407.13442](http://arxiv.org/abs/2407.13442)|null|
-|**2024-07-18**|**AI-Assisted SQL Authoring at Industry Scale**|Chandra Maddila et.al.|[2407.13280](http://arxiv.org/abs/2407.13280)|null|
+|**2024-07-19**|**AI-Assisted SQL Authoring at Industry Scale**|Chandra Maddila et.al.|[2407.13280](http://arxiv.org/abs/2407.13280)|null|
 |**2024-07-19**|**Retrieval-Augmented Generation for Natural Language Processing: A Survey**|Shangyu Wu et.al.|[2407.13193](http://arxiv.org/abs/2407.13193)|null|
 |**2024-07-17**|**Strategies for CT Reconstruction using Diffusion Posterior Sampling with a Nonlinear Model**|Xiao Jiang et.al.|[2407.12956](http://arxiv.org/abs/2407.12956)|null|
 |**2024-07-17**|**Halu-J: Critique-Based Hallucination Judge**|Binjie Wang et.al.|[2407.12943](http://arxiv.org/abs/2407.12943)|null|
