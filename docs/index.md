@@ -2305,6 +2305,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-24**|**I Could've Asked That: Reformulating Unanswerable Questions**|Wenting Zhao et.al.|[2407.17469](http://arxiv.org/abs/2407.17469)|**[link](https://github.com/wenting-zhao/couldask)**|
+|**2024-07-24**|**WildHallucinations: Evaluating Long-form Factuality in LLMs with Real-World Entity Queries**|Wenting Zhao et.al.|[2407.17468](http://arxiv.org/abs/2407.17468)|null|
+|**2024-07-24**|**CMR Scaling Law: Predicting Critical Mixture Ratios for Continual Pre-training of Language Models**|Jiawei Gu et.al.|[2407.17467](http://arxiv.org/abs/2407.17467)|null|
+|**2024-07-24**|**$VILA^2$ : VILA Augmented VILA**|Yunhao Fang et.al.|[2407.17453](http://arxiv.org/abs/2407.17453)|null|
+|**2024-07-24**|**Fluent Student-Teacher Redteaming**|T. Ben Thompson et.al.|[2407.17447](http://arxiv.org/abs/2407.17447)|null|
+|**2024-07-24**|**Can Watermarking Large Language Models Prevent Copyrighted Text Generation and Hide Training Data?**|Michael-Andrei Panaitescu-Liess et.al.|[2407.17417](http://arxiv.org/abs/2407.17417)|null|
+|**2024-07-24**|**(PASS) Visual Prompt Locates Good Structure Sparsity through a Recurrent HyperNetwork**|Tianjin Huang et.al.|[2407.17412](http://arxiv.org/abs/2407.17412)|null|
+|**2024-07-24**|**Dependency Transformer Grammars: Integrating Dependency Structures into Transformer Language Models**|Yida Zhao et.al.|[2407.17406](http://arxiv.org/abs/2407.17406)|**[link](https://github.com/zhaoyd1/dep_transformer_grammars)**|
+|**2024-07-24**|**Grammar-based Game Description Generation using Large Language Models**|Tsunehiko Tanaka et.al.|[2407.17404](http://arxiv.org/abs/2407.17404)|null|
+|**2024-07-24**|**3D Question Answering for City Scene Understanding**|Penglei Sun et.al.|[2407.17398](http://arxiv.org/abs/2407.17398)|null|
 |**2024-07-23**|**Stress-Testing Long-Context Language Models with Lifelong ICL and Task Haystack**|Xiaoyue Xu et.al.|[2407.16695](http://arxiv.org/abs/2407.16695)|null|
 |**2024-07-23**|**Can Large Language Models Automatically Jailbreak GPT-4V?**|Yuanwei Wu et.al.|[2407.16686](http://arxiv.org/abs/2407.16686)|null|
 |**2024-07-23**|**RedAgent: Red Teaming Large Language Models with Context-aware Autonomous Language Agent**|Huiyu Xu et.al.|[2407.16667](http://arxiv.org/abs/2407.16667)|null|
@@ -4435,6 +4445,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-24**|**WildHallucinations: Evaluating Long-form Factuality in LLMs with Real-World Entity Queries**|Wenting Zhao et.al.|[2407.17468](http://arxiv.org/abs/2407.17468)|null|
+|**2024-07-23**|**Generation Constraint Scaling Can Mitigate Hallucination**|Georgios Kollias et.al.|[2407.16908](http://arxiv.org/abs/2407.16908)|null|
+|**2024-07-23**|**TAMIGO: Empowering Teaching Assistants using LLM-assisted viva and code assessment in an Advanced Computing Class**|Anishka IIITD et.al.|[2407.16805](http://arxiv.org/abs/2407.16805)|null|
 |**2024-07-23**|**Shared Imagination: LLMs Hallucinate Alike**|Yilun Zhou et.al.|[2407.16604](http://arxiv.org/abs/2407.16604)|null|
 |**2024-07-23**|**Exploring Automatic Cryptographic API Misuse Detection in the Era of LLMs**|Yifan Xia et.al.|[2407.16576](http://arxiv.org/abs/2407.16576)|null|
 |**2024-07-23**|**Retrieve, Generate, Evaluate: A Case Study for Medical Paraphrases Generation with Small Language Models**|Ioana Buhnila et.al.|[2407.16565](http://arxiv.org/abs/2407.16565)|null|
