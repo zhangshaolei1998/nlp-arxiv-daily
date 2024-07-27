@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.26
+## Updated on 2024.07.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3925,7 +3925,7 @@ layout: default
 |**2024-07-21**|**Fine-grained Gender Control in Machine Translation with Large Language Models**|Minwoo Lee et.al.|[2407.15154](http://arxiv.org/abs/2407.15154)|null|
 |**2024-07-20**|**Modular Sentence Encoders: Separating Language Specialization from Cross-Lingual Alignment**|Yongxin Huang et.al.|[2407.14878](http://arxiv.org/abs/2407.14878)|null|
 |**2024-07-19**|**CoVoSwitch: Machine Translation of Synthetic Code-Switched Text Based on Intonation Units**|Yeeun Kang et.al.|[2407.14295](http://arxiv.org/abs/2407.14295)|**[link](https://github.com/sophiayk20/covoswitch)**|
-|**2024-07-18**|**Towards Zero-Shot Multimodal Machine Translation**|Matthieu Futeral et.al.|[2407.13579](http://arxiv.org/abs/2407.13579)|**[link](https://github.com/matthieufp/commute)**|
+|**2024-07-18**|**Towards Zero-Shot Multimodal Machine Translation**|Matthieu Futeral et.al.|[2407.13579](http://arxiv.org/abs/2407.13579)|**[link](https://github.com/matthieufp/zerommt)**|
 |**2024-07-18**|**Fixed and Adaptive Simultaneous Machine Translation Strategies Using Adapters**|Abderrahmane Issam et.al.|[2407.13469](http://arxiv.org/abs/2407.13469)|**[link](https://github.com/issam9/adapters-simt)**|
 |**2024-07-18**|**Translate-and-Revise: Boosting Large Language Models for Constrained Translation**|Pengcheng Huang et.al.|[2407.13164](http://arxiv.org/abs/2407.13164)|null|
 |**2024-07-16**|**MASIVE: Open-Ended Affective State Identification in English and Spanish**|Nicholas Deas et.al.|[2407.12196](http://arxiv.org/abs/2407.12196)|null|
