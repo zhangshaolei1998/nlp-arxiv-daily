@@ -2214,6 +2214,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-30**|**Contrastive Feedback Mechanism for Simultaneous Speech Translation**|Haotian Tan et.al.|[2407.20524](http://arxiv.org/abs/2407.20524)|null|
 |**2024-07-28**|**MVPbev: Multi-view Perspective Image Generation from BEV with Test-time Controllability and Generalizability**|Buyu Liu et.al.|[2407.19468](http://arxiv.org/abs/2407.19468)|**[link](https://github.com/kkaiwwana/mvpbev)**|
 |**2024-07-25**|**A Novel Perception Entropy Metric for Optimizing Vehicle Perception with LiDAR Deployment**|Yongjiang He et.al.|[2407.17942](http://arxiv.org/abs/2407.17942)|null|
 |**2024-07-23**|**Harmonizing Visual Text Comprehension and Generation**|Zhen Zhao et.al.|[2407.16364](http://arxiv.org/abs/2407.16364)|null|
@@ -2334,6 +2335,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-30**|**ThinK: Thinner Key Cache by Query-Driven Pruning**|Yuhui Xu et.al.|[2407.21018](http://arxiv.org/abs/2407.21018)|null|
+|**2024-07-30**|**CLEFT: Language-Image Contrastive Learning with Efficient Large Language Model and Prompt Fine-Tuning**|Yuexi Du et.al.|[2407.21011](http://arxiv.org/abs/2407.21011)|**[link](https://github.com/xypb/cleft)**|
+|**2024-07-30**|**GABInsight: Exploring Gender-Activity Binding Bias in Vision-Language Models**|Ali Abdollahi et.al.|[2407.21001](http://arxiv.org/abs/2407.21001)|null|
+|**2024-07-30**|**MoFO: Momentum-Filtered Optimizer for Mitigating Forgetting in LLM Fine-Tuning**|Yupeng Chen et.al.|[2407.20999](http://arxiv.org/abs/2407.20999)|null|
+|**2024-07-30**|**From Feature Importance to Natural Language Explanations Using LLMs with RAG**|Sule Tekkesinoglu et.al.|[2407.20990](http://arxiv.org/abs/2407.20990)|null|
+|**2024-07-30**|**Large Language Models (LLMs) for Semantic Communication in Edge-based IoT Networks**|Alakesh Kalita et.al.|[2407.20970](http://arxiv.org/abs/2407.20970)|null|
+|**2024-07-30**|**MMTrail: A Multimodal Trailer Video Dataset with Language and Music Descriptions**|Xiaowei Chi et.al.|[2407.20962](http://arxiv.org/abs/2407.20962)|**[link](https://github.com/litwellchi/mmtrail)**|
+|**2024-07-30**|**UniProcessor: A Text-induced Unified Low-level Image Processor**|Huiyu Duan et.al.|[2407.20928](http://arxiv.org/abs/2407.20928)|**[link](https://github.com/intmegroup/uniprocessor)**|
+|**2024-07-30**|**SSPA: Split-and-Synthesize Prompting with Gated Alignments for Multi-Label Image Recognition**|Hao Tan et.al.|[2407.20920](http://arxiv.org/abs/2407.20920)|null|
+|**2024-07-30**|**Automated Review Generation Method Based on Large Language Models**|Shican Wu et.al.|[2407.20906](http://arxiv.org/abs/2407.20906)|**[link](https://github.com/tju-ecat-ai/automaticreviewgeneration)**|
 |**2024-07-29**|**Specify and Edit: Overcoming Ambiguity in Text-Based Image Editing**|Ekaterina Iakovleva et.al.|[2407.20232](http://arxiv.org/abs/2407.20232)|null|
 |**2024-07-29**|**FlexAttention for Efficient High-Resolution Vision-Language Models**|Junyan Li et.al.|[2407.20228](http://arxiv.org/abs/2407.20228)|null|
 |**2024-07-29**|**Can Editing LLMs Inject Harm?**|Canyu Chen et.al.|[2407.20224](http://arxiv.org/abs/2407.20224)|null|
@@ -3970,6 +3981,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-30**|**Investigating Sparsity in Recurrent Neural Networks**|Harshil Darji et.al.|[2407.20601](http://arxiv.org/abs/2407.20601)|**[link](https://github.com/harshildarji/thesis)**|
+|**2024-07-29**|**Generating Gender Alternatives in Machine Translation**|Sarthak Garg et.al.|[2407.20438](http://arxiv.org/abs/2407.20438)|null|
 |**2024-07-29**|**Simply Trainable Nearest Neighbour Machine Translation with GPU Inference**|Hossam Amer et.al.|[2407.19965](http://arxiv.org/abs/2407.19965)|null|
 |**2024-07-29**|**Teaching LLMs at Charles University: Assignments and Activities**|Jindřich Helcl et.al.|[2407.19798](http://arxiv.org/abs/2407.19798)|null|
 |**2024-07-26**|**Advancing Neural Network Performance through Emergence-Promoting Initialization Scheme**|Johnny Jingze Li et.al.|[2407.19044](http://arxiv.org/abs/2407.19044)|null|
@@ -4434,6 +4447,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-30**|**Contrastive Feedback Mechanism for Simultaneous Speech Translation**|Haotian Tan et.al.|[2407.20524](http://arxiv.org/abs/2407.20524)|null|
 |**2024-07-08**|**Analyzing Speech Unit Selection for Textless Speech-to-Speech Translation**|Jarod Duret et.al.|[2407.18332](http://arxiv.org/abs/2407.18332)|null|
 |**2024-07-24**|**Coupling Speech Encoders with Downstream Text Models**|Ciprian Chelba et.al.|[2407.17605](http://arxiv.org/abs/2407.17605)|null|
 |**2024-07-22**|**LLaST: Improved End-to-end Speech Translation System Leveraged by Large Language Models**|Xi Chen et.al.|[2407.15415](http://arxiv.org/abs/2407.15415)|**[link](https://github.com/openaudiolab/llast)**|
@@ -4517,6 +4531,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-30**|**Automated Review Generation Method Based on Large Language Models**|Shican Wu et.al.|[2407.20906](http://arxiv.org/abs/2407.20906)|**[link](https://github.com/tju-ecat-ai/automaticreviewgeneration)**|
+|**2024-07-30**|**How to Measure the Intelligence of Large Language Models?**|Nils Körber et.al.|[2407.20828](http://arxiv.org/abs/2407.20828)|null|
+|**2024-07-30**|**Interpreting and Mitigating Hallucination in MLLMs through Multi-agent Debate**|Zheng Lin et.al.|[2407.20505](http://arxiv.org/abs/2407.20505)|**[link](https://github.com/lzzz2000/mad)**|
+|**2024-07-29**|**BRIDGE: Bridging Gaps in Image Captioning Evaluation with Stronger Visual Cues**|Sara Sarto et.al.|[2407.20341](http://arxiv.org/abs/2407.20341)|**[link](https://github.com/aimagelab/bridge-score)**|
 |**2024-07-29**|**ML-Mamba: Efficient Multi-Modal Large Language Model Utilizing Mamba-2**|Wenjun Huang et.al.|[2407.19832](http://arxiv.org/abs/2407.19832)|null|
 |**2024-07-29**|**Improving Retrieval Augmented Language Model with Self-Reasoning**|Yuan Xia et.al.|[2407.19813](http://arxiv.org/abs/2407.19813)|null|
 |**2024-07-29**|**SeaLLMs 3: Open Foundation and Chat Multilingual Large Language Models for Southeast Asian Languages**|Wenxuan Zhang et.al.|[2407.19672](http://arxiv.org/abs/2407.19672)|null|
