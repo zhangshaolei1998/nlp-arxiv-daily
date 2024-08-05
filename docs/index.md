@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.04
+## Updated on 2024.08.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2317,7 +2317,7 @@ layout: default
 |**2024-08-01**|**Improving Retrieval-Augmented Generation in Medicine with Iterative Follow-up Questions**|Guangzhi Xiong et.al.|[2408.00727](http://arxiv.org/abs/2408.00727)|null|
 |**2024-08-01**|**An Empirical Analysis of Compute-Optimal Inference for Problem-Solving with Language Models**|Yangzhen Wu et.al.|[2408.00724](http://arxiv.org/abs/2408.00724)|null|
 |**2024-08-01**|**Pathway to Secure and Trustworthy 6G for LLMs: Attacks, Defense, and Opportunities**|Sunder Ali Khowaja et.al.|[2408.00722](http://arxiv.org/abs/2408.00722)|null|
-|**2024-08-01**|**Improving Text Embeddings for Smaller Language Models Using Contrastive Fine-tuning**|Trapoom Ukarapol et.al.|[2408.00690](http://arxiv.org/abs/2408.00690)|null|
+|**2024-08-02**|**Improving Text Embeddings for Smaller Language Models Using Contrastive Fine-tuning**|Trapoom Ukarapol et.al.|[2408.00690](http://arxiv.org/abs/2408.00690)|null|
 |**2024-08-01**|**Can Developers Prompt? A Controlled Experiment for Code Documentation Generation**|Hans-Alexander Kruse et.al.|[2408.00686](http://arxiv.org/abs/2408.00686)|null|
 |**2024-07-31**|**Generalized Out-of-Distribution Detection and Beyond in Vision Language Model Era: A Survey**|Atsuyuki Miyai et.al.|[2407.21794](http://arxiv.org/abs/2407.21794)|null|
 |**2024-07-31**|**Vision-Language Model Based Handwriting Verification**|Mihir Chauhan et.al.|[2407.21788](http://arxiv.org/abs/2407.21788)|null|
