@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.06
+## Updated on 2024.08.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3995,7 +3995,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-08-05**|**Enhancing AI-based Generation of Software Exploits with Contextual Information**|Pietro Liguori et.al.|[2408.02402](http://arxiv.org/abs/2408.02402)|null|
+|**2024-08-06**|**Enhancing AI-based Generation of Software Exploits with Contextual Information**|Pietro Liguori et.al.|[2408.02402](http://arxiv.org/abs/2408.02402)|null|
 |**2024-08-05**|**Decoupled Vocabulary Learning Enables Zero-Shot Translation from Unseen Languages**|Carlos Mullov et.al.|[2408.02290](http://arxiv.org/abs/2408.02290)|null|
 |**2024-08-05**|**BOTS-LM: Training Large Language Models for Setswana**|Nathan Brown et.al.|[2408.02239](http://arxiv.org/abs/2408.02239)|null|
 |**2024-08-02**|**Improving Multilingual Neural Machine Translation by Utilizing Semantic and Linguistic Features**|Mengyu Bu et.al.|[2408.01394](http://arxiv.org/abs/2408.01394)|null|
