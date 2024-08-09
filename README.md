@@ -2338,6 +2338,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-08**|**Better Alignment with Instruction Back-and-Forth Translation**|Thao Nguyen et.al.|[2408.04614](http://arxiv.org/abs/2408.04614)|null|
+|**2024-08-08**|**Code-switching in text and speech reveals information-theoretic audience design**|Debasmita Bhattacharya et.al.|[2408.04596](http://arxiv.org/abs/2408.04596)|null|
+|**2024-08-08**|**Img-Diff: Contrastive Data Synthesis for Multimodal Large Language Models**|Qirui Jiao et.al.|[2408.04594](http://arxiv.org/abs/2408.04594)|**[link](https://github.com/modelscope/data-juicer)**|
+|**2024-08-08**|**Towards Resilient and Efficient LLMs: A Comparative Study of Efficiency, Performance, and Adversarial Robustness**|Xiaojing Fan et.al.|[2408.04585](http://arxiv.org/abs/2408.04585)|null|
+|**2024-08-08**|**SCENE: Evaluating Explainable AI Techniques Using Soft Counterfactuals**|Haoran Zheng et.al.|[2408.04575](http://arxiv.org/abs/2408.04575)|null|
+|**2024-08-08**|**Learning Fine-Grained Grounded Citations for Attributed Large Language Models**|Lei Huang et.al.|[2408.04568](http://arxiv.org/abs/2408.04568)|**[link](https://github.com/luckyyysta/fine-grained-attribution)**|
+|**2024-08-08**|**Bias-Aware Low-Rank Adaptation: Mitigating Catastrophic Inheritance of Large Language Models**|Yupeng Chang et.al.|[2408.04556](http://arxiv.org/abs/2408.04556)|**[link](https://github.com/cyp-jlu-ai/ba-lora)**|
+|**2024-08-08**|**Compromesso! Italian Many-Shot Jailbreaks Undermine the Safety of Large Language Models**|Fabio Pernisi et.al.|[2408.04522](http://arxiv.org/abs/2408.04522)|null|
+|**2024-08-08**|**What You Need is What You Get: Theory of Mind for an LLM-Based Code Understanding Assistant**|Jonan Richards et.al.|[2408.04477](http://arxiv.org/abs/2408.04477)|null|
+|**2024-08-08**|**Can LLMs Beat Humans in Debating? A Dynamic Multi-agent Framework for Competitive Debate**|Yiqun Zhang et.al.|[2408.04472](http://arxiv.org/abs/2408.04472)|**[link](https://github.com/zhangyiqun018/agent-for-debate)**|
 |**2024-08-07**|**How Well Can Vision Language Models See Image Details?**|Chenhui Gou et.al.|[2408.03940](http://arxiv.org/abs/2408.03940)|null|
 |**2024-08-07**|**SLIM-RAFT: A Novel Fine-Tuning Approach to Improve Cross-Linguistic Performance for Mercosur Common Nomenclature**|Vinícius Di Oliveira et.al.|[2408.03936](http://arxiv.org/abs/2408.03936)|null|
 |**2024-08-07**|**CodexGraph: Bridging Large Language Models and Code Repositories via Code Graph Databases**|Xiangyan Liu et.al.|[2408.03910](http://arxiv.org/abs/2408.03910)|**[link](https://github.com/modelscope/modelscope-agent)**|
@@ -4044,6 +4054,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-08**|**Trans-Tokenization and Cross-lingual Vocabulary Transfers: Language Adaptation of LLMs for Low-Resource NLP**|François Remy et.al.|[2408.04303](http://arxiv.org/abs/2408.04303)|**[link](https://github.com/lagom-nlp/transtokenizer)**|
+|**2024-08-08**|**Simplifying Translations for Children: Iterative Simplification Considering Age of Acquisition with LLMs**|Masashi Oshika et.al.|[2408.04217](http://arxiv.org/abs/2408.04217)|**[link](https://github.com/nttcslab-nlp/simplifyingmt_acl24)**|
+|**2024-08-08**|**Attention Mechanism and Context Modeling System for Text Mining Machine Translation**|Shi Bo et.al.|[2408.04216](http://arxiv.org/abs/2408.04216)|null|
 |**2024-08-06**|**Conditioning LLMs with Emotion in Neural Machine Translation**|Charles Brazier et.al.|[2408.03150](http://arxiv.org/abs/2408.03150)|null|
 |**2024-08-06**|**Evaluating the Translation Performance of Large Language Models Based on Euas-20**|Yan Huang et.al.|[2408.03119](http://arxiv.org/abs/2408.03119)|null|
 |**2024-08-06**|**Enhancing AI-based Generation of Software Exploits with Contextual Information**|Pietro Liguori et.al.|[2408.02402](http://arxiv.org/abs/2408.02402)|null|
@@ -4606,6 +4619,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-08**|**LiDAR-Event Stereo Fusion with Hallucinations**|Luca Bartolomei et.al.|[2408.04633](http://arxiv.org/abs/2408.04633)|**[link](https://github.com/bartn8/eventvppstereo)**|
+|**2024-08-08**|**Learning Fine-Grained Grounded Citations for Attributed Large Language Models**|Lei Huang et.al.|[2408.04568](http://arxiv.org/abs/2408.04568)|**[link](https://github.com/luckyyysta/fine-grained-attribution)**|
+|**2024-08-08**|**Can LLMs Beat Humans in Debating? A Dynamic Multi-agent Framework for Competitive Debate**|Yiqun Zhang et.al.|[2408.04472](http://arxiv.org/abs/2408.04472)|**[link](https://github.com/zhangyiqun018/agent-for-debate)**|
 |**2024-08-06**|**KaPO: Knowledge-aware Preference Optimization for Controllable Knowledge Selection in Retrieval-Augmented Language Models**|Ruizhe Zhang et.al.|[2408.03297](http://arxiv.org/abs/2408.03297)|null|
 |**2024-08-05**|**An Evaluation of Requirements Modeling for Cyber-Physical Systems via LLMs**|Dongming Jin et.al.|[2408.02450](http://arxiv.org/abs/2408.02450)|null|
 |**2024-08-05**|**Dialogue Ontology Relation Extraction via Constrained Chain-of-Thought Decoding**|Renato Vukovic et.al.|[2408.02361](http://arxiv.org/abs/2408.02361)|null|
