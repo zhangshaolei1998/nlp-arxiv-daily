@@ -2312,6 +2312,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-12**|**FastFiD: Improve Inference Efficiency of Open Domain Question Answering via Sentence Selection**|Yufei Huang et.al.|[2408.06333](http://arxiv.org/abs/2408.06333)|**[link](https://github.com/thunlp/fastfid)**|
+|**2024-08-12**|**Animate, or Inanimate, That is the Question for Large Language Models**|Leonardo Ranaldi et.al.|[2408.06332](http://arxiv.org/abs/2408.06332)|null|
+|**2024-08-12**|**Can We Rely on LLM Agents to Draft Long-Horizon Plans? Let's Take TravelPlanner as an Example**|Yanan Chen et.al.|[2408.06318](http://arxiv.org/abs/2408.06318)|null|
+|**2024-08-12**|**Long-Form Answers to Visual Questions from Blind and Low Vision People**|Mina Huh et.al.|[2408.06303](http://arxiv.org/abs/2408.06303)|null|
+|**2024-08-12**|**The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery**|Chris Lu et.al.|[2408.06292](http://arxiv.org/abs/2408.06292)|**[link](https://github.com/sakanaai/ai-scientist)**|
+|**2024-08-12**|**MovieSum: An Abstractive Summarization Dataset for Movie Screenplays**|Rohit Saxena et.al.|[2408.06281](http://arxiv.org/abs/2408.06281)|**[link](https://github.com/saxenarohit/moviesum)**|
+|**2024-08-12**|**Review-driven Personalized Preference Reasoning with Large Language Models for Recommendation**|Jieyong Kim et.al.|[2408.06276](http://arxiv.org/abs/2408.06276)|null|
+|**2024-08-12**|**FuxiTranyu: A Multilingual Large Language Model Trained with Balanced Data**|Haoran Sun et.al.|[2408.06273](http://arxiv.org/abs/2408.06273)|null|
+|**2024-08-12**|**A RAG-Based Question-Answering Solution for Cyber-Attack Investigation and Attribution**|Sampath Rajapaksha et.al.|[2408.06272](http://arxiv.org/abs/2408.06272)|null|
+|**2024-08-12**|**Anchored Preference Optimization and Contrastive Revisions: Addressing Underspecification in Alignment**|Karel D'Oosterlinck et.al.|[2408.06266](http://arxiv.org/abs/2408.06266)|null|
 |**2024-08-10**|**Preserving Privacy in Large Language Models: A Survey on Current Threats and Solutions**|Michele Miranda et.al.|[2408.05212](http://arxiv.org/abs/2408.05212)|null|
 |**2024-08-09**|**VITA: Towards Open-Source Interactive Omni Multimodal LLM**|Chaoyou Fu et.al.|[2408.05211](http://arxiv.org/abs/2408.05211)|null|
 |**2024-08-09**|**Evaluating the capability of large language models to personalize science texts for diverse middle-school-age learners**|Michael Vaccaro Jr et.al.|[2408.05204](http://arxiv.org/abs/2408.05204)|null|
@@ -4036,13 +4046,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-12**|**Creating Arabic LLM Prompts at Scale**|Abdelrahman El-Sheikh et.al.|[2408.05882](http://arxiv.org/abs/2408.05882)|null|
+|**2024-08-11**|**Language-Informed Beam Search Decoding for Multilingual Machine Translation**|Yilin Yang et.al.|[2408.05738](http://arxiv.org/abs/2408.05738)|**[link](https://github.com/yilinyang7/fairseq_multi_fix)**|
 |**2024-08-09**|**SCOI: Syntax-augmented Coverage-based In-context Example Selection for Machine Translation**|Chenming Tang et.al.|[2408.04872](http://arxiv.org/abs/2408.04872)|null|
 |**2024-08-08**|**Trans-Tokenization and Cross-lingual Vocabulary Transfers: Language Adaptation of LLMs for Low-Resource NLP**|François Remy et.al.|[2408.04303](http://arxiv.org/abs/2408.04303)|**[link](https://github.com/lagom-nlp/transtokenizer)**|
 |**2024-08-08**|**Simplifying Translations for Children: Iterative Simplification Considering Age of Acquisition with LLMs**|Masashi Oshika et.al.|[2408.04217](http://arxiv.org/abs/2408.04217)|**[link](https://github.com/nttcslab-nlp/simplifyingmt_acl24)**|
 |**2024-08-08**|**Attention Mechanism and Context Modeling System for Text Mining Machine Translation**|Shi Bo et.al.|[2408.04216](http://arxiv.org/abs/2408.04216)|null|
 |**2024-08-06**|**Conditioning LLMs with Emotion in Neural Machine Translation**|Charles Brazier et.al.|[2408.03150](http://arxiv.org/abs/2408.03150)|null|
 |**2024-08-06**|**Evaluating the Translation Performance of Large Language Models Based on Euas-20**|Yan Huang et.al.|[2408.03119](http://arxiv.org/abs/2408.03119)|null|
-|**2024-08-06**|**Enhancing AI-based Generation of Software Exploits with Contextual Information**|Pietro Liguori et.al.|[2408.02402](http://arxiv.org/abs/2408.02402)|null|
+|**2024-08-06**|**Enhancing AI-based Generation of Software Exploits with Contextual Information**|Pietro Liguori et.al.|[2408.02402](http://arxiv.org/abs/2408.02402)|**[link](https://github.com/dessertlab/software-exploits-with-contextual-information)**|
 |**2024-08-05**|**Decoupled Vocabulary Learning Enables Zero-Shot Translation from Unseen Languages**|Carlos Mullov et.al.|[2408.02290](http://arxiv.org/abs/2408.02290)|null|
 |**2024-08-05**|**BOTS-LM: Training Large Language Models for Setswana**|Nathan Brown et.al.|[2408.02239](http://arxiv.org/abs/2408.02239)|null|
 |**2024-08-02**|**Improving Multilingual Neural Machine Translation by Utilizing Semantic and Linguistic Features**|Mengyu Bu et.al.|[2408.01394](http://arxiv.org/abs/2408.01394)|**[link](https://github.com/ictnlp/semling-mnmt)**|
@@ -4599,6 +4611,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-12**|**Long-Form Answers to Visual Questions from Blind and Low Vision People**|Mina Huh et.al.|[2408.06303](http://arxiv.org/abs/2408.06303)|null|
+|**2024-08-12**|**A RAG-Based Question-Answering Solution for Cyber-Attack Investigation and Attribution**|Sampath Rajapaksha et.al.|[2408.06272](http://arxiv.org/abs/2408.06272)|null|
+|**2024-08-11**|**Defining Boundaries: A Spectrum of Task Feasibility for Large Language Models**|Wenbo Zhang et.al.|[2408.05873](http://arxiv.org/abs/2408.05873)|null|
+|**2024-08-11**|**Reference-free Hallucination Detection for Large Vision-Language Models**|Qing Li et.al.|[2408.05767](http://arxiv.org/abs/2408.05767)|null|
+|**2024-08-11**|**SSL: A Self-similarity Loss for Improving Generative Image Super-resolution**|Du Chen et.al.|[2408.05713](http://arxiv.org/abs/2408.05713)|null|
+|**2024-08-10**|**Improving Whisper's Recognition Performance for Under-Represented Language Kazakh Leveraging Unpaired Speech and Text**|Jinpeng Li et.al.|[2408.05554](http://arxiv.org/abs/2408.05554)|null|
+|**2024-08-10**|**SWIFT:A Scalable lightWeight Infrastructure for Fine-Tuning**|Yuze Zhao et.al.|[2408.05517](http://arxiv.org/abs/2408.05517)|**[link](https://github.com/modelscope/swift)**|
+|**2024-08-09**|**FiST-Financial Style Transfer with Hallucination and Creativity Control Framework**|Sohini Roychowdhury et.al.|[2408.05365](http://arxiv.org/abs/2408.05365)|null|
 |**2024-08-09**|**A Hybrid RAG System with Comprehensive Enhancement on Complex Reasoning**|Ye Yuan et.al.|[2408.05141](http://arxiv.org/abs/2408.05141)|null|
 |**2024-08-09**|**Order Matters in Hallucination: Reasoning Order as Benchmark and Reflexive Prompting for Large-Language-Models**|Zikai Xie et.al.|[2408.05093](http://arxiv.org/abs/2408.05093)|**[link](https://github.com/xiezikai/reflexiveprompting)**|
 |**2024-08-06**|**Mitigating Hallucinations in Large Vision-Language Models (LVLMs) via Language-Contrastive Decoding (LCD)**|Avshalom Manevich et.al.|[2408.04664](http://arxiv.org/abs/2408.04664)|null|
