@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.20
+## Updated on 2024.08.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4099,7 +4099,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-08-17**|**Improving Rare Word Translation With Dictionaries and Attention Masking**|Kenneth J. Sible et.al.|[2408.09075](http://arxiv.org/abs/2408.09075)|null|
-|**2024-08-16**|**Large Language Models Might Not Care What You Are Saying: Prompt Format Beats Descriptions**|Chenming Tang et.al.|[2408.08780](http://arxiv.org/abs/2408.08780)|null|
+|**2024-08-20**|**Large Language Models Might Not Care What You Are Saying: Prompt Format Beats Descriptions**|Chenming Tang et.al.|[2408.08780](http://arxiv.org/abs/2408.08780)|null|
 |**2024-08-16**|**Introducing the NewsPaLM MBR and QE Dataset: LLM-Generated High-Quality Parallel Data Outperforms Traditional Web-Crawled Data**|Mara Finkelstein et.al.|[2408.06537](http://arxiv.org/abs/2408.06537)|null|
 |**2024-08-12**|**Cross-Lingual Conversational Speech Summarization with Large Language Models**|Max Nelson et.al.|[2408.06484](http://arxiv.org/abs/2408.06484)|null|
 |**2024-08-12**|**Creating Arabic LLM Prompts at Scale**|Abdelrahman El-Sheikh et.al.|[2408.05882](http://arxiv.org/abs/2408.05882)|null|
