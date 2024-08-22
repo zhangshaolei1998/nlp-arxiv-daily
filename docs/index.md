@@ -2314,6 +2314,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-21**|**Great Memory, Shallow Reasoning: Limits of $k$ NN-LMs**|Shangyi Geng et.al.|[2408.11815](http://arxiv.org/abs/2408.11815)|**[link](https://github.com/gsyfate/knnlm-limits)**|
+|**2024-08-21**|**SEA: Supervised Embedding Alignment for Token-Level Visual-Textual Integration in MLLMs**|Yuanyang Yin et.al.|[2408.11813](http://arxiv.org/abs/2408.11813)|null|
+|**2024-08-21**|**Approaching Deep Learning through the Spectral Dynamics of Weights**|David Yunis et.al.|[2408.11804](http://arxiv.org/abs/2408.11804)|**[link](https://github.com/dyunis/spectral_dynamics)**|
+|**2024-08-21**|**Story3D-Agent: Exploring 3D Storytelling Visualization with Large Language Models**|Yuzhou Huang et.al.|[2408.11801](http://arxiv.org/abs/2408.11801)|null|
+|**2024-08-21**|**PermitQA: A Benchmark for Retrieval Augmented Generation in Wind Siting and Permitting domain**|Rounak Meyur et.al.|[2408.11800](http://arxiv.org/abs/2408.11800)|null|
+|**2024-08-21**|**EE-MLLM: A Data-Efficient and Compute-Efficient Multimodal Large Language Model**|Feipeng Ma et.al.|[2408.11795](http://arxiv.org/abs/2408.11795)|null|
+|**2024-08-21**|**Leveraging Chemistry Foundation Models to Facilitate Structure Focused Retrieval Augmented Generation in Multi-Agent Workflows for Catalyst and Materials Design**|Nathaniel H. Park et.al.|[2408.11793](http://arxiv.org/abs/2408.11793)|null|
+|**2024-08-21**|**Critique-out-Loud Reward Models**|Zachary Ankner et.al.|[2408.11791](http://arxiv.org/abs/2408.11791)|**[link](https://github.com/zankner/cloud)**|
+|**2024-08-21**|**DreamFactory: Pioneering Multi-Scene Long Video Generation with a Multi-Agent Framework**|Zhifei Xie et.al.|[2408.11788](http://arxiv.org/abs/2408.11788)|null|
+|**2024-08-21**|**Personality Alignment of Large Language Models**|Minjun Zhu et.al.|[2408.11779](http://arxiv.org/abs/2408.11779)|**[link](https://github.com/zhu-minjun/palign)**|
 |**2024-08-20**|**Prompt-Guided Image-Adaptive Neural Implicit Lookup Tables for Interpretable Image Enhancement**|Satoshi Kosugi et.al.|[2408.11055](http://arxiv.org/abs/2408.11055)|**[link](https://github.com/satoshi-kosugi/pg-ia-nilut)**|
 |**2024-08-20**|**Revisiting VerilogEval: Newer LLMs, In-Context Learning, and Specification-to-RTL Tasks**|Nathaniel Pinckney et.al.|[2408.11053](http://arxiv.org/abs/2408.11053)|null|
 |**2024-08-20**|**FLAME: Learning to Navigate with Multimodal LLM in Urban Environments**|Yunzhe Xu et.al.|[2408.11051](http://arxiv.org/abs/2408.11051)|**[link](https://github.com/xyz9911/FLAME)**|
@@ -4108,6 +4118,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-21**|**IKUN for WMT24 General MT Task: LLMs Are here for Multilingual Machine Translation**|Baohao Liao et.al.|[2408.11512](http://arxiv.org/abs/2408.11512)|null|
+|**2024-08-21**|**Expanding FLORES+ Benchmark for more Low-Resource Settings: Portuguese-Emakhuwa Machine Translation Evaluation**|Felermino D. M. Antonio Ali et.al.|[2408.11457](http://arxiv.org/abs/2408.11457)|null|
+|**2024-08-21**|**Distributional Properties of Subword Regularization**|Marco Cognetta et.al.|[2408.11443](http://arxiv.org/abs/2408.11443)|null|
+|**2024-08-21**|**On the Interchangeability of Positional Embeddings in Multilingual Neural Machine Translation Models**|Varun Gumma et.al.|[2408.11382](http://arxiv.org/abs/2408.11382)|null|
+|**2024-08-21**|**Plug, Play, and Fuse: Zero-Shot Joint Decoding via Word-Level Re-ranking Across Diverse Vocabularies**|Sai Koneru et.al.|[2408.11327](http://arxiv.org/abs/2408.11327)|null|
 |**2024-08-17**|**Improving Rare Word Translation With Dictionaries and Attention Masking**|Kenneth J. Sible et.al.|[2408.09075](http://arxiv.org/abs/2408.09075)|null|
 |**2024-08-20**|**Large Language Models Might Not Care What You Are Saying: Prompt Format Beats Descriptions**|Chenming Tang et.al.|[2408.08780](http://arxiv.org/abs/2408.08780)|null|
 |**2024-08-21**|**Introducing the NewsPaLM MBR and QE Dataset: LLM-Generated High-Quality Parallel Data Outperforms Traditional Web-Crawled Data**|Mara Finkelstein et.al.|[2408.06537](http://arxiv.org/abs/2408.06537)|null|
@@ -4680,6 +4695,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-21**|**EAGLE: Elevating Geometric Reasoning through LLM-empowered Visual Instruction Tuning**|Zhihao Li et.al.|[2408.11397](http://arxiv.org/abs/2408.11397)|null|
+|**2024-08-21**|**RAGLAB: A Modular and Research-Oriented Unified Framework for Retrieval-Augmented Generation**|Xuanwang Zhang et.al.|[2408.11381](http://arxiv.org/abs/2408.11381)|**[link](https://github.com/fate-ubw/raglab)**|
+|**2024-08-21**|**Towards Analyzing and Mitigating Sycophancy in Large Vision-Language Models**|Yunpu Zhao et.al.|[2408.11261](http://arxiv.org/abs/2408.11261)|null|
 |**2024-08-20**|**Proxona: Leveraging LLM-Driven Personas to Enhance Creators' Understanding of Their Audience**|Yoonseo Choi et.al.|[2408.10937](http://arxiv.org/abs/2408.10937)|null|
 |**2024-08-20**|**Unconditional Truthfulness: Learning Conditional Dependency for Uncertainty Quantification of Large Language Models**|Artem Vazhentsev et.al.|[2408.10692](http://arxiv.org/abs/2408.10692)|null|
 |**2024-08-20**|**Analysis of Plan-based Retrieval for Grounded Text Generation**|Ameya Godbole et.al.|[2408.10490](http://arxiv.org/abs/2408.10490)|null|
