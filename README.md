@@ -2214,6 +2214,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-01**|**COMOGen: A Controllable Text-to-3D Multi-object Generation Framework**|Shaorong Sun et.al.|[2409.00590](http://arxiv.org/abs/2409.00590)|null|
 |**2024-08-29**|**Measuring the Accuracy of Automatic Speech Recognition Solutions**|Korbinian Kuhn et.al.|[2408.16287](http://arxiv.org/abs/2408.16287)|**[link](https://github.com/shuffle-project/asr-comparison)**|
 |**2024-08-28**|**Sofic actions on graphs**|David Gao et.al.|[2408.15470](http://arxiv.org/abs/2408.15470)|null|
 |**2024-08-27**|**Admissible weak factorization systems on extriangulated categories**|Yajun Ma et.al.|[2408.13548](http://arxiv.org/abs/2408.13548)|null|
@@ -2347,6 +2348,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-04**|**RoboTwin: Dual-Arm Robot Benchmark with Generative Digital Twins (early version)**|Yao Mu et.al.|[2409.02920](http://arxiv.org/abs/2409.02920)|null|
+|**2024-09-04**|**Can LVLMs Obtain a Driver's License? A Benchmark Towards Reliable AGI for Autonomous Driving**|Yuhang Lu et.al.|[2409.02914](http://arxiv.org/abs/2409.02914)|null|
+|**2024-09-04**|**Masked Diffusion Models are Secretly Time-Agnostic Masked Models and Exploit Inaccurate Categorical Sampling**|Kaiwen Zheng et.al.|[2409.02908](http://arxiv.org/abs/2409.02908)|null|
+|**2024-09-04**|**LongCite: Enabling LLMs to Generate Fine-grained Citations in Long-context QA**|jiajie Zhang et.al.|[2409.02897](http://arxiv.org/abs/2409.02897)|null|
+|**2024-09-04**|**LongLLaVA: Scaling Multi-modal LLMs to 1000 Images Efficiently via Hybrid Architecture**|Xidong Wang et.al.|[2409.02889](http://arxiv.org/abs/2409.02889)|**[link](https://github.com/freedomintelligence/longllava)**|
+|**2024-09-04**|**Benchmarking Spurious Bias in Few-Shot Image Classifiers**|Guangtao Zheng et.al.|[2409.02882](http://arxiv.org/abs/2409.02882)|**[link](https://github.com/gtzheng/fewstab)**|
+|**2024-09-04**|**Historical German Text Normalization Using Type- and Token-Based Language Modeling**|Anton Ehrmanntraut et.al.|[2409.02841](http://arxiv.org/abs/2409.02841)|null|
+|**2024-09-04**|**Exploring Sentiment Dynamics and Predictive Behaviors in Cryptocurrency Discussions by Few-Shot Learning with Large Language Models**|Moein Shahiki Tash et.al.|[2409.02836](http://arxiv.org/abs/2409.02836)|null|
+|**2024-09-04**|**CMM-Math: A Chinese Multimodal Math Dataset To Evaluate and Enhance the Mathematics Reasoning of Large Multimodal Models**|Wentao Liu et.al.|[2409.02834](http://arxiv.org/abs/2409.02834)|null|
+|**2024-09-04**|**ExpLLM: Towards Chain of Thought for Facial Expression Recognition**|Xing Lan et.al.|[2409.02828](http://arxiv.org/abs/2409.02828)|null|
 |**2024-08-30**|**SYNTHEVAL: Hybrid Behavioral Testing of NLP Models with Synthetic CheckLists**|Raoyuan Zhao et.al.|[2408.17437](http://arxiv.org/abs/2408.17437)|**[link](https://github.com/loreley99/syntheval_checklist)**|
 |**2024-08-30**|**Advancing Multi-talker ASR Performance with Large Language Models**|Mohan Shi et.al.|[2408.17431](http://arxiv.org/abs/2408.17431)|null|
 |**2024-08-30**|**CLOCR-C: Context Leveraging OCR Correction with Pre-trained Language Models**|Jonathan Bourne et.al.|[2408.17428](http://arxiv.org/abs/2408.17428)|null|
@@ -4223,6 +4234,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-04**|**A Data Selection Approach for Enhancing Low Resource Machine Translation Using Cross-Lingual Sentence Representations**|Nidhi Kowtal et.al.|[2409.02712](http://arxiv.org/abs/2409.02712)|null|
+|**2024-09-04**|**Creating Domain-Specific Translation Memories for Machine Translation Fine-tuning: The TRENCARD Bilingual Cardiology Corpus**|Gokhan Dogru et.al.|[2409.02667](http://arxiv.org/abs/2409.02667)|null|
+|**2024-09-03**|**Towards Cross-Lingual Explanation of Artwork in Large-scale Vision Language Models**|Shintaro Ozaki et.al.|[2409.01584](http://arxiv.org/abs/2409.01584)|null|
+|**2024-09-01**|**Correcting FLORES Evaluation Dataset for Four African Languages**|Idris Abdulmumin et.al.|[2409.00626](http://arxiv.org/abs/2409.00626)|null|
 |**2024-08-30**|**Towards Tailored Recovery of Lexical Diversity in Literary Machine Translation**|Esther Ploeger et.al.|[2408.17308](http://arxiv.org/abs/2408.17308)|null|
 |**2024-09-03**|**InkubaLM: A small language model for low-resource African languages**|Atnafu Lambebo Tonja et.al.|[2408.17024](http://arxiv.org/abs/2408.17024)|null|
 |**2024-08-29**|**Instruction-tuned Large Language Models for Machine Translation in the Medical Domain**|Miguel Rios et.al.|[2408.16440](http://arxiv.org/abs/2408.16440)|null|
@@ -4733,6 +4748,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-02**|**What does it take to get state of the art in simultaneous speech-to-speech translation?**|Vincent Wilmet et.al.|[2409.00965](http://arxiv.org/abs/2409.00965)|null|
 |**2024-08-18**|**FASST: Fast LLM-based Simultaneous Speech Translation**|Siqi Ouyang et.al.|[2408.09430](http://arxiv.org/abs/2408.09430)|null|
 |**2024-08-14**|**CMU's IWSLT 2024 Simultaneous Speech Translation System**|Xi Xu et.al.|[2408.07452](http://arxiv.org/abs/2408.07452)|null|
 |**2024-08-12**|**Cross-Lingual Conversational Speech Summarization with Large Language Models**|Max Nelson et.al.|[2408.06484](http://arxiv.org/abs/2408.06484)|null|
@@ -4823,6 +4839,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-04**|**LongCite: Enabling LLMs to Generate Fine-grained Citations in Long-context QA**|jiajie Zhang et.al.|[2409.02897](http://arxiv.org/abs/2409.02897)|null|
+|**2024-09-04**|**Improved Single Camera BEV Perception Using Multi-Camera Training**|Daniel Busch et.al.|[2409.02676](http://arxiv.org/abs/2409.02676)|null|
+|**2024-09-03**|**Initial Development and Evaluation of the Creative Artificial Intelligence through Recurring Developments and Determinations (CAIRDD) System**|Jeremy Straub et.al.|[2409.02291](http://arxiv.org/abs/2409.02291)|null|
+|**2024-09-03**|**RACONTEUR: A Knowledgeable, Insightful, and Portable LLM-Powered Shell Command Explainer**|Jiangyi Deng et.al.|[2409.02074](http://arxiv.org/abs/2409.02074)|null|
+|**2024-09-03**|**Map-Assisted Remote-Sensing Image Compression at Extremely Low Bitrates**|Yixuan Ye et.al.|[2409.01935](http://arxiv.org/abs/2409.01935)|**[link](https://github.com/whuyyx/magc)**|
+|**2024-09-02**|**Understanding Multimodal Hallucination with Parameter-Free Representation Alignment**|Yueqian Wang et.al.|[2409.01151](http://arxiv.org/abs/2409.01151)|**[link](https://github.com/yellow-binary-tree/pfram)**|
+|**2024-09-02**|**What does it take to get state of the art in simultaneous speech-to-speech translation?**|Vincent Wilmet et.al.|[2409.00965](http://arxiv.org/abs/2409.00965)|null|
+|**2024-09-02**|**Statically Contextualizing Large Language Models with Typed Holes**|Andrew Blinn et.al.|[2409.00921](http://arxiv.org/abs/2409.00921)|null|
+|**2024-09-01**|**Harnessing the Power of Semi-Structured Knowledge and LLMs with Triplet-Based Prefiltering for Question Answering**|Derian Boer et.al.|[2409.00861](http://arxiv.org/abs/2409.00861)|**[link](https://github.com/kramerlab/4StepFocus)**|
+|**2024-08-31**|**Learning to Ask: When LLMs Meet Unclear Instruction**|Wenxuan Wang et.al.|[2409.00557](http://arxiv.org/abs/2409.00557)|null|
 |**2024-08-30**|**Look, Compare, Decide: Alleviating Hallucination in Large Vision-Language Models via Multi-View Multi-Path Reasoning**|Xiaoye Qu et.al.|[2408.17150](http://arxiv.org/abs/2408.17150)|**[link](https://github.com/gasolsun36/mvp)**|
 |**2024-08-30**|**Dynamic Self-Consistency: Leveraging Reasoning Paths for Efficient LLM Sampling**|Guangya Wan et.al.|[2408.17017](http://arxiv.org/abs/2408.17017)|null|
 |**2024-08-30**|**UserSumBench: A Benchmark Framework for Evaluating User Summarization Approaches**|Chao Wang et.al.|[2408.16966](http://arxiv.org/abs/2408.16966)|null|
