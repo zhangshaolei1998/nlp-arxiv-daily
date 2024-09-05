@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.04
+## Updated on 2024.09.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4796,7 +4796,7 @@ layout: default
 |**2024-08-29**|**See or Guess: Counterfactually Regularized Image Captioning**|Qian Cao et.al.|[2408.16809](http://arxiv.org/abs/2408.16809)|**[link](https://github.com/aman-4-real/see-or-guess)**|
 |**2024-08-29**|**Reinforcement Learning without Human Feedback for Last Mile Fine-Tuning of Large Language Models**|Alec Solway et.al.|[2408.16753](http://arxiv.org/abs/2408.16753)|null|
 |**2024-08-29**|**CrisperWhisper: Accurate Timestamps on Verbatim Speech Transcriptions**|Laurin Wagner et.al.|[2408.16589](http://arxiv.org/abs/2408.16589)|null|
-|**2024-08-29**|**Enhancing Dialogue Generation in Werewolf Game Through Situation Analysis and Persuasion Strategies**|Zhiyang Qi et.al.|[2408.16586](http://arxiv.org/abs/2408.16586)|null|
+|**2024-09-04**|**Enhancing Dialogue Generation in Werewolf Game Through Situation Analysis and Persuasion Strategies**|Zhiyang Qi et.al.|[2408.16586](http://arxiv.org/abs/2408.16586)|null|
 |**2024-08-29**|**LoraMap: Harnessing the Power of LoRA Connections**|Hyeryun Park et.al.|[2408.16264](http://arxiv.org/abs/2408.16264)|null|
 |**2024-08-28**|**VLM4Bio: A Benchmark Dataset to Evaluate Pretrained Vision-Language Models for Trait Discovery from Biological Images**|M. Maruf et.al.|[2408.16176](http://arxiv.org/abs/2408.16176)|**[link](https://github.com/sammarfy/vlm4bio)**|
 |**2024-08-28**|**Logic-Enhanced Language Model Agents for Trustworthy Social Simulations**|Agnieszka Mensfelt et.al.|[2408.16081](http://arxiv.org/abs/2408.16081)|**[link](https://github.com/dicelab-rhul/lelma)**|
