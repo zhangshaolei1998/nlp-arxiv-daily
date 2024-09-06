@@ -2214,6 +2214,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-05**|**Meshless quadrature formulas arising from numerical differentiation**|Oleg Davydov et.al.|[2409.03567](http://arxiv.org/abs/2409.03567)|null|
 |**2024-09-01**|**COMOGen: A Controllable Text-to-3D Multi-object Generation Framework**|Shaorong Sun et.al.|[2409.00590](http://arxiv.org/abs/2409.00590)|null|
 |**2024-08-29**|**Measuring the Accuracy of Automatic Speech Recognition Solutions**|Korbinian Kuhn et.al.|[2408.16287](http://arxiv.org/abs/2408.16287)|**[link](https://github.com/shuffle-project/asr-comparison)**|
 |**2024-08-28**|**Sofic actions on graphs**|David Gao et.al.|[2408.15470](http://arxiv.org/abs/2408.15470)|null|
@@ -2348,6 +2349,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-05**|**Attention Heads of Large Language Models: A Survey**|Zifan Zheng et.al.|[2409.03752](http://arxiv.org/abs/2409.03752)|**[link](https://github.com/iaar-shanghai/awesome-attention-heads)**|
+|**2024-09-05**|**LLM-CI: Assessing Contextual Integrity Norms in Language Models**|Yan Shvartzshnaider et.al.|[2409.03735](http://arxiv.org/abs/2409.03735)|null|
+|**2024-09-05**|**Safety vs. Performance: How Multi-Objective Learning Reduces Barriers to Market Entry**|Meena Jagadeesan et.al.|[2409.03734](http://arxiv.org/abs/2409.03734)|null|
+|**2024-09-05**|**Planning In Natural Language Improves LLM Search For Code Generation**|Evan Wang et.al.|[2409.03733](http://arxiv.org/abs/2409.03733)|null|
+|**2024-09-05**|**RAG based Question-Answering for Contextual Response Prediction System**|Sriram Veturi et.al.|[2409.03708](http://arxiv.org/abs/2409.03708)|null|
+|**2024-09-05**|**LAST: Language Model Aware Speech Tokenization**|Arnon Turetzky et.al.|[2409.03701](http://arxiv.org/abs/2409.03701)|null|
+|**2024-09-05**|**TRACE-cs: Trustworthy Reasoning for Contrastive Explanations in Course Scheduling Problems**|Stylianos Loukas Vasileiou et.al.|[2409.03671](http://arxiv.org/abs/2409.03671)|null|
+|**2024-09-05**|**A Fused Large Language Model for Predicting Startup Success**|Abdurahman Maarouf et.al.|[2409.03668](http://arxiv.org/abs/2409.03668)|null|
+|**2024-09-05**|**The representation landscape of few-shot learning and fine-tuning in large language models**|Diego Doimo et.al.|[2409.03662](http://arxiv.org/abs/2409.03662)|**[link](https://github.com/diegodoimo/geometry_icl_finetuning)**|
+|**2024-09-05**|**LLM-based multi-agent poetry generation in non-cooperative environments**|Ran Zhang et.al.|[2409.03659](http://arxiv.org/abs/2409.03659)|**[link](https://github.com/zhangr2021/Multiagent_poetry)**|
 |**2024-09-04**|**RoboTwin: Dual-Arm Robot Benchmark with Generative Digital Twins (early version)**|Yao Mu et.al.|[2409.02920](http://arxiv.org/abs/2409.02920)|null|
 |**2024-09-04**|**Can LVLMs Obtain a Driver's License? A Benchmark Towards Reliable AGI for Autonomous Driving**|Yuhang Lu et.al.|[2409.02914](http://arxiv.org/abs/2409.02914)|null|
 |**2024-09-04**|**Masked Diffusion Models are Secretly Time-Agnostic Masked Models and Exploit Inaccurate Categorical Sampling**|Kaiwen Zheng et.al.|[2409.02908](http://arxiv.org/abs/2409.02908)|null|
@@ -4234,6 +4245,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-05**|**N-gram Prediction and Word Difference Representations for Language Modeling**|DongNyeong Heo et.al.|[2409.03295](http://arxiv.org/abs/2409.03295)|null|
 |**2024-09-04**|**A Data Selection Approach for Enhancing Low Resource Machine Translation Using Cross-Lingual Sentence Representations**|Nidhi Kowtal et.al.|[2409.02712](http://arxiv.org/abs/2409.02712)|null|
 |**2024-09-04**|**Creating Domain-Specific Translation Memories for Machine Translation Fine-tuning: The TRENCARD Bilingual Cardiology Corpus**|Gokhan Dogru et.al.|[2409.02667](http://arxiv.org/abs/2409.02667)|null|
 |**2024-09-03**|**Towards Cross-Lingual Explanation of Artwork in Large-scale Vision Language Models**|Shintaro Ozaki et.al.|[2409.01584](http://arxiv.org/abs/2409.01584)|null|
@@ -4839,7 +4851,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-09-05**|**LongCite: Enabling LLMs to Generate Fine-grained Citations in Long-context QA**|Jiajie Zhang et.al.|[2409.02897](http://arxiv.org/abs/2409.02897)|null|
+|**2024-09-05**|**RAG based Question-Answering for Contextual Response Prediction System**|Sriram Veturi et.al.|[2409.03708](http://arxiv.org/abs/2409.03708)|null|
+|**2024-09-05**|**Debate on Graph: a Flexible and Reliable Reasoning Framework for Large Language Models**|Jie Ma et.al.|[2409.03155](http://arxiv.org/abs/2409.03155)|**[link](https://github.com/reml-group/dog)**|
+|**2024-09-04**|**No Detail Left Behind: Revisiting Self-Retrieval for Fine-Grained Image Captioning**|Manu Gaur et.al.|[2409.03025](http://arxiv.org/abs/2409.03025)|null|
+|**2024-09-04**|**CLUE: Concept-Level Uncertainty Estimation for Large Language Models**|Yu-Hsiang Wang et.al.|[2409.03021](http://arxiv.org/abs/2409.03021)|null|
+|**2024-09-04**|**Hallucination Detection in LLMs: Fast and Memory-Efficient Finetuned Models**|Gabriel Y. Arteaga et.al.|[2409.02976](http://arxiv.org/abs/2409.02976)|null|
+|**2024-09-05**|**LongCite: Enabling LLMs to Generate Fine-grained Citations in Long-context QA**|Jiajie Zhang et.al.|[2409.02897](http://arxiv.org/abs/2409.02897)|**[link](https://github.com/THUDM/LongCite)**|
 |**2024-09-04**|**Improved Single Camera BEV Perception Using Multi-Camera Training**|Daniel Busch et.al.|[2409.02676](http://arxiv.org/abs/2409.02676)|null|
 |**2024-09-03**|**Initial Development and Evaluation of the Creative Artificial Intelligence through Recurring Developments and Determinations (CAIRDD) System**|Jeremy Straub et.al.|[2409.02291](http://arxiv.org/abs/2409.02291)|null|
 |**2024-09-03**|**RACONTEUR: A Knowledgeable, Insightful, and Portable LLM-Powered Shell Command Explainer**|Jiangyi Deng et.al.|[2409.02074](http://arxiv.org/abs/2409.02074)|null|
