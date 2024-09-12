@@ -2189,6 +2189,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-11**|**Linear Time Complexity Conformers with SummaryMixing for Streaming Speech Recognition**|Titouan Parcollet et.al.|[2409.07165](http://arxiv.org/abs/2409.07165)|null|
 |**2024-09-10**|**LLaMA-Omni: Seamless Speech Interaction with Large Language Models**|Qingkai Fang et.al.|[2409.06666](http://arxiv.org/abs/2409.06666)|**[link](https://github.com/ictnlp/llama-omni)**|
 |**2024-09-09**|**Decoding up to Hartmann-Tzeng and Roos bounds for rank codes**|José Manuel Muñoz et.al.|[2409.05534](http://arxiv.org/abs/2409.05534)|null|
 |**2024-09-05**|**Meshless quadrature formulas arising from numerical differentiation**|Oleg Davydov et.al.|[2409.03567](http://arxiv.org/abs/2409.03567)|null|
@@ -2324,6 +2325,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-11**|**"My Grade is Wrong!": A Contestable AI Framework for Interactive Feedback in Evaluating Student Essays**|Shengxin Hong et.al.|[2409.07453](http://arxiv.org/abs/2409.07453)|null|
+|**2024-09-11**|**SUPER: Evaluating Agents on Setting Up and Executing Tasks from Research Repositories**|Ben Bogin et.al.|[2409.07440](http://arxiv.org/abs/2409.07440)|**[link](https://github.com/allenai/super-benchmark)**|
+|**2024-09-11**|**A Suite for Acoustic Language Model Evaluation**|Gallil Maimon et.al.|[2409.07437](http://arxiv.org/abs/2409.07437)|null|
+|**2024-09-11**|**Synthetic continued pretraining**|Zitong Yang et.al.|[2409.07431](http://arxiv.org/abs/2409.07431)|**[link](https://github.com/zitongyang/synthetic_continued_pretraining)**|
+|**2024-09-11**|**Agent Workflow Memory**|Zora Zhiruo Wang et.al.|[2409.07429](http://arxiv.org/abs/2409.07429)|**[link](https://github.com/zorazrw/agent-workflow-memory)**|
+|**2024-09-11**|**CLNX: Bridging Code and Natural Language for C/C++ Vulnerability-Contributing Commits Identification**|Zeqing Qin et.al.|[2409.07407](http://arxiv.org/abs/2409.07407)|null|
+|**2024-09-11**|**AdaCAD: Adaptively Decoding to Balance Conflicts between Contextual and Parametric Knowledge**|Han Wang et.al.|[2409.07394](http://arxiv.org/abs/2409.07394)|**[link](https://github.com/hannight/adacad)**|
+|**2024-09-11**|**Awaking the Slides: A Tuning-free and Knowledge-regulated AI Tutoring System via Language Model Coordination**|Daniel Zhang-Li et.al.|[2409.07372](http://arxiv.org/abs/2409.07372)|null|
+|**2024-09-11**|**Demo: SGCode: A Flexible Prompt-Optimizing System for Secure Generation of Code**|Khiem Ton et.al.|[2409.07368](http://arxiv.org/abs/2409.07368)|null|
+|**2024-09-11**|**Think Together and Work Better: Combining Humans' and LLMs' Think-Aloud Outcomes for Effective Text Evaluation**|SeongYeub Chu et.al.|[2409.07355](http://arxiv.org/abs/2409.07355)|**[link](https://github.com/BBeeChu/InteractEval)**|
 |**2024-09-10**|**Benchmarking Sub-Genre Classification For Mainstage Dance Music**|Hongzhi Shu et.al.|[2409.06690](http://arxiv.org/abs/2409.06690)|null|
 |**2024-09-10**|**E2LLM: Encoder Elongated Large Language Models for Long-Context Understanding and Reasoning**|Zihan Liao et.al.|[2409.06679](http://arxiv.org/abs/2409.06679)|null|
 |**2024-09-10**|**LLaMA-Omni: Seamless Speech Interaction with Large Language Models**|Qingkai Fang et.al.|[2409.06666](http://arxiv.org/abs/2409.06666)|**[link](https://github.com/ictnlp/llama-omni)**|
@@ -4248,6 +4259,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-11**|**Reranking Laws for Language Generation: A Communication-Theoretic Perspective**|António Farinhas et.al.|[2409.07131](http://arxiv.org/abs/2409.07131)|null|
+|**2024-09-10**|**Translating Step-by-Step: Decomposing the Translation Process for Improved Translation Quality of Long-Form Texts**|Eleftheria Briakou et.al.|[2409.06790](http://arxiv.org/abs/2409.06790)|null|
 |**2024-09-08**|**Exploring Intrinsic Language-specific Subspaces in Fine-tuning Multilingual Neural Machine Translation**|Zhe Cao et.al.|[2409.05224](http://arxiv.org/abs/2409.05224)|**[link](https://github.com/spike0924/lslo)**|
 |**2024-09-08**|**Vision-fused Attack: Advancing Aggressive and Stealthy Adversarial Text against Neural Machine Translation**|Yanni Xue et.al.|[2409.05021](http://arxiv.org/abs/2409.05021)|**[link](https://github.com/levelower/vfa)**|
 |**2024-09-08**|**Evaluation of Google Translate for Mandarin Chinese translation using sentiment and semantic analysis**|Xuechun Wang et.al.|[2409.04964](http://arxiv.org/abs/2409.04964)|null|
@@ -4855,6 +4868,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-11**|**MEDIC: Towards a Comprehensive Framework for Evaluating LLMs in Clinical Applications**|Praveen K Kanithi et.al.|[2409.07314](http://arxiv.org/abs/2409.07314)|null|
+|**2024-09-11**|**Reranking Laws for Language Generation: A Communication-Theoretic Perspective**|António Farinhas et.al.|[2409.07131](http://arxiv.org/abs/2409.07131)|null|
 |**2024-09-10**|**Alleviating Hallucinations in Large Language Models with Scepticism Modeling**|Yetao Wu et.al.|[2409.06601](http://arxiv.org/abs/2409.06601)|null|
 |**2024-09-10**|**Mitigating Hallucination in Visual-Language Models via Re-Balancing Contrastive Decoding**|Xiaoyu Liang et.al.|[2409.06485](http://arxiv.org/abs/2409.06485)|null|
 |**2024-09-09**|**$\mathbb{USCD}$ : Improving Code Generation of LLMs by Uncertainty-Aware Selective Contrastive Decoding**|Shuai Wang et.al.|[2409.05923](http://arxiv.org/abs/2409.05923)|null|
