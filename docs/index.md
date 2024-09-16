@@ -2189,6 +2189,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-13**|**NEST-RQ: Next Token Prediction for Speech Self-Supervised Pre-Training**|Minglun Han et.al.|[2409.08680](http://arxiv.org/abs/2409.08680)|null|
 |**2024-09-11**|**Linear Time Complexity Conformers with SummaryMixing for Streaming Speech Recognition**|Titouan Parcollet et.al.|[2409.07165](http://arxiv.org/abs/2409.07165)|**[link](https://github.com/samsunglabs/summarymixing)**|
 |**2024-09-10**|**LLaMA-Omni: Seamless Speech Interaction with Large Language Models**|Qingkai Fang et.al.|[2409.06666](http://arxiv.org/abs/2409.06666)|**[link](https://github.com/ictnlp/llama-omni)**|
 |**2024-09-09**|**Decoding up to Hartmann-Tzeng and Roos bounds for rank codes**|José Manuel Muñoz et.al.|[2409.05534](http://arxiv.org/abs/2409.05534)|null|
@@ -2325,6 +2326,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-13**|**Agents in Software Engineering: Survey, Landscape, and Vision**|Yanxian Huang et.al.|[2409.09030](http://arxiv.org/abs/2409.09030)|**[link](https://github.com/deepsoftwareanalytics/awesome-agent4se)**|
+|**2024-09-13**|**Contri(e)ve: Context + Retrieve for Scholarly Question Answering**|Kanchan Shivashankar et.al.|[2409.09010](http://arxiv.org/abs/2409.09010)|null|
+|**2024-09-13**|**Safeguarding Decentralized Social Media: LLM Agents for Automating Community Rule Compliance**|Lucio La Cava et.al.|[2409.08963](http://arxiv.org/abs/2409.08963)|null|
+|**2024-09-13**|**Emerging Reliance Behaviors in Human-AI Text Generation: Hallucinations, Data Quality Assessment, and Cognitive Forcing Functions**|Zahra Ashktorab et.al.|[2409.08937](http://arxiv.org/abs/2409.08937)|null|
+|**2024-09-13**|**SynSUM -- Synthetic Benchmark with Structured and Unstructured Medical Records**|Paloma Rabaey et.al.|[2409.08936](http://arxiv.org/abs/2409.08936)|**[link](https://github.com/prabaey/synsum)**|
+|**2024-09-13**|**LLM-based Weak Supervision Framework for Query Intent Classification in Video Search**|Farnoosh Javadi et.al.|[2409.08931](http://arxiv.org/abs/2409.08931)|null|
+|**2024-09-13**|**AnyBipe: An End-to-End Framework for Training and Deploying Bipedal Robots Guided by Large Language Models**|Yifei Yao et.al.|[2409.08904](http://arxiv.org/abs/2409.08904)|null|
+|**2024-09-13**|**A Market for Lemons? Strategic Directions for a Vigilant Application of Artificial Intelligence in Entrepreneurship Research**|Martin Obschonka et.al.|[2409.08890](http://arxiv.org/abs/2409.08890)|null|
+|**2024-09-13**|**Visual Language Tracking with Multi-modal Interaction: A Robust Benchmark**|Xuchen Li et.al.|[2409.08887](http://arxiv.org/abs/2409.08887)|null|
+|**2024-09-13**|**Exploring Graph Structure Comprehension Ability of Multimodal Large Language Models: Case Studies**|Zhiqiang Zhong et.al.|[2409.08864](http://arxiv.org/abs/2409.08864)|null|
 |**2024-09-12**|**Windows Agent Arena: Evaluating Multi-Modal OS Agents at Scale**|Rogerio Bonatti et.al.|[2409.08264](http://arxiv.org/abs/2409.08264)|**[link](https://github.com/microsoft/windowsagentarena)**|
 |**2024-09-12**|**OmniQuery: Contextually Augmenting Captured Multimodal Memory to Enable Personal Question Answering**|Jiahao Nick Li et.al.|[2409.08250](http://arxiv.org/abs/2409.08250)|null|
 |**2024-09-12**|**Source2Synth: Synthetic Data Generation and Curation Grounded in Real Data Sources**|Alisia Lupidi et.al.|[2409.08239](http://arxiv.org/abs/2409.08239)|null|
@@ -4275,7 +4286,7 @@ layout: default
 |**2024-09-10**|**Translating Step-by-Step: Decomposing the Translation Process for Improved Translation Quality of Long-Form Texts**|Eleftheria Briakou et.al.|[2409.06790](http://arxiv.org/abs/2409.06790)|null|
 |**2024-09-08**|**Exploring Intrinsic Language-specific Subspaces in Fine-tuning Multilingual Neural Machine Translation**|Zhe Cao et.al.|[2409.05224](http://arxiv.org/abs/2409.05224)|**[link](https://github.com/spike0924/lslo)**|
 |**2024-09-08**|**Vision-fused Attack: Advancing Aggressive and Stealthy Adversarial Text against Neural Machine Translation**|Yanni Xue et.al.|[2409.05021](http://arxiv.org/abs/2409.05021)|**[link](https://github.com/levelower/vfa)**|
-|**2024-09-08**|**Evaluation of Google Translate for Mandarin Chinese translation using sentiment and semantic analysis**|Xuechun Wang et.al.|[2409.04964](http://arxiv.org/abs/2409.04964)|null|
+|**2024-09-08**|**Evaluation of Google Translate for Mandarin Chinese translation using sentiment and semantic analysis**|Xuechun Wang et.al.|[2409.04964](http://arxiv.org/abs/2409.04964)|**[link](https://github.com/sydney-machine-learning/translationanalysis-mandarin)**|
 |**2024-09-06**|**Open Language Data Initiative: Advancing Low-Resource Machine Translation for Karakalpak**|Mukhammadsaid Mamasaidov et.al.|[2409.04269](http://arxiv.org/abs/2409.04269)|null|
 |**2024-09-06**|**From Calculation to Adjudication: Examining LLM judges on Mathematical Reasoning Tasks**|Andreas Stephan et.al.|[2409.04168](http://arxiv.org/abs/2409.04168)|null|
 |**2024-09-05**|**N-gram Prediction and Word Difference Representations for Language Modeling**|DongNyeong Heo et.al.|[2409.03295](http://arxiv.org/abs/2409.03295)|null|
@@ -4791,6 +4802,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-13**|**Optimizing Rare Word Accuracy in Direct Speech Translation with a Retrieval-and-Demonstration Approach**|Siqi Li et.al.|[2409.09009](http://arxiv.org/abs/2409.09009)|**[link](https://github.com/siqilii/retrieve-and-demonstration-st)**|
 |**2024-09-02**|**What does it take to get state of the art in simultaneous speech-to-speech translation?**|Vincent Wilmet et.al.|[2409.00965](http://arxiv.org/abs/2409.00965)|null|
 |**2024-08-18**|**FASST: Fast LLM-based Simultaneous Speech Translation**|Siqi Ouyang et.al.|[2408.09430](http://arxiv.org/abs/2408.09430)|null|
 |**2024-08-14**|**CMU's IWSLT 2024 Simultaneous Speech Translation System**|Xi Xu et.al.|[2408.07452](http://arxiv.org/abs/2408.07452)|null|
@@ -4880,6 +4892,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-13**|**Emerging Reliance Behaviors in Human-AI Text Generation: Hallucinations, Data Quality Assessment, and Cognitive Forcing Functions**|Zahra Ashktorab et.al.|[2409.08937](http://arxiv.org/abs/2409.08937)|null|
+|**2024-09-13**|**When Context Leads but Parametric Memory Follows in Large Language Models**|Yufei Tao et.al.|[2409.08435](http://arxiv.org/abs/2409.08435)|**[link](https://github.com/PortNLP/WikiAtomic)**|
 |**2024-09-12**|**Large Language Models are Pattern Matchers: Editing Semi-Structured and Structured Documents with ChatGPT**|Irene Weber et.al.|[2409.07732](http://arxiv.org/abs/2409.07732)|**[link](https://github.com/weberi/2024_akwi_structured_gpt_experiments)**|
 |**2024-09-11**|**MEDIC: Towards a Comprehensive Framework for Evaluating LLMs in Clinical Applications**|Praveen K Kanithi et.al.|[2409.07314](http://arxiv.org/abs/2409.07314)|null|
 |**2024-09-11**|**Reranking Laws for Language Generation: A Communication-Theoretic Perspective**|António Farinhas et.al.|[2409.07131](http://arxiv.org/abs/2409.07131)|null|
