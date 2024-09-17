@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.16
+## Updated on 2024.09.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4803,7 +4803,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-09-13**|**Optimizing Rare Word Accuracy in Direct Speech Translation with a Retrieval-and-Demonstration Approach**|Siqi Li et.al.|[2409.09009](http://arxiv.org/abs/2409.09009)|**[link](https://github.com/siqilii/retrieve-and-demonstration-st)**|
-|**2024-09-02**|**What does it take to get state of the art in simultaneous speech-to-speech translation?**|Vincent Wilmet et.al.|[2409.00965](http://arxiv.org/abs/2409.00965)|null|
+|**2024-09-14**|**What does it take to get state of the art in simultaneous speech-to-speech translation?**|Vincent Wilmet et.al.|[2409.00965](http://arxiv.org/abs/2409.00965)|null|
 |**2024-08-18**|**FASST: Fast LLM-based Simultaneous Speech Translation**|Siqi Ouyang et.al.|[2408.09430](http://arxiv.org/abs/2408.09430)|null|
 |**2024-08-14**|**CMU's IWSLT 2024 Simultaneous Speech Translation System**|Xi Xu et.al.|[2408.07452](http://arxiv.org/abs/2408.07452)|null|
 |**2024-08-12**|**Cross-Lingual Conversational Speech Summarization with Large Language Models**|Max Nelson et.al.|[2408.06484](http://arxiv.org/abs/2408.06484)|null|
