@@ -2189,6 +2189,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-07**|**CTC-GMM: CTC guided modality matching for fast and accurate streaming speech translation**|Rui Zhao et.al.|[2410.05146](http://arxiv.org/abs/2410.05146)|null|
+|**2024-10-05**|**PsFuture: A Pseudo-Future-based Zero-Shot Adaptive Policy for Simultaneous Machine Translation**|Libo Zhao et.al.|[2410.04075](http://arxiv.org/abs/2410.04075)|null|
+|**2024-10-02**|**Efficient Streaming LLM for Speech Recognition**|Junteng Jia et.al.|[2410.03752](http://arxiv.org/abs/2410.03752)|null|
 |**2024-10-04**|**Textless Streaming Speech-to-Speech Translation using Semantic Speech Tokens**|Jinzheng Zhao et.al.|[2410.03298](http://arxiv.org/abs/2410.03298)|null|
 |**2024-09-30**|**Mamba for Streaming ASR Combined with Unimodal Aggregation**|Ying Fang et.al.|[2410.00070](http://arxiv.org/abs/2410.00070)|**[link](https://github.com/Audio-WestlakeU/UMA-ASR)**|
 |**2024-10-02**|**Moshi: a speech-text foundation model for real-time dialogue**|Alexandre Défossez et.al.|[2410.00037](http://arxiv.org/abs/2410.00037)|**[link](https://github.com/kyutai-labs/moshi)**|
@@ -2334,6 +2337,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-07**|**Fine-Tuning CLIP's Last Visual Projector: A Few-Shot Cornucopia**|Mohammad Fahes et.al.|[2410.05270](http://arxiv.org/abs/2410.05270)|**[link](https://github.com/astra-vision/prolip)**|
+|**2024-10-07**|**Data Advisor: Dynamic Data Curation for Safety Alignment of Large Language Models**|Fei Wang et.al.|[2410.05269](http://arxiv.org/abs/2410.05269)|null|
+|**2024-10-07**|**PrefixQuant: Static Quantization Beats Dynamic through Prefixed Outliers in LLMs**|Mengzhao Chen et.al.|[2410.05265](http://arxiv.org/abs/2410.05265)|**[link](https://github.com/chenmnz/prefixquant)**|
+|**2024-10-07**|**TurtleBench: Evaluating Top Language Models via Real-World Yes/No Puzzles**|Qingchen Yu et.al.|[2410.05262](http://arxiv.org/abs/2410.05262)|null|
+|**2024-10-07**|**TextHawk2: A Large Vision-Language Model Excels in Bilingual OCR and Grounding with 16x Fewer Tokens**|Ya-Qi Yu et.al.|[2410.05261](http://arxiv.org/abs/2410.05261)|null|
+|**2024-10-07**|**Differential Transformer**|Tianzhu Ye et.al.|[2410.05258](http://arxiv.org/abs/2410.05258)|null|
+|**2024-10-07**|**GLEE: A Unified Framework and Benchmark for Language-based Economic Environments**|Eilam Shapira et.al.|[2410.05254](http://arxiv.org/abs/2410.05254)|null|
+|**2024-10-07**|**Causal Micro-Narratives**|Mourad Heddaya et.al.|[2410.05252](http://arxiv.org/abs/2410.05252)|null|
+|**2024-10-07**|**SFTMix: Elevating Language Model Instruction Tuning with Mixup Recipe**|Yuxin Xiao et.al.|[2410.05248](http://arxiv.org/abs/2410.05248)|null|
+|**2024-10-07**|**Navigating the Digital World as Humans Do: Universal Visual Grounding for GUI Agents**|Boyu Gou et.al.|[2410.05243](http://arxiv.org/abs/2410.05243)|null|
 |**2024-10-04**|**Enhance Reasoning by Learning from Mistakes: Peer-Review Knowledge Distillation from Multiple Large Language Models**|Zhuochun Li et.al.|[2410.03663](http://arxiv.org/abs/2410.03663)|null|
 |**2024-10-04**|**Unraveling Cross-Modality Knowledge Conflict in Large Vision-Language Models**|Tinghui Zhu et.al.|[2410.03659](http://arxiv.org/abs/2410.03659)|null|
 |**2024-10-04**|**RAFT: Realistic Attacks to Fool Text Detectors**|James Wang et.al.|[2410.03658](http://arxiv.org/abs/2410.03658)|null|
@@ -4388,8 +4401,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-07**|**Beyond Correlation: Interpretable Evaluation of Machine Translation Metrics**|Stefano Perrella et.al.|[2410.05183](http://arxiv.org/abs/2410.05183)|null|
+|**2024-10-07**|**CTC-GMM: CTC guided modality matching for fast and accurate streaming speech translation**|Rui Zhao et.al.|[2410.05146](http://arxiv.org/abs/2410.05146)|null|
+|**2024-10-07**|**A test suite of prompt injection attacks for LLM-based machine translation**|Antonio Valerio Miceli-Barone et.al.|[2410.05047](http://arxiv.org/abs/2410.05047)|null|
+|**2024-10-07**|**Leveraging Grammar Induction for Language Understanding and Generation**|Jushi Kai et.al.|[2410.04878](http://arxiv.org/abs/2410.04878)|null|
+|**2024-10-05**|**Toxic Subword Pruning for Dialogue Response Generation on Large Language Models**|Hongyuan Lu et.al.|[2410.04155](http://arxiv.org/abs/2410.04155)|null|
+|**2024-10-05**|**Can the Variation of Model Weights be used as a Criterion for Self-Paced Multilingual NMT?**|Àlex R. Atrio et.al.|[2410.04147](http://arxiv.org/abs/2410.04147)|null|
+|**2024-10-05**|**PsFuture: A Pseudo-Future-based Zero-Shot Adaptive Policy for Simultaneous Machine Translation**|Libo Zhao et.al.|[2410.04075](http://arxiv.org/abs/2410.04075)|null|
 |**2024-10-04**|**Textless Streaming Speech-to-Speech Translation using Semantic Speech Tokens**|Jinzheng Zhao et.al.|[2410.03298](http://arxiv.org/abs/2410.03298)|null|
-|**2024-10-04**|**What do Large Language Models Need for Machine Translation Evaluation?**|Shenbin Qian et.al.|[2410.03278](http://arxiv.org/abs/2410.03278)|null|
+|**2024-10-04**|**What do Large Language Models Need for Machine Translation Evaluation?**|Shenbin Qian et.al.|[2410.03278](http://arxiv.org/abs/2410.03278)|**[link](https://github.com/surrey-nlp/LLM4MT_eval)**|
 |**2024-10-04**|**A Multi-task Learning Framework for Evaluating Machine Translation of Emotion-loaded User-generated Content**|Shenbin Qian et.al.|[2410.03277](http://arxiv.org/abs/2410.03277)|null|
 |**2024-10-04**|**X-ALMA: Plug & Play Modules and Adaptive Rejection for Quality Translation at Scale**|Haoran Xu et.al.|[2410.03115](http://arxiv.org/abs/2410.03115)|null|
 |**2024-10-03**|**Large Language Model for Multi-Domain Translation: Benchmarking and Domain CoT Fine-tuning**|Tianxiang Hu et.al.|[2410.02631](http://arxiv.org/abs/2410.02631)|null|
@@ -4947,6 +4967,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-07**|**CTC-GMM: CTC guided modality matching for fast and accurate streaming speech translation**|Rui Zhao et.al.|[2410.05146](http://arxiv.org/abs/2410.05146)|null|
 |**2024-10-04**|**Textless Streaming Speech-to-Speech Translation using Semantic Speech Tokens**|Jinzheng Zhao et.al.|[2410.03298](http://arxiv.org/abs/2410.03298)|null|
 |**2024-09-29**|**CoT-ST: Enhancing LLM-based Speech Translation with Multimodal Chain-of-Thought**|Yexing Du et.al.|[2409.19510](http://arxiv.org/abs/2409.19510)|**[link](https://github.com/X-LANCE/SLAM-LLM)**|
 |**2024-09-26**|**Unveiling the Role of Pretraining in Direct Speech Translation**|Belen Alastruey et.al.|[2409.18044](http://arxiv.org/abs/2409.18044)|null|
@@ -5049,6 +5070,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-07**|**Differential Transformer**|Tianzhu Ye et.al.|[2410.05258](http://arxiv.org/abs/2410.05258)|null|
+|**2024-10-07**|**AI-Enhanced Ethical Hacking: A Linux-Focused Experiment**|Haitham S. Al-Sinani et.al.|[2410.05105](http://arxiv.org/abs/2410.05105)|null|
+|**2024-10-07**|**Mitigating Modality Prior-Induced Hallucinations in Multimodal Large Language Models via Deciphering Attention Causality**|Guanyu Zhou et.al.|[2410.04780](http://arxiv.org/abs/2410.04780)|**[link](https://github.com/the-martyr/causalmm)**|
+|**2024-10-07**|**Document-level Causal Relation Extraction with Knowledge-guided Binary Question Answering**|Zimu Wang et.al.|[2410.04752](http://arxiv.org/abs/2410.04752)|null|
+|**2024-10-07**|**TLDR: Token-Level Detective Reward Model for Large Vision Language Models**|Deqing Fu et.al.|[2410.04734](http://arxiv.org/abs/2410.04734)|null|
+|**2024-10-06**|**Reasoning-Enhanced Healthcare Predictions with Knowledge Graph Community Retrieval**|Pengcheng Jiang et.al.|[2410.04585](http://arxiv.org/abs/2410.04585)|null|
+|**2024-10-06**|**DAMRO: Dive into the Attention Mechanism of LVLM to Reduce Object Hallucination**|Xuan Gong et.al.|[2410.04514](http://arxiv.org/abs/2410.04514)|null|
+|**2024-10-05**|**DiDOTS: Knowledge Distillation from Large-Language-Models for Dementia Obfuscation in Transcribed Speech**|Dominika Woszczyk et.al.|[2410.04188](http://arxiv.org/abs/2410.04188)|null|
+|**2024-10-05**|**TUBench: Benchmarking Large Vision-Language Models on Trustworthiness with Unanswerable Questions**|Xingwei He et.al.|[2410.04107](http://arxiv.org/abs/2410.04107)|**[link](https://github.com/nlpcode/tubench)**|
 |**2024-10-04**|**Look Twice Before You Answer: Memory-Space Visual Retracing for Hallucination Mitigation in Multimodal Large Language Models**|Xin Zou et.al.|[2410.03577](http://arxiv.org/abs/2410.03577)|null|
 |**2024-10-04**|**Auto-GDA: Automatic Domain Adaptation for Efficient Grounding Verification in Retrieval Augmented Generation**|Tobias Leemann et.al.|[2410.03461](http://arxiv.org/abs/2410.03461)|null|
 |**2024-10-04**|**An X-Ray Is Worth 15 Features: Sparse Autoencoders for Interpretable Radiology Report Generation**|Ahmed Abdulaal et.al.|[2410.03334](http://arxiv.org/abs/2410.03334)|null|
