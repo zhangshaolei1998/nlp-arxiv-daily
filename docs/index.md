@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.10
+## Updated on 2024.10.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -5096,7 +5096,7 @@ layout: default
 |**2024-10-08**|**Fine-grained Hallucination Detection and Mitigation in Language Model Mathematical Reasoning**|Ruosen Li et.al.|[2410.06304](http://arxiv.org/abs/2410.06304)|null|
 |**2024-10-08**|**ConceptAgent: LLM-Driven Precondition Grounding and Tree Search for Robust Task Planning and Execution**|Corban Rivera et.al.|[2410.06108](http://arxiv.org/abs/2410.06108)|null|
 |**2024-10-08**|**Listen to the Patient: Enhancing Medical Dialogue Generation with Patient Hallucination Detection and Mitigation**|Lang Qin et.al.|[2410.06094](http://arxiv.org/abs/2410.06094)|null|
-|**2024-10-08**|**LLM-based SPARQL Query Generation from Natural Language over Federated Knowledge Graphs**|Vincent Emonet et.al.|[2410.06062](http://arxiv.org/abs/2410.06062)|null|
+|**2024-10-10**|**LLM-based SPARQL Query Generation from Natural Language over Federated Knowledge Graphs**|Vincent Emonet et.al.|[2410.06062](http://arxiv.org/abs/2410.06062)|null|
 |**2024-10-07**|**Differential Transformer**|Tianzhu Ye et.al.|[2410.05258](http://arxiv.org/abs/2410.05258)|null|
 |**2024-10-07**|**AI-Enhanced Ethical Hacking: A Linux-Focused Experiment**|Haitham S. Al-Sinani et.al.|[2410.05105](http://arxiv.org/abs/2410.05105)|null|
 |**2024-10-07**|**Mitigating Modality Prior-Induced Hallucinations in Multimodal Large Language Models via Deciphering Attention Causality**|Guanyu Zhou et.al.|[2410.04780](http://arxiv.org/abs/2410.04780)|**[link](https://github.com/the-martyr/causalmm)**|
