@@ -2214,6 +2214,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-11**|**WaveDiffusion: Exploring Full Waveform Inversion via Joint Diffusion in the Latent Space**|Hanchen Wang et.al.|[2410.09002](http://arxiv.org/abs/2410.09002)|null|
 |**2024-10-09**|**Demonstration of The Brightest Nano-size Gamma Source**|A. S. Pirozhkov et.al.|[2410.06537](http://arxiv.org/abs/2410.06537)|null|
 |**2024-10-08**|**CodeDPO: Aligning Code Models with Self Generated and Verified Source Code**|Kechi Zhang et.al.|[2410.05605](http://arxiv.org/abs/2410.05605)|null|
 |**2024-10-07**|**CTC-GMM: CTC guided modality matching for fast and accurate streaming speech translation**|Rui Zhao et.al.|[2410.05146](http://arxiv.org/abs/2410.05146)|null|
@@ -2366,6 +2367,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-11**|**Unraveling and Mitigating Safety Alignment Degradation of Vision-Language Models**|Qin Liu et.al.|[2410.09047](http://arxiv.org/abs/2410.09047)|null|
+|**2024-10-11**|**AttnGCG: Enhancing Jailbreaking Attacks on LLMs with Attention Manipulation**|Zijun Wang et.al.|[2410.09040](http://arxiv.org/abs/2410.09040)|**[link](https://github.com/ucsc-vlaa/attngcg-attack)**|
+|**2024-10-11**|**Semi-Supervised Learning of Noisy Mixture of Experts Models**|Oh-Ran Kwon et.al.|[2410.09039](http://arxiv.org/abs/2410.09039)|null|
+|**2024-10-11**|**SimpleStrat: Diversifying Language Model Generation with Stratification**|Justin Wong et.al.|[2410.09038](http://arxiv.org/abs/2410.09038)|null|
+|**2024-10-11**|**Mentor-KD: Making Small Language Models Better Multi-step Reasoners**|Hojae Lee et.al.|[2410.09037](http://arxiv.org/abs/2410.09037)|**[link](https://github.com/2hojae/mentor-kd)**|
+|**2024-10-11**|**PEAR: A Robust and Flexible Automation Framework for Ptychography Enabled by Multiple Large Language Model Agents**|Xiangyu Yin et.al.|[2410.09034](http://arxiv.org/abs/2410.09034)|null|
+|**2024-10-11**|**MedMobile: A mobile-sized language model with expert-level clinical capabilities**|Krithik Vishwanath et.al.|[2410.09019](http://arxiv.org/abs/2410.09019)|null|
+|**2024-10-11**|**Parameter-Efficient Fine-Tuning of State Space Models**|Kevin Galim et.al.|[2410.09016](http://arxiv.org/abs/2410.09016)|**[link](https://github.com/furiosa-ai/ssm-peft)**|
+|**2024-10-11**|**The Impact of Visual Information in Chinese Characters: Evaluating Large Models' Ability to Recognize and Utilize Radicals**|Xiaofeng Wu et.al.|[2410.09013](http://arxiv.org/abs/2410.09013)|null|
+|**2024-10-11**|**Software Engineering and Foundation Models: Insights from Industry Blogs Using a Jury of Foundation Models**|Hao Li et.al.|[2410.09012](http://arxiv.org/abs/2410.09012)|null|
 |**2024-10-10**|**DICE: Discrete Inversion Enabling Controllable Editing for Multinomial Diffusion and Masked Generative Models**|Xiaoxiao He et.al.|[2410.08207](http://arxiv.org/abs/2410.08207)|null|
 |**2024-10-10**|**Mono-InternVL: Pushing the Boundaries of Monolithic Multimodal Large Language Models with Endogenous Visual Pre-training**|Gen Luo et.al.|[2410.08202](http://arxiv.org/abs/2410.08202)|null|
 |**2024-10-10**|**Adam Exploits $\ell_\infty$ -geometry of Loss Landscape via Coordinate-wise Adaptivity**|Shuo Xie et.al.|[2410.08198](http://arxiv.org/abs/2410.08198)|null|
@@ -4452,6 +4463,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-11**|**Balancing Innovation and Privacy: Data Security Strategies in Natural Language Processing Applications**|Shaobo Liu et.al.|[2410.08553](http://arxiv.org/abs/2410.08553)|null|
 |**2024-10-10**|**DelTA: An Online Document-Level Translation Agent Based on Multi-Level Memory**|Yutong Wang et.al.|[2410.08143](http://arxiv.org/abs/2410.08143)|**[link](https://github.com/yutongwang1216/docmtagent)**|
 |**2024-10-10**|**NusaMT-7B: Machine Translation for Low-Resource Indonesian Languages with Large Language Models**|William Tan et.al.|[2410.07830](http://arxiv.org/abs/2410.07830)|null|
 |**2024-10-10**|**Modeling User Preferences with Automatic Metrics: Creating a High-Quality Preference Dataset for Machine Translation**|Sweta Agrawal et.al.|[2410.07779](http://arxiv.org/abs/2410.07779)|null|
@@ -5133,6 +5145,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-11**|**Towards Trustworthy Knowledge Graph Reasoning: An Uncertainty Aware Perspective**|Bo Ni et.al.|[2410.08985](http://arxiv.org/abs/2410.08985)|null|
+|**2024-10-11**|**NoVo: Norm Voting off Hallucinations with Attention Heads in Large Language Models**|Zheng Yi Ho et.al.|[2410.08970](http://arxiv.org/abs/2410.08970)|null|
+|**2024-10-11**|**Decoding Secret Memorization in Code LLMs Through Token-Level Characterization**|Yuqing Nie et.al.|[2410.08858](http://arxiv.org/abs/2410.08858)|null|
+|**2024-10-11**|**Measuring the Inconsistency of Large Language Models in Preferential Ranking**|Xiutian Zhao et.al.|[2410.08851](http://arxiv.org/abs/2410.08851)|null|
+|**2024-10-11**|**Retriever-and-Memory: Towards Adaptive Note-Enhanced Retrieval-Augmented Generation**|Ruobing Wang et.al.|[2410.08821](http://arxiv.org/abs/2410.08821)|**[link](https://github.com/thunlp/adaptive-note)**|
+|**2024-10-11**|**A Methodology for Evaluating RAG Systems: A Case Study On Configuration Dependency Validation**|Sebastian Simon et.al.|[2410.08801](http://arxiv.org/abs/2410.08801)|null|
+|**2024-10-11**|**VERIFIED: A Video Corpus Moment Retrieval Benchmark for Fine-Grained Video Understanding**|Houlun Chen et.al.|[2410.08593](http://arxiv.org/abs/2410.08593)|null|
+|**2024-10-11**|**Humanity in AI: Detecting the Personality of Large Language Models**|Baohua Zhan et.al.|[2410.08545](http://arxiv.org/abs/2410.08545)|null|
+|**2024-10-11**|**oRetrieval Augmented Generation for 10 Large Language Models and its Generalizability in Assessing Medical Fitness**|Yu He Ke et.al.|[2410.08431](http://arxiv.org/abs/2410.08431)|null|
+|**2024-10-10**|**The Effects of Hallucinations in Synthetic Training Data for Relation Extraction**|Steven Rogulsky et.al.|[2410.08393](http://arxiv.org/abs/2410.08393)|null|
 |**2024-10-10**|**LatteCLIP: Unsupervised CLIP Fine-Tuning via LMM-Synthetic Texts**|Anh-Quan Cao et.al.|[2410.08211](http://arxiv.org/abs/2410.08211)|null|
 |**2024-10-10**|**Think Beyond Size: Dynamic Prompting for More Effective Reasoning**|Kamesh R et.al.|[2410.08130](http://arxiv.org/abs/2410.08130)|null|
 |**2024-10-10**|**A Closer Look at Machine Unlearning for Large Language Models**|Xiaojian Yuan et.al.|[2410.08109](http://arxiv.org/abs/2410.08109)|**[link](https://github.com/sail-sg/closer-look-llm-unlearning)**|
