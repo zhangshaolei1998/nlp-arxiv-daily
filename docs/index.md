@@ -2189,6 +2189,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-12**|**Toward General Instruction-Following Alignment for Retrieval-Augmented Generation**|Guanting Dong et.al.|[2410.09584](http://arxiv.org/abs/2410.09584)|null|
 |**2024-10-11**|**WaveDiffusion: Exploring Full Waveform Inversion via Joint Diffusion in the Latent Space**|Hanchen Wang et.al.|[2410.09002](http://arxiv.org/abs/2410.09002)|null|
 |**2024-10-09**|**Demonstration of The Brightest Nano-size Gamma Source**|A. S. Pirozhkov et.al.|[2410.06537](http://arxiv.org/abs/2410.06537)|null|
 |**2024-10-08**|**CodeDPO: Aligning Code Models with Self Generated and Verified Source Code**|Kechi Zhang et.al.|[2410.05605](http://arxiv.org/abs/2410.05605)|null|
@@ -2340,6 +2341,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-14**|**DuoAttention: Efficient Long-Context LLM Inference with Retrieval and Streaming Heads**|Guangxuan Xiao et.al.|[2410.10819](http://arxiv.org/abs/2410.10819)|**[link](https://github.com/mit-han-lab/duo-attention)**|
+|**2024-10-14**|**Your Mixture-of-Experts LLM Is Secretly an Embedding Model For Free**|Ziyue Li et.al.|[2410.10814](http://arxiv.org/abs/2410.10814)|null|
+|**2024-10-14**|**LongMemEval: Benchmarking Chat Assistants on Long-Term Interactive Memory**|Di Wu et.al.|[2410.10813](http://arxiv.org/abs/2410.10813)|**[link](https://github.com/xiaowu0162/longmemeval)**|
+|**2024-10-14**|**Local and Global Decoding in Text Generation**|Daniel Gareev et.al.|[2410.10810](http://arxiv.org/abs/2410.10810)|**[link](https://github.com/lowlypalace/global-decoding)**|
+|**2024-10-14**|**Mix Data or Merge Models? Optimizing for Diverse Multi-Task Learning**|Aakanksha et.al.|[2410.10801](http://arxiv.org/abs/2410.10801)|null|
+|**2024-10-14**|**Towards Foundation Models for 3D Vision: How Close Are We?**|Yiming Zuo et.al.|[2410.10799](http://arxiv.org/abs/2410.10799)|null|
+|**2024-10-14**|**MMAR: Towards Lossless Multi-Modal Auto-Regressive Prababilistic Modeling**|Jian Yang et.al.|[2410.10798](http://arxiv.org/abs/2410.10798)|null|
+|**2024-10-14**|**Context-Parametric Inversion: Why Instruction Finetuning May Not Actually Improve Context Reliance**|Sachin Goyal et.al.|[2410.10796](http://arxiv.org/abs/2410.10796)|**[link](https://github.com/locuslab/context-parametric-inversion)**|
+|**2024-10-14**|**When Attention Sink Emerges in Language Models: An Empirical View**|Xiangming Gu et.al.|[2410.10781](http://arxiv.org/abs/2410.10781)|**[link](https://github.com/sail-sg/attention-sink)**|
+|**2024-10-14**|**Focused ReAct: Improving ReAct through Reiterate and Early Stop**|Shuoqiu Li et.al.|[2410.10779](http://arxiv.org/abs/2410.10779)|null|
 |**2024-10-11**|**Unraveling and Mitigating Safety Alignment Degradation of Vision-Language Models**|Qin Liu et.al.|[2410.09047](http://arxiv.org/abs/2410.09047)|null|
 |**2024-10-11**|**AttnGCG: Enhancing Jailbreaking Attacks on LLMs with Attention Manipulation**|Zijun Wang et.al.|[2410.09040](http://arxiv.org/abs/2410.09040)|**[link](https://github.com/ucsc-vlaa/attngcg-attack)**|
 |**2024-10-11**|**Semi-Supervised Learning of Noisy Mixture of Experts Models**|Oh-Ran Kwon et.al.|[2410.09039](http://arxiv.org/abs/2410.09039)|null|
@@ -4434,6 +4445,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-14**|**Machine Translation Evaluation Benchmark for Wu Chinese: Workflow and Analysis**|Hongjian Yu et.al.|[2410.10278](http://arxiv.org/abs/2410.10278)|null|
+|**2024-10-14**|**QE-EBM: Using Quality Estimators as Energy Loss for Machine Translation**|Gahyun Yoo et.al.|[2410.10228](http://arxiv.org/abs/2410.10228)|null|
+|**2024-10-14**|**ChakmaNMT: A Low-resource Machine Translation On Chakma Language**|Aunabil Chakma et.al.|[2410.10219](http://arxiv.org/abs/2410.10219)|null|
+|**2024-10-14**|**Ukrainian-to-English folktale corpus: Parallel corpus creation and augmentation for machine translation in low-resource languages**|Olena Burda-Lassen et.al.|[2410.10063](http://arxiv.org/abs/2410.10063)|null|
+|**2024-10-13**|**State of NLP in Kenya: A Survey**|Cynthia Jayne Amol et.al.|[2410.09948](http://arxiv.org/abs/2410.09948)|null|
+|**2024-10-12**|**Adapters for Altering LLM Vocabularies: What Languages Benefit the Most?**|HyoJung Han et.al.|[2410.09644](http://arxiv.org/abs/2410.09644)|null|
+|**2024-10-12**|**SLAM-AAC: Enhancing Audio Captioning with Paraphrasing Augmentation and CLAP-Refine through LLMs**|Wenxi Chen et.al.|[2410.09503](http://arxiv.org/abs/2410.09503)|null|
 |**2024-10-11**|**Balancing Innovation and Privacy: Data Security Strategies in Natural Language Processing Applications**|Shaobo Liu et.al.|[2410.08553](http://arxiv.org/abs/2410.08553)|null|
 |**2024-10-10**|**DelTA: An Online Document-Level Translation Agent Based on Multi-Level Memory**|Yutong Wang et.al.|[2410.08143](http://arxiv.org/abs/2410.08143)|**[link](https://github.com/yutongwang1216/docmtagent)**|
 |**2024-10-10**|**NusaMT-7B: Machine Translation for Low-Resource Indonesian Languages with Large Language Models**|William Tan et.al.|[2410.07830](http://arxiv.org/abs/2410.07830)|null|
@@ -5112,6 +5130,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-14**|**Context-Parametric Inversion: Why Instruction Finetuning May Not Actually Improve Context Reliance**|Sachin Goyal et.al.|[2410.10796](http://arxiv.org/abs/2410.10796)|**[link](https://github.com/locuslab/context-parametric-inversion)**|
+|**2024-10-14**|**Medico: Towards Hallucination Detection and Correction with Multi-source Evidence Fusion**|Xinping Zhao et.al.|[2410.10408](http://arxiv.org/abs/2410.10408)|null|
+|**2024-10-14**|**Parenting: Optimizing Knowledge Selection of Retrieval-Augmented Language Models with Parameter Decoupling and Tailored Tuning**|Yongxin Xu et.al.|[2410.10360](http://arxiv.org/abs/2410.10360)|null|
+|**2024-10-14**|**SkillAggregation: Reference-free LLM-Dependent Aggregation**|Guangzhi Sun et.al.|[2410.10215](http://arxiv.org/abs/2410.10215)|null|
+|**2024-10-14**|**VideoAgent: Self-Improving Video Generation**|Achint Soni et.al.|[2410.10076](http://arxiv.org/abs/2410.10076)|null|
+|**2024-10-13**|**A Multi-LLM Orchestration Engine for Personalized, Context-Rich Assistance**|Sumedh Rasal et.al.|[2410.10039](http://arxiv.org/abs/2410.10039)|null|
+|**2024-10-13**|**Collu-Bench: A Benchmark for Predicting Language Model Hallucinations in Code**|Nan Jiang et.al.|[2410.09997](http://arxiv.org/abs/2410.09997)|null|
+|**2024-10-13**|**LongHalQA: Long-Context Hallucination Evaluation for MultiModal Large Language Models**|Han Qiu et.al.|[2410.09962](http://arxiv.org/abs/2410.09962)|**[link](https://github.com/hanqiu-hq/longhalqa)**|
+|**2024-10-13**|**Artificial Intelligence in the Legal Field: Law Students Perspective**|Daniela Andreeva et.al.|[2410.09937](http://arxiv.org/abs/2410.09937)|null|
+|**2024-10-13**|**Conditioning 3D Diffusion Models with 2D Images: Towards Standardized OCT Volumes through En Face-Informed Super-Resolution**|Coen de Vente et.al.|[2410.09862](http://arxiv.org/abs/2410.09862)|null|
 |**2024-10-11**|**Towards Trustworthy Knowledge Graph Reasoning: An Uncertainty Aware Perspective**|Bo Ni et.al.|[2410.08985](http://arxiv.org/abs/2410.08985)|null|
 |**2024-10-11**|**NoVo: Norm Voting off Hallucinations with Attention Heads in Large Language Models**|Zheng Yi Ho et.al.|[2410.08970](http://arxiv.org/abs/2410.08970)|null|
 |**2024-10-11**|**Decoding Secret Memorization in Code LLMs Through Token-Level Characterization**|Yuqing Nie et.al.|[2410.08858](http://arxiv.org/abs/2410.08858)|null|
