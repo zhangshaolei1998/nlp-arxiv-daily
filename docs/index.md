@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.16
+## Updated on 2024.10.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4455,9 +4455,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-10-15**|**IntGrad MT: Eliciting LLMs' Machine Translation Capabilities with Sentence Interpolation and Gradual MT**|Seung-Woo Choi et.al.|[2410.11693](http://arxiv.org/abs/2410.11693)|null|
+|**2024-10-16**|**IntGrad MT: Eliciting LLMs' Machine Translation Capabilities with Sentence Interpolation and Gradual MT**|Seung-Woo Choi et.al.|[2410.11693](http://arxiv.org/abs/2410.11693)|null|
 |**2024-10-15**|**PMMT: Preference Alignment in Multilingual Machine Translation via LLM Distillation**|Shuqiao Sun et.al.|[2410.11410](http://arxiv.org/abs/2410.11410)|null|
-|**2024-10-15**|**Enhancing Assamese NLP Capabilities: Introducing a Centralized Dataset Repository**|S. Tamang et.al.|[2410.11291](http://arxiv.org/abs/2410.11291)|**[link](https://github.com/indian-nlp/assamese-dataset)**|
+|**2024-10-16**|**Enhancing Assamese NLP Capabilities: Introducing a Centralized Dataset Repository**|S. Tamang et.al.|[2410.11291](http://arxiv.org/abs/2410.11291)|**[link](https://github.com/indian-nlp/assamese-dataset)**|
 |**2024-10-15**|**"Is Hate Lost in Translation?": Evaluation of Multilingual LGBTQIA+ Hate Speech Detection**|Fai Leui Chan et.al.|[2410.11230](http://arxiv.org/abs/2410.11230)|null|
 |**2024-10-14**|**IsoChronoMeter: A simple and effective isochronic translation evaluation metric**|Nikolai Rozanov et.al.|[2410.11127](http://arxiv.org/abs/2410.11127)|null|
 |**2024-10-14**|**Code-Mixer Ya Nahi: Novel Approaches to Measuring Multilingual LLMs' Code-Mixing Capabilities**|Ayushman Gupta et.al.|[2410.11079](http://arxiv.org/abs/2410.11079)|null|
