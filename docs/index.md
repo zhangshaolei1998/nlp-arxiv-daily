@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.20
+## Updated on 2024.10.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -5075,8 +5075,8 @@ layout: default
 |**2024-09-29**|**CoT-ST: Enhancing LLM-based Speech Translation with Multimodal Chain-of-Thought**|Yexing Du et.al.|[2409.19510](http://arxiv.org/abs/2409.19510)|**[link](https://github.com/X-LANCE/SLAM-LLM)**|
 |**2024-09-26**|**Unveiling the Role of Pretraining in Direct Speech Translation**|Belen Alastruey et.al.|[2409.18044](http://arxiv.org/abs/2409.18044)|null|
 |**2024-09-25**|**How to Connect Speech Foundation Models and Large Language Models? What Matters and What Does Not**|Francesco Verdini et.al.|[2409.17044](http://arxiv.org/abs/2409.17044)|null|
-|**2024-09-24**|**A Modular-based Strategy for Mitigating Gradient Conflicts in Simultaneous Speech Translation**|Xiaoqian Liu et.al.|[2409.15911](http://arxiv.org/abs/2409.15911)|null|
-|**2024-09-23**|**A Comprehensive Survey with Critical Analysis for Deepfake Speech Detection**|Lam Pham et.al.|[2409.15180](http://arxiv.org/abs/2409.15180)|null|
+|**2024-10-18**|**A Modular-based Strategy for Mitigating Gradient Conflicts in Simultaneous Speech Translation**|Xiaoqian Liu et.al.|[2409.15911](http://arxiv.org/abs/2409.15911)|null|
+|**2024-10-18**|**A Comprehensive Survey with Critical Analysis for Deepfake Speech Detection**|Lam Pham et.al.|[2409.15180](http://arxiv.org/abs/2409.15180)|null|
 |**2024-09-21**|**MultiMed: Multilingual Medical Speech Recognition via Attention Encoder Decoder**|Khai Le-Duc et.al.|[2409.14074](http://arxiv.org/abs/2409.14074)|**[link](https://github.com/leduckhai/multimed)**|
 |**2024-09-20**|**EMMeTT: Efficient Multimodal Machine Translation Training**|Piotr Żelasko et.al.|[2409.13523](http://arxiv.org/abs/2409.13523)|null|
 |**2024-09-17**|**Chain-of-Thought Prompting for Speech Translation**|Ke Hu et.al.|[2409.11538](http://arxiv.org/abs/2409.11538)|null|
@@ -5179,7 +5179,7 @@ layout: default
 |**2024-10-17**|**Atomic Calibration of LLMs in Long-Form Generations**|Caiqi Zhang et.al.|[2410.13246](http://arxiv.org/abs/2410.13246)|null|
 |**2024-10-17**|**LLMOPT: Learning to Define and Solve General Optimization Problems from Scratch**|Caigao Jiang et.al.|[2410.13213](http://arxiv.org/abs/2410.13213)|**[link](https://github.com/caigaojiang/llmopt)**|
 |**2024-10-17**|**FaithBench: A Diverse Hallucination Benchmark for Summarization by Modern LLMs**|Forrest Sheng Bao et.al.|[2410.13210](http://arxiv.org/abs/2410.13210)|null|
-|**2024-10-17**|**MCQG-SRefine: Multiple Choice Question Generation and Evaluation with Iterative Self-Critique, Correction, and Comparison Feedback**|Zonghai Yao et.al.|[2410.13191](http://arxiv.org/abs/2410.13191)|null|
+|**2024-10-18**|**MCQG-SRefine: Multiple Choice Question Generation and Evaluation with Iterative Self-Critique, Correction, and Comparison Feedback**|Zonghai Yao et.al.|[2410.13191](http://arxiv.org/abs/2410.13191)|null|
 |**2024-10-17**|**Utilizing Large Language Models in An Iterative Paradigm with Domain Feedback for Molecule Optimization**|Khiem Le et.al.|[2410.13147](http://arxiv.org/abs/2410.13147)|null|
 |**2024-10-17**|**Trust but Verify: Programmatic VLM Evaluation in the Wild**|Viraj Prabhu et.al.|[2410.13121](http://arxiv.org/abs/2410.13121)|null|
 |**2024-10-17**|**Learning to Summarize from LLM-generated Feedback**|Hwanjun Song et.al.|[2410.13116](http://arxiv.org/abs/2410.13116)|null|
