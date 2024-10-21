@@ -2343,6 +2343,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-18**|**Are AI Detectors Good Enough? A Survey on Quality of Datasets With Machine-Generated Texts**|German Gritsai et.al.|[2410.14677](http://arxiv.org/abs/2410.14677)|null|
+|**2024-10-18**|**SudoLM: Learning Access Control of Parametric Knowledge with Authorization Alignment**|Qin Liu et.al.|[2410.14676](http://arxiv.org/abs/2410.14676)|null|
+|**2024-10-18**|**Enhancing Large Language Models' Situated Faithfulness to External Contexts**|Yukun Huang et.al.|[2410.14675](http://arxiv.org/abs/2410.14675)|**[link](https://github.com/kkkevinkkkkk/situated_faithfulness)**|
+|**2024-10-18**|**Decomposing The Dark Matter of Sparse Autoencoders**|Joshua Engels et.al.|[2410.14670](http://arxiv.org/abs/2410.14670)|**[link](https://github.com/joshengels/sae-dark-matter)**|
+|**2024-10-18**|**NaturalBench: Evaluating Vision-Language Models on Natural Adversarial Samples**|Baiqi Li et.al.|[2410.14669](http://arxiv.org/abs/2410.14669)|null|
+|**2024-10-18**|**MiCEval: Unveiling Multimodal Chain of Thought's Quality via Image Description and Reasoning Steps**|Xiongtao Zhou et.al.|[2410.14668](http://arxiv.org/abs/2410.14668)|**[link](https://github.com/alenai97/miceval)**|
+|**2024-10-18**|**A Large Language Model-Driven Reward Design Framework via Dynamic Feedback for Reinforcement Learning**|Shengjie Sun et.al.|[2410.14660](http://arxiv.org/abs/2410.14660)|null|
+|**2024-10-18**|**Bridging the Training-Inference Gap in LLMs by Leveraging Self-Generated Tokens**|Zhepeng Cen et.al.|[2410.14655](http://arxiv.org/abs/2410.14655)|null|
+|**2024-10-18**|**EvoPress: Towards Optimal Dynamic Model Compression via Evolutionary Search**|Oliver Sieberling et.al.|[2410.14649](http://arxiv.org/abs/2410.14649)|null|
+|**2024-10-18**|**Distance between Relevant Information Pieces Causes Bias in Long-Context LLMs**|Runchu Tian et.al.|[2410.14641](http://arxiv.org/abs/2410.14641)|**[link](https://github.com/Rachum-thu/LongPiBench)**|
 |**2024-10-17**|**Fluid: Scaling Autoregressive Text-to-image Generative Models with Continuous Tokens**|Lijie Fan et.al.|[2410.13863](http://arxiv.org/abs/2410.13863)|null|
 |**2024-10-17**|**PUMA: Empowering Unified MLLM with Multi-granular Visual Generation**|Rongyao Fang et.al.|[2410.13861](http://arxiv.org/abs/2410.13861)|**[link](https://github.com/rongyaofang/puma)**|
 |**2024-10-17**|**VLM-Grounder: A VLM Agent for Zero-Shot 3D Visual Grounding**|Runsen Xu et.al.|[2410.13860](http://arxiv.org/abs/2410.13860)|**[link](https://github.com/openrobotlab/vlm-grounder)**|
@@ -4477,6 +4487,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-18**|**Analyzing Context Utilization of LLMs in Document-Level Translation**|Wafaa Mohammed et.al.|[2410.14391](http://arxiv.org/abs/2410.14391)|null|
+|**2024-10-18**|**SwaQuAD-24: QA Benchmark Dataset in Swahili**|Alfred Malengo Kondoro et.al.|[2410.14289](http://arxiv.org/abs/2410.14289)|null|
+|**2024-10-17**|**Towards Cross-Cultural Machine Translation with Retrieval-Augmented Generation from Multilingual Knowledge Graphs**|Simone Conia et.al.|[2410.14057](http://arxiv.org/abs/2410.14057)|null|
+|**2024-10-17**|**Boosting LLM Translation Skills without General Ability Loss via Rationale Distillation**|Junhong Wu et.al.|[2410.13944](http://arxiv.org/abs/2410.13944)|null|
 |**2024-10-17**|**NLIP_Lab-IITH Multilingual MT System for WAT24 MT Shared Task**|Maharaj Brahma et.al.|[2410.13443](http://arxiv.org/abs/2410.13443)|null|
 |**2024-10-16**|**Sarcasm Detection in a Less-Resourced Language**|Lazar Đoković et.al.|[2410.12704](http://arxiv.org/abs/2410.12704)|**[link](https://github.com/GalaxyGHz/Diploma)**|
 |**2024-10-16**|**IntGrad MT: Eliciting LLMs' Machine Translation Capabilities with Sentence Interpolation and Gradual MT**|Seung-Woo Choi et.al.|[2410.11693](http://arxiv.org/abs/2410.11693)|null|
@@ -5173,6 +5187,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-18**|**Critical Questions Generation: Motivation and Challenges**|Blanca Calvo Figueras et.al.|[2410.14335](http://arxiv.org/abs/2410.14335)|**[link](https://github.com/hitz-zentroa/critical_questions_generation)**|
+|**2024-10-18**|**LoGU: Long-form Generation with Uncertainty Expressions**|Ruihan Yang et.al.|[2410.14309](http://arxiv.org/abs/2410.14309)|null|
+|**2024-10-18**|**Good Parenting is all you need -- Multi-agentic LLM Hallucination Mitigation**|Edward et.al.|[2410.14262](http://arxiv.org/abs/2410.14262)|null|
+|**2024-10-18**|**Paths-over-Graph: Knowledge Graph Enpowered Large Language Model Reasoning**|Xingyu Tan et.al.|[2410.14211](http://arxiv.org/abs/2410.14211)|null|
+|**2024-10-18**|**Fine-Grained Verifiers: Preference Modeling as Next-token Prediction in Vision-Language Alignment**|Chenhang Cui et.al.|[2410.14148](http://arxiv.org/abs/2410.14148)|null|
+|**2024-10-17**|**From Single to Multi: How LLMs Hallucinate in Multi-Document Summarization**|Catarina G. Belem et.al.|[2410.13961](http://arxiv.org/abs/2410.13961)|**[link](https://github.com/megagonlabs/hallucination_mds)**|
 |**2024-10-17**|**RAG-DDR: Optimizing Retrieval-Augmented Generation Using Differentiable Data Rewards**|Xinze Li et.al.|[2410.13509](http://arxiv.org/abs/2410.13509)|**[link](https://github.com/openmatch/rag-ddr)**|
 |**2024-10-17**|**Mitigating Hallucinations in Large Vision-Language Models via Summary-Guided Decoding**|Kyungmin Min et.al.|[2410.13321](http://arxiv.org/abs/2410.13321)|null|
 |**2024-10-17**|**Advancing Large Language Model Attribution through Self-Improving**|Lei Huang et.al.|[2410.13298](http://arxiv.org/abs/2410.13298)|null|
