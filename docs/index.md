@@ -2189,9 +2189,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-21**|**PODTILE: Facilitating Podcast Episode Browsing with Auto-generated Chapters**|Azin Ghazimatin et.al.|[2410.16148](http://arxiv.org/abs/2410.16148)|null|
+|**2024-10-21**|**CA*: Addressing Evaluation Pitfalls in Computation-Aware Latency for Simultaneous Speech Translation**|Xi Xu et.al.|[2410.16011](http://arxiv.org/abs/2410.16011)|null|
+|**2024-10-21**|**How to Build a Pre-trained Multimodal model for Simultaneously Chatting and Decision-making?**|Zuojin Tang et.al.|[2410.15885](http://arxiv.org/abs/2410.15885)|null|
 |**2024-10-17**|**DPLM-2: A Multimodal Diffusion Protein Language Model**|Xinyou Wang et.al.|[2410.13782](http://arxiv.org/abs/2410.13782)|null|
 |**2024-10-17**|**Hybrid bundle-adjusting 3D Gaussians for view consistent rendering with pose optimization**|Yanan Guo et.al.|[2410.13280](http://arxiv.org/abs/2410.13280)|**[link](https://github.com/bistu3dv/hybridba)**|
-|**2024-10-12**|**Toward General Instruction-Following Alignment for Retrieval-Augmented Generation**|Guanting Dong et.al.|[2410.09584](http://arxiv.org/abs/2410.09584)|null|
+|**2024-10-12**|**Toward General Instruction-Following Alignment for Retrieval-Augmented Generation**|Guanting Dong et.al.|[2410.09584](http://arxiv.org/abs/2410.09584)|**[link](https://github.com/dongguanting/FollowRAG)**|
 |**2024-10-11**|**WaveDiffusion: Exploring Full Waveform Inversion via Joint Diffusion in the Latent Space**|Hanchen Wang et.al.|[2410.09002](http://arxiv.org/abs/2410.09002)|null|
 |**2024-10-09**|**Demonstration of The Brightest Nano-size Gamma Source**|A. S. Pirozhkov et.al.|[2410.06537](http://arxiv.org/abs/2410.06537)|null|
 |**2024-10-08**|**CodeDPO: Aligning Code Models with Self Generated and Verified Source Code**|Kechi Zhang et.al.|[2410.05605](http://arxiv.org/abs/2410.05605)|null|
@@ -2343,6 +2346,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-21**|**Reflection-Bench: probing AI intelligence with reflection**|Lingyu Li et.al.|[2410.16270](http://arxiv.org/abs/2410.16270)|**[link](https://github.com/yabyum/reflectionbench)**|
+|**2024-10-21**|**xGen-MM-Vid (BLIP-3-Video): You Only Need 32 Tokens to Represent a Video Even in VLMs**|Michael S. Ryoo et.al.|[2410.16267](http://arxiv.org/abs/2410.16267)|null|
+|**2024-10-21**|**Mini-InternVL: A Flexible-Transfer Pocket Multimodal Model with 5% Parameters and 90% Performance**|Zhangwei Gao et.al.|[2410.16261](http://arxiv.org/abs/2410.16261)|**[link](https://github.com/opengvlab/internvl)**|
+|**2024-10-21**|**Elucidating the design space of language models for image generation**|Xuantong Liu et.al.|[2410.16257](http://arxiv.org/abs/2410.16257)|null|
+|**2024-10-21**|**CompassJudger-1: All-in-one Judge Model Helps Model Evaluation and Evolution**|Maosong Cao et.al.|[2410.16256](http://arxiv.org/abs/2410.16256)|**[link](https://github.com/open-compass/compassjudger)**|
+|**2024-10-21**|**Can Knowledge Editing Really Correct Hallucinations?**|Baixiang Huang et.al.|[2410.16251](http://arxiv.org/abs/2410.16251)|**[link](https://github.com/llm-editing/HalluEditBench)**|
+|**2024-10-21**|**Analyzing Context Contributions in LLM-based Machine Translation**|Emmanouil Zaranis et.al.|[2410.16246](http://arxiv.org/abs/2410.16246)|null|
+|**2024-10-21**|**IBGP: Imperfect Byzantine Generals Problem for Zero-Shot Robustness in Communicative Multi-Agent Systems**|Yihuan Mao et.al.|[2410.16237](http://arxiv.org/abs/2410.16237)|null|
+|**2024-10-21**|**LLaVA-KD: A Framework of Distilling Multimodal Large Language Models**|Yuxuan Cai et.al.|[2410.16236](http://arxiv.org/abs/2410.16236)|null|
+|**2024-10-21**|**ToW: Thoughts of Words Improve Reasoning in Large Language Models**|Zhikun Xu et.al.|[2410.16235](http://arxiv.org/abs/2410.16235)|null|
 |**2024-10-18**|**Are AI Detectors Good Enough? A Survey on Quality of Datasets With Machine-Generated Texts**|German Gritsai et.al.|[2410.14677](http://arxiv.org/abs/2410.14677)|null|
 |**2024-10-18**|**SudoLM: Learning Access Control of Parametric Knowledge with Authorization Alignment**|Qin Liu et.al.|[2410.14676](http://arxiv.org/abs/2410.14676)|null|
 |**2024-10-18**|**Enhancing Large Language Models' Situated Faithfulness to External Contexts**|Yukun Huang et.al.|[2410.14675](http://arxiv.org/abs/2410.14675)|**[link](https://github.com/kkkevinkkkkk/situated_faithfulness)**|
@@ -4487,6 +4500,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-21**|**Analyzing Context Contributions in LLM-based Machine Translation**|Emmanouil Zaranis et.al.|[2410.16246](http://arxiv.org/abs/2410.16246)|null|
+|**2024-10-21**|**On Creating an English-Thai Code-switched Machine Translation in Medical Domain**|Parinthapat Pengpun et.al.|[2410.16221](http://arxiv.org/abs/2410.16221)|null|
+|**2024-10-21**|**Pangea: A Fully Open Multilingual Multimodal LLM for 39 Languages**|Xiang Yue et.al.|[2410.16153](http://arxiv.org/abs/2410.16153)|null|
+|**2024-10-21**|**Efficient Terminology Integration for LLM-based Translation in Specialized Domains**|Sejoon Kim et.al.|[2410.15690](http://arxiv.org/abs/2410.15690)|null|
+|**2024-10-21**|**Generalized Probabilistic Attention Mechanism in Transformers**|DongNyeong Heo et.al.|[2410.15578](http://arxiv.org/abs/2410.15578)|null|
+|**2024-10-20**|**Grammatical Error Correction for Low-Resource Languages: The Case of Zarma**|Mamadou K. Keita et.al.|[2410.15539](http://arxiv.org/abs/2410.15539)|null|
+|**2024-10-20**|**Back to School: Translation Using Grammar Books**|Jonathan Hus et.al.|[2410.15263](http://arxiv.org/abs/2410.15263)|null|
+|**2024-10-19**|**mHumanEval -- A Multilingual Benchmark to Evaluate Large Language Models for Code Generation**|Nishat Raihan et.al.|[2410.15037](http://arxiv.org/abs/2410.15037)|null|
+|**2024-10-18**|**Mitigating Embedding Collapse in Diffusion Models for Categorical Data**|Bac Nguyen et.al.|[2410.14758](http://arxiv.org/abs/2410.14758)|null|
 |**2024-10-18**|**Analyzing Context Utilization of LLMs in Document-Level Translation**|Wafaa Mohammed et.al.|[2410.14391](http://arxiv.org/abs/2410.14391)|null|
 |**2024-10-18**|**SwaQuAD-24: QA Benchmark Dataset in Swahili**|Alfred Malengo Kondoro et.al.|[2410.14289](http://arxiv.org/abs/2410.14289)|null|
 |**2024-10-17**|**Towards Cross-Cultural Machine Translation with Retrieval-Augmented Generation from Multilingual Knowledge Graphs**|Simone Conia et.al.|[2410.14057](http://arxiv.org/abs/2410.14057)|null|
@@ -5084,6 +5106,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-21**|**CA*: Addressing Evaluation Pitfalls in Computation-Aware Latency for Simultaneous Speech Translation**|Xi Xu et.al.|[2410.16011](http://arxiv.org/abs/2410.16011)|null|
 |**2024-10-07**|**CTC-GMM: CTC guided modality matching for fast and accurate streaming speech translation**|Rui Zhao et.al.|[2410.05146](http://arxiv.org/abs/2410.05146)|null|
 |**2024-10-04**|**Textless Streaming Speech-to-Speech Translation using Semantic Speech Tokens**|Jinzheng Zhao et.al.|[2410.03298](http://arxiv.org/abs/2410.03298)|null|
 |**2024-09-29**|**CoT-ST: Enhancing LLM-based Speech Translation with Multimodal Chain-of-Thought**|Yexing Du et.al.|[2409.19510](http://arxiv.org/abs/2409.19510)|**[link](https://github.com/X-LANCE/SLAM-LLM)**|
@@ -5187,6 +5210,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-21**|**Can Knowledge Editing Really Correct Hallucinations?**|Baixiang Huang et.al.|[2410.16251](http://arxiv.org/abs/2410.16251)|**[link](https://github.com/llm-editing/HalluEditBench)**|
+|**2024-10-21**|**Analyzing Context Contributions in LLM-based Machine Translation**|Emmanouil Zaranis et.al.|[2410.16246](http://arxiv.org/abs/2410.16246)|null|
+|**2024-10-21**|**IBGP: Imperfect Byzantine Generals Problem for Zero-Shot Robustness in Communicative Multi-Agent Systems**|Yihuan Mao et.al.|[2410.16237](http://arxiv.org/abs/2410.16237)|null|
+|**2024-10-21**|**ToW: Thoughts of Words Improve Reasoning in Large Language Models**|Zhikun Xu et.al.|[2410.16235](http://arxiv.org/abs/2410.16235)|null|
+|**2024-10-21**|**CoT-TL: Low-Resource Temporal Knowledge Representation of Planning Instructions Using Chain-of-Thought Reasoning**|Kumar Manas et.al.|[2410.16207](http://arxiv.org/abs/2410.16207)|null|
+|**2024-10-21**|**Information for Conversation Generation: Proposals Utilising Knowledge Graphs**|Alex Clay et.al.|[2410.16196](http://arxiv.org/abs/2410.16196)|null|
+|**2024-10-21**|**Towards Combating Frequency Simplicity-biased Learning for Domain Generalization**|Xilin He et.al.|[2410.16146](http://arxiv.org/abs/2410.16146)|**[link](https://github.com/c0notsilly/advfrequency)**|
+|**2024-10-21**|**Can Large Audio-Language Models Truly Hear? Tackling Hallucinations with Multi-Task Assessment and Stepwise Audio Reasoning**|Chun-Yi Kuan et.al.|[2410.16130](http://arxiv.org/abs/2410.16130)|null|
+|**2024-10-21**|**Mitigating Object Hallucination via Concentric Causal Attention**|Yun Xing et.al.|[2410.15926](http://arxiv.org/abs/2410.15926)|**[link](https://github.com/xing0047/cca-llava)**|
+|**2024-10-21**|**Reducing Hallucinations in Vision-Language Models via Latent Space Steering**|Sheng Liu et.al.|[2410.15778](http://arxiv.org/abs/2410.15778)|null|
 |**2024-10-18**|**Critical Questions Generation: Motivation and Challenges**|Blanca Calvo Figueras et.al.|[2410.14335](http://arxiv.org/abs/2410.14335)|**[link](https://github.com/hitz-zentroa/critical_questions_generation)**|
 |**2024-10-18**|**LoGU: Long-form Generation with Uncertainty Expressions**|Ruihan Yang et.al.|[2410.14309](http://arxiv.org/abs/2410.14309)|null|
 |**2024-10-18**|**Good Parenting is all you need -- Multi-agentic LLM Hallucination Mitigation**|Edward et.al.|[2410.14262](http://arxiv.org/abs/2410.14262)|null|
