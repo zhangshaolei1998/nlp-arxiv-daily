@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.23
+## Updated on 2024.10.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4514,12 +4514,12 @@ layout: default
 |**2024-10-21**|**Learning from others' mistakes: Finetuning machine translation models with span-level error annotations**|Lily H. Zhang et.al.|[2410.16509](http://arxiv.org/abs/2410.16509)|null|
 |**2024-10-21**|**Subword Embedding from Bytes Gains Privacy without Sacrificing Accuracy and Complexity**|Mengjiao Zhang et.al.|[2410.16410](http://arxiv.org/abs/2410.16410)|null|
 |**2024-10-21**|**Analyzing Context Contributions in LLM-based Machine Translation**|Emmanouil Zaranis et.al.|[2410.16246](http://arxiv.org/abs/2410.16246)|null|
-|**2024-10-21**|**On Creating an English-Thai Code-switched Machine Translation in Medical Domain**|Parinthapat Pengpun et.al.|[2410.16221](http://arxiv.org/abs/2410.16221)|null|
+|**2024-10-21**|**On Creating an English-Thai Code-switched Machine Translation in Medical Domain**|Parinthapat Pengpun et.al.|[2410.16221](http://arxiv.org/abs/2410.16221)|**[link](https://github.com/preceptorai-org/nllb_cs_em_nlp2024)**|
 |**2024-10-21**|**Pangea: A Fully Open Multilingual Multimodal LLM for 39 Languages**|Xiang Yue et.al.|[2410.16153](http://arxiv.org/abs/2410.16153)|null|
 |**2024-10-21**|**Efficient Terminology Integration for LLM-based Translation in Specialized Domains**|Sejoon Kim et.al.|[2410.15690](http://arxiv.org/abs/2410.15690)|null|
 |**2024-10-21**|**Generalized Probabilistic Attention Mechanism in Transformers**|DongNyeong Heo et.al.|[2410.15578](http://arxiv.org/abs/2410.15578)|null|
 |**2024-10-20**|**Grammatical Error Correction for Low-Resource Languages: The Case of Zarma**|Mamadou K. Keita et.al.|[2410.15539](http://arxiv.org/abs/2410.15539)|null|
-|**2024-10-20**|**Back to School: Translation Using Grammar Books**|Jonathan Hus et.al.|[2410.15263](http://arxiv.org/abs/2410.15263)|null|
+|**2024-10-20**|**Back to School: Translation Using Grammar Books**|Jonathan Hus et.al.|[2410.15263](http://arxiv.org/abs/2410.15263)|**[link](https://github.com/jonathanhus/back-to-school)**|
 |**2024-10-19**|**mHumanEval -- A Multilingual Benchmark to Evaluate Large Language Models for Code Generation**|Nishat Raihan et.al.|[2410.15037](http://arxiv.org/abs/2410.15037)|null|
 |**2024-10-18**|**Mitigating Embedding Collapse in Diffusion Models for Categorical Data**|Bac Nguyen et.al.|[2410.14758](http://arxiv.org/abs/2410.14758)|null|
 |**2024-10-18**|**Analyzing Context Utilization of LLMs in Document-Level Translation**|Wafaa Mohammed et.al.|[2410.14391](http://arxiv.org/abs/2410.14391)|null|
@@ -5225,7 +5225,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-10-22**|**Fine-Tuning Large Language Models to Appropriately Abstain with Semantic Entropy**|Benedict Aaron Tjandra et.al.|[2410.17234](http://arxiv.org/abs/2410.17234)|null|
 |**2024-10-22**|**Creativity in AI: Progresses and Challenges**|Mete Ismayilzada et.al.|[2410.17218](http://arxiv.org/abs/2410.17218)|null|
-|**2024-10-22**|**GeoCode-GPT: A Large Language Model for Geospatial Code Generation Tasks**|Shuyang Hou et.al.|[2410.17031](http://arxiv.org/abs/2410.17031)|null|
+|**2024-10-23**|**GeoCode-GPT: A Large Language Model for Geospatial Code Generation Tasks**|Shuyang Hou et.al.|[2410.17031](http://arxiv.org/abs/2410.17031)|null|
 |**2024-10-22**|**SG-FSM: A Self-Guiding Zero-Shot Prompting Paradigm for Multi-Hop Question Answering Based on Finite State Machine**|Xiaochen Wang et.al.|[2410.17021](http://arxiv.org/abs/2410.17021)|null|
 |**2024-10-22**|**IPL: Leveraging Multimodal Large Language Models for Intelligent Product Listing**|Kang Chen et.al.|[2410.16977](http://arxiv.org/abs/2410.16977)|null|
 |**2024-10-22**|**Trustworthy Alignment of Retrieval-Augmented Large Language Models via Reinforcement Learning**|Zongmeng Zhang et.al.|[2410.16843](http://arxiv.org/abs/2410.16843)|**[link](https://github.com/zmzhang2000/trustworthy-alignment)**|

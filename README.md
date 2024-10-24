@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.23
+## Updated on 2024.10.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -452,7 +452,7 @@
 |**2021-10-03**|**Quadrotor Control on $SU(2)\times R^3$ with SLAM Integration**|Marcus Greiff et.al.|[2110.01099](http://arxiv.org/abs/2110.01099)|null|
 |**2021-10-02**|**Online Incremental Non-Gaussian Inference for SLAM Using Normalizing Flows**|Qiangqiang Huang et.al.|[2110.00876](http://arxiv.org/abs/2110.00876)|**[link](https://github.com/marineroboticsgroup/nf-isam)**|
 
-<p align=right>(<a href=#updated-on-20241023>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241024>back to top</a>)</p>
 
 ## SFM
 
@@ -597,7 +597,7 @@
 |**2021-08-29**|**Solving Viewing Graph Optimization for Simultaneous Position and Rotation Registration**|Seyed-Mahdi Nasiri et.al.|[2108.12876](http://arxiv.org/abs/2108.12876)|null|
 |**2021-08-23**|**Burst Imaging for Light-Constrained Structure-From-Motion**|Ahalya Ravendran et.al.|[2108.09895](http://arxiv.org/abs/2108.09895)|null|
 
-<p align=right>(<a href=#updated-on-20241023>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241024>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -1193,7 +1193,7 @@
 |**2021-09-09**|**CrowdDriven: A New Challenging Dataset for Outdoor Visual Localization**|Ara Jafarzadeh et.al.|[2109.04527](http://arxiv.org/abs/2109.04527)|null|
 |**2021-09-09**|**Keeping an Eye on Things: Deep Learned Features for Long-Term Visual Localization**|Mona Gridseth et.al.|[2109.04041](http://arxiv.org/abs/2109.04041)|**[link](https://github.com/utiasasrl/deep_learned_visual_features)**|
 
-<p align=right>(<a href=#updated-on-20241023>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241024>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -1388,7 +1388,7 @@
 |**2021-08-31**|**A Novel Dataset for Keypoint Detection of quadruped Animals from Images**|Prianka Banik et.al.|[2108.13958](http://arxiv.org/abs/2108.13958)|**[link](https://github.com/prinik/awa-pose)**|
 |**2021-08-27**|**A Matching Algorithm based on Image Attribute Transfer and Local Features for Underwater Acoustic and Optical Images**|Xiaoteng Zhou et.al.|[2108.12151](http://arxiv.org/abs/2108.12151)|null|
 
-<p align=right>(<a href=#updated-on-20241023>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241024>back to top</a>)</p>
 
 ## Image Matching
 
@@ -1573,7 +1573,7 @@
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou et.al.|[2108.12072](http://arxiv.org/abs/2108.12072)|null|
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911](http://arxiv.org/abs/2108.11911)|null|
 
-<p align=right>(<a href=#updated-on-20241023>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241024>back to top</a>)</p>
 
 ## NeRF
 
@@ -2208,7 +2208,7 @@
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
 
-<p align=right>(<a href=#updated-on-20241023>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241024>back to top</a>)</p>
 
 ## Simultaneous Translation
 
@@ -2367,7 +2367,7 @@
 |**2023-11-07**|**CBSiMT: Mitigating Hallucination in Simultaneous Machine Translation with Weighted Prefix-to-Prefix Training**|Mengge Liu et.al.|[2311.03672](http://arxiv.org/abs/2311.03672)|null|
 |**2023-11-03**|**PRISM: Progressive Restoration for Scene Graph-based Image Manipulation**|Pavel Jahoda et.al.|[2311.02247](http://arxiv.org/abs/2311.02247)|null|
 
-<p align=right>(<a href=#updated-on-20241023>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241024>back to top</a>)</p>
 
 ## Language Model
 
@@ -4533,7 +4533,7 @@
 |**2023-11-29**|**End-to-end Joint Rich and Normalized ASR with a limited amount of rich training data**|Can Cui et.al.|[2311.17741](http://arxiv.org/abs/2311.17741)|null|
 |**2023-11-29**|**GenZI: Zero-Shot 3D Human-Scene Interaction Generation**|Lei Li et.al.|[2311.17737](http://arxiv.org/abs/2311.17737)|null|
 
-<p align=right>(<a href=#updated-on-20241023>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241024>back to top</a>)</p>
 
 ## Machine Translation
 
@@ -4543,12 +4543,12 @@
 |**2024-10-21**|**Learning from others' mistakes: Finetuning machine translation models with span-level error annotations**|Lily H. Zhang et.al.|[2410.16509](http://arxiv.org/abs/2410.16509)|null|
 |**2024-10-21**|**Subword Embedding from Bytes Gains Privacy without Sacrificing Accuracy and Complexity**|Mengjiao Zhang et.al.|[2410.16410](http://arxiv.org/abs/2410.16410)|null|
 |**2024-10-21**|**Analyzing Context Contributions in LLM-based Machine Translation**|Emmanouil Zaranis et.al.|[2410.16246](http://arxiv.org/abs/2410.16246)|null|
-|**2024-10-21**|**On Creating an English-Thai Code-switched Machine Translation in Medical Domain**|Parinthapat Pengpun et.al.|[2410.16221](http://arxiv.org/abs/2410.16221)|null|
+|**2024-10-21**|**On Creating an English-Thai Code-switched Machine Translation in Medical Domain**|Parinthapat Pengpun et.al.|[2410.16221](http://arxiv.org/abs/2410.16221)|**[link](https://github.com/preceptorai-org/nllb_cs_em_nlp2024)**|
 |**2024-10-21**|**Pangea: A Fully Open Multilingual Multimodal LLM for 39 Languages**|Xiang Yue et.al.|[2410.16153](http://arxiv.org/abs/2410.16153)|null|
 |**2024-10-21**|**Efficient Terminology Integration for LLM-based Translation in Specialized Domains**|Sejoon Kim et.al.|[2410.15690](http://arxiv.org/abs/2410.15690)|null|
 |**2024-10-21**|**Generalized Probabilistic Attention Mechanism in Transformers**|DongNyeong Heo et.al.|[2410.15578](http://arxiv.org/abs/2410.15578)|null|
 |**2024-10-20**|**Grammatical Error Correction for Low-Resource Languages: The Case of Zarma**|Mamadou K. Keita et.al.|[2410.15539](http://arxiv.org/abs/2410.15539)|null|
-|**2024-10-20**|**Back to School: Translation Using Grammar Books**|Jonathan Hus et.al.|[2410.15263](http://arxiv.org/abs/2410.15263)|null|
+|**2024-10-20**|**Back to School: Translation Using Grammar Books**|Jonathan Hus et.al.|[2410.15263](http://arxiv.org/abs/2410.15263)|**[link](https://github.com/jonathanhus/back-to-school)**|
 |**2024-10-19**|**mHumanEval -- A Multilingual Benchmark to Evaluate Large Language Models for Code Generation**|Nishat Raihan et.al.|[2410.15037](http://arxiv.org/abs/2410.15037)|null|
 |**2024-10-18**|**Mitigating Embedding Collapse in Diffusion Models for Categorical Data**|Bac Nguyen et.al.|[2410.14758](http://arxiv.org/abs/2410.14758)|null|
 |**2024-10-18**|**Analyzing Context Utilization of LLMs in Document-Level Translation**|Wafaa Mohammed et.al.|[2410.14391](http://arxiv.org/abs/2410.14391)|null|
@@ -5144,7 +5144,7 @@
 |**2023-11-24**|**OpusCleaner and OpusTrainer, open source toolkits for training Machine Translation and Large language models**|Nikolay Bogoychev et.al.|[2311.14838](http://arxiv.org/abs/2311.14838)|**[link](https://github.com/hplt-project/opustrainer)**|
 |**2023-11-24**|**Machine Translation for Ge'ez Language**|Aman Kassahun Wassie et.al.|[2311.14530](http://arxiv.org/abs/2311.14530)|null|
 
-<p align=right>(<a href=#updated-on-20241023>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241024>back to top</a>)</p>
 
 ## Speech Translation
 
@@ -5250,7 +5250,7 @@
 |**2023-10-23**|**Leveraging Timestamp Information for Serialized Joint Streaming Recognition and Translation**|Sara Papi et.al.|[2310.14806](http://arxiv.org/abs/2310.14806)|null|
 |**2023-10-23**|**Long-Form Speech Translation through Segmentation with Finite-State Decoding Constraints on Large Language Models**|Arya D. McCarthy et.al.|[2310.13678](http://arxiv.org/abs/2310.13678)|null|
 
-<p align=right>(<a href=#updated-on-20241023>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241024>back to top</a>)</p>
 
 ## Hallucination
 
@@ -5258,7 +5258,7 @@
 |---|---|---|---|---|
 |**2024-10-22**|**Fine-Tuning Large Language Models to Appropriately Abstain with Semantic Entropy**|Benedict Aaron Tjandra et.al.|[2410.17234](http://arxiv.org/abs/2410.17234)|null|
 |**2024-10-22**|**Creativity in AI: Progresses and Challenges**|Mete Ismayilzada et.al.|[2410.17218](http://arxiv.org/abs/2410.17218)|null|
-|**2024-10-22**|**GeoCode-GPT: A Large Language Model for Geospatial Code Generation Tasks**|Shuyang Hou et.al.|[2410.17031](http://arxiv.org/abs/2410.17031)|null|
+|**2024-10-23**|**GeoCode-GPT: A Large Language Model for Geospatial Code Generation Tasks**|Shuyang Hou et.al.|[2410.17031](http://arxiv.org/abs/2410.17031)|null|
 |**2024-10-22**|**SG-FSM: A Self-Guiding Zero-Shot Prompting Paradigm for Multi-Hop Question Answering Based on Finite State Machine**|Xiaochen Wang et.al.|[2410.17021](http://arxiv.org/abs/2410.17021)|null|
 |**2024-10-22**|**IPL: Leveraging Multimodal Large Language Models for Intelligent Product Listing**|Kang Chen et.al.|[2410.16977](http://arxiv.org/abs/2410.16977)|null|
 |**2024-10-22**|**Trustworthy Alignment of Retrieval-Augmented Large Language Models via Reinforcement Learning**|Zongmeng Zhang et.al.|[2410.16843](http://arxiv.org/abs/2410.16843)|**[link](https://github.com/zmzhang2000/trustworthy-alignment)**|
@@ -6411,7 +6411,7 @@
 |**2023-11-28**|**Beyond Hallucinations: Enhancing LVLMs through Hallucination-Aware Direct Preference Optimization**|Zhiyuan Zhao et.al.|[2311.16839](http://arxiv.org/abs/2311.16839)|null|
 |**2023-11-27**|**Deceptive-Human: Prompt-to-NeRF 3D Human Generation with 3D-Consistent Synthetic Images**|Shiu-hong Kao et.al.|[2311.16499](http://arxiv.org/abs/2311.16499)|**[link](https://github.com/danielshkao/deceptivehuman)**|
 
-<p align=right>(<a href=#updated-on-20241023>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241024>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
