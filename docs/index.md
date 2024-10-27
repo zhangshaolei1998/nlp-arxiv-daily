@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.26
+## Updated on 2024.10.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -5256,7 +5256,7 @@ layout: default
 |**2024-10-23**|**AVHBench: A Cross-Modal Hallucination Benchmark for Audio-Visual Large Language Models**|Kim Sung-Bin et.al.|[2410.18325](http://arxiv.org/abs/2410.18325)|**[link](https://github.com/avhbench/avhbench)**|
 |**2024-10-23**|**Multilingual Hallucination Gaps in Large Language Models**|Cléa Chataigner et.al.|[2410.18270](http://arxiv.org/abs/2410.18270)|null|
 |**2024-10-23**|**Leveraging the Domain Adaptation of Retrieval Augmented Generation Models for Question Answering and Reducing Hallucination**|Salman Rakin et.al.|[2410.17783](http://arxiv.org/abs/2410.17783)|null|
-|**2024-10-23**|**MM-Eval: A Multilingual Meta-Evaluation Benchmark for LLM-as-a-Judge and Reward Models**|Guijin Son et.al.|[2410.17578](http://arxiv.org/abs/2410.17578)|null|
+|**2024-10-23**|**MM-Eval: A Multilingual Meta-Evaluation Benchmark for LLM-as-a-Judge and Reward Models**|Guijin Son et.al.|[2410.17578](http://arxiv.org/abs/2410.17578)|**[link](https://github.com/guijinSON/MM-Eval)**|
 |**2024-10-23**|**Differentially Private Learning Needs Better Model Initialization and Self-Distillation**|Ivoline C. Ngong et.al.|[2410.17566](http://arxiv.org/abs/2410.17566)|null|
 |**2024-10-22**|**Do Robot Snakes Dream like Electric Sheep? Investigating the Effects of Architectural Inductive Biases on Hallucination**|Jerry Huang et.al.|[2410.17477](http://arxiv.org/abs/2410.17477)|null|
 |**2024-10-22**|**ProveRAG: Provenance-Driven Vulnerability Analysis with Automated Retrieval-Augmented LLMs**|Reza Fayyazi et.al.|[2410.17406](http://arxiv.org/abs/2410.17406)|null|
