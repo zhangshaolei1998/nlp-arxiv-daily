@@ -5285,7 +5285,7 @@
 |---|---|---|---|---|
 |**2024-10-24**|**DeCoRe: Decoding by Contrasting Retrieval Heads to Mitigate Hallucinations**|Aryo Pradipta Gema et.al.|[2410.18860](http://arxiv.org/abs/2410.18860)|**[link](https://github.com/aryopg/decore)**|
 |**2024-10-24**|**An LLM Agent for Automatic Geospatial Data Analysis**|Yuxing Chen et.al.|[2410.18792](http://arxiv.org/abs/2410.18792)|null|
-|**2024-10-24**|**LOGO -- Long cOntext aliGnment via efficient preference Optimization**|Zecheng Tang et.al.|[2410.18533](http://arxiv.org/abs/2410.18533)|null|
+|**2024-10-24**|**LOGO -- Long cOntext aliGnment via efficient preference Optimization**|Zecheng Tang et.al.|[2410.18533](http://arxiv.org/abs/2410.18533)|**[link](https://github.com/zetangforward/lcm_stack)**|
 |**2024-10-23**|**AVHBench: A Cross-Modal Hallucination Benchmark for Audio-Visual Large Language Models**|Kim Sung-Bin et.al.|[2410.18325](http://arxiv.org/abs/2410.18325)|**[link](https://github.com/avhbench/avhbench)**|
 |**2024-10-23**|**Multilingual Hallucination Gaps in Large Language Models**|Cléa Chataigner et.al.|[2410.18270](http://arxiv.org/abs/2410.18270)|null|
 |**2024-10-23**|**Leveraging the Domain Adaptation of Retrieval Augmented Generation Models for Question Answering and Reducing Hallucination**|Salman Rakin et.al.|[2410.17783](http://arxiv.org/abs/2410.17783)|null|
