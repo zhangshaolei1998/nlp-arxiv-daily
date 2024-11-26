@@ -2214,6 +2214,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-25**|**A Framework for Consistency Models in Distributed Systems**|Paulo Sérgio Almeida et.al.|[2411.16355](http://arxiv.org/abs/2411.16355)|null|
+|**2024-11-25**|**Quantum Relay Channels**|Uzi Pereg et.al.|[2411.16263](http://arxiv.org/abs/2411.16263)|null|
 |**2024-11-22**|**Approximating Prize-Collecting Variants of TSP**|Morteza Alimi et.al.|[2411.14994](http://arxiv.org/abs/2411.14994)|null|
 |**2024-11-22**|**Persistent Homology for Structural Characterization in Disordered Systems**|An Wang et.al.|[2411.14390](http://arxiv.org/abs/2411.14390)|**[link](https://github.com/anwanguow/PH_structural)**|
 |**2024-11-09**|**Model Selection for Average Reward RL with Application to Utility Maximization in Repeated Games**|Alireza Masoumian et.al.|[2411.06069](http://arxiv.org/abs/2411.06069)|null|
@@ -2383,6 +2385,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-25**|**Do Large Language Models Perform Latent Multi-Hop Reasoning without Exploiting Shortcuts?**|Sohee Yang et.al.|[2411.16679](http://arxiv.org/abs/2411.16679)|null|
+|**2024-11-25**|**DreamRunner: Fine-Grained Storytelling Video Generation with Retrieval-Augmented Motion Adaptation**|Zun Wang et.al.|[2411.16657](http://arxiv.org/abs/2411.16657)|null|
+|**2024-11-25**|**Self-Generated Critiques Boost Reward Modeling for Language Models**|Yue Yu et.al.|[2411.16646](http://arxiv.org/abs/2411.16646)|null|
+|**2024-11-25**|**Preventing Jailbreak Prompts as Malicious Tools for Cybercriminals: A Cyber Defense Perspective**|Jean Marie Tshimula et.al.|[2411.16642](http://arxiv.org/abs/2411.16642)|null|
+|**2024-11-25**|**StructFormer: Document Structure-based Masked Attention and its Impact on Language Model Pre-Training**|Kaustubh Ponkshe et.al.|[2411.16618](http://arxiv.org/abs/2411.16618)|null|
+|**2024-11-25**|**Chat2SVG: Vector Graphics Generation with Large Language Models and Image Diffusion Models**|Ronghuan Wu et.al.|[2411.16602](http://arxiv.org/abs/2411.16602)|null|
+|**2024-11-25**|**From Generation to Judgment: Opportunities and Challenges of LLM-as-a-judge**|Dawei Li et.al.|[2411.16594](http://arxiv.org/abs/2411.16594)|**[link](https://github.com/llm-as-a-judge/awesome-llm-as-a-judge)**|
+|**2024-11-25**|**Large Language Model-based Decision-making for COLREGs and the Control of Autonomous Surface Vehicles**|Klinsmann Agyei et.al.|[2411.16587](http://arxiv.org/abs/2411.16587)|null|
+|**2024-11-25**|**MarketGPT: Developing a Pre-trained transformer (GPT) for Modeling Financial Time Series**|Aaron Wheeler et.al.|[2411.16585](http://arxiv.org/abs/2411.16585)|null|
+|**2024-11-25**|**Enhancing LLM Reasoning via Critique Models with Test-Time and Training-Time Supervision**|Zhiheng Xi et.al.|[2411.16579](http://arxiv.org/abs/2411.16579)|null|
 |**2024-11-22**|**Measuring Bullshit in the Language Games played by ChatGPT**|Alessandro Trevisan et.al.|[2411.15129](http://arxiv.org/abs/2411.15129)|null|
 |**2024-11-22**|**TÜLU 3: Pushing Frontiers in Open Language Model Post-Training**|Nathan Lambert et.al.|[2411.15124](http://arxiv.org/abs/2411.15124)|null|
 |**2024-11-22**|**RE-Bench: Evaluating frontier AI R&D capabilities of language model agents against human experts**|Hjalmar Wijk et.al.|[2411.15114](http://arxiv.org/abs/2411.15114)|null|
@@ -4769,6 +4781,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-23**|**From MTEB to MTOB: Retrieval-Augmented Classification for Descriptive Grammars**|Albert Kornilov et.al.|[2411.15577](http://arxiv.org/abs/2411.15577)|null|
+|**2024-11-23**|**From Jack of All Trades to Master of One: Specializing LLM-based Autoraters to a Test Set**|Mara Finkelstein et.al.|[2411.15387](http://arxiv.org/abs/2411.15387)|null|
 |**2024-11-22**|**SwissADT: An Audio Description Translation System for Swiss Languages**|Lukas Fischer et.al.|[2411.14967](http://arxiv.org/abs/2411.14967)|null|
 |**2024-11-21**|**POS-tagging to highlight the skeletal structure of sentences**|Grigorii Churakov et.al.|[2411.14393](http://arxiv.org/abs/2411.14393)|**[link](https://github.com/disk0Dancer/rubert-finetuned-pos)**|
 |**2024-11-21**|**Generative Fuzzy System for Sequence Generation**|Hailong Yang et.al.|[2411.13867](http://arxiv.org/abs/2411.13867)|null|
@@ -5539,6 +5553,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-25**|**Do Automatic Factuality Metrics Measure Factuality? A Critical Evaluation**|Sanjana Ramprasad et.al.|[2411.16638](http://arxiv.org/abs/2411.16638)|null|
+|**2024-11-25**|**AtomR: Atomic Operator-Empowered Large Language Models for Heterogeneous Knowledge Reasoning**|Amy Xin et.al.|[2411.16495](http://arxiv.org/abs/2411.16495)|null|
+|**2024-11-25**|**O1 Replication Journey -- Part 2: Surpassing O1-preview through Simple Distillation, Big Progress or Bitter Lesson?**|Zhen Huang et.al.|[2411.16489](http://arxiv.org/abs/2411.16489)|**[link](https://github.com/gair-nlp/o1-journey)**|
+|**2024-11-25**|**Adapter-based Approaches to Knowledge-enhanced Language Models -- A Survey**|Alexander Fichtl et.al.|[2411.16403](http://arxiv.org/abs/2411.16403)|null|
+|**2024-11-25**|**Enhancing Multi-Agent Consensus through Third-Party LLM Integration: Analyzing Uncertainty and Mitigating Hallucinations in Large Language Models**|Zhihua Duan et.al.|[2411.16189](http://arxiv.org/abs/2411.16189)|null|
+|**2024-11-24**|**VaLiD: Mitigating the Hallucination of Large Vision Language Models by Visual Layer Fusion Contrastive Decoding**|Jiaqi Wang et.al.|[2411.15839](http://arxiv.org/abs/2411.15839)|null|
+|**2024-11-23**|**Ontology-Constrained Generation of Domain-Specific Clinical Summaries**|Gaya Mehenni et.al.|[2411.15666](http://arxiv.org/abs/2411.15666)|**[link](https://github.com/lama-west/ontology-based-decoding_ekaw2024)**|
+|**2024-11-22**|**Sycophancy in Large Language Models: Causes and Mitigations**|Lars Malmqvist et.al.|[2411.15287](http://arxiv.org/abs/2411.15287)|null|
 |**2024-11-22**|**Detecting Hallucinations in Virtual Histology with Neural Precursors**|Ji-Hun Oh et.al.|[2411.15060](http://arxiv.org/abs/2411.15060)|null|
 |**2024-11-22**|**Leveraging LLMs for Legacy Code Modernization: Challenges and Opportunities for LLM-Generated Documentation**|Colin Diggs et.al.|[2411.14971](http://arxiv.org/abs/2411.14971)|null|
 |**2024-11-21**|**G-RAG: Knowledge Expansion in Material Science**|Radeen Mostafa et.al.|[2411.14592](http://arxiv.org/abs/2411.14592)|**[link](https://github.com/RadeenXALNW/G-RAG_1.0)**|
