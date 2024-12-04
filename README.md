@@ -2214,6 +2214,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-29**|**Grasping and Rolling In-plane Manipulation Using Deployable Tape spring Appendages**|Gengzhi He et.al.|[2412.00268](http://arxiv.org/abs/2412.00268)|null|
 |**2024-11-28**|**Synergizing Decision Making and Trajectory Planning Using Two-Stage Optimization for Autonomous Vehicles**|Wenru Liu et.al.|[2411.18974](http://arxiv.org/abs/2411.18974)|null|
 |**2024-11-26**|**Towards Maximum Likelihood Training for Transducer-based Streaming Speech Recognition**|Hyeonseung Lee et.al.|[2411.17537](http://arxiv.org/abs/2411.17537)|null|
 |**2024-11-26**|**Learning Monotonic Attention in Transducer for Streaming Generation**|Zhengrui Ma et.al.|[2411.17170](http://arxiv.org/abs/2411.17170)|**[link](https://github.com/ictnlp/monoattn-transducer)**|
@@ -2388,6 +2389,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-03**|**T-REG: Preference Optimization with Token-Level Reward Regularization**|Wenxuan Zhou et.al.|[2412.02685](http://arxiv.org/abs/2412.02685)|null|
+|**2024-12-03**|**Mind the Gap: Examining the Self-Improvement Capabilities of Large Language Models**|Yuda Song et.al.|[2412.02674](http://arxiv.org/abs/2412.02674)|null|
+|**2024-12-03**|**LLM-Enhanced Path Planning: Safe and Efficient Autonomous Navigation with Instructional Inputs**|Pranav Doma et.al.|[2412.02655](http://arxiv.org/abs/2412.02655)|null|
+|**2024-12-03**|**Time-Reversal Provides Unsupervised Feedback to LLMs**|Yerram Varun et.al.|[2412.02626](http://arxiv.org/abs/2412.02626)|null|
+|**2024-12-03**|**Improving Dynamic Object Interactions in Text-to-Video Generation with AI Feedback**|Hiroki Furuta et.al.|[2412.02617](http://arxiv.org/abs/2412.02617)|null|
+|**2024-12-03**|**GLM-4-Voice: Towards Intelligent and Human-Like End-to-End Spoken Chatbot**|Aohan Zeng et.al.|[2412.02612](http://arxiv.org/abs/2412.02612)|**[link](https://github.com/thudm/glm-4-voice)**|
+|**2024-12-03**|**AV-Odyssey Bench: Can Your Multimodal LLMs Really Understand Audio-Visual Information?**|Kaixiong Gong et.al.|[2412.02611](http://arxiv.org/abs/2412.02611)|null|
+|**2024-12-03**|**Interpretable Company Similarity with Sparse Autoencoders**|Marco Molinari et.al.|[2412.02605](http://arxiv.org/abs/2412.02605)|null|
+|**2024-12-03**|**CEGI: Measuring the trade-off between efficiency and carbon emissions for SLMs and VLMs**|Abhas Kumar et.al.|[2412.02602](http://arxiv.org/abs/2412.02602)|null|
+|**2024-12-03**|**PrefixLLM: LLM-aided Prefix Circuit Design**|Weihua Xiao et.al.|[2412.02594](http://arxiv.org/abs/2412.02594)|null|
 |**2024-12-02**|**T2Vid: Translating Long Text into Multi-Image is the Catalyst for Video-LLMs**|Shukang Yin et.al.|[2411.19951](http://arxiv.org/abs/2411.19951)|**[link](https://github.com/xjtupanda/t2vid)**|
 |**2024-12-02**|**Critical Tokens Matter: Token-Level Contrastive Estimation Enhances LLM's Reasoning Capability**|Zicheng Lin et.al.|[2411.19943](http://arxiv.org/abs/2411.19943)|null|
 |**2024-11-29**|**VLSBench: Unveiling Visual Leakage in Multimodal Safety**|Xuhao Hu et.al.|[2411.19939](http://arxiv.org/abs/2411.19939)|null|
@@ -4814,6 +4825,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-03**|**Improving Language Transfer Capability of Decoder-only Architecture in Multilingual Neural Machine Translation**|Zhi Qu et.al.|[2412.02101](http://arxiv.org/abs/2412.02101)|null|
+|**2024-12-03**|**A Multi-way Parallel Named Entity Annotated Corpus for English, Tamil and Sinhala**|Surangika Ranathunga et.al.|[2412.02056](http://arxiv.org/abs/2412.02056)|null|
+|**2024-12-02**|**A 2-step Framework for Automated Literary Translation Evaluation: Its Promises and Pitfalls**|Sheikh Shafayat et.al.|[2412.01340](http://arxiv.org/abs/2412.01340)|null|
+|**2024-12-01**|**From Priest to Doctor: Domain Adaptaion for Low-Resource Neural Machine Translation**|Ali Marashian et.al.|[2412.00966](http://arxiv.org/abs/2412.00966)|null|
+|**2024-11-30**|**Homeostazis and Sparsity in Transformer**|Leonid Kotyuzanskiy et.al.|[2412.00503](http://arxiv.org/abs/2412.00503)|null|
+|**2024-11-29**|**Clinical Document Corpora and Assorted Domain Proxies: A Survey of Diversity in Corpus Design, with Focus on German Text Data**|Udo Hahn et.al.|[2412.00230](http://arxiv.org/abs/2412.00230)|null|
 |**2024-12-02**|**Artificial intelligence contribution to translation industry: looking back and forward**|Mohammed Q. Shormani et.al.|[2411.19855](http://arxiv.org/abs/2411.19855)|null|
 |**2024-11-29**|**Towards Santali Linguistic Inclusion: Building the First Santali-to-English Translation Model using mT5 Transformer and Data Augmentation**|Syed Mohammed Mostaque Billah et.al.|[2411.19726](http://arxiv.org/abs/2411.19726)|null|
 |**2024-12-02**|**Truth or Mirage? Towards End-to-End Factuality Evaluation with LLM-Oasis**|Alessandro Scirè et.al.|[2411.19655](http://arxiv.org/abs/2411.19655)|**[link](https://github.com/Babelscape/LLM-Oasis)**|
@@ -5481,6 +5498,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-02**|**AlignFormer: Modality Matching Can Achieve Better Zero-shot Instruction-Following Speech-LLM**|Ruchao Fan et.al.|[2412.01145](http://arxiv.org/abs/2412.01145)|null|
 |**2024-11-27**|**Aligning Pre-trained Models for Spoken Language Translation**|Šimon Sedláček et.al.|[2411.18294](http://arxiv.org/abs/2411.18294)|null|
 |**2024-11-13**|**Direct Speech-to-Speech Neural Machine Translation: A Survey**|Mahendra Gupta et.al.|[2411.14453](http://arxiv.org/abs/2411.14453)|null|
 |**2024-11-11**|**Isochrony-Controlled Speech-to-Text Translation: A study on translating from Sino-Tibetan to Indo-European Languages**|Midia Yousefi et.al.|[2411.07387](http://arxiv.org/abs/2411.07387)|null|
@@ -5594,6 +5612,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-03**|**OCR Hinders RAG: Evaluating the Cascading Impact of OCR on Retrieval-Augmented Generation**|Junyuan Zhang et.al.|[2412.02592](http://arxiv.org/abs/2412.02592)|**[link](https://github.com/opendatalab/OHR-Bench)**|
+|**2024-12-03**|**CC-OCR: A Comprehensive and Challenging OCR Benchmark for Evaluating Large Multimodal Models in Literacy**|Zhibo Yang et.al.|[2412.02210](http://arxiv.org/abs/2412.02210)|null|
+|**2024-12-02**|**The use of large language models to enhance cancer clinical trial educational materials**|Mingye Gao et.al.|[2412.01955](http://arxiv.org/abs/2412.01955)|null|
+|**2024-12-02**|**R-Bot: An LLM-based Query Rewrite System**|Zhaoyan Sun et.al.|[2412.01661](http://arxiv.org/abs/2412.01661)|**[link](https://github.com/curtis-sun/LLM4Rewrite)**|
+|**2024-12-02**|**AI Benchmarks and Datasets for LLM Evaluation**|Todor Ivanov et.al.|[2412.01020](http://arxiv.org/abs/2412.01020)|null|
+|**2024-12-01**|**Automating Feedback Analysis in Surgical Training: Detection, Categorization, and Assessment**|Firdavs Nasriddinov et.al.|[2412.00760](http://arxiv.org/abs/2412.00760)|null|
+|**2024-11-30**|**Human-Like Code Quality Evaluation through LLM-based Recursive Semantic Comprehension**|Fangzhou Xu et.al.|[2412.00314](http://arxiv.org/abs/2412.00314)|null|
 |**2024-12-02**|**Truth or Mirage? Towards End-to-End Factuality Evaluation with LLM-Oasis**|Alessandro Scirè et.al.|[2411.19655](http://arxiv.org/abs/2411.19655)|**[link](https://github.com/Babelscape/LLM-Oasis)**|
 |**2024-11-29**|**Quantized Delta Weight Is Safety Keeper**|Yule Liu et.al.|[2411.19530](http://arxiv.org/abs/2411.19530)|null|
 |**2024-11-29**|**RAGDiffusion: Faithful Cloth Generation via External Knowledge Assimilation**|Xianfeng Tan et.al.|[2411.19528](http://arxiv.org/abs/2411.19528)|null|
