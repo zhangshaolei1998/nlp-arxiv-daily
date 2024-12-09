@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.08
+## Updated on 2024.12.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4821,7 +4821,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-12-05**|**BhashaVerse : Translation Ecosystem for Indian Subcontinent Languages**|Vandan Mujadia et.al.|[2412.04351](http://arxiv.org/abs/2412.04351)|null|
-|**2024-12-05**|**Retrieval-Augmented Machine Translation with Unstructured Knowledge**|Jiaan Wang et.al.|[2412.04342](http://arxiv.org/abs/2412.04342)|null|
+|**2024-12-05**|**Retrieval-Augmented Machine Translation with Unstructured Knowledge**|Jiaan Wang et.al.|[2412.04342](http://arxiv.org/abs/2412.04342)|**[link](https://github.com/krystalan/RAGtrans)**|
 |**2024-12-05**|**Representation Purification for End-to-End Speech Translation**|Chengwei Zhang et.al.|[2412.04266](http://arxiv.org/abs/2412.04266)|null|
 |**2024-12-05**|**Marco-LLM: Bridging Languages via Massive Multilingual Training for Cross-Lingual Enhancement**|Lingfeng Ming et.al.|[2412.04003](http://arxiv.org/abs/2412.04003)|null|
 |**2024-12-05**|**Agent AI with LangGraph: A Modular Framework for Enhancing Machine Translation Using Large Language Models**|Jialin Wang et.al.|[2412.03801](http://arxiv.org/abs/2412.03801)|null|
