@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.16
+## Updated on 2024.12.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -5571,7 +5571,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-12-11**|**Preserving Speaker Information in Direct Speech-to-Speech Translation with Non-Autoregressive Generation and Pretraining**|Rui Zhou et.al.|[2412.07316](http://arxiv.org/abs/2412.07316)|null|
+|**2024-12-11**|**Preserving Speaker Information in Direct Speech-to-Speech Translation with Non-Autoregressive Generation and Pretraining**|Rui Zhou et.al.|[2412.07316](http://arxiv.org/abs/2412.07316)|**[link](https://github.com/zhouruitohoku99/sc-s2ut)**|
 |**2024-12-07**|**Exploring the Impact of Emotional Voice Integration in Sign-to-Speech Translators for Deaf-to-Hearing Communication**|Hyunchul Lim et.al.|[2412.05738](http://arxiv.org/abs/2412.05738)|null|
 |**2024-12-05**|**Representation Purification for End-to-End Speech Translation**|Chengwei Zhang et.al.|[2412.04266](http://arxiv.org/abs/2412.04266)|null|
 |**2024-12-04**|**ASR-EC Benchmark: Evaluating Large Language Models on Chinese ASR Error Correction**|Victor Junqiu Wei et.al.|[2412.03075](http://arxiv.org/abs/2412.03075)|null|
