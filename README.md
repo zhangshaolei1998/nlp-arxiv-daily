@@ -2397,6 +2397,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-16**|**SepLLM: Accelerate Large Language Models by Compressing One Segment into One Separator**|Guoxuan Chen et.al.|[2412.12094](http://arxiv.org/abs/2412.12094)|null|
+|**2024-12-16**|**Instruction-based Image Manipulation by Watching How Things Move**|Mingdeng Cao et.al.|[2412.12087](http://arxiv.org/abs/2412.12087)|null|
+|**2024-12-16**|**CPath-Omni: A Unified Multimodal Foundation Model for Patch and Whole Slide Image Analysis in Computational Pathology**|Yuxuan Sun et.al.|[2412.12077](http://arxiv.org/abs/2412.12077)|null|
+|**2024-12-16**|**CG-Bench: Clue-grounded Question Answering Benchmark for Long Video Understanding**|Guo Chen et.al.|[2412.12075](http://arxiv.org/abs/2412.12075)|null|
+|**2024-12-16**|**Making FETCH! Happen: Finding Emergent Dog Whistles Through Common Habitats**|Kuleen Sasse et.al.|[2412.12072](http://arxiv.org/abs/2412.12072)|**[link](https://github.com/kuleens/fetch-dog-whistle)**|
+|**2024-12-16**|**How Private are Language Models in Abstractive Summarization?**|Anthony Hughes et.al.|[2412.12040](http://arxiv.org/abs/2412.12040)|null|
+|**2024-12-16**|**Can LLM Prompting Serve as a Proxy for Static Analysis in Vulnerability Detection**|Ira Ceka et.al.|[2412.12039](http://arxiv.org/abs/2412.12039)|null|
+|**2024-12-16**|**SpeechPrune: Context-aware Token Pruning for Speech Information Retrieval**|Yueqian Lin et.al.|[2412.12009](http://arxiv.org/abs/2412.12009)|null|
+|**2024-12-16**|**The Open Source Advantage in Large Language Models (LLMs)**|Jiya Manchanda et.al.|[2412.12004](http://arxiv.org/abs/2412.12004)|null|
+|**2024-12-16**|**LLM-RG4: Flexible and Factual Radiology Report Generation across Diverse Input Contexts**|Zhuhao Wang et.al.|[2412.12001](http://arxiv.org/abs/2412.12001)|null|
 |**2024-12-13**|**UniMed-CLIP: Towards a Unified Image-Text Pretraining Paradigm for Diverse Medical Imaging Modalities**|Muhammad Uzair Khattak et.al.|[2412.10372](http://arxiv.org/abs/2412.10372)|**[link](https://github.com/mbzuai-oryx/unimed-clip)**|
 |**2024-12-13**|**A Grounded Typology of Word Classes**|Coleman Haley et.al.|[2412.10369](http://arxiv.org/abs/2412.10369)|null|
 |**2024-12-13**|**Robust image classification with multi-modal large language models**|Francesco Villani et.al.|[2412.10353](http://arxiv.org/abs/2412.10353)|null|
@@ -4913,6 +4923,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-16**|**MT-LENS: An all-in-one Toolkit for Better Machine Translation Evaluation**|Javier García Gilabert et.al.|[2412.11615](http://arxiv.org/abs/2412.11615)|null|
+|**2024-12-15**|**CATER: Leveraging LLM to Pioneer a Multidimensional, Reference-Independent Paradigm in Translation Quality Evaluation**|Kurando IIDA et.al.|[2412.11261](http://arxiv.org/abs/2412.11261)|null|
+|**2024-12-15**|**Task-Oriented Dialog Systems for the Senegalese Wolof Language**|Derguene Mbaye et.al.|[2412.11203](http://arxiv.org/abs/2412.11203)|null|
+|**2024-12-15**|**Analyzing the Attention Heads for Pronoun Disambiguation in Context-aware Machine Translation Models**|Paweł Mąka et.al.|[2412.11187](http://arxiv.org/abs/2412.11187)|null|
 |**2024-12-13**|**A Comparative Study of LLMs, NMT Models, and Their Combination in Persian-English Idiom Translation**|Sara Rezaeimanesh et.al.|[2412.09993](http://arxiv.org/abs/2412.09993)|null|
 |**2024-12-12**|**Shiksha: A Technical Domain focused Translation Dataset and Model for Indian Languages**|Advait Joglekar et.al.|[2412.09025](http://arxiv.org/abs/2412.09025)|null|
 |**2024-12-11**|**Multi-perspective Alignment for Increasing Naturalness in Neural Machine Translation**|Huiyuan Lai et.al.|[2412.08473](http://arxiv.org/abs/2412.08473)|null|
@@ -5720,6 +5734,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-16**|**CG-Bench: Clue-grounded Question Answering Benchmark for Long Video Understanding**|Guo Chen et.al.|[2412.12075](http://arxiv.org/abs/2412.12075)|null|
+|**2024-12-16**|**LLM-RG4: Flexible and Factual Radiology Report Generation across Diverse Input Contexts**|Zhuhao Wang et.al.|[2412.12001](http://arxiv.org/abs/2412.12001)|null|
+|**2024-12-16**|**Emma-X: An Embodied Multimodal Action Model with Grounded Chain of Thought and Look-ahead Spatial Reasoning**|Qi Sun et.al.|[2412.11974](http://arxiv.org/abs/2412.11974)|**[link](https://github.com/declare-lab/emma-x)**|
+|**2024-12-16**|**RetroLLM: Empowering Large Language Models to Retrieve Fine-grained Evidence within Generation**|Xiaoxi Li et.al.|[2412.11919](http://arxiv.org/abs/2412.11919)|**[link](https://github.com/sunnynexus/retrollm)**|
+|**2024-12-16**|**A Benchmark and Robustness Study of In-Context-Learning with Large Language Models in Music Entity Detection**|Simon Hachmeier et.al.|[2412.11851](http://arxiv.org/abs/2412.11851)|**[link](https://github.com/progsi/ytuncoverllm)**|
+|**2024-12-16**|**Leveraging Retrieval-Augmented Tags for Large Vision-Language Understanding in Complex Scenes**|Antonio Carlos Rivera et.al.|[2412.11396](http://arxiv.org/abs/2412.11396)|null|
+|**2024-12-15**|**Efficient Whisper on Streaming Speech**|Rongxiang Wang et.al.|[2412.11272](http://arxiv.org/abs/2412.11272)|null|
+|**2024-12-15**|**CATER: Leveraging LLM to Pioneer a Multidimensional, Reference-Independent Paradigm in Translation Quality Evaluation**|Kurando IIDA et.al.|[2412.11261](http://arxiv.org/abs/2412.11261)|null|
+|**2024-12-15**|**Task-Oriented Dialog Systems for the Senegalese Wolof Language**|Derguene Mbaye et.al.|[2412.11203](http://arxiv.org/abs/2412.11203)|null|
+|**2024-12-15**|**Drawing the Line: Enhancing Trustworthiness of MLLMs Through the Power of Refusal**|Yuhao Wang et.al.|[2412.11196](http://arxiv.org/abs/2412.11196)|null|
 |**2024-12-13**|**Detecting LLM Hallucination Through Layer-wise Information Deficiency: Analysis of Unanswerable Questions and Ambiguous Prompts**|Hazel Kim et.al.|[2412.10246](http://arxiv.org/abs/2412.10246)|null|
 |**2024-12-13**|**How good is my story? Towards quantitative metrics for evaluating LLM-generated XAI narratives**|Timour Ichmoukhamedov et.al.|[2412.10220](http://arxiv.org/abs/2412.10220)|null|
 |**2024-12-13**|**TACOMORE: Leveraging the Potential of LLMs in Corpus-based Discourse Analysis with Prompt Engineering**|Bingru Li et.al.|[2412.10139](http://arxiv.org/abs/2412.10139)|null|
