@@ -2214,7 +2214,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-12-17**|**Attentive Eraser: Unleashing Diffusion Model's Object Removal Potential via Self-Attention Redirection Guidance**|Wenhao Sun et.al.|[2412.12974](http://arxiv.org/abs/2412.12974)|**[link](https://github.com/anonym0u3/attentiveeraser)**|
+|**2024-12-18**|**Lightweight Safety Classification Using Pruned Language Models**|Mason Sawtell et.al.|[2412.13435](http://arxiv.org/abs/2412.13435)|null|
+|**2024-12-18**|**Attentive Eraser: Unleashing Diffusion Model's Object Removal Potential via Self-Attention Redirection Guidance**|Wenhao Sun et.al.|[2412.12974](http://arxiv.org/abs/2412.12974)|**[link](https://github.com/anonym0u3/attentiveeraser)**|
 |**2024-12-10**|**Meta-Controller: Few-Shot Imitation of Unseen Embodiments and Tasks in Continuous Control**|Seongwoong Cho et.al.|[2412.12147](http://arxiv.org/abs/2412.12147)|null|
 |**2024-12-12**|**Elevating Flow-Guided Video Inpainting with Reference Generation**|Suhwan Cho et.al.|[2412.08975](http://arxiv.org/abs/2412.08975)|**[link](https://github.com/suhwan-cho/RGVI)**|
 |**2024-12-12**|**A Flexible Plug-and-Play Module for Generating Variable-Length**|Liyang He et.al.|[2412.08922](http://arxiv.org/abs/2412.08922)|**[link](https://github.com/hly1998/nhl)**|
@@ -2399,6 +2400,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-18**|**Thinking in Space: How Multimodal Large Language Models See, Remember, and Recall Spaces**|Jihan Yang et.al.|[2412.14171](http://arxiv.org/abs/2412.14171)|**[link](https://github.com/vision-x-nyu/thinking-in-space)**|
+|**2024-12-18**|**TheAgentCompany: Benchmarking LLM Agents on Consequential Real World Tasks**|Frank F. Xu et.al.|[2412.14161](http://arxiv.org/abs/2412.14161)|**[link](https://github.com/theagentcompany/experiments)**|
+|**2024-12-18**|**Advanced Reasoning and Transformation Engine for Multi-Step Insight Synthesis in Data Analytics with Large Language Models**|Atin Sakkeer Hussain et.al.|[2412.14146](http://arxiv.org/abs/2412.14146)|null|
+|**2024-12-18**|**Incorporating Feature Pyramid Tokenization and Open Vocabulary Semantic Segmentation**|Jianyu Zhang et.al.|[2412.14145](http://arxiv.org/abs/2412.14145)|null|
+|**2024-12-18**|**LLMs can realize combinatorial creativity: generating creative ideas via LLMs for scientific research**|Tianyang Gu et.al.|[2412.14141](http://arxiv.org/abs/2412.14141)|null|
+|**2024-12-18**|**Design choices made by LLM-based test generators prevent them from finding bugs**|Noble Saji Mathews et.al.|[2412.14137](http://arxiv.org/abs/2412.14137)|null|
+|**2024-12-18**|**Performance Gap in Entity Knowledge Extraction Across Modalities in Vision Language Models**|Ido Cohen et.al.|[2412.14133](http://arxiv.org/abs/2412.14133)|**[link](https://github.com/ido-co/vlm-modality-gap)**|
+|**2024-12-18**|**Alignment faking in large language models**|Ryan Greenblatt et.al.|[2412.14093](http://arxiv.org/abs/2412.14093)|**[link](https://github.com/redwoodresearch/alignment_faking_public)**|
+|**2024-12-18**|**Future Research Avenues for Artificial Intelligence in Digital Gaming: An Exploratory Report**|Markus Dablander et.al.|[2412.14085](http://arxiv.org/abs/2412.14085)|null|
+|**2024-12-18**|**Rango: Adaptive Retrieval-Augmented Proving for Automated Software Verification**|Kyle Thompson et.al.|[2412.14063](http://arxiv.org/abs/2412.14063)|null|
 |**2024-12-17**|**HandsOnVLM: Vision-Language Models for Hand-Object Interaction Prediction**|Chen Bao et.al.|[2412.13187](http://arxiv.org/abs/2412.13187)|null|
 |**2024-12-17**|**Feather the Throttle: Revisiting Visual Token Pruning for Vision-Language Model Acceleration**|Mark Endo et.al.|[2412.13180](http://arxiv.org/abs/2412.13180)|null|
 |**2024-12-17**|**SafeAgentBench: A Benchmark for Safe Task Planning of Embodied LLM Agents**|Sheng Yin et.al.|[2412.13178](http://arxiv.org/abs/2412.13178)|**[link](https://github.com/shengyin1224/safeagentbench)**|
@@ -4935,6 +4946,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-18**|**Language verY Rare for All**|Ibrahim Merad et.al.|[2412.13924](http://arxiv.org/abs/2412.13924)|null|
+|**2024-12-18**|**Understanding and Analyzing Model Robustness and Knowledge-Transfer in Multilingual Neural Machine Translation using TX-Ray**|Vageesh Saxena et.al.|[2412.13881](http://arxiv.org/abs/2412.13881)|null|
+|**2024-12-18**|**Towards Automatic Evaluation for Image Transcreation**|Simran Khanuja et.al.|[2412.13717](http://arxiv.org/abs/2412.13717)|null|
 |**2024-12-17**|**Enabling Low-Resource Language Retrieval: Establishing Baselines for Urdu MS MARCO**|Umer Butt et.al.|[2412.12997](http://arxiv.org/abs/2412.12997)|null|
 |**2024-12-17**|**Train More Parameters But Mind Their Placement: Insights into Language Adaptation with PEFT**|Jenny Kunz et.al.|[2412.12674](http://arxiv.org/abs/2412.12674)|**[link](https://github.com/jekunz/peft-la)**|
 |**2024-12-17**|**Make Imagination Clearer! Stable Diffusion-based Visual Imagination for Multimodal Machine Translation**|Andong Chen et.al.|[2412.12627](http://arxiv.org/abs/2412.12627)|null|
@@ -5750,6 +5764,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-18**|**Understanding and Evaluating Trust in Generative AI and Large Language Models for Spreadsheets**|Simon Thorne et.al.|[2412.14062](http://arxiv.org/abs/2412.14062)|null|
+|**2024-12-18**|**Discovering maximally consistent distribution of causal tournaments with Large Language Models**|Federico Baldo et.al.|[2412.14019](http://arxiv.org/abs/2412.14019)|null|
+|**2024-12-18**|**Cracking the Code of Hallucination in LVLMs with Vision-aware Head Divergence**|Jinghan He et.al.|[2412.13949](http://arxiv.org/abs/2412.13949)|null|
+|**2024-12-18**|**Nullu: Mitigating Object Hallucinations in Large Vision-Language Models via HalluSpace Projection**|Le Yang et.al.|[2412.13817](http://arxiv.org/abs/2412.13817)|**[link](https://github.com/ziwei-zheng/nullu)**|
+|**2024-12-18**|**Meta-Reflection: A Feedback-Free Reflection Learning Framework**|Yaoke Wang et.al.|[2412.13781](http://arxiv.org/abs/2412.13781)|null|
+|**2024-12-18**|**Are LLMs Good Literature Review Writers? Evaluating the Literature Review Writing Ability of Large Language Models**|Xuemei Tang et.al.|[2412.13612](http://arxiv.org/abs/2412.13612)|null|
+|**2024-12-18**|**Zero-Shot Low Light Image Enhancement with Diffusion Prior**|Joshua Cho et.al.|[2412.13401](http://arxiv.org/abs/2412.13401)|null|
 |**2024-12-17**|**C-FedRAG: A Confidential Federated Retrieval-Augmented Generation System**|Parker Addison et.al.|[2412.13163](http://arxiv.org/abs/2412.13163)|null|
 |**2024-12-17**|**Unlocking LLMs: Addressing Scarce Data and Bias Challenges in Mental Health**|Vivek Kumar et.al.|[2412.12981](http://arxiv.org/abs/2412.12981)|**[link](https://github.com/vsrana-ai/IC-AnnoMI)**|
 |**2024-12-17**|**What External Knowledge is Preferred by LLMs? Characterizing and Exploring Chain of Evidence in Imperfect Context**|Zhiyuan Chang et.al.|[2412.12632](http://arxiv.org/abs/2412.12632)|null|
