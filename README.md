@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.21
+## Updated on 2024.12.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -452,7 +452,7 @@
 |**2021-10-03**|**Quadrotor Control on $SU(2)\times R^3$ with SLAM Integration**|Marcus Greiff et.al.|[2110.01099](http://arxiv.org/abs/2110.01099)|null|
 |**2021-10-02**|**Online Incremental Non-Gaussian Inference for SLAM Using Normalizing Flows**|Qiangqiang Huang et.al.|[2110.00876](http://arxiv.org/abs/2110.00876)|**[link](https://github.com/marineroboticsgroup/nf-isam)**|
 
-<p align=right>(<a href=#updated-on-20241221>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241222>back to top</a>)</p>
 
 ## SFM
 
@@ -597,7 +597,7 @@
 |**2021-08-29**|**Solving Viewing Graph Optimization for Simultaneous Position and Rotation Registration**|Seyed-Mahdi Nasiri et.al.|[2108.12876](http://arxiv.org/abs/2108.12876)|null|
 |**2021-08-23**|**Burst Imaging for Light-Constrained Structure-From-Motion**|Ahalya Ravendran et.al.|[2108.09895](http://arxiv.org/abs/2108.09895)|null|
 
-<p align=right>(<a href=#updated-on-20241221>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241222>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -1193,7 +1193,7 @@
 |**2021-09-09**|**CrowdDriven: A New Challenging Dataset for Outdoor Visual Localization**|Ara Jafarzadeh et.al.|[2109.04527](http://arxiv.org/abs/2109.04527)|null|
 |**2021-09-09**|**Keeping an Eye on Things: Deep Learned Features for Long-Term Visual Localization**|Mona Gridseth et.al.|[2109.04041](http://arxiv.org/abs/2109.04041)|**[link](https://github.com/utiasasrl/deep_learned_visual_features)**|
 
-<p align=right>(<a href=#updated-on-20241221>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241222>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -1388,7 +1388,7 @@
 |**2021-08-31**|**A Novel Dataset for Keypoint Detection of quadruped Animals from Images**|Prianka Banik et.al.|[2108.13958](http://arxiv.org/abs/2108.13958)|**[link](https://github.com/prinik/awa-pose)**|
 |**2021-08-27**|**A Matching Algorithm based on Image Attribute Transfer and Local Features for Underwater Acoustic and Optical Images**|Xiaoteng Zhou et.al.|[2108.12151](http://arxiv.org/abs/2108.12151)|null|
 
-<p align=right>(<a href=#updated-on-20241221>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241222>back to top</a>)</p>
 
 ## Image Matching
 
@@ -1573,7 +1573,7 @@
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou et.al.|[2108.12072](http://arxiv.org/abs/2108.12072)|null|
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911](http://arxiv.org/abs/2108.11911)|null|
 
-<p align=right>(<a href=#updated-on-20241221>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241222>back to top</a>)</p>
 
 ## NeRF
 
@@ -2208,7 +2208,7 @@
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
 
-<p align=right>(<a href=#updated-on-20241221>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241222>back to top</a>)</p>
 
 ## Simultaneous Translation
 
@@ -2217,7 +2217,7 @@
 |**2024-12-18**|**Generation of the Complete Bell Basis via Hong-Ou-Mandel Interference**|Xiaoqin Gao et.al.|[2412.14274](http://arxiv.org/abs/2412.14274)|null|
 |**2024-12-18**|**Lightweight Safety Classification Using Pruned Language Models**|Mason Sawtell et.al.|[2412.13435](http://arxiv.org/abs/2412.13435)|null|
 |**2024-12-19**|**Attentive Eraser: Unleashing Diffusion Model's Object Removal Potential via Self-Attention Redirection Guidance**|Wenhao Sun et.al.|[2412.12974](http://arxiv.org/abs/2412.12974)|**[link](https://github.com/anonym0u3/attentiveeraser)**|
-|**2024-12-10**|**Meta-Controller: Few-Shot Imitation of Unseen Embodiments and Tasks in Continuous Control**|Seongwoong Cho et.al.|[2412.12147](http://arxiv.org/abs/2412.12147)|null|
+|**2024-12-10**|**Meta-Controller: Few-Shot Imitation of Unseen Embodiments and Tasks in Continuous Control**|Seongwoong Cho et.al.|[2412.12147](http://arxiv.org/abs/2412.12147)|**[link](https://github.com/seongwoongcho/meta-controller)**|
 |**2024-12-12**|**Elevating Flow-Guided Video Inpainting with Reference Generation**|Suhwan Cho et.al.|[2412.08975](http://arxiv.org/abs/2412.08975)|**[link](https://github.com/suhwan-cho/RGVI)**|
 |**2024-12-12**|**A Flexible Plug-and-Play Module for Generating Variable-Length**|Liyang He et.al.|[2412.08922](http://arxiv.org/abs/2412.08922)|**[link](https://github.com/hly1998/nhl)**|
 |**2024-12-09**|**Filamentation-Assisted Isolated Attosecond Pulse Generation**|Yu-En Chien et.al.|[2412.06339](http://arxiv.org/abs/2412.06339)|null|
@@ -2395,21 +2395,21 @@
 |**2023-11-07**|**CBSiMT: Mitigating Hallucination in Simultaneous Machine Translation with Weighted Prefix-to-Prefix Training**|Mengge Liu et.al.|[2311.03672](http://arxiv.org/abs/2311.03672)|null|
 |**2023-11-03**|**PRISM: Progressive Restoration for Scene Graph-based Image Manipulation**|Pavel Jahoda et.al.|[2311.02247](http://arxiv.org/abs/2311.02247)|null|
 
-<p align=right>(<a href=#updated-on-20241221>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241222>back to top</a>)</p>
 
 ## Language Model
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-12-19**|**PRIMA: Multi-Image Vision-Language Models for Reasoning Segmentation**|Muntasir Wahed et.al.|[2412.15209](http://arxiv.org/abs/2412.15209)|null|
-|**2024-12-19**|**OpenEMMA: Open-Source Multimodal Model for End-to-End Autonomous Driving**|Shuo Xing et.al.|[2412.15208](http://arxiv.org/abs/2412.15208)|null|
-|**2024-12-19**|**AutoTrust: Benchmarking Trustworthiness in Large Vision Language Models for Autonomous Driving**|Shuo Xing et.al.|[2412.15206](http://arxiv.org/abs/2412.15206)|null|
-|**2024-12-19**|**MMLU-CF: A Contamination-free Multi-task Language Understanding Benchmark**|Qihao Zhao et.al.|[2412.15194](http://arxiv.org/abs/2412.15194)|null|
+|**2024-12-19**|**OpenEMMA: Open-Source Multimodal Model for End-to-End Autonomous Driving**|Shuo Xing et.al.|[2412.15208](http://arxiv.org/abs/2412.15208)|**[link](https://github.com/taco-group/openemma)**|
+|**2024-12-19**|**AutoTrust: Benchmarking Trustworthiness in Large Vision Language Models for Autonomous Driving**|Shuo Xing et.al.|[2412.15206](http://arxiv.org/abs/2412.15206)|**[link](https://github.com/taco-group/autotrust)**|
+|**2024-12-19**|**MMLU-CF: A Contamination-free Multi-task Language Understanding Benchmark**|Qihao Zhao et.al.|[2412.15194](http://arxiv.org/abs/2412.15194)|**[link](https://github.com/microsoft/mmlu-cf)**|
 |**2024-12-19**|**EarthDial: Turning Multi-sensory Earth Observations to Interactive Dialogues**|Sagar Soni et.al.|[2412.15190](http://arxiv.org/abs/2412.15190)|null|
 |**2024-12-19**|**LlamaFusion: Adapting Pretrained Language Models for Multimodal Generation**|Weijia Shi et.al.|[2412.15188](http://arxiv.org/abs/2412.15188)|null|
 |**2024-12-19**|**Data for Mathematical Copilots: Better Ways of Presenting Proofs for Machine Learning**|Simon Frieder et.al.|[2412.15184](http://arxiv.org/abs/2412.15184)|null|
 |**2024-12-19**|**HPC-Coder-V2: Studying Code LLMs Across Low-Resource Parallel Languages**|Aman Chaturvedi et.al.|[2412.15178](http://arxiv.org/abs/2412.15178)|null|
-|**2024-12-19**|**Critical-Questions-of-Thought: Steering LLM reasoning with Argumentative Querying**|Federico Castagna et.al.|[2412.15177](http://arxiv.org/abs/2412.15177)|null|
+|**2024-12-19**|**Critical-Questions-of-Thought: Steering LLM reasoning with Argumentative Querying**|Federico Castagna et.al.|[2412.15177](http://arxiv.org/abs/2412.15177)|**[link](https://github.com/fcast07/cqot)**|
 |**2024-12-19**|**Rethinking Uncertainty Estimation in Natural Language Generation**|Lukas Aichberger et.al.|[2412.15176](http://arxiv.org/abs/2412.15176)|null|
 |**2024-12-18**|**Thinking in Space: How Multimodal Large Language Models See, Remember, and Recall Spaces**|Jihan Yang et.al.|[2412.14171](http://arxiv.org/abs/2412.14171)|**[link](https://github.com/vision-x-nyu/thinking-in-space)**|
 |**2024-12-18**|**TheAgentCompany: Benchmarking LLM Agents on Consequential Real World Tasks**|Frank F. Xu et.al.|[2412.14161](http://arxiv.org/abs/2412.14161)|**[link](https://github.com/theagentcompany/experiments)**|
@@ -4951,7 +4951,7 @@
 |**2023-11-29**|**End-to-end Joint Rich and Normalized ASR with a limited amount of rich training data**|Can Cui et.al.|[2311.17741](http://arxiv.org/abs/2311.17741)|null|
 |**2023-11-29**|**GenZI: Zero-Shot 3D Human-Scene Interaction Generation**|Lei Li et.al.|[2311.17737](http://arxiv.org/abs/2311.17737)|null|
 
-<p align=right>(<a href=#updated-on-20241221>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241222>back to top</a>)</p>
 
 ## Machine Translation
 
@@ -5653,7 +5653,7 @@
 |**2023-11-24**|**OpusCleaner and OpusTrainer, open source toolkits for training Machine Translation and Large language models**|Nikolay Bogoychev et.al.|[2311.14838](http://arxiv.org/abs/2311.14838)|**[link](https://github.com/hplt-project/opustrainer)**|
 |**2023-11-24**|**Machine Translation for Ge'ez Language**|Aman Kassahun Wassie et.al.|[2311.14530](http://arxiv.org/abs/2311.14530)|null|
 
-<p align=right>(<a href=#updated-on-20241221>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241222>back to top</a>)</p>
 
 ## Speech Translation
 
@@ -5771,7 +5771,7 @@
 |**2023-10-23**|**Leveraging Timestamp Information for Serialized Joint Streaming Recognition and Translation**|Sara Papi et.al.|[2310.14806](http://arxiv.org/abs/2310.14806)|null|
 |**2023-10-23**|**Long-Form Speech Translation through Segmentation with Finite-State Decoding Constraints on Large Language Models**|Arya D. McCarthy et.al.|[2310.13678](http://arxiv.org/abs/2310.13678)|null|
 
-<p align=right>(<a href=#updated-on-20241221>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241222>back to top</a>)</p>
 
 ## Hallucination
 
@@ -5784,7 +5784,7 @@
 |**2024-12-19**|**Think&Cite: Improving Attributed Text Generation with Self-Guided Tree Search and Progress Reward Modeling**|Junyi Li et.al.|[2412.14860](http://arxiv.org/abs/2412.14860)|null|
 |**2024-12-19**|**Query pipeline optimization for cancer patient question answering systems**|Maolin He et.al.|[2412.14751](http://arxiv.org/abs/2412.14751)|null|
 |**2024-12-19**|**FiVL: A Framework for Improved Vision-Language Alignment**|Estelle Aflalo et.al.|[2412.14672](http://arxiv.org/abs/2412.14672)|null|
-|**2024-12-19**|**FaultExplainer: Leveraging Large Language Models for Interpretable Fault Detection and Diagnosis**|Abdullah Khan et.al.|[2412.14492](http://arxiv.org/abs/2412.14492)|null|
+|**2024-12-19**|**FaultExplainer: Leveraging Large Language Models for Interpretable Fault Detection and Diagnosis**|Abdullah Khan et.al.|[2412.14492](http://arxiv.org/abs/2412.14492)|**[link](https://github.com/li-group/faultexplainer)**|
 |**2024-12-19**|**Token Preference Optimization with Self-Calibrated Visual-Anchored Rewards for Hallucination Mitigation**|Jihao Gu et.al.|[2412.14487](http://arxiv.org/abs/2412.14487)|null|
 |**2024-12-19**|**LiftRefine: Progressively Refined View Synthesis from 3D Lifting with Volume-Triplane Representations**|Tung Do et.al.|[2412.14464](http://arxiv.org/abs/2412.14464)|null|
 |**2024-12-18**|**Understanding and Evaluating Trust in Generative AI and Large Language Models for Spreadsheets**|Simon Thorne et.al.|[2412.14062](http://arxiv.org/abs/2412.14062)|null|
@@ -7173,7 +7173,7 @@
 |**2023-11-28**|**Beyond Hallucinations: Enhancing LVLMs through Hallucination-Aware Direct Preference Optimization**|Zhiyuan Zhao et.al.|[2311.16839](http://arxiv.org/abs/2311.16839)|null|
 |**2023-11-27**|**Deceptive-Human: Prompt-to-NeRF 3D Human Generation with 3D-Consistent Synthetic Images**|Shiu-hong Kao et.al.|[2311.16499](http://arxiv.org/abs/2311.16499)|**[link](https://github.com/danielshkao/deceptivehuman)**|
 
-<p align=right>(<a href=#updated-on-20241221>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241222>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.21
+## Updated on 2024.12.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2192,7 +2192,7 @@ layout: default
 |**2024-12-18**|**Generation of the Complete Bell Basis via Hong-Ou-Mandel Interference**|Xiaoqin Gao et.al.|[2412.14274](http://arxiv.org/abs/2412.14274)|null|
 |**2024-12-18**|**Lightweight Safety Classification Using Pruned Language Models**|Mason Sawtell et.al.|[2412.13435](http://arxiv.org/abs/2412.13435)|null|
 |**2024-12-19**|**Attentive Eraser: Unleashing Diffusion Model's Object Removal Potential via Self-Attention Redirection Guidance**|Wenhao Sun et.al.|[2412.12974](http://arxiv.org/abs/2412.12974)|**[link](https://github.com/anonym0u3/attentiveeraser)**|
-|**2024-12-10**|**Meta-Controller: Few-Shot Imitation of Unseen Embodiments and Tasks in Continuous Control**|Seongwoong Cho et.al.|[2412.12147](http://arxiv.org/abs/2412.12147)|null|
+|**2024-12-10**|**Meta-Controller: Few-Shot Imitation of Unseen Embodiments and Tasks in Continuous Control**|Seongwoong Cho et.al.|[2412.12147](http://arxiv.org/abs/2412.12147)|**[link](https://github.com/seongwoongcho/meta-controller)**|
 |**2024-12-12**|**Elevating Flow-Guided Video Inpainting with Reference Generation**|Suhwan Cho et.al.|[2412.08975](http://arxiv.org/abs/2412.08975)|**[link](https://github.com/suhwan-cho/RGVI)**|
 |**2024-12-12**|**A Flexible Plug-and-Play Module for Generating Variable-Length**|Liyang He et.al.|[2412.08922](http://arxiv.org/abs/2412.08922)|**[link](https://github.com/hly1998/nhl)**|
 |**2024-12-09**|**Filamentation-Assisted Isolated Attosecond Pulse Generation**|Yu-En Chien et.al.|[2412.06339](http://arxiv.org/abs/2412.06339)|null|
@@ -2375,14 +2375,14 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-12-19**|**PRIMA: Multi-Image Vision-Language Models for Reasoning Segmentation**|Muntasir Wahed et.al.|[2412.15209](http://arxiv.org/abs/2412.15209)|null|
-|**2024-12-19**|**OpenEMMA: Open-Source Multimodal Model for End-to-End Autonomous Driving**|Shuo Xing et.al.|[2412.15208](http://arxiv.org/abs/2412.15208)|null|
-|**2024-12-19**|**AutoTrust: Benchmarking Trustworthiness in Large Vision Language Models for Autonomous Driving**|Shuo Xing et.al.|[2412.15206](http://arxiv.org/abs/2412.15206)|null|
-|**2024-12-19**|**MMLU-CF: A Contamination-free Multi-task Language Understanding Benchmark**|Qihao Zhao et.al.|[2412.15194](http://arxiv.org/abs/2412.15194)|null|
+|**2024-12-19**|**OpenEMMA: Open-Source Multimodal Model for End-to-End Autonomous Driving**|Shuo Xing et.al.|[2412.15208](http://arxiv.org/abs/2412.15208)|**[link](https://github.com/taco-group/openemma)**|
+|**2024-12-19**|**AutoTrust: Benchmarking Trustworthiness in Large Vision Language Models for Autonomous Driving**|Shuo Xing et.al.|[2412.15206](http://arxiv.org/abs/2412.15206)|**[link](https://github.com/taco-group/autotrust)**|
+|**2024-12-19**|**MMLU-CF: A Contamination-free Multi-task Language Understanding Benchmark**|Qihao Zhao et.al.|[2412.15194](http://arxiv.org/abs/2412.15194)|**[link](https://github.com/microsoft/mmlu-cf)**|
 |**2024-12-19**|**EarthDial: Turning Multi-sensory Earth Observations to Interactive Dialogues**|Sagar Soni et.al.|[2412.15190](http://arxiv.org/abs/2412.15190)|null|
 |**2024-12-19**|**LlamaFusion: Adapting Pretrained Language Models for Multimodal Generation**|Weijia Shi et.al.|[2412.15188](http://arxiv.org/abs/2412.15188)|null|
 |**2024-12-19**|**Data for Mathematical Copilots: Better Ways of Presenting Proofs for Machine Learning**|Simon Frieder et.al.|[2412.15184](http://arxiv.org/abs/2412.15184)|null|
 |**2024-12-19**|**HPC-Coder-V2: Studying Code LLMs Across Low-Resource Parallel Languages**|Aman Chaturvedi et.al.|[2412.15178](http://arxiv.org/abs/2412.15178)|null|
-|**2024-12-19**|**Critical-Questions-of-Thought: Steering LLM reasoning with Argumentative Querying**|Federico Castagna et.al.|[2412.15177](http://arxiv.org/abs/2412.15177)|null|
+|**2024-12-19**|**Critical-Questions-of-Thought: Steering LLM reasoning with Argumentative Querying**|Federico Castagna et.al.|[2412.15177](http://arxiv.org/abs/2412.15177)|**[link](https://github.com/fcast07/cqot)**|
 |**2024-12-19**|**Rethinking Uncertainty Estimation in Natural Language Generation**|Lukas Aichberger et.al.|[2412.15176](http://arxiv.org/abs/2412.15176)|null|
 |**2024-12-18**|**Thinking in Space: How Multimodal Large Language Models See, Remember, and Recall Spaces**|Jihan Yang et.al.|[2412.14171](http://arxiv.org/abs/2412.14171)|**[link](https://github.com/vision-x-nyu/thinking-in-space)**|
 |**2024-12-18**|**TheAgentCompany: Benchmarking LLM Agents on Consequential Real World Tasks**|Frank F. Xu et.al.|[2412.14161](http://arxiv.org/abs/2412.14161)|**[link](https://github.com/theagentcompany/experiments)**|
@@ -5751,7 +5751,7 @@ layout: default
 |**2024-12-19**|**Think&Cite: Improving Attributed Text Generation with Self-Guided Tree Search and Progress Reward Modeling**|Junyi Li et.al.|[2412.14860](http://arxiv.org/abs/2412.14860)|null|
 |**2024-12-19**|**Query pipeline optimization for cancer patient question answering systems**|Maolin He et.al.|[2412.14751](http://arxiv.org/abs/2412.14751)|null|
 |**2024-12-19**|**FiVL: A Framework for Improved Vision-Language Alignment**|Estelle Aflalo et.al.|[2412.14672](http://arxiv.org/abs/2412.14672)|null|
-|**2024-12-19**|**FaultExplainer: Leveraging Large Language Models for Interpretable Fault Detection and Diagnosis**|Abdullah Khan et.al.|[2412.14492](http://arxiv.org/abs/2412.14492)|null|
+|**2024-12-19**|**FaultExplainer: Leveraging Large Language Models for Interpretable Fault Detection and Diagnosis**|Abdullah Khan et.al.|[2412.14492](http://arxiv.org/abs/2412.14492)|**[link](https://github.com/li-group/faultexplainer)**|
 |**2024-12-19**|**Token Preference Optimization with Self-Calibrated Visual-Anchored Rewards for Hallucination Mitigation**|Jihao Gu et.al.|[2412.14487](http://arxiv.org/abs/2412.14487)|null|
 |**2024-12-19**|**LiftRefine: Progressively Refined View Synthesis from 3D Lifting with Volume-Triplane Representations**|Tung Do et.al.|[2412.14464](http://arxiv.org/abs/2412.14464)|null|
 |**2024-12-18**|**Understanding and Evaluating Trust in Generative AI and Large Language Models for Spreadsheets**|Simon Thorne et.al.|[2412.14062](http://arxiv.org/abs/2412.14062)|null|
