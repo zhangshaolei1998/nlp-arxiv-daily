@@ -2214,6 +2214,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-24**|**Unveiling the Threat of Fraud Gangs to Graph Neural Networks: Multi-Target Graph Injection Attacks against GNN-Based Fraud Detectors**|Jinhyeok Choi et.al.|[2412.18370](http://arxiv.org/abs/2412.18370)|**[link](https://github.com/bdi-lab/monti)**|
 |**2024-12-23**|**PepTune: De Novo Generation of Therapeutic Peptides with Multi-Objective-Guided Discrete Diffusion**|Sophia Tang et.al.|[2412.17780](http://arxiv.org/abs/2412.17780)|null|
 |**2024-12-22**|**Deep Joint Source Channel Coding for Secure End-to-End Image Transmission**|Mehdi Letafati et.al.|[2412.17110](http://arxiv.org/abs/2412.17110)|null|
 |**2024-12-19**|**Transcribing and Translating, Fast and Slow: Joint Speech Translation and Recognition**|Niko Moritz et.al.|[2412.15415](http://arxiv.org/abs/2412.15415)|null|
@@ -2404,6 +2405,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-24**|**Video-Panda: Parameter-efficient Alignment for Encoder-free Video-Language Models**|Jinhui Yi et.al.|[2412.18609](http://arxiv.org/abs/2412.18609)|**[link](https://github.com/jh-yi/video-panda)**|
+|**2024-12-24**|**Explaining in Diffusion: Explaining a Classifier Through Hierarchical Semantics with Text-to-Image Diffusion Models**|Tahira Kazimi et.al.|[2412.18604](http://arxiv.org/abs/2412.18604)|null|
+|**2024-12-24**|**Long-Form Speech Generation with Spoken Language Models**|Se Jin Park et.al.|[2412.18603](http://arxiv.org/abs/2412.18603)|**[link](https://github.com/google-deepmind/librispeech-long)**|
+|**2024-12-24**|**Decentralized Intelligence in GameFi: Embodied AI Agents and the Convergence of DeFi and Virtual Ecosystems**|Fernando Jia et.al.|[2412.18601](http://arxiv.org/abs/2412.18601)|null|
+|**2024-12-24**|**A Paragraph is All It Takes: Rich Robot Behaviors from Interacting, Trusted LLMs**|OpenMind et.al.|[2412.18588](http://arxiv.org/abs/2412.18588)|null|
+|**2024-12-24**|**Exploring Embedding Priors in Prompt-Tuning for Improved Interpretability and Control**|Sergey Sedov et.al.|[2412.18582](http://arxiv.org/abs/2412.18582)|null|
+|**2024-12-24**|**Zero-resource Speech Translation and Recognition with LLMs**|Karel Mundnich et.al.|[2412.18566](http://arxiv.org/abs/2412.18566)|null|
+|**2024-12-24**|**Distilling Fine-grained Sentiment Understanding from Large Language Models**|Yice Zhang et.al.|[2412.18552](http://arxiv.org/abs/2412.18552)|**[link](https://github.com/hitsz-hlt/fsa-distillation)**|
+|**2024-12-24**|**Token-Budget-Aware LLM Reasoning**|Tingxu Han et.al.|[2412.18547](http://arxiv.org/abs/2412.18547)|**[link](https://github.com/geniushtx/tale)**|
+|**2024-12-24**|**Consistency Checks for Language Model Forecasters**|Daniel Paleka et.al.|[2412.18544](http://arxiv.org/abs/2412.18544)|null|
 |**2024-12-23**|**ChatGarment: Garment Estimation, Generation and Editing via Large Language Models**|Siyuan Bian et.al.|[2412.17811](http://arxiv.org/abs/2412.17811)|null|
 |**2024-12-23**|**Examining Imbalance Effects on Performance and Demographic Fairness of Clinical Language Models**|Precious Jones et.al.|[2412.17803](http://arxiv.org/abs/2412.17803)|null|
 |**2024-12-23**|**Comprehensive Multi-Modal Prototypes are Simple and Effective Classifiers for Vast-Vocabulary Object Detection**|Yitong Chen et.al.|[2412.17800](http://arxiv.org/abs/2412.17800)|**[link](https://github.com/row11n/prova)**|
@@ -4980,6 +4991,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-24**|**Towards Global AI Inclusivity: A Large-Scale Multilingual Terminology Dataset**|Jiarui Liu et.al.|[2412.18367](http://arxiv.org/abs/2412.18367)|null|
+|**2024-12-24**|**M-Ped: Multi-Prompt Ensemble Decoding for Large Language Models**|Jiaxin Guo et.al.|[2412.18299](http://arxiv.org/abs/2412.18299)|null|
+|**2024-12-24**|**CoAM: Corpus of All-Type Multiword Expressions**|Yusuke Ide et.al.|[2412.18151](http://arxiv.org/abs/2412.18151)|null|
+|**2024-12-24**|**Ensuring Consistency for In-Image Translation**|Chengpeng Fu et.al.|[2412.18139](http://arxiv.org/abs/2412.18139)|null|
+|**2024-12-24**|**Property Enhanced Instruction Tuning for Multi-task Molecule Generation with Large Language Models**|Xuan Lin et.al.|[2412.18084](http://arxiv.org/abs/2412.18084)|**[link](https://github.com/chenlong164/peit)**|
 |**2024-12-23**|**Investigating Length Issues in Document-level Machine Translation**|Ziqian Peng et.al.|[2412.17592](http://arxiv.org/abs/2412.17592)|null|
 |**2024-12-23**|**ERUPD -- English to Roman Urdu Parallel Dataset**|Mohammed Furqan et.al.|[2412.17562](http://arxiv.org/abs/2412.17562)|null|
 |**2024-12-23**|**Domain adapted machine translation: What does catastrophic forgetting forget and why?**|Danielle Saunders et.al.|[2412.17537](http://arxiv.org/abs/2412.17537)|null|
@@ -5696,8 +5712,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-24**|**Zero-resource Speech Translation and Recognition with LLMs**|Karel Mundnich et.al.|[2412.18566](http://arxiv.org/abs/2412.18566)|null|
 |**2024-12-21**|**Improving Lip-synchrony in Direct Audio-Visual Speech-to-Speech Translation**|Lucas Goncalves et.al.|[2412.16530](http://arxiv.org/abs/2412.16530)|null|
-|**2024-12-20**|**Contrastive Learning for Task-Independent SpeechLLM-Pretraining**|Maike Züfle et.al.|[2412.15712](http://arxiv.org/abs/2412.15712)|null|
+|**2024-12-20**|**Contrastive Learning for Task-Independent SpeechLLM-Pretraining**|Maike Züfle et.al.|[2412.15712](http://arxiv.org/abs/2412.15712)|**[link](https://github.com/maikezuefle/contr-pretraining)**|
 |**2024-12-19**|**Transcribing and Translating, Fast and Slow: Joint Speech Translation and Recognition**|Niko Moritz et.al.|[2412.15415](http://arxiv.org/abs/2412.15415)|null|
 |**2024-12-15**|**NER- RoBERTa: Fine-Tuning RoBERTa for Named Entity Recognition (NER) within low-resource languages**|Abdulhady Abas Abdullah et.al.|[2412.15252](http://arxiv.org/abs/2412.15252)|null|
 |**2024-12-11**|**Preserving Speaker Information in Direct Speech-to-Speech Translation with Non-Autoregressive Generation and Pretraining**|Rui Zhou et.al.|[2412.07316](http://arxiv.org/abs/2412.07316)|**[link](https://github.com/zhouruitohoku99/sc-s2ut)**|
@@ -5818,7 +5835,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-12-23**|**Multimodal Preference Data Synthetic Alignment with Reward Model**|Robert Wijaya et.al.|[2412.17417](http://arxiv.org/abs/2412.17417)|null|
+|**2024-12-24**|**PartGen: Part-level 3D Generation and Reconstruction with Multi-View Diffusion Models**|Minghao Chen et.al.|[2412.18608](http://arxiv.org/abs/2412.18608)|null|
+|**2024-12-24**|**Harnessing Large Language Models for Knowledge Graph Question Answering via Adaptive Multi-Aspect Retrieval-Augmentation**|Derong Xu Xinhang Li et.al.|[2412.18537](http://arxiv.org/abs/2412.18537)|null|
+|**2024-12-24**|**Is Large Language Model Good at Triple Set Prediction? An Empirical Study**|Yuan Yuan et.al.|[2412.18443](http://arxiv.org/abs/2412.18443)|null|
+|**2024-12-24**|**Extract Free Dense Misalignment from CLIP**|JeongYeon Nam et.al.|[2412.18404](http://arxiv.org/abs/2412.18404)|null|
+|**2024-12-24**|**Annotating References to Mythological Entities in French Literature**|Thierry Poibeau et.al.|[2412.18270](http://arxiv.org/abs/2412.18270)|null|
+|**2024-12-24**|**Real-world Deployment and Evaluation of PErioperative AI CHatbot (PEACH) -- a Large Language Model Chatbot for Perioperative Medicine**|Yu He Ke et.al.|[2412.18096](http://arxiv.org/abs/2412.18096)|null|
+|**2024-12-24**|**Improving Factuality with Explicit Working Memory**|Mingda Chen et.al.|[2412.18069](http://arxiv.org/abs/2412.18069)|null|
+|**2024-12-23**|**Trustworthy and Efficient LLMs Meet Databases**|Kyoungmin Kim et.al.|[2412.18022](http://arxiv.org/abs/2412.18022)|null|
+|**2024-12-23**|**Correctness is not Faithfulness in RAG Attributions**|Jonas Wallat et.al.|[2412.18004](http://arxiv.org/abs/2412.18004)|null|
+|**2024-12-23**|**Multimodal Preference Data Synthetic Alignment with Reward Model**|Robert Wijaya et.al.|[2412.17417](http://arxiv.org/abs/2412.17417)|**[link](https://github.com/pds-dpo/pds-dpo)**|
 |**2024-12-22**|**A Plug-and-Play Natural Language Rewriter for Natural Language to SQL**|Peixian Ma et.al.|[2412.17068](http://arxiv.org/abs/2412.17068)|null|
 |**2024-12-22**|**The HalluRAG Dataset: Detecting Closed-Domain Hallucinations in RAG Applications Using an LLM's Internal States**|Fabian Ridder et.al.|[2412.17056](http://arxiv.org/abs/2412.17056)|null|
 |**2024-12-22**|**Cannot or Should Not? Automatic Analysis of Refusal Composition in IFT/RLHF Datasets and Refusal Behavior of Black-Box LLMs**|Alexander von Recum et.al.|[2412.16974](http://arxiv.org/abs/2412.16974)|null|
