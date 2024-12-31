@@ -2190,7 +2190,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-12-24**|**Unveiling the Threat of Fraud Gangs to Graph Neural Networks: Multi-Target Graph Injection Attacks against GNN-Based Fraud Detectors**|Jinhyeok Choi et.al.|[2412.18370](http://arxiv.org/abs/2412.18370)|**[link](https://github.com/bdi-lab/monti)**|
-|**2024-12-23**|**PepTune: De Novo Generation of Therapeutic Peptides with Multi-Objective-Guided Discrete Diffusion**|Sophia Tang et.al.|[2412.17780](http://arxiv.org/abs/2412.17780)|null|
+|**2024-12-30**|**PepTune: De Novo Generation of Therapeutic Peptides with Multi-Objective-Guided Discrete Diffusion**|Sophia Tang et.al.|[2412.17780](http://arxiv.org/abs/2412.17780)|null|
 |**2024-12-22**|**Deep Joint Source Channel Coding for Secure End-to-End Image Transmission**|Mehdi Letafati et.al.|[2412.17110](http://arxiv.org/abs/2412.17110)|null|
 |**2024-12-19**|**Transcribing and Translating, Fast and Slow: Joint Speech Translation and Recognition**|Niko Moritz et.al.|[2412.15415](http://arxiv.org/abs/2412.15415)|null|
 |**2024-12-18**|**Generation of the Complete Bell Basis via Hong-Ou-Mandel Interference**|Xiaoqin Gao et.al.|[2412.14274](http://arxiv.org/abs/2412.14274)|null|
@@ -2378,6 +2378,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-30**|**Distributed Mixture-of-Agents for Edge Inference with Large Language Models**|Purbesh Mitra et.al.|[2412.21200](http://arxiv.org/abs/2412.21200)|**[link](https://github.com/purbeshmitra/distributed_moa)**|
+|**2024-12-30**|**HumanEval Pro and MBPP Pro: Evaluating Large Language Models on Self-invoking Code Generation**|Zhaojian Yu et.al.|[2412.21199](http://arxiv.org/abs/2412.21199)|null|
+|**2024-12-30**|**Aviary: training language agents on challenging scientific tasks**|Siddharth Narayanan et.al.|[2412.21154](http://arxiv.org/abs/2412.21154)|null|
+|**2024-12-30**|**Facilitating large language model Russian adaptation with Learned Embedding Propagation**|Mikhail Tikhomirov et.al.|[2412.21140](http://arxiv.org/abs/2412.21140)|null|
+|**2024-12-30**|**Training Software Engineering Agents and Verifiers with SWE-Gym**|Jiayi Pan et.al.|[2412.21139](http://arxiv.org/abs/2412.21139)|**[link](https://github.com/swe-gym/swe-gym)**|
+|**2024-12-30**|**Adaptive Batch Size Schedules for Distributed Training of Language Models with Data and Model Parallelism**|Tim Tsz-Kit Lau et.al.|[2412.21124](http://arxiv.org/abs/2412.21124)|null|
+|**2024-12-30**|**ExpShield: Safeguarding Web Text from Unauthorized Crawling and Language Modeling Exploitation**|Ruixuan Liu et.al.|[2412.21123](http://arxiv.org/abs/2412.21123)|null|
+|**2024-12-30**|**Vinci: A Real-time Embodied Smart Assistant based on Egocentric Vision-Language Model**|Yifei Huang et.al.|[2412.21080](http://arxiv.org/abs/2412.21080)|**[link](https://github.com/opengvlab/vinci)**|
+|**2024-12-30**|**Efficient Multi-Task Inferencing with a Shared Backbone and Lightweight Task-Specific Adapters for Automatic Scoring**|Ehsan Latif et.al.|[2412.21065](http://arxiv.org/abs/2412.21065)|null|
+|**2024-12-30**|**Toward Intelligent and Secure Cloud: Large Language Model Empowered Proactive Defense**|Yuyang Zhou et.al.|[2412.21051](http://arxiv.org/abs/2412.21051)|**[link](https://github.com/SEU-ProactiveSecurity-Group/LLM-PD)**|
 |**2024-12-27**|**MVTamperBench: Evaluating Robustness of Vision-Language Models**|Amit Agarwal et.al.|[2412.19794](http://arxiv.org/abs/2412.19794)|null|
 |**2024-12-27**|**InfAlign: Inference-aware language model alignment**|Ananth Balashankar et.al.|[2412.19792](http://arxiv.org/abs/2412.19792)|null|
 |**2024-12-27**|**Can AI Help with Your Personal Finances?**|Oudom Hean et.al.|[2412.19784](http://arxiv.org/abs/2412.19784)|null|
@@ -4972,6 +4982,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-30**|**Text Classification: Neural Networks VS Machine Learning Models VS Pre-trained Models**|Christos Petridis et.al.|[2412.21022](http://arxiv.org/abs/2412.21022)|null|
+|**2024-12-29**|**Towards Neural No-Resource Language Translation: A Comparative Evaluation of Approaches**|Madhavendra Thakur et.al.|[2412.20584](http://arxiv.org/abs/2412.20584)|null|
+|**2024-12-29**|**Enhancing Entertainment Translation for Indian Languages using Adaptive Context, Style and LLMs**|Pratik Rakesh Singh et.al.|[2412.20440](http://arxiv.org/abs/2412.20440)|null|
+|**2024-12-28**|**M-MAD: Multidimensional Multi-Agent Debate Framework for Fine-grained Machine Translation Evaluation**|Zhaopeng Feng et.al.|[2412.20127](http://arxiv.org/abs/2412.20127)|**[link](https://github.com/su-jiayuan/m-mad)**|
 |**2024-12-27**|**Exploiting Domain-Specific Parallel Data on Multilingual Language Models for Low-resource Language Translation**|Surangika Ranathungaa et.al.|[2412.19522](http://arxiv.org/abs/2412.19522)|null|
 |**2024-12-24**|**Multiple References with Meaningful Variations Improve Literary Machine Translation**|Si Wu et.al.|[2412.18707](http://arxiv.org/abs/2412.18707)|null|
 |**2024-12-24**|**Advancing Explainability in Neural Machine Translation: Analytical Metrics for Attention and Alignment Consistency**|Anurag Mishra et.al.|[2412.18669](http://arxiv.org/abs/2412.18669)|null|
@@ -5815,6 +5829,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-30**|**KARPA: A Training-free Method of Adapting Knowledge Graph as References for Large Language Model's Reasoning Path Aggregation**|Siyuan Fang et.al.|[2412.20995](http://arxiv.org/abs/2412.20995)|null|
+|**2024-12-30**|**Are LLMs Really Not Knowledgable? Mining the Submerged Knowledge in LLMs' Memory**|Xingjian Tao et.al.|[2412.20846](http://arxiv.org/abs/2412.20846)|null|
+|**2024-12-29**|**HALLUCINOGEN: A Benchmark for Evaluating Object Hallucination in Large Visual-Language Models**|Ashish Seth et.al.|[2412.20622](http://arxiv.org/abs/2412.20622)|null|
+|**2024-12-29**|**A Comprehensive Framework for Reliable Legal AI: Combining Specialized Expert Systems and Adaptive Refinement**|Sidra Nasir et.al.|[2412.20468](http://arxiv.org/abs/2412.20468)|null|
+|**2024-12-29**|**Distilling Desired Comments for Enhanced Code Review with Large Language Models**|Yongda Yu et.al.|[2412.20340](http://arxiv.org/abs/2412.20340)|null|
 |**2024-12-27**|**Toward Adaptive Reasoning in Large Language Models with Thought Rollback**|Sijia Chen et.al.|[2412.19707](http://arxiv.org/abs/2412.19707)|**[link](https://github.com/iQua/llmpebase)**|
 |**2024-12-27**|**Is Your Text-to-Image Model Robust to Caption Noise?**|Weichen Yu et.al.|[2412.19531](http://arxiv.org/abs/2412.19531)|null|
 |**2024-12-26**|**RAG with Differential Privacy**|Nicolas Grislain et.al.|[2412.19291](http://arxiv.org/abs/2412.19291)|null|
