@@ -2214,6 +2214,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-03**|**Multivariate Time Series Anomaly Detection using DiffGAN Model**|Guangqiang Wu et.al.|[2501.01591](http://arxiv.org/abs/2501.01591)|null|
 |**2025-01-01**|**Large Language Models Are Read/Write Policy-Makers for Simultaneous Generation**|Shoutao Guo et.al.|[2501.00868](http://arxiv.org/abs/2501.00868)|null|
 |**2024-12-31**|**Computability of Initial Value Problems**|Vasco Brattka et.al.|[2501.00451](http://arxiv.org/abs/2501.00451)|null|
 |**2024-12-31**|**A Pseudo-random Number Generator for Multi-Sequence Generation with Programmable Statistics**|Jianan Wu et.al.|[2501.00193](http://arxiv.org/abs/2501.00193)|null|
@@ -2408,6 +2409,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-03**|**VITA-1.5: Towards GPT-4o Level Real-Time Vision and Speech Interaction**|Chaoyou Fu et.al.|[2501.01957](http://arxiv.org/abs/2501.01957)|null|
+|**2025-01-03**|**Metadata Conditioning Accelerates Language Model Pre-training**|Tianyu Gao et.al.|[2501.01956](http://arxiv.org/abs/2501.01956)|null|
+|**2025-01-03**|**Cold-Start Recommendation towards the Era of Large Language Models (LLMs): A Comprehensive Survey and Roadmap**|Weizhi Zhang et.al.|[2501.01945](http://arxiv.org/abs/2501.01945)|null|
+|**2025-01-03**|**Abstractive Text Summarization for Contemporary Sanskrit Prose: Issues and Challenges**|Shagun Sinha et.al.|[2501.01933](http://arxiv.org/abs/2501.01933)|null|
+|**2025-01-03**|**Mitigating Hallucination for Large Vision Language Model by Inter-Modality Correlation Calibration Decoding**|Jiaming Li et.al.|[2501.01926](http://arxiv.org/abs/2501.01926)|null|
+|**2025-01-03**|**Virgo: A Preliminary Exploration on Reproducing o1-like MLLM**|Yifan Du et.al.|[2501.01904](http://arxiv.org/abs/2501.01904)|null|
+|**2025-01-03**|**QuArch: A Question-Answering Dataset for AI Agents in Computer Architecture**|Shvetank Prakash et.al.|[2501.01892](http://arxiv.org/abs/2501.01892)|null|
+|**2025-01-03**|**Turning Logic Against Itself : Probing Model Defenses Through Contrastive Questions**|Rachneet Sachdeva et.al.|[2501.01872](http://arxiv.org/abs/2501.01872)|null|
+|**2025-01-03**|**Multi-Agent Conversational Online Learning for Adaptive LLM Response Identification**|Xiangxiang Dai et.al.|[2501.01849](http://arxiv.org/abs/2501.01849)|null|
+|**2025-01-03**|**MoColl: Agent-Based Specific and General Model Collaboration for Image Captioning**|Pu Yang et.al.|[2501.01834](http://arxiv.org/abs/2501.01834)|null|
 |**2025-01-02**|**GPT4Scene: Understand 3D Scenes from Videos with Vision-Language Models**|Zhangyang Qi et.al.|[2501.01428](http://arxiv.org/abs/2501.01428)|null|
 |**2025-01-02**|**Unifying Specialized Visual Encoders for Video Language Models**|Jihoon Chung et.al.|[2501.01426](http://arxiv.org/abs/2501.01426)|null|
 |**2025-01-02**|**OmniChat: Enhancing Spoken Dialogue Systems with Scalable Synthetic Data for Diverse Scenarios**|Xize Cheng et.al.|[2501.01384](http://arxiv.org/abs/2501.01384)|null|
@@ -5024,6 +5035,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-03**|**Adaptive Few-shot Prompting for Machine Translation with Pre-trained Language Models**|Lei Tang et.al.|[2501.01679](http://arxiv.org/abs/2501.01679)|null|
+|**2025-01-03**|**Crossing Language Borders: A Pipeline for Indonesian Manhwa Translation**|Nithyasri Narasimhan et.al.|[2501.01629](http://arxiv.org/abs/2501.01629)|null|
 |**2024-12-31**|**Sinhala Transliteration: A Comparative Analysis Between Rule-based and Seq2Seq Approaches**|Yomal De Mel et.al.|[2501.00529](http://arxiv.org/abs/2501.00529)|null|
 |**2024-12-31**|**A review of faithfulness metrics for hallucination assessment in Large Language Models**|Ben Malin et.al.|[2501.00269](http://arxiv.org/abs/2501.00269)|null|
 |**2024-12-27**|**Cross-Linguistic Examination of Machine Translation Transfer Learning**|Saughmon Boujkian et.al.|[2501.00045](http://arxiv.org/abs/2501.00045)|null|
@@ -5878,7 +5891,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-01-02**|**Think More, Hallucinate Less: Mitigating Hallucinations via Dual Process of Fast and Slow Thinking**|Xiaoxue Cheng et.al.|[2501.01306](http://arxiv.org/abs/2501.01306)|null|
+|**2025-01-03**|**Mitigating Hallucination for Large Vision Language Model by Inter-Modality Correlation Calibration Decoding**|Jiaming Li et.al.|[2501.01926](http://arxiv.org/abs/2501.01926)|null|
+|**2025-01-03**|**LLMs & Legal Aid: Understanding Legal Needs Exhibited Through User Queries**|Michal Kuk et.al.|[2501.01711](http://arxiv.org/abs/2501.01711)|null|
+|**2025-01-03**|**(WhyPHI) Fine-Tuning PHI-3 for Multiple-Choice Question Answering: Methodology, Results, and Challenges**|Mohamed Hisham Abdellatif et.al.|[2501.01588](http://arxiv.org/abs/2501.01588)|null|
+|**2025-01-03**|**Think More, Hallucinate Less: Mitigating Hallucinations via Dual Process of Fast and Slow Thinking**|Xiaoxue Cheng et.al.|[2501.01306](http://arxiv.org/abs/2501.01306)|null|
 |**2025-01-02**|**Large Language Model-Enhanced Symbolic Reasoning for Knowledge Base Completion**|Qiyuan He et.al.|[2501.01246](http://arxiv.org/abs/2501.01246)|null|
 |**2025-01-02**|**Dynamic Attention-Guided Context Decoding for Mitigating Context Faithfulness Hallucinations in Large Language Models**|Yanwen Huang et.al.|[2501.01059](http://arxiv.org/abs/2501.01059)|null|
 |**2025-01-01**|**IllusionBench: A Large-scale and Comprehensive Benchmark for Visual Illusion Understanding in Vision-Language Models**|Yiming Zhang et.al.|[2501.00848](http://arxiv.org/abs/2501.00848)|null|
