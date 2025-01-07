@@ -2189,11 +2189,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-06**|**LDMapNet-U: An End-to-End System for City-Scale Lane-Level Map Updating**|Deguo Xia et.al.|[2501.02763](http://arxiv.org/abs/2501.02763)|null|
 |**2025-01-03**|**Multivariate Time Series Anomaly Detection using DiffGAN Model**|Guangqiang Wu et.al.|[2501.01591](http://arxiv.org/abs/2501.01591)|null|
 |**2025-01-01**|**Large Language Models Are Read/Write Policy-Makers for Simultaneous Generation**|Shoutao Guo et.al.|[2501.00868](http://arxiv.org/abs/2501.00868)|**[link](https://github.com/ictnlp/LSG)**|
 |**2024-12-31**|**Computability of Initial Value Problems**|Vasco Brattka et.al.|[2501.00451](http://arxiv.org/abs/2501.00451)|null|
 |**2024-12-31**|**A Pseudo-random Number Generator for Multi-Sequence Generation with Programmable Statistics**|Jianan Wu et.al.|[2501.00193](http://arxiv.org/abs/2501.00193)|null|
-|**2024-12-24**|**Unveiling the Threat of Fraud Gangs to Graph Neural Networks: Multi-Target Graph Injection Attacks against GNN-Based Fraud Detectors**|Jinhyeok Choi et.al.|[2412.18370](http://arxiv.org/abs/2412.18370)|**[link](https://github.com/bdi-lab/monti)**|
+|**2025-01-05**|**Unveiling the Threat of Fraud Gangs to Graph Neural Networks: Multi-Target Graph Injection Attacks Against GNN-Based Fraud Detectors**|Jinhyeok Choi et.al.|[2412.18370](http://arxiv.org/abs/2412.18370)|**[link](https://github.com/bdi-lab/monti)**|
 |**2025-01-01**|**PepTune: De Novo Generation of Therapeutic Peptides with Multi-Objective-Guided Discrete Diffusion**|Sophia Tang et.al.|[2412.17780](http://arxiv.org/abs/2412.17780)|null|
 |**2024-12-22**|**Deep Joint Source Channel Coding for Secure End-to-End Image Transmission**|Mehdi Letafati et.al.|[2412.17110](http://arxiv.org/abs/2412.17110)|null|
 |**2024-12-19**|**Transcribing and Translating, Fast and Slow: Joint Speech Translation and Recognition**|Niko Moritz et.al.|[2412.15415](http://arxiv.org/abs/2412.15415)|null|
@@ -2382,6 +2383,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-06**|**BoostStep: Boosting mathematical capability of Large Language Models via improved single-step reasoning**|Beichen Zhang et.al.|[2501.03226](http://arxiv.org/abs/2501.03226)|**[link](https://github.com/beichenzbc/booststep)**|
+|**2025-01-06**|**Automated Generation of Challenging Multiple-Choice Questions for Vision Language Model Evaluation**|Yuhui Zhang et.al.|[2501.03225](http://arxiv.org/abs/2501.03225)|**[link](https://github.com/yuhui-zh15/autoconverter)**|
+|**2025-01-06**|**Leveraging Explainable AI for LLM Text Attribution: Differentiating Human-Written and Multiple LLMs-Generated Text**|Ayat Najjar et.al.|[2501.03212](http://arxiv.org/abs/2501.03212)|null|
+|**2025-01-06**|**Detecting AI-Generated Text in Educational Content: Leveraging Machine Learning and Explainable AI for Academic Integrity**|Ayat A. Najjar et.al.|[2501.03203](http://arxiv.org/abs/2501.03203)|null|
+|**2025-01-06**|**The FACTS Grounding Leaderboard: Benchmarking LLMs' Ability to Ground Responses to Long-Form Input**|Alon Jacovi et.al.|[2501.03200](http://arxiv.org/abs/2501.03200)|null|
+|**2025-01-06**|**CLIX: Cross-Lingual Explanations of Idiomatic Expressions**|Aaron Gluck et.al.|[2501.03191](http://arxiv.org/abs/2501.03191)|null|
+|**2025-01-06**|**Semantic Captioning: Benchmark Dataset and Graph-Aware Few-Shot In-Context Learning for SQL2Text**|Ali Al-Lawati et.al.|[2501.03166](http://arxiv.org/abs/2501.03166)|**[link](https://github.com/aliwister/ast-icl)**|
+|**2025-01-06**|**Large language models for artificial general intelligence (AGI): A survey of foundational principles and approaches**|Alhassan Mumuni et.al.|[2501.03151](http://arxiv.org/abs/2501.03151)|null|
+|**2025-01-06**|**VicSim: Enhancing Victim Simulation with Emotional and Linguistic Fidelity**|Yerong Li et.al.|[2501.03139](http://arxiv.org/abs/2501.03139)|null|
+|**2025-01-06**|**PRMBench: A Fine-grained and Challenging Benchmark for Process-Level Reward Models**|Mingyang Song et.al.|[2501.03124](http://arxiv.org/abs/2501.03124)|null|
 |**2025-01-03**|**VITA-1.5: Towards GPT-4o Level Real-Time Vision and Speech Interaction**|Chaoyou Fu et.al.|[2501.01957](http://arxiv.org/abs/2501.01957)|**[link](https://github.com/VITA-MLLM/VITA)**|
 |**2025-01-03**|**Metadata Conditioning Accelerates Language Model Pre-training**|Tianyu Gao et.al.|[2501.01956](http://arxiv.org/abs/2501.01956)|null|
 |**2025-01-03**|**Cold-Start Recommendation towards the Era of Large Language Models (LLMs): A Comprehensive Survey and Roadmap**|Weizhi Zhang et.al.|[2501.01945](http://arxiv.org/abs/2501.01945)|null|
@@ -5006,6 +5017,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-06**|**Quality Estimation based Feedback Training for Improving Pronoun Translation**|Harshit Dhankhar et.al.|[2501.03008](http://arxiv.org/abs/2501.03008)|null|
+|**2025-01-06**|**Registering Source Tokens to Target Language Spaces in Multilingual Neural Machine Translation**|Zhi Qu et.al.|[2501.02979](http://arxiv.org/abs/2501.02979)|**[link](https://github.com/zhiqu22/mitre)**|
 |**2025-01-03**|**Adaptive Few-shot Prompting for Machine Translation with Pre-trained Language Models**|Lei Tang et.al.|[2501.01679](http://arxiv.org/abs/2501.01679)|null|
 |**2025-01-03**|**Crossing Language Borders: A Pipeline for Indonesian Manhwa Translation**|Nithyasri Narasimhan et.al.|[2501.01629](http://arxiv.org/abs/2501.01629)|null|
 |**2024-12-31**|**Sinhala Transliteration: A Comparative Analysis Between Rule-based and Seq2Seq Approaches**|Yomal De Mel et.al.|[2501.00529](http://arxiv.org/abs/2501.00529)|**[link](https://github.com/kasunw22/sinhala-transliterator)**|
@@ -5858,6 +5871,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-06**|**A Trust-Guided Approach to MR Image Reconstruction with Side Information**|Arda Atalık et.al.|[2501.03021](http://arxiv.org/abs/2501.03021)|null|
+|**2025-01-06**|**CALM: Curiosity-Driven Auditing for Large Language Models**|Xiang Zheng et.al.|[2501.02997](http://arxiv.org/abs/2501.02997)|null|
+|**2025-01-06**|**FlipedRAG: Black-Box Opinion Manipulation Attacks to Retrieval-Augmented Generation of Large Language Models**|Zhuo Chen et.al.|[2501.02968](http://arxiv.org/abs/2501.02968)|null|
+|**2025-01-06**|**Socratic Questioning: Learn to Self-guide Multimodal Reasoning in the Wild**|Wanpeng Hu et.al.|[2501.02964](http://arxiv.org/abs/2501.02964)|**[link](https://github.com/aibee00/socraticquestioning)**|
+|**2025-01-06**|**Foundations of GenIR**|Qingyao Ai et.al.|[2501.02842](http://arxiv.org/abs/2501.02842)|null|
+|**2025-01-06**|**QuIM-RAG: Advancing Retrieval-Augmented Generation with Inverted Question Matching for Enhanced QA Performance**|Binita Saha et.al.|[2501.02702](http://arxiv.org/abs/2501.02702)|null|
+|**2025-01-06**|**EAGLE: Enhanced Visual Grounding Minimizes Hallucinations in Instructional Multimodal Models**|Andrés Villa et.al.|[2501.02699](http://arxiv.org/abs/2501.02699)|null|
+|**2025-01-05**|**CHAIR-Classifier of Hallucination as Improver**|Ao Sun et.al.|[2501.02518](http://arxiv.org/abs/2501.02518)|**[link](https://github.com/eggachecat/chair)**|
+|**2025-01-05**|**Towards Omni-RAG: Comprehensive Retrieval-Augmented Generation for Large Language Models in Medical Applications**|Zhe Chen et.al.|[2501.02460](http://arxiv.org/abs/2501.02460)|null|
+|**2025-01-04**|**Knowledge Graph Retrieval-Augmented Generation for LLM-based Recommendation**|Shijie Wang et.al.|[2501.02226](http://arxiv.org/abs/2501.02226)|null|
 |**2025-01-03**|**Mitigating Hallucination for Large Vision Language Model by Inter-Modality Correlation Calibration Decoding**|Jiaming Li et.al.|[2501.01926](http://arxiv.org/abs/2501.01926)|null|
 |**2025-01-03**|**LLMs & Legal Aid: Understanding Legal Needs Exhibited Through User Queries**|Michal Kuk et.al.|[2501.01711](http://arxiv.org/abs/2501.01711)|null|
 |**2025-01-03**|**(WhyPHI) Fine-Tuning PHI-3 for Multiple-Choice Question Answering: Methodology, Results, and Challenges**|Mohamed Hisham Abdellatif et.al.|[2501.01588](http://arxiv.org/abs/2501.01588)|null|
