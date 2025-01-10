@@ -2383,6 +2383,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-09**|**An Empirical Study of Autoregressive Pre-training from Videos**|Jathushan Rajasegaran et.al.|[2501.05453](http://arxiv.org/abs/2501.05453)|null|
+|**2025-01-09**|**ReFocus: Visual Editing as a Chain of Thought for Structured Image Understanding**|Xingyu Fu et.al.|[2501.05452](http://arxiv.org/abs/2501.05452)|null|
+|**2025-01-09**|**Can MLLMs Reason in Multimodality? EMMA: An Enhanced MultiModal ReAsoning Benchmark**|Yunzhuo Hao et.al.|[2501.05444](http://arxiv.org/abs/2501.05444)|null|
+|**2025-01-09**|**A survey of textual cyber abuse detection using cutting-edge language models and large language models**|Jose A. Diaz-Garcia et.al.|[2501.05443](http://arxiv.org/abs/2501.05443)|null|
+|**2025-01-09**|**Using LLMs to Infer Non-Binary COVID-19 Sentiments of Chinese Micro-bloggers**|Jerry Chongyi Hu et.al.|[2501.05423](http://arxiv.org/abs/2501.05423)|null|
+|**2025-01-09**|**LongProc: Benchmarking Long-Context Language Models on Long Procedural Generation**|Xi Ye et.al.|[2501.05414](http://arxiv.org/abs/2501.05414)|null|
+|**2025-01-09**|**Seeing Sound: Assembling Sounds from Visuals for Audio-to-Image Generation**|Darius Petermann et.al.|[2501.05413](http://arxiv.org/abs/2501.05413)|null|
+|**2025-01-09**|**FairCode: Evaluating Social Bias of LLMs in Code Generation**|Yongkang Du et.al.|[2501.05396](http://arxiv.org/abs/2501.05396)|null|
+|**2025-01-09**|**Large Physics Models: Towards a collaborative approach with Large Language Models and Foundation Models**|Kristian G. Barman et.al.|[2501.05382](http://arxiv.org/abs/2501.05382)|null|
+|**2025-01-09**|**Accelerated Diffusion Models via Speculative Sampling**|Valentin De Bortoli et.al.|[2501.05370](http://arxiv.org/abs/2501.05370)|null|
 |**2025-01-08**|**Re-ranking the Context for Multimodal Retrieval Augmented Generation**|Matin Mortaheb et.al.|[2501.04695](http://arxiv.org/abs/2501.04695)|null|
 |**2025-01-08**|**URSA: Understanding and Verifying Chain-of-thought Reasoning in Multimodal Mathematics**|Ruilin Luo et.al.|[2501.04686](http://arxiv.org/abs/2501.04686)|null|
 |**2025-01-08**|**Enhancing Financial VQA in Vision Language Models using Intermediate Structured Representations**|Archita Srivastava et.al.|[2501.04675](http://arxiv.org/abs/2501.04675)|null|
@@ -5037,6 +5047,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-09**|**Investigating Numerical Translation with Large Language Models**|Wei Tang et.al.|[2501.04927](http://arxiv.org/abs/2501.04927)|null|
 |**2025-01-08**|**When LLMs Struggle: Reference-less Translation Evaluation for Low-resource Languages**|Archchana Sindhujan et.al.|[2501.04473](http://arxiv.org/abs/2501.04473)|null|
 |**2025-01-07**|**Semantically Cohesive Word Grouping in Indian Languages**|N J Karthika et.al.|[2501.03988](http://arxiv.org/abs/2501.03988)|null|
 |**2025-01-07**|**Localizing AI: Evaluating Open-Weight Language Models for Languages of Baltic States**|Jurgita Kapočiūtė-Dzikienė et.al.|[2501.03952](http://arxiv.org/abs/2501.03952)|null|
@@ -5894,6 +5905,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-09**|**Simultaneous emulation and downscaling with physically-consistent deep learning-based regional ocean emulators**|Leonard Lupin-Jimenez et.al.|[2501.05058](http://arxiv.org/abs/2501.05058)|null|
+|**2025-01-09**|**ECBench: Can Multi-modal Foundation Models Understand the Egocentric World? A Holistic Embodied Cognition Benchmark**|Ronghao Dang et.al.|[2501.05031](http://arxiv.org/abs/2501.05031)|null|
+|**2025-01-09**|**Seeing with Partial Certainty: Conformal Prediction for Robotic Scene Recognition in Built Environments**|Yifan Xu et.al.|[2501.04947](http://arxiv.org/abs/2501.04947)|null|
+|**2025-01-09**|**HaVen: Hallucination-Mitigated LLM for Verilog Code Generation Aligned with HDL Engineers**|Yiyao Yang et.al.|[2501.04908](http://arxiv.org/abs/2501.04908)|null|
+|**2025-01-09**|**SUGAR: Leveraging Contextual Confidence for Smarter Retrieval**|Hanna Zubkova et.al.|[2501.04899](http://arxiv.org/abs/2501.04899)|null|
 |**2025-01-08**|**Re-ranking the Context for Multimodal Retrieval Augmented Generation**|Matin Mortaheb et.al.|[2501.04695](http://arxiv.org/abs/2501.04695)|null|
 |**2025-01-08**|**DRIVINGVQA: Analyzing Visual Chain-of-Thought Reasoning of Vision Language Models in Real-World Scenarios with Driving Theory Tests**|Charles Corbière et.al.|[2501.04671](http://arxiv.org/abs/2501.04671)|null|
 |**2025-01-08**|**Multi-task retriever fine-tuning for domain-specific and efficient RAG**|Patrice Béchard et.al.|[2501.04652](http://arxiv.org/abs/2501.04652)|null|
