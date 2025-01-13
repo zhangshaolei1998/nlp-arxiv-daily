@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.12
+## Updated on 2025.01.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2390,7 +2390,7 @@ layout: default
 |**2025-01-09**|**Using LLMs to Infer Non-Binary COVID-19 Sentiments of Chinese Micro-bloggers**|Jerry Chongyi Hu et.al.|[2501.05423](http://arxiv.org/abs/2501.05423)|null|
 |**2025-01-09**|**LongProc: Benchmarking Long-Context Language Models on Long Procedural Generation**|Xi Ye et.al.|[2501.05414](http://arxiv.org/abs/2501.05414)|null|
 |**2025-01-09**|**Seeing Sound: Assembling Sounds from Visuals for Audio-to-Image Generation**|Darius Petermann et.al.|[2501.05413](http://arxiv.org/abs/2501.05413)|null|
-|**2025-01-09**|**FairCode: Evaluating Social Bias of LLMs in Code Generation**|Yongkang Du et.al.|[2501.05396](http://arxiv.org/abs/2501.05396)|null|
+|**2025-01-09**|**FairCode: Evaluating Social Bias of LLMs in Code Generation**|Yongkang Du et.al.|[2501.05396](http://arxiv.org/abs/2501.05396)|**[link](https://github.com/yongkdu/faircode)**|
 |**2025-01-09**|**Large Physics Models: Towards a collaborative approach with Large Language Models and Foundation Models**|Kristian G. Barman et.al.|[2501.05382](http://arxiv.org/abs/2501.05382)|null|
 |**2025-01-09**|**Accelerated Diffusion Models via Speculative Sampling**|Valentin De Bortoli et.al.|[2501.05370](http://arxiv.org/abs/2501.05370)|null|
 |**2025-01-08**|**Re-ranking the Context for Multimodal Retrieval Augmented Generation**|Matin Mortaheb et.al.|[2501.04695](http://arxiv.org/abs/2501.04695)|null|
