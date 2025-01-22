@@ -2189,6 +2189,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-21**|**Two-photon Interference of Biphotons Emitted by Overlapping Resonances in Metasurfaces**|Jiho Noh et.al.|[2501.11850](http://arxiv.org/abs/2501.11850)|null|
+|**2025-01-18**|**EMO2: End-Effector Guided Audio-Driven Avatar Video Generation**|Linrui Tian et.al.|[2501.10687](http://arxiv.org/abs/2501.10687)|null|
 |**2025-01-05**|**Real Global Group Laws and Hu-Kriz Maps**|Jack Carlisle et.al.|[2501.05469](http://arxiv.org/abs/2501.05469)|null|
 |**2025-01-13**|**LDMapNet-U: An End-to-End System for City-Scale Lane-Level Map Updating**|Deguo Xia et.al.|[2501.02763](http://arxiv.org/abs/2501.02763)|null|
 |**2025-01-03**|**Multivariate Time Series Anomaly Detection using DiffGAN Model**|Guangqiang Wu et.al.|[2501.01591](http://arxiv.org/abs/2501.01591)|**[link](https://github.com/guangqiangwu/diffgan)**|
@@ -2384,6 +2386,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-21**|**InternVideo2.5: Empowering Video MLLMs with Long and Rich Context Modeling**|Yi Wang et.al.|[2501.12386](http://arxiv.org/abs/2501.12386)|**[link](https://github.com/opengvlab/internvideo)**|
+|**2025-01-21**|**Expertise elevates AI usage: experimental evidence comparing laypeople and professional artists**|Thomas F. Eisenmann et.al.|[2501.12374](http://arxiv.org/abs/2501.12374)|**[link](https://github.com/andreskarjus/genaiexperiment)**|
+|**2025-01-21**|**Is Long Context All You Need? Leveraging LLM's Extended Context for NL2SQL**|Yeounoh Chung et.al.|[2501.12372](http://arxiv.org/abs/2501.12372)|null|
+|**2025-01-21**|**Parameters vs FLOPs: Scaling Laws for Optimal Sparsity for Mixture-of-Experts Language Models**|Samira Abnar et.al.|[2501.12370](http://arxiv.org/abs/2501.12370)|null|
+|**2025-01-21**|**InternLM-XComposer2.5-Reward: A Simple Yet Effective Multi-Modal Reward Model**|Yuhang Zang et.al.|[2501.12368](http://arxiv.org/abs/2501.12368)|**[link](https://github.com/internlm/internlm-xcomposer)**|
+|**2025-01-21**|**Vision-Language Models for Automated Chest X-ray Interpretation: Leveraging ViT and GPT-2**|Md. Rakibul Islam et.al.|[2501.12356](http://arxiv.org/abs/2501.12356)|null|
+|**2025-01-21**|**Automatic Labelling with Open-source LLMs using Dynamic Label Schema Integration**|Thomas Walshe et.al.|[2501.12332](http://arxiv.org/abs/2501.12332)|null|
+|**2025-01-21**|**VARGPT: Unified Understanding and Generation in a Visual Autoregressive Multimodal Large Language Model**|Xianwei Zhuang et.al.|[2501.12327](http://arxiv.org/abs/2501.12327)|**[link](https://github.com/VARGPT-family/VARGPT)**|
+|**2025-01-21**|**LLM-Assisted Knowledge Graph Completion for Curriculum and Domain Modelling in Personalized Higher Education Recommendations**|Hasan Abu-Rasheed et.al.|[2501.12300](http://arxiv.org/abs/2501.12300)|null|
+|**2025-01-21**|**MoGERNN: An Inductive Traffic Predictor for Unobserved Locations in Dynamic Sensing Networks**|Qishen Zhou et.al.|[2501.12281](http://arxiv.org/abs/2501.12281)|**[link](https://github.com/youxiaotu/MoGERNN)**|
 |**2025-01-17**|**FaceXBench: Evaluating Multimodal LLMs on Face Understanding**|Kartik Narayan et.al.|[2501.10360](http://arxiv.org/abs/2501.10360)|**[link](https://github.com/kartik-3004/facexbench)**|
 |**2025-01-17**|**Agent4Edu: Generating Learner Response Data by Generative Agents for Intelligent Education Systems**|Weibo Gao et.al.|[2501.10332](http://arxiv.org/abs/2501.10332)|null|
 |**2025-01-17**|**BoK: Introducing Bag-of-Keywords Loss for Interpretable Dialogue Response Generation**|Suvodip Dey et.al.|[2501.10328](http://arxiv.org/abs/2501.10328)|**[link](https://github.com/suvodipdey/bok)**|
@@ -5108,11 +5120,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-21**|**Extend Adversarial Policy Against Neural Machine Translation via Unknown Token**|Wei Zou et.al.|[2501.12183](http://arxiv.org/abs/2501.12183)|null|
+|**2025-01-21**|**Proverbs Run in Pairs: Evaluating Proverb Translation Capability of Large Language Model**|Minghan Wang et.al.|[2501.11953](http://arxiv.org/abs/2501.11953)|null|
+|**2025-01-21**|**HERITAGE: An End-to-End Web Platform for Processing Korean Historical Documents in Hanja**|Seyoung Song et.al.|[2501.11951](http://arxiv.org/abs/2501.11951)|**[link](https://github.com/seyoungsong/hanja-platform)**|
+|**2025-01-18**|**Characterizing the Effects of Translation on Intertextuality using Multilingual Embedding Spaces**|Hope McGovern et.al.|[2501.10731](http://arxiv.org/abs/2501.10731)|null|
 |**2025-01-16**|**AI in Support of Diversity and Inclusion**|Çiçek Güven et.al.|[2501.09534](http://arxiv.org/abs/2501.09534)|null|
-|**2025-01-16**|**Solving the unsolvable: Translating case law in Hong Kong**|King-kui Sin et.al.|[2501.09444](http://arxiv.org/abs/2501.09444)|null|
+|**2025-01-18**|**Solving the Unsolvable: Translating Case Law in Hong Kong**|King-kui Sin et.al.|[2501.09444](http://arxiv.org/abs/2501.09444)|null|
 |**2025-01-15**|**ViBidirectionMT-Eval: Machine Translation for Vietnamese-Chinese and Vietnamese-Lao language pair**|Hong-Viet Tran et.al.|[2501.08621](http://arxiv.org/abs/2501.08621)|null|
 |**2025-01-15**|**Doc-Guided Sent2Sent++: A Sent2Sent++ Agent with Doc-Guided memory for Document-level Machine Translation**|Jiaxin Guo et.al.|[2501.08523](http://arxiv.org/abs/2501.08523)|null|
-|**2025-01-14**|**Quantifying the Importance of Data Alignment in Downstream Model Performance**|Krrish Chawla et.al.|[2501.08496](http://arxiv.org/abs/2501.08496)|null|
+|**2025-01-21**|**Quantifying the Importance of Data Alignment in Downstream Model Performance**|Krrish Chawla et.al.|[2501.08496](http://arxiv.org/abs/2501.08496)|null|
 |**2025-01-10**|**AFRIDOC-MT: Document-level MT Corpus for African Languages**|Jesujoba O. Alabi et.al.|[2501.06374](http://arxiv.org/abs/2501.06374)|null|
 |**2025-01-10**|**Large Language Models Share Representations of Latent Grammatical Concepts Across Typologically Diverse Languages**|Jannik Brinkmann et.al.|[2501.06346](http://arxiv.org/abs/2501.06346)|**[link](https://github.com/jannik-brinkmann/multilingual-features)**|
 |**2025-01-10**|**Merging Feed-Forward Sublayers for Compressed Transformers**|Neha Verma et.al.|[2501.06126](http://arxiv.org/abs/2501.06126)|**[link](https://github.com/nverma1/merging-ffs-compression)**|
@@ -5981,6 +5997,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-21**|**Fixing Imbalanced Attention to Mitigate In-Context Hallucination of Large Vision-Language Model**|Kazi Hasan Ibn Arif et.al.|[2501.12206](http://arxiv.org/abs/2501.12206)|null|
+|**2025-01-20**|**Investigation of Whisper ASR Hallucinations Induced by Non-Speech Audio**|Mateusz Barański et.al.|[2501.11378](http://arxiv.org/abs/2501.11378)|null|
+|**2025-01-20**|**Question-to-Question Retrieval for Hallucination-Free Knowledge Access: An Approach for Wikipedia and Wikidata Question Answering**|Santhosh Thottingal et.al.|[2501.11301](http://arxiv.org/abs/2501.11301)|null|
+|**2025-01-18**|**Iterative Tree Analysis for Medical Critics**|Zenan Huang et.al.|[2501.10642](http://arxiv.org/abs/2501.10642)|null|
+|**2025-01-17**|**4bit-Quantization in Vector-Embedding for RAG**|Taehee Jeong et.al.|[2501.10534](http://arxiv.org/abs/2501.10534)|**[link](https://github.com/taeheej/4bit-quantization-in-vector-embedding-for-rag)**|
+|**2025-01-17**|**ArxEval: Evaluating Retrieval and Generation in Language Models for Scientific Literature**|Aarush Sinha et.al.|[2501.10483](http://arxiv.org/abs/2501.10483)|null|
 |**2025-01-17**|**Towards Preventing Overreliance on Task-Oriented Conversational AI Through Accountability Modeling**|Suvodip Dey et.al.|[2501.10316](http://arxiv.org/abs/2501.10316)|**[link](https://github.com/uiuc-conversational-ai-lab/accountable-dst)**|
 |**2025-01-17**|**DiffuEraser: A Diffusion Model for Video Inpainting**|Xiaowen Li et.al.|[2501.10018](http://arxiv.org/abs/2501.10018)|null|
 |**2025-01-17**|**Mitigating Hallucinations on Object Attributes using Multiview Images and Negative Instructions**|Zhijie Tan et.al.|[2501.10011](http://arxiv.org/abs/2501.10011)|null|
