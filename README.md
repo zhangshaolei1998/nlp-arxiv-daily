@@ -2413,6 +2413,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-22**|**Refining Input Guardrails: Enhancing LLM-as-a-Judge Efficiency Through Chain-of-Thought Fine-Tuning and Alignment**|Melissa Kazemi Rad et.al.|[2501.13080](http://arxiv.org/abs/2501.13080)|null|
+|**2025-01-22**|**Autonomy-of-Experts Models**|Ang Lv et.al.|[2501.13074](http://arxiv.org/abs/2501.13074)|null|
+|**2025-01-22**|**Does Table Source Matter? Benchmarking and Improving Multimodal Scientific Table Understanding and Reasoning**|Bohao Yang et.al.|[2501.13042](http://arxiv.org/abs/2501.13042)|**[link](https://github.com/bernard-yang/mmsci_table)**|
+|**2025-01-22**|**Pairwise RM: Perform Best-of-N Sampling with Knockout Tournament**|Yantao Liu et.al.|[2501.13007](http://arxiv.org/abs/2501.13007)|**[link](https://github.com/thu-keg/pairwiserm)**|
+|**2025-01-22**|**Large Language Model-Based Semantic Communication System for Image Transmission**|Soheyb Ribouh et.al.|[2501.12988](http://arxiv.org/abs/2501.12988)|null|
+|**2025-01-22**|**LLM4WM: Adapting LLM for Wireless Multi-Tasking**|Xuanyu Liu et.al.|[2501.12983](http://arxiv.org/abs/2501.12983)|null|
+|**2025-01-22**|**OnionEval: An Unified Evaluation of Fact-conflicting Hallucination for Small-Large Language Models**|Chongren Sun et.al.|[2501.12975](http://arxiv.org/abs/2501.12975)|**[link](https://github.com/sunchongren/onioneval)**|
+|**2025-01-22**|**Accessible Smart Contracts Verification: Synthesizing Formal Models with Tamed LLMs**|Jan Corazza et.al.|[2501.12972](http://arxiv.org/abs/2501.12972)|null|
+|**2025-01-22**|**It's complicated. The relationship of algorithmic fairness and non-discrimination regulations in the EU AI Act**|Kristof Meding et.al.|[2501.12962](http://arxiv.org/abs/2501.12962)|null|
+|**2025-01-22**|**Efficient Prompt Compression with Evaluator Heads for Long-Context Transformer Inference**|Weizhi Fei et.al.|[2501.12959](http://arxiv.org/abs/2501.12959)|null|
 |**2025-01-21**|**InternVideo2.5: Empowering Video MLLMs with Long and Rich Context Modeling**|Yi Wang et.al.|[2501.12386](http://arxiv.org/abs/2501.12386)|**[link](https://github.com/opengvlab/internvideo)**|
 |**2025-01-21**|**Expertise elevates AI usage: experimental evidence comparing laypeople and professional artists**|Thomas F. Eisenmann et.al.|[2501.12374](http://arxiv.org/abs/2501.12374)|**[link](https://github.com/andreskarjus/genaiexperiment)**|
 |**2025-01-21**|**Is Long Context All You Need? Leveraging LLM's Extended Context for NL2SQL**|Yeounoh Chung et.al.|[2501.12372](http://arxiv.org/abs/2501.12372)|null|
@@ -6030,6 +6040,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-22**|**OnionEval: An Unified Evaluation of Fact-conflicting Hallucination for Small-Large Language Models**|Chongren Sun et.al.|[2501.12975](http://arxiv.org/abs/2501.12975)|**[link](https://github.com/sunchongren/onioneval)**|
+|**2025-01-22**|**FilmAgent: A Multi-Agent Framework for End-to-End Film Automation in Virtual 3D Spaces**|Zhenran Xu et.al.|[2501.12909](http://arxiv.org/abs/2501.12909)|null|
+|**2025-01-22**|**Adaptive Retrieval Without Self-Knowledge? Bringing Uncertainty Back Home**|Viktor Moskvoretskii et.al.|[2501.12835](http://arxiv.org/abs/2501.12835)|null|
+|**2025-01-22**|**Paradigm-Based Automatic HDL Code Generation Using LLMs**|Wenhao Sun et.al.|[2501.12702](http://arxiv.org/abs/2501.12702)|null|
 |**2025-01-21**|**Fixing Imbalanced Attention to Mitigate In-Context Hallucination of Large Vision-Language Model**|Kazi Hasan Ibn Arif et.al.|[2501.12206](http://arxiv.org/abs/2501.12206)|null|
 |**2025-01-20**|**Investigation of Whisper ASR Hallucinations Induced by Non-Speech Audio**|Mateusz Barański et.al.|[2501.11378](http://arxiv.org/abs/2501.11378)|null|
 |**2025-01-20**|**Question-to-Question Retrieval for Hallucination-Free Knowledge Access: An Approach for Wikipedia and Wikidata Question Answering**|Santhosh Thottingal et.al.|[2501.11301](http://arxiv.org/abs/2501.11301)|null|
