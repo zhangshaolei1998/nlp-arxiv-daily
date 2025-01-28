@@ -2413,6 +2413,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-27**|**LUCY: Linguistic Understanding and Control Yielding Early Stage of Her**|Heting Gao et.al.|[2501.16327](http://arxiv.org/abs/2501.16327)|**[link](https://github.com/vita-mllm/lucy)**|
+|**2025-01-27**|**Evaluating The Performance of Using Large Language Models to Automate Summarization of CT Simulation Orders in Radiation Oncology**|Meiyun Cao et.al.|[2501.16309](http://arxiv.org/abs/2501.16309)|null|
+|**2025-01-27**|**RAPID: Retrieval-Augmented Parallel Inference Drafting for Text-Based Video Event Retrieval**|Long Nguyen et.al.|[2501.16303](http://arxiv.org/abs/2501.16303)|null|
+|**2025-01-27**|**Matryoshka Re-Ranker: A Flexible Re-Ranking Architecture With Configurable Depth and Width**|Zheng Liu et.al.|[2501.16302](http://arxiv.org/abs/2501.16302)|null|
+|**2025-01-27**|**Large Models in Dialogue for Active Perception and Anomaly Detection**|Tzoulio Chamiti et.al.|[2501.16300](http://arxiv.org/abs/2501.16300)|null|
+|**2025-01-27**|**FALCON: Resolving Visual Redundancy and Fragmentation in High-resolution Multimodal Large Language Models via Visual Registers**|Renshan Zhang et.al.|[2501.16297](http://arxiv.org/abs/2501.16297)|null|
+|**2025-01-27**|**Brain-Adapter: Enhancing Neurological Disorder Analysis with Adapter-Tuning Multimodal Large Language Models**|Jing Zhang et.al.|[2501.16282](http://arxiv.org/abs/2501.16282)|null|
+|**2025-01-27**|**Do LLMs Have Visualization Literacy? An Evaluation on Modified Visualizations to Test Generalization in Data Interpretation**|Jiayi Hong et.al.|[2501.16277](http://arxiv.org/abs/2501.16277)|null|
+|**2025-01-27**|**URAG: Implementing a Unified Hybrid RAG for Precise Answers in University Admission Chatbots -- A Case Study at HCMUT**|Long Nguyen et.al.|[2501.16276](http://arxiv.org/abs/2501.16276)|null|
+|**2025-01-27**|**Return of the Encoder: Maximizing Parameter Efficiency for SLMs**|Mohamed Elfeki et.al.|[2501.16273](http://arxiv.org/abs/2501.16273)|null|
 |**2025-01-24**|**HERMES: A Unified Self-Driving World Model for Simultaneous 3D Scene Understanding and Generation**|Xin Zhou et.al.|[2501.14729](http://arxiv.org/abs/2501.14729)|**[link](https://github.com/lmd0311/hermes)**|
 |**2025-01-24**|**Do LLMs Provide Consistent Answers to Health-Related Questions across Languages?**|Ipek Baris Schlicht et.al.|[2501.14719](http://arxiv.org/abs/2501.14719)|null|
 |**2025-01-24**|**Towards Better Understanding Table Instruction Tuning: Decoupling the Effects from Data versus Models**|Naihao Deng et.al.|[2501.14717](http://arxiv.org/abs/2501.14717)|null|
@@ -5179,6 +5189,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-27**|**AdaCoT: Rethinking Cross-Lingual Factual Reasoning through Adaptive Chain-of-Thought**|Xin Huang et.al.|[2501.16154](http://arxiv.org/abs/2501.16154)|null|
+|**2025-01-27**|**Evaluation of NMT-Assisted Grammar Transfer for a Multi-Language Configurable Data-to-Text System**|Andreas Madsack et.al.|[2501.16135](http://arxiv.org/abs/2501.16135)|null|
+|**2025-01-26**|**Quantum-Enhanced Attention Mechanism in NLP: A Hybrid Classical-Quantum Approach**|S. M. Yousuf Iqbal Tomal et.al.|[2501.15630](http://arxiv.org/abs/2501.15630)|null|
+|**2025-01-26**|**Improving Estonian Text Simplification through Pretrained Language Models and Custom Datasets**|Eduard Barbu et.al.|[2501.15624](http://arxiv.org/abs/2501.15624)|null|
+|**2025-01-25**|**Faster Machine Translation Ensembling with Reinforcement Learning and Competitive Correction**|Kritarth Prasad et.al.|[2501.15219](http://arxiv.org/abs/2501.15219)|null|
 |**2025-01-24**|**Idiom Detection in Sorani Kurdish Texts**|Skala Kamaran Omer et.al.|[2501.14528](http://arxiv.org/abs/2501.14528)|null|
 |**2025-01-24**|**LoCoML: A Framework for Real-World ML Inference Pipelines**|Kritin Maddireddy et.al.|[2501.14165](http://arxiv.org/abs/2501.14165)|null|
 |**2025-01-23**|**CRPO: Confidence-Reward Driven Preference Optimization for Machine Translation**|Guofeng Cui et.al.|[2501.13927](http://arxiv.org/abs/2501.13927)|null|
@@ -5939,6 +5954,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-25**|**Speech Translation Refinement using Large Language Models**|Huaixia Dou et.al.|[2501.15090](http://arxiv.org/abs/2501.15090)|null|
 |**2025-01-14**|**Optimizing Speech Multi-View Feature Fusion through Conditional Computation**|Weiqiao Shan et.al.|[2501.08057](http://arxiv.org/abs/2501.08057)|**[link](https://github.com/shanweiqiao/gsgn)**|
 |**2025-01-10**|**Addressing speaker gender bias in large scale speech translation systems**|Shubham Bansal et.al.|[2501.05989](http://arxiv.org/abs/2501.05989)|null|
 |**2025-01-10**|**Large Model Empowered Streaming Semantic Communications for Speech Translation**|Zhenzi Weng et.al.|[2501.05859](http://arxiv.org/abs/2501.05859)|**[link](https://github.com/Zhenzi-Weng/LaSC-ST)**|
@@ -6065,6 +6081,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-27**|**Parametric Retrieval Augmented Generation**|Weihang Su et.al.|[2501.15915](http://arxiv.org/abs/2501.15915)|**[link](https://github.com/oneal2000/prag)**|
+|**2025-01-27**|**Gensors: Authoring Personalized Visual Sensors with Multimodal Foundation Models and Reasoning**|Michael Xieyang Liu et.al.|[2501.15727](http://arxiv.org/abs/2501.15727)|null|
+|**2025-01-26**|**Scaling Large Vision-Language Models for Enhanced Multimodal Comprehension In Biomedical Image Analysis**|Robinson Umeike et.al.|[2501.15370](http://arxiv.org/abs/2501.15370)|null|
+|**2025-01-25**|**Mirage in the Eyes: Hallucination Attack on Multi-modal Large Language Models with Only Attention Sink**|Yining Wang et.al.|[2501.15269](http://arxiv.org/abs/2501.15269)|null|
+|**2025-01-25**|**Improving Retrieval-Augmented Generation through Multi-Agent Reinforcement Learning**|Yiqun Chen et.al.|[2501.15228](http://arxiv.org/abs/2501.15228)|**[link](https://github.com/chenyiqun/mmoa-rag)**|
+|**2025-01-25**|**Evaluating Hallucination in Large Vision-Language Models based on Context-Aware Object Similarities**|Shounak Datta et.al.|[2501.15046](http://arxiv.org/abs/2501.15046)|null|
+|**2025-01-25**|**Federated Retrieval Augmented Generation for Multi-Product Question Answering**|Parshin Shojaee et.al.|[2501.14998](http://arxiv.org/abs/2501.14998)|null|
+|**2025-01-24**|**Measuring and Mitigating Hallucinations in Vision-Language Dataset Generation for Remote Sensing**|Madeline Anderson et.al.|[2501.14905](http://arxiv.org/abs/2501.14905)|null|
+|**2025-01-24**|**Causal Graphs Meet Thoughts: Enhancing Complex Reasoning in Graph-Augmented LLMs**|Hang Luo et.al.|[2501.14892](http://arxiv.org/abs/2501.14892)|null|
 |**2025-01-24**|**Fast Think-on-Graph: Wider, Deeper and Faster Reasoning of Large Language Model on Knowledge Graph**|Xujian Liang et.al.|[2501.14300](http://arxiv.org/abs/2501.14300)|**[link](https://github.com/dosonleung/fasttog)**|
 |**2025-01-23**|**Comprehensive Modeling and Question Answering of Cancer Clinical Practice Guidelines using LLMs**|Bhumika Gupta et.al.|[2501.13984](http://arxiv.org/abs/2501.13984)|null|
 |**2025-01-23**|**Hallucinations Can Improve Large Language Models in Drug Discovery**|Shuzhou Yuan et.al.|[2501.13824](http://arxiv.org/abs/2501.13824)|null|
