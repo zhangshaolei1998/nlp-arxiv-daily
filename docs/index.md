@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.01
+## Updated on 2025.02.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -5191,7 +5191,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-01-30**|**How to Select Datapoints for Efficient Human Evaluation of NLG Models?**|Vilém Zouhar et.al.|[2501.18251](http://arxiv.org/abs/2501.18251)|null|
+|**2025-01-30**|**How to Select Datapoints for Efficient Human Evaluation of NLG Models?**|Vilém Zouhar et.al.|[2501.18251](http://arxiv.org/abs/2501.18251)|**[link](https://github.com/zouharvi/subset2evaluate)**|
 |**2025-01-29**|**Cross-Language Approach for Quranic QA**|Islam Oshallah et.al.|[2501.17449](http://arxiv.org/abs/2501.17449)|null|
 |**2025-01-28**|**Mitigating Hallucinated Translations in Large Language Models with Hallucination-focused Preference Optimization**|Zilu Tang et.al.|[2501.17295](http://arxiv.org/abs/2501.17295)|null|
 |**2025-01-28**|**Misspellings in Natural Language Processing: A survey**|Gianluca Sperduti et.al.|[2501.16836](http://arxiv.org/abs/2501.16836)|null|
