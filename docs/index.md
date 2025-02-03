@@ -2387,6 +2387,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-31**|**Low-Rank Adapting Models for Sparse Autoencoders**|Matthew Chen et.al.|[2501.19406](http://arxiv.org/abs/2501.19406)|null|
+|**2025-01-31**|**Vintix: Action Model via In-Context Reinforcement Learning**|Andrey Polubarov et.al.|[2501.19400](http://arxiv.org/abs/2501.19400)|**[link](https://github.com/dunnolab/vintix)**|
+|**2025-01-31**|**Scalable-Softmax Is Superior for Attention**|Ken M. Nakanishi et.al.|[2501.19399](http://arxiv.org/abs/2501.19399)|null|
+|**2025-01-31**|**Do LLMs Strategically Reveal, Conceal, and Infer Information? A Theoretical and Empirical Analysis in The Chameleon Game**|Mustafa O. Karabag et.al.|[2501.19398](http://arxiv.org/abs/2501.19398)|null|
+|**2025-01-31**|**s1: Simple test-time scaling**|Niklas Muennighoff et.al.|[2501.19393](http://arxiv.org/abs/2501.19393)|**[link](https://github.com/simplescaling/s1)**|
+|**2025-01-31**|**Cache Me If You Must: Adaptive Key-Value Quantization for Large Language Models**|Alina Shutova et.al.|[2501.19392](http://arxiv.org/abs/2501.19392)|null|
+|**2025-01-31**|**Federated Sketching LoRA: On-Device Collaborative Fine-Tuning of Large Language Models**|Wenzhi Fang et.al.|[2501.19389](http://arxiv.org/abs/2501.19389)|null|
+|**2025-01-31**|**Decoding-based Regression**|Xingyou Song et.al.|[2501.19383](http://arxiv.org/abs/2501.19383)|**[link](https://github.com/google-research/optformer)**|
+|**2025-01-31**|**TableMaster: A Recipe to Advance Table Understanding with Language Models**|Lang Cao et.al.|[2501.19378](http://arxiv.org/abs/2501.19378)|null|
+|**2025-01-31**|**SELMA: A Speech-Enabled Language Model for Virtual Assistant Interactions**|Dominik Wagner et.al.|[2501.19377](http://arxiv.org/abs/2501.19377)|null|
 |**2025-01-30**|**Foundational Models for 3D Point Clouds: A Survey and Outlook**|Vishal Thengane et.al.|[2501.18594](http://arxiv.org/abs/2501.18594)|null|
 |**2025-01-30**|**Thoughts Are All Over the Place: On the Underthinking of o1-Like LLMs**|Yue Wang et.al.|[2501.18585](http://arxiv.org/abs/2501.18585)|null|
 |**2025-01-30**|**Prediction-Powered Inference with Imputed Covariates and Nonuniform Sampling**|Dan M. Kluger et.al.|[2501.18577](http://arxiv.org/abs/2501.18577)|**[link](https://github.com/DanKluger/Predict-Then-Debias_Bootstrap)**|
@@ -5191,6 +5201,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-31**|**An Efficient Approach for Machine Translation on Low-resource Languages: A Case Study in Vietnamese-Chinese**|Tran Ngoc Son et.al.|[2501.19314](http://arxiv.org/abs/2501.19314)|null|
+|**2025-01-31**|**Brain-inspired sparse training enables Transformers and LLMs to perform as fully connected**|Yingtao Zhang et.al.|[2501.19107](http://arxiv.org/abs/2501.19107)|null|
+|**2025-01-30**|**Overestimation in LLM Evaluation: A Controlled Large-Scale Study on Data Contamination's Impact on Machine Translation**|Muhammed Yusuf Kocyigit et.al.|[2501.18771](http://arxiv.org/abs/2501.18771)|null|
 |**2025-01-30**|**How to Select Datapoints for Efficient Human Evaluation of NLG Models?**|Vilém Zouhar et.al.|[2501.18251](http://arxiv.org/abs/2501.18251)|**[link](https://github.com/zouharvi/subset2evaluate)**|
 |**2025-01-29**|**Cross-Language Approach for Quranic QA**|Islam Oshallah et.al.|[2501.17449](http://arxiv.org/abs/2501.17449)|null|
 |**2025-01-28**|**Mitigating Hallucinated Translations in Large Language Models with Hallucination-focused Preference Optimization**|Zilu Tang et.al.|[2501.17295](http://arxiv.org/abs/2501.17295)|null|
@@ -6086,8 +6099,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-31**|**Poison as Cure: Visual Noise for Mitigating Object Hallucinations in LVMs**|Kejia Zhang et.al.|[2501.19164](http://arxiv.org/abs/2501.19164)|null|
+|**2025-01-31**|**Importing Phantoms: Measuring LLM Package Hallucination Vulnerabilities**|Arjun Krishna et.al.|[2501.19012](http://arxiv.org/abs/2501.19012)|null|
 |**2025-01-30**|**Differentially Private Steering for Large Language Model Alignment**|Anmol Goel et.al.|[2501.18532](http://arxiv.org/abs/2501.18532)|**[link](https://github.com/ukplab/iclr2025-psa)**|
-|**2025-01-30**|**RepoAudit: An Autonomous LLM-Agent for Repository-Level Code Auditing**|Jinyao Guo et.al.|[2501.18160](http://arxiv.org/abs/2501.18160)|null|
+|**2025-01-31**|**RepoAudit: An Autonomous LLM-Agent for Repository-Level Code Auditing**|Jinyao Guo et.al.|[2501.18160](http://arxiv.org/abs/2501.18160)|null|
 |**2025-01-28**|**Mitigating Hallucinated Translations in Large Language Models with Hallucination-focused Preference Optimization**|Zilu Tang et.al.|[2501.17295](http://arxiv.org/abs/2501.17295)|null|
 |**2025-01-28**|**FactCG: Enhancing Fact Checkers with Graph-Based Multi-Hop Data**|Deren Lei et.al.|[2501.17144](http://arxiv.org/abs/2501.17144)|**[link](https://github.com/derenlei/factcg)**|
 |**2025-01-28**|**CHiP: Cross-modal Hierarchical Direct Preference Optimization for Multimodal LLMs**|Jinlan Fu et.al.|[2501.16629](http://arxiv.org/abs/2501.16629)|**[link](https://github.com/lvugai/chip)**|
