@@ -2189,6 +2189,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-02**|**SimulPL: Aligning Human Preferences in Simultaneous Machine Translation**|Donglei Yu et.al.|[2502.00634](http://arxiv.org/abs/2502.00634)|null|
 |**2025-01-27**|**Electrically tunable Floquet Weyl photon emission from Dirac semimetal Cd3As2**|Sobhan Subhra Mishra et.al.|[2501.16498](http://arxiv.org/abs/2501.16498)|null|
 |**2025-01-21**|**Two-photon Interference of Biphotons Emitted by Overlapping Resonances in Metasurfaces**|Jiho Noh et.al.|[2501.11850](http://arxiv.org/abs/2501.11850)|null|
 |**2025-01-18**|**EMO2: End-Effector Guided Audio-Driven Avatar Video Generation**|Linrui Tian et.al.|[2501.10687](http://arxiv.org/abs/2501.10687)|null|
@@ -2387,6 +2388,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-04**|**Articulate AnyMesh: Open-Vocabulary 3D Articulated Objects Modeling**|Xiaowen Qiu et.al.|[2502.02590](http://arxiv.org/abs/2502.02590)|null|
+|**2025-02-04**|**COCONut-PanCap: Joint Panoptic Segmentation and Grounded Captions for Fine-Grained Understanding and Generation**|Xueqing Deng et.al.|[2502.02589](http://arxiv.org/abs/2502.02589)|null|
+|**2025-02-04**|**A comparison of translation performance between DeepL and Supertext**|Alex Flückiger et.al.|[2502.02577](http://arxiv.org/abs/2502.02577)|null|
+|**2025-02-04**|**Are Language Models Up to Sequential Optimization Problems? From Evaluation to a Hegelian-Inspired Enhancement**|Soheil Abbasloo et.al.|[2502.02573](http://arxiv.org/abs/2502.02573)|null|
+|**2025-02-04**|**Learning the RoPEs: Better 2D and 3D Position Encodings with STRING**|Connor Schenck et.al.|[2502.02562](http://arxiv.org/abs/2502.02562)|null|
+|**2025-02-04**|**Mosaic3D: Foundation Dataset and Model for Open-Vocabulary 3D Segmentation**|Junha Lee et.al.|[2502.02548](http://arxiv.org/abs/2502.02548)|null|
+|**2025-02-04**|**LLMs for Generation of Architectural Components: An Exploratory Empirical Study in the Serverless World**|Shrikara Arun et.al.|[2502.02539](http://arxiv.org/abs/2502.02539)|null|
+|**2025-02-04**|**Adaptive Self-improvement LLM Agentic System for ML Library Development**|Genghan Zhang et.al.|[2502.02534](http://arxiv.org/abs/2502.02534)|null|
+|**2025-02-04**|**Multi-Agent Design: Optimizing Agents with Better Prompts and Topologies**|Han Zhou et.al.|[2502.02533](http://arxiv.org/abs/2502.02533)|null|
+|**2025-02-04**|**Satori: Reinforcement Learning with Chain-of-Action-Thought Enhances LLM Reasoning via Autoregressive Search**|Maohao Shen et.al.|[2502.02508](http://arxiv.org/abs/2502.02508)|null|
 |**2025-01-31**|**Low-Rank Adapting Models for Sparse Autoencoders**|Matthew Chen et.al.|[2501.19406](http://arxiv.org/abs/2501.19406)|**[link](https://github.com/matchten/lora-models-for-saes)**|
 |**2025-01-31**|**Vintix: Action Model via In-Context Reinforcement Learning**|Andrey Polubarov et.al.|[2501.19400](http://arxiv.org/abs/2501.19400)|**[link](https://github.com/dunnolab/vintix)**|
 |**2025-01-31**|**Scalable-Softmax Is Superior for Attention**|Ken M. Nakanishi et.al.|[2501.19399](http://arxiv.org/abs/2501.19399)|null|
@@ -5201,6 +5212,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-04**|**A comparison of translation performance between DeepL and Supertext**|Alex Flückiger et.al.|[2502.02577](http://arxiv.org/abs/2502.02577)|null|
+|**2025-02-04**|**Multilingual Machine Translation with Open Large Language Models at Practical Scale: An Empirical Study**|Menglong Cui et.al.|[2502.02481](http://arxiv.org/abs/2502.02481)|null|
+|**2025-02-04**|**Beyond English: Evaluating Automated Measurement of Moral Foundations in Non-English Discourse with a Chinese Case Study**|Calvin Yixiang Cheng et.al.|[2502.02451](http://arxiv.org/abs/2502.02451)|null|
+|**2025-02-03**|**Memorization Inheritance in Sequence-Level Knowledge Distillation for Neural Machine Translation**|Verna Dankers et.al.|[2502.01491](http://arxiv.org/abs/2502.01491)|null|
+|**2025-02-03**|**A Single Model Ensemble Framework for Neural Machine Translation using Pivot Translation**|Seokjin Oh et.al.|[2502.01182](http://arxiv.org/abs/2502.01182)|null|
+|**2025-02-02**|**SimulPL: Aligning Human Preferences in Simultaneous Machine Translation**|Donglei Yu et.al.|[2502.00634](http://arxiv.org/abs/2502.00634)|null|
+|**2025-02-01**|**When End-to-End is Overkill: Rethinking Cascaded Speech-to-Text Translation**|Anna Min et.al.|[2502.00377](http://arxiv.org/abs/2502.00377)|null|
 |**2025-01-31**|**An Efficient Approach for Machine Translation on Low-resource Languages: A Case Study in Vietnamese-Chinese**|Tran Ngoc Son et.al.|[2501.19314](http://arxiv.org/abs/2501.19314)|null|
 |**2025-01-31**|**Brain-inspired sparse training enables Transformers and LLMs to perform as fully connected**|Yingtao Zhang et.al.|[2501.19107](http://arxiv.org/abs/2501.19107)|null|
 |**2025-01-30**|**Overestimation in LLM Evaluation: A Controlled Large-Scale Study on Data Contamination's Impact on Machine Translation**|Muhammed Yusuf Kocyigit et.al.|[2501.18771](http://arxiv.org/abs/2501.18771)|null|
@@ -5974,6 +5992,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-01**|**A Unit-based System and Dataset for Expressive Direct Speech-to-Speech Translation**|Anna Min et.al.|[2502.00374](http://arxiv.org/abs/2502.00374)|null|
 |**2025-01-25**|**Speech Translation Refinement using Large Language Models**|Huaixia Dou et.al.|[2501.15090](http://arxiv.org/abs/2501.15090)|**[link](https://github.com/world1tree/SpeechTranslationRefinement)**|
 |**2025-01-14**|**Optimizing Speech Multi-View Feature Fusion through Conditional Computation**|Weiqiao Shan et.al.|[2501.08057](http://arxiv.org/abs/2501.08057)|**[link](https://github.com/shanweiqiao/gsgn)**|
 |**2025-01-10**|**Addressing speaker gender bias in large scale speech translation systems**|Shubham Bansal et.al.|[2501.05989](http://arxiv.org/abs/2501.05989)|null|
@@ -6099,6 +6118,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-04**|**From Accidents to Insights: Leveraging Multimodal Data for Scenario-Driven ADS Testing**|Siwei Luo et.al.|[2502.02025](http://arxiv.org/abs/2502.02025)|null|
+|**2025-02-04**|**Mitigating Object Hallucinations in Large Vision-Language Models via Attention Calibration**|Younan Zhu et.al.|[2502.01969](http://arxiv.org/abs/2502.01969)|null|
+|**2025-02-04**|**DAMO: Data- and Model-aware Alignment of Multi-modal LLMs**|Jinda Lu et.al.|[2502.01943](http://arxiv.org/abs/2502.01943)|null|
+|**2025-02-03**|**Sample, Scrutinize and Scale: Effective Inference-Time Search by Scaling Verification**|Eric Zhao et.al.|[2502.01839](http://arxiv.org/abs/2502.01839)|null|
+|**2025-02-03**|**SelfCheckAgent: Zero-Resource Hallucination Detection in Generative Large Language Models**|Diyana Muhammed et.al.|[2502.01812](http://arxiv.org/abs/2502.01812)|null|
+|**2025-02-03**|**MJ-VIDEO: Fine-Grained Benchmarking and Rewarding Video Preferences in Video Generation**|Haibo Tong et.al.|[2502.01719](http://arxiv.org/abs/2502.01719)|null|
+|**2025-02-03**|**Robust-LLaVA: On the Effectiveness of Large-Scale Robust Image Encoders for Multi-modal Large Language Models**|Hashmat Shadab Malik et.al.|[2502.01576](http://arxiv.org/abs/2502.01576)|null|
+|**2025-02-03**|**CondAmbigQA: A Benchmark and Dataset for Conditional Ambiguous Question Answering**|Zongxi Li et.al.|[2502.01523](http://arxiv.org/abs/2502.01523)|null|
+|**2025-02-03**|**Memorization Inheritance in Sequence-Level Knowledge Distillation for Neural Machine Translation**|Verna Dankers et.al.|[2502.01491](http://arxiv.org/abs/2502.01491)|null|
+|**2025-02-03**|**Assessing the use of Diffusion models for motion artifact correction in brain MRI**|Paolo Angella et.al.|[2502.01418](http://arxiv.org/abs/2502.01418)|null|
 |**2025-01-31**|**Poison as Cure: Visual Noise for Mitigating Object Hallucinations in LVMs**|Kejia Zhang et.al.|[2501.19164](http://arxiv.org/abs/2501.19164)|null|
 |**2025-01-31**|**Importing Phantoms: Measuring LLM Package Hallucination Vulnerabilities**|Arjun Krishna et.al.|[2501.19012](http://arxiv.org/abs/2501.19012)|null|
 |**2025-01-30**|**Differentially Private Steering for Large Language Model Alignment**|Anmol Goel et.al.|[2501.18532](http://arxiv.org/abs/2501.18532)|**[link](https://github.com/ukplab/iclr2025-psa)**|
