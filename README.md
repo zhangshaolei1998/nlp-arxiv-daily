@@ -5265,7 +5265,7 @@
 |**2025-02-06**|**BOUQuET: dataset, Benchmark and Open initiative for Universal Quality Evaluation in Translation**|The Omnilingual MT Team et.al.|[2502.04314](http://arxiv.org/abs/2502.04314)|null|
 |**2025-02-05**|**DOLFIN -- Document-Level Financial test set for Machine Translation**|Mariam Nakhlé et.al.|[2502.03053](http://arxiv.org/abs/2502.03053)|null|
 |**2025-02-04**|**Cross-Lingual Transfer for Low-Resource Natural Language Processing**|Iker García-Ferrero et.al.|[2502.02722](http://arxiv.org/abs/2502.02722)|null|
-|**2025-02-04**|**A comparison of translation performance between DeepL and Supertext**|Alex Flückiger et.al.|[2502.02577](http://arxiv.org/abs/2502.02577)|null|
+|**2025-02-04**|**A comparison of translation performance between DeepL and Supertext**|Alex Flückiger et.al.|[2502.02577](http://arxiv.org/abs/2502.02577)|**[link](https://github.com/supertext/evaluation_deepl_supertext)**|
 |**2025-02-05**|**Multilingual Machine Translation with Open Large Language Models at Practical Scale: An Empirical Study**|Menglong Cui et.al.|[2502.02481](http://arxiv.org/abs/2502.02481)|null|
 |**2025-02-05**|**Beyond English: Evaluating Automated Measurement of Moral Foundations in Non-English Discourse with a Chinese Case Study**|Calvin Yixiang Cheng et.al.|[2502.02451](http://arxiv.org/abs/2502.02451)|null|
 |**2025-02-03**|**Memorization Inheritance in Sequence-Level Knowledge Distillation for Neural Machine Translation**|Verna Dankers et.al.|[2502.01491](http://arxiv.org/abs/2502.01491)|null|
