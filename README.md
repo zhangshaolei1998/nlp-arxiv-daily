@@ -2214,6 +2214,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-09**|**Synergistic Effects of Knowledge Distillation and Structured Pruning for Self-Supervised Speech Models**|Shiva Kumar C et.al.|[2502.05837](http://arxiv.org/abs/2502.05837)|null|
 |**2025-02-05**|**High-Fidelity Simultaneous Speech-To-Speech Translation**|Tom Labiausse et.al.|[2502.03382](http://arxiv.org/abs/2502.03382)|null|
 |**2025-02-05**|**SimulPL: Aligning Human Preferences in Simultaneous Machine Translation**|Donglei Yu et.al.|[2502.00634](http://arxiv.org/abs/2502.00634)|null|
 |**2025-01-27**|**Electrically tunable Floquet Weyl photon emission from Dirac semimetal Cd3As2**|Sobhan Subhra Mishra et.al.|[2501.16498](http://arxiv.org/abs/2501.16498)|null|
@@ -2416,6 +2417,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-10**|**EVEv2: Improved Baselines for Encoder-Free Vision-Language Models**|Haiwen Diao et.al.|[2502.06788](http://arxiv.org/abs/2502.06788)|null|
+|**2025-02-10**|**Visual Agentic AI for Spatial Reasoning with a Dynamic API**|Damiano Marsili et.al.|[2502.06787](http://arxiv.org/abs/2502.06787)|null|
+|**2025-02-10**|**DeepCrossAttention: Supercharging Transformer Residual Connections**|Mike Heddes et.al.|[2502.06785](http://arxiv.org/abs/2502.06785)|null|
+|**2025-02-10**|**Towards Internet-Scale Training For Agents**|Brandon Trabucco et.al.|[2502.06776](http://arxiv.org/abs/2502.06776)|null|
+|**2025-02-10**|**Enhancing Trust in Language Model-Based Code Optimization through RLHF: A Research Design**|Jingzhi Gong et.al.|[2502.06769](http://arxiv.org/abs/2502.06769)|null|
+|**2025-02-10**|**Exploiting Sparsity for Long Context Inference: Million Token Contexts on Commodity GPUs**|Ryan Synk et.al.|[2502.06766](http://arxiv.org/abs/2502.06766)|null|
+|**2025-02-10**|**Rationalization Models for Text-to-SQL**|Gaetano Rossiello et.al.|[2502.06759](http://arxiv.org/abs/2502.06759)|null|
+|**2025-02-10**|**Gradient Multi-Normalization for Stateless and Scalable LLM Training**|Meyer Scetbon et.al.|[2502.06742](http://arxiv.org/abs/2502.06742)|null|
+|**2025-02-10**|**VersaPRM: Multi-Domain Process Reward Model via Synthetic Reasoning Data**|Thomas Zeng et.al.|[2502.06737](http://arxiv.org/abs/2502.06737)|null|
+|**2025-02-10**|**Dynamic Loss-Based Sample Reweighting for Improved Large Language Model Pretraining**|Daouda Sow et.al.|[2502.06733](http://arxiv.org/abs/2502.06733)|null|
 |**2025-02-07**|**Long-VITA: Scaling Large Multi-modal Models to 1 Million Tokens with Leading Short-Context Accuray**|Yunhang Shen et.al.|[2502.05177](http://arxiv.org/abs/2502.05177)|null|
 |**2025-02-07**|**Scaling up Test-Time Compute with Latent Reasoning: A Recurrent Depth Approach**|Jonas Geiping et.al.|[2502.05171](http://arxiv.org/abs/2502.05171)|null|
 |**2025-02-07**|**NoLiMa: Long-Context Evaluation Beyond Literal Matching**|Ali Modarressi et.al.|[2502.05167](http://arxiv.org/abs/2502.05167)|null|
@@ -5272,6 +5283,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-10**|**Evaluation of Multilingual Image Captioning: How far can we get with CLIP models?**|Gonçalo Gomes et.al.|[2502.06600](http://arxiv.org/abs/2502.06600)|null|
 |**2025-02-07**|**CoCoA: A Generalized Approach to Uncertainty Quantification by Integrating Confidence and Consistency of LLM Outputs**|Roman Vashurin et.al.|[2502.04964](http://arxiv.org/abs/2502.04964)|null|
 |**2025-02-07**|**Evaluating Text Style Transfer Evaluation: Are There Any Reliable Metrics?**|Sourabrata Mukherjee et.al.|[2502.04718](http://arxiv.org/abs/2502.04718)|null|
 |**2025-02-06**|**Multilingual Non-Autoregressive Machine Translation without Knowledge Distillation**|Chenyang Huang et.al.|[2502.04537](http://arxiv.org/abs/2502.04537)|null|
@@ -6060,6 +6072,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-09**|**Speech to Speech Translation with Translatotron: A State of the Art Review**|Jules R. Kala et.al.|[2502.05980](http://arxiv.org/abs/2502.05980)|null|
 |**2025-02-05**|**High-Fidelity Simultaneous Speech-To-Speech Translation**|Tom Labiausse et.al.|[2502.03382](http://arxiv.org/abs/2502.03382)|null|
 |**2025-02-04**|**Streaming Speaker Change Detection and Gender Classification for Transducer-Based Multi-Talker Speech Translation**|Peidong Wang et.al.|[2502.02683](http://arxiv.org/abs/2502.02683)|null|
 |**2025-02-01**|**A Unit-based System and Dataset for Expressive Direct Speech-to-Speech Translation**|Anna Min et.al.|[2502.00374](http://arxiv.org/abs/2502.00374)|null|
@@ -6190,6 +6203,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-10**|**Enhancing Trust in Language Model-Based Code Optimization through RLHF: A Research Design**|Jingzhi Gong et.al.|[2502.06769](http://arxiv.org/abs/2502.06769)|null|
+|**2025-02-10**|**Benchmarking Vision-Language Models on Optical Character Recognition in Dynamic Video Environments**|Sankalp Nagaonkar et.al.|[2502.06445](http://arxiv.org/abs/2502.06445)|null|
+|**2025-02-10**|**Expect the Unexpected: FailSafe Long Context QA for Finance**|Kiran Kamble et.al.|[2502.06329](http://arxiv.org/abs/2502.06329)|null|
+|**2025-02-10**|**Self-Correcting Decoding with Generative Feedback for Mitigating Hallucinations in Large Vision-Language Models**|Ce Zhang et.al.|[2502.06130](http://arxiv.org/abs/2502.06130)|null|
+|**2025-02-09**|**ClinKD: Cross-Modal Clinic Knowledge Distiller For Multi-Task Medical Images**|Hongyu Ge et.al.|[2502.05928](http://arxiv.org/abs/2502.05928)|null|
+|**2025-02-09**|**GRAIT: Gradient-Driven Refusal-Aware Instruction Tuning for Effective Hallucination Mitigation**|Runchuan Zhu et.al.|[2502.05911](http://arxiv.org/abs/2502.05911)|null|
+|**2025-02-09**|**Self-Training Large Language Models for Tool-Use Without Demonstrations**|Ne Luo et.al.|[2502.05867](http://arxiv.org/abs/2502.05867)|null|
+|**2025-02-09**|**Delta - Contrastive Decoding Mitigates Text Hallucinations in Large Language Models**|Cheng Peng Huang et.al.|[2502.05825](http://arxiv.org/abs/2502.05825)|null|
+|**2025-02-08**|**Large Multimodal Models for Low-Resource Languages: A Survey**|Marian Lupascu et.al.|[2502.05568](http://arxiv.org/abs/2502.05568)|null|
 |**2025-02-07**|**VideoRoPE: What Makes for Good Video Rotary Position Embedding?**|Xilin Wei et.al.|[2502.05173](http://arxiv.org/abs/2502.05173)|null|
 |**2025-02-07**|**ChallengeMe: An Adversarial Learning-enabled Text Summarization Framework**|Xiaoyu Deng et.al.|[2502.05084](http://arxiv.org/abs/2502.05084)|null|
 |**2025-02-07**|**Self-Rationalization in the Wild: A Large Scale Out-of-Distribution Evaluation on NLI-related tasks**|Jing Yang et.al.|[2502.04797](http://arxiv.org/abs/2502.04797)|null|
