@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.11
+## Updated on 2025.02.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -5263,7 +5263,7 @@ layout: default
 |**2025-02-04**|**Cross-Lingual Transfer for Low-Resource Natural Language Processing**|Iker García-Ferrero et.al.|[2502.02722](http://arxiv.org/abs/2502.02722)|null|
 |**2025-02-04**|**A comparison of translation performance between DeepL and Supertext**|Alex Flückiger et.al.|[2502.02577](http://arxiv.org/abs/2502.02577)|**[link](https://github.com/supertext/evaluation_deepl_supertext)**|
 |**2025-02-07**|**Multilingual Machine Translation with Open Large Language Models at Practical Scale: An Empirical Study**|Menglong Cui et.al.|[2502.02481](http://arxiv.org/abs/2502.02481)|null|
-|**2025-02-05**|**Beyond English: Evaluating Automated Measurement of Moral Foundations in Non-English Discourse with a Chinese Case Study**|Calvin Yixiang Cheng et.al.|[2502.02451](http://arxiv.org/abs/2502.02451)|null|
+|**2025-02-05**|**Beyond English: Evaluating Automated Measurement of Moral Foundations in Non-English Discourse with a Chinese Case Study**|Calvin Yixiang Cheng et.al.|[2502.02451](http://arxiv.org/abs/2502.02451)|**[link](https://github.com/calvinchengyx/cross-lan-mft-measure)**|
 |**2025-02-03**|**Memorization Inheritance in Sequence-Level Knowledge Distillation for Neural Machine Translation**|Verna Dankers et.al.|[2502.01491](http://arxiv.org/abs/2502.01491)|null|
 |**2025-02-03**|**A Single Model Ensemble Framework for Neural Machine Translation using Pivot Translation**|Seokjin Oh et.al.|[2502.01182](http://arxiv.org/abs/2502.01182)|null|
 |**2025-02-05**|**SimulPL: Aligning Human Preferences in Simultaneous Machine Translation**|Donglei Yu et.al.|[2502.00634](http://arxiv.org/abs/2502.00634)|null|
@@ -6171,7 +6171,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-02-10**|**Enhancing Trust in Language Model-Based Code Optimization through RLHF: A Research Design**|Jingzhi Gong et.al.|[2502.06769](http://arxiv.org/abs/2502.06769)|null|
-|**2025-02-10**|**Benchmarking Vision-Language Models on Optical Character Recognition in Dynamic Video Environments**|Sankalp Nagaonkar et.al.|[2502.06445](http://arxiv.org/abs/2502.06445)|null|
+|**2025-02-10**|**Benchmarking Vision-Language Models on Optical Character Recognition in Dynamic Video Environments**|Sankalp Nagaonkar et.al.|[2502.06445](http://arxiv.org/abs/2502.06445)|**[link](https://github.com/video-db/ocr-benchmark)**|
 |**2025-02-10**|**Expect the Unexpected: FailSafe Long Context QA for Finance**|Kiran Kamble et.al.|[2502.06329](http://arxiv.org/abs/2502.06329)|null|
 |**2025-02-10**|**Self-Correcting Decoding with Generative Feedback for Mitigating Hallucinations in Large Vision-Language Models**|Ce Zhang et.al.|[2502.06130](http://arxiv.org/abs/2502.06130)|null|
 |**2025-02-09**|**ClinKD: Cross-Modal Clinic Knowledge Distiller For Multi-Task Medical Images**|Hongyu Ge et.al.|[2502.05928](http://arxiv.org/abs/2502.05928)|null|
