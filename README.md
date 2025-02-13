@@ -2418,6 +2418,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-12**|**SwiftSketch: A Diffusion Model for Image-to-Vector Sketch Generation**|Ellie Arar et.al.|[2502.08642](http://arxiv.org/abs/2502.08642)|null|
+|**2025-02-12**|**Examining Multilingual Embedding Models Cross-Lingually Through LLM-Generated Adversarial Examples**|Andrianos Michail et.al.|[2502.08638](http://arxiv.org/abs/2502.08638)|null|
+|**2025-02-12**|**Ensemble based approach to quantifying uncertainty of LLM based classifications**|Srijith Rajamohan et.al.|[2502.08631](http://arxiv.org/abs/2502.08631)|null|
+|**2025-02-12**|**Commercial LLM Agents Are Already Vulnerable to Simple Yet Dangerous Attacks**|Ang Li et.al.|[2502.08586](http://arxiv.org/abs/2502.08586)|null|
+|**2025-02-12**|**COAST: Intelligent Time-Adaptive Neural Operators**|Zhikai Wu et.al.|[2502.08574](http://arxiv.org/abs/2502.08574)|null|
+|**2025-02-12**|**QA-Expand: Multi-Question Answer Generation for Enhanced Query Expansion in Information Retrieval**|Wonduk Seo et.al.|[2502.08557](http://arxiv.org/abs/2502.08557)|null|
+|**2025-02-12**|**Fostering Appropriate Reliance on Large Language Models: The Role of Explanations, Sources, and Inconsistencies**|Sunnie S. Y. Kim et.al.|[2502.08554](http://arxiv.org/abs/2502.08554)|null|
+|**2025-02-12**|**LLMs can implicitly learn from mistakes in-context**|Lisa Alazraki et.al.|[2502.08550](http://arxiv.org/abs/2502.08550)|null|
+|**2025-02-12**|**Representation Learning to Advance Multi-institutional Studies with Electronic Health Record Data**|Doudou Zhou et.al.|[2502.08547](http://arxiv.org/abs/2502.08547)|null|
+|**2025-02-12**|**Moment of Untruth: Dealing with Negative Queries in Video Moment Retrieval**|Kevin Flanagan et.al.|[2502.08544](http://arxiv.org/abs/2502.08544)|null|
 |**2025-02-11**|**DarwinLM: Evolutionary Structured Pruning of Large Language Models**|Shengkun Tang et.al.|[2502.07780](http://arxiv.org/abs/2502.07780)|null|
 |**2025-02-11**|**Auditing Prompt Caching in Language Model APIs**|Chenchen Gu et.al.|[2502.07776](http://arxiv.org/abs/2502.07776)|null|
 |**2025-02-11**|**Automatic Robot Task Planning by Integrating Large Language Model with Genetic Programming**|Azizjon Kobilov et.al.|[2502.07772](http://arxiv.org/abs/2502.07772)|null|
@@ -5294,6 +5304,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-11**|**ESPFormer: Doubly-Stochastic Attention with Expected Sliced Transport Plans**|Ashkan Shahbazi et.al.|[2502.07962](http://arxiv.org/abs/2502.07962)|null|
 |**2025-02-11**|**Unsupervised Translation of Emergent Communication**|Ido Levy et.al.|[2502.07552](http://arxiv.org/abs/2502.07552)|null|
 |**2025-02-11**|**BenchMAX: A Comprehensive Multilingual Evaluation Suite for Large Language Models**|Xu Huang et.al.|[2502.07346](http://arxiv.org/abs/2502.07346)|null|
 |**2025-02-10**|**Evaluation of Multilingual Image Captioning: How far can we get with CLIP models?**|Gonçalo Gomes et.al.|[2502.06600](http://arxiv.org/abs/2502.06600)|null|
@@ -6216,6 +6227,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-12**|**Systematic Knowledge Injection into Large Language Models via Diverse Augmentation for Domain-Specific RAG**|Kushagra Bhushan et.al.|[2502.08356](http://arxiv.org/abs/2502.08356)|null|
+|**2025-02-12**|**Mitigating Hallucinations in Multimodal Spatial Relations through Constraint-Aware Prompting**|Jiarui Wu et.al.|[2502.08317](http://arxiv.org/abs/2502.08317)|null|
+|**2025-02-12**|**Flow-of-Action: SOP Enhanced LLM-Based Multi-Agent System for Root Cause Analysis**|Changhua Pei et.al.|[2502.08224](http://arxiv.org/abs/2502.08224)|null|
+|**2025-02-12**|**Bridging the Safety Gap: A Guardrail Pipeline for Trustworthy LLM Inferences**|Shanshan Han et.al.|[2502.08142](http://arxiv.org/abs/2502.08142)|null|
+|**2025-02-12**|**HuDEx: Integrating Hallucination Detection and Explainability for Enhancing the Reliability of LLM responses**|Sujeong Lee et.al.|[2502.08109](http://arxiv.org/abs/2502.08109)|null|
+|**2025-02-11**|**Elevating Legal LLM Responses: Harnessing Trainable Logical Structures and Semantic Knowledge with Legal Reasoning**|Rujing Yao et.al.|[2502.07912](http://arxiv.org/abs/2502.07912)|null|
+|**2025-02-11**|**DeepSeek on a Trip: Inducing Targeted Visual Hallucinations via Representation Vulnerabilities**|Chashi Mahiul Islam et.al.|[2502.07905](http://arxiv.org/abs/2502.07905)|null|
+|**2025-02-11**|**Bridging LLM-Generated Code and Requirements: Reverse Generation technique and SBC Metric for Developer Insights**|Ahilan Ayyachamy Nadar Ponnusamy et.al.|[2502.07835](http://arxiv.org/abs/2502.07835)|null|
 |**2025-02-11**|**Aligning Large Language Models to Follow Instructions and Hallucinate Less via Effective Data Filtering**|Shuzheng Si et.al.|[2502.07340](http://arxiv.org/abs/2502.07340)|null|
 |**2025-02-11**|**Refine Knowledge of Large Language Models via Adaptive Contrastive Learning**|Yinghui Li et.al.|[2502.07184](http://arxiv.org/abs/2502.07184)|null|
 |**2025-02-10**|**Enhancing Trust in Language Model-Based Code Optimization through RLHF: A Research Design**|Jingzhi Gong et.al.|[2502.06769](http://arxiv.org/abs/2502.06769)|null|
