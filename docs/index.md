@@ -2189,6 +2189,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-17**|**Learning to Keep a Promise: Scaling Language Model Decoding Parallelism with Learned Asynchronous Decoding**|Tian Jin et.al.|[2502.11517](http://arxiv.org/abs/2502.11517)|null|
+|**2025-02-16**|**SyncSpeech: Low-Latency and Efficient Dual-Stream Text-to-Speech based on Temporal Masked Transformer**|Zhengyan Sheng et.al.|[2502.11094](http://arxiv.org/abs/2502.11094)|null|
+|**2025-02-15**|**Order-agnostic Identifier for Large Language Model-based Generative Recommendation**|Xinyu Lin et.al.|[2502.10833](http://arxiv.org/abs/2502.10833)|null|
 |**2025-02-13**|**Simultaneous generating sets for flags**|Federico Glaudo et.al.|[2502.09530](http://arxiv.org/abs/2502.09530)|null|
 |**2025-02-11**|**Pippo: High-Resolution Multi-View Humans from a Single Image**|Yash Kant et.al.|[2502.07785](http://arxiv.org/abs/2502.07785)|null|
 |**2025-02-09**|**Synergistic Effects of Knowledge Distillation and Structured Pruning for Self-Supervised Speech Models**|Shiva Kumar C et.al.|[2502.05837](http://arxiv.org/abs/2502.05837)|null|
@@ -2392,6 +2395,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-17**|**Idiosyncrasies in Large Language Models**|Mingjie Sun et.al.|[2502.12150](http://arxiv.org/abs/2502.12150)|null|
+|**2025-02-17**|**HermesFlow: Seamlessly Closing the Gap in Multimodal Understanding and Generation**|Ling Yang et.al.|[2502.12148](http://arxiv.org/abs/2502.12148)|null|
+|**2025-02-17**|**Fast or Better? Balancing Accuracy and Cost in Retrieval-Augmented Generation with Flexible User Control**|Jinyan Su et.al.|[2502.12145](http://arxiv.org/abs/2502.12145)|null|
+|**2025-02-17**|**Small Models Struggle to Learn from Strong Reasoners**|Yuetai Li et.al.|[2502.12143](http://arxiv.org/abs/2502.12143)|null|
+|**2025-02-17**|**SoftCoT: Soft Chain-of-Thought for Efficient Reasoning with LLMs**|Yige Xu et.al.|[2502.12134](http://arxiv.org/abs/2502.12134)|null|
+|**2025-02-17**|**Transformer Dynamics: A neuroscientific approach to interpretability of large language models**|Jesseba Fernando et.al.|[2502.12131](http://arxiv.org/abs/2502.12131)|null|
+|**2025-02-17**|**Scaling Autonomous Agents via Automatic Reward Modeling And Planning**|Zhenfang Chen et.al.|[2502.12130](http://arxiv.org/abs/2502.12130)|null|
+|**2025-02-17**|**On the Query Complexity of Verifier-Assisted Language Generation**|Edoardo Botta et.al.|[2502.12123](http://arxiv.org/abs/2502.12123)|null|
+|**2025-02-17**|**Minimal Ranks, Maximum Confidence: Parameter-efficient Uncertainty Quantification for LoRA**|Patryk Marszałek et.al.|[2502.12122](http://arxiv.org/abs/2502.12122)|null|
+|**2025-02-17**|**LLMs on the Line: Data Determines Loss-to-Loss Scaling Laws**|Prasanna Mayilvahanan et.al.|[2502.12120](http://arxiv.org/abs/2502.12120)|null|
 |**2025-02-14**|**MM-RLHF: The Next Step Forward in Multimodal LLM Alignment**|Yi-Fan Zhang et.al.|[2502.10391](http://arxiv.org/abs/2502.10391)|null|
 |**2025-02-14**|**Aspect-Oriented Summarization for Psychiatric Short-Term Readmission Prediction**|WonJin Yoon et.al.|[2502.10388](http://arxiv.org/abs/2502.10388)|null|
 |**2025-02-14**|**Unknown Word Detection for English as a Second Language (ESL) Learners Using Gaze and Pre-trained Language Models**|Jiexin Ding et.al.|[2502.10378](http://arxiv.org/abs/2502.10378)|null|
@@ -5296,9 +5309,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-17**|**Understanding In-Context Machine Translation for Low-Resource Languages: A Case Study on Manchu**|Renhao Pei et.al.|[2502.11862](http://arxiv.org/abs/2502.11862)|null|
+|**2025-02-17**|**Identifying Gender Stereotypes and Biases in Automated Translation from English to Italian using Similarity Networks**|Fatemeh Mohammadi et.al.|[2502.11611](http://arxiv.org/abs/2502.11611)|null|
+|**2025-02-17**|**Evaluating o1-Like LLMs: Unlocking Reasoning for Translation through Comprehensive Analysis**|Andong Chen et.al.|[2502.11544](http://arxiv.org/abs/2502.11544)|null|
+|**2025-02-16**|**Asymmetric Conflict and Synergy in Post-training for LLM-based Multilingual Machine Translation**|Tong Zheng et.al.|[2502.11223](http://arxiv.org/abs/2502.11223)|null|
+|**2025-02-16**|**ANCHOLIK-NER: A Benchmark Dataset for Bangla Regional Named Entity Recognition**|Bidyarthi Paul et.al.|[2502.11198](http://arxiv.org/abs/2502.11198)|null|
+|**2025-02-16**|**TUMLU: A Unified and Native Language Understanding Benchmark for Turkic Languages**|Jafar Isbarov et.al.|[2502.11020](http://arxiv.org/abs/2502.11020)|null|
+|**2025-02-15**|**Injecting Domain-Specific Knowledge into Large Language Models: A Comprehensive Survey**|Zirui Song et.al.|[2502.10708](http://arxiv.org/abs/2502.10708)|null|
 |**2025-02-10**|**From No to Know: Taxonomy, Challenges, and Opportunities for Negation Understanding in Multimodal Foundation Models**|Mayank Vatsa et.al.|[2502.09645](http://arxiv.org/abs/2502.09645)|null|
 |**2025-02-13**|**Truth Knows No Language: Evaluating Truthfulness Beyond English**|Blanca Calvo Figueras et.al.|[2502.09387](http://arxiv.org/abs/2502.09387)|null|
 |**2025-02-12**|**Are Expressions for Music Emotions the Same Across Cultures?**|Elif Celen et.al.|[2502.08744](http://arxiv.org/abs/2502.08744)|null|
+|**2025-02-16**|**Quality-Aware Decoding: Unifying Quality Estimation and Decoding**|Sai Koneru et.al.|[2502.08561](http://arxiv.org/abs/2502.08561)|null|
 |**2025-02-11**|**ESPFormer: Doubly-Stochastic Attention with Expected Sliced Transport Plans**|Ashkan Shahbazi et.al.|[2502.07962](http://arxiv.org/abs/2502.07962)|null|
 |**2025-02-11**|**Unsupervised Translation of Emergent Communication**|Ido Levy et.al.|[2502.07552](http://arxiv.org/abs/2502.07552)|null|
 |**2025-02-11**|**BenchMAX: A Comprehensive Multilingual Evaluation Suite for Large Language Models**|Xu Huang et.al.|[2502.07346](http://arxiv.org/abs/2502.07346)|**[link](https://github.com/cone-mt/benchmax)**|
@@ -6089,6 +6110,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-17**|**SpeechT: Findings of the First Mentorship in Speech Translation**|Yasmin Moslem et.al.|[2502.12050](http://arxiv.org/abs/2502.12050)|null|
 |**2025-02-09**|**Speech to Speech Translation with Translatotron: A State of the Art Review**|Jules R. Kala et.al.|[2502.05980](http://arxiv.org/abs/2502.05980)|null|
 |**2025-02-05**|**High-Fidelity Simultaneous Speech-To-Speech Translation**|Tom Labiausse et.al.|[2502.03382](http://arxiv.org/abs/2502.03382)|**[link](https://github.com/kyutai-labs/hibiki)**|
 |**2025-02-04**|**Streaming Speaker Change Detection and Gender Classification for Transducer-Based Multi-Talker Speech Translation**|Peidong Wang et.al.|[2502.02683](http://arxiv.org/abs/2502.02683)|null|
@@ -6218,6 +6240,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-17**|**Fast or Better? Balancing Accuracy and Cost in Retrieval-Augmented Generation with Flexible User Control**|Jinyan Su et.al.|[2502.12145](http://arxiv.org/abs/2502.12145)|null|
+|**2025-02-17**|**KnowPath: Knowledge-enhanced Reasoning via LLM-generated Inference Paths over Knowledge Graphs**|Qi Zhao et.al.|[2502.12029](http://arxiv.org/abs/2502.12029)|null|
+|**2025-02-17**|**Navigating the Helpfulness-Truthfulness Trade-Off with Uncertainty-Aware Instruction Fine-Tuning**|Tianyi Wu et.al.|[2502.11962](http://arxiv.org/abs/2502.11962)|null|
+|**2025-02-17**|**Can Your Uncertainty Scores Detect Hallucinated Entity?**|Min-Hsuan Yeh et.al.|[2502.11948](http://arxiv.org/abs/2502.11948)|null|
+|**2025-02-17**|**Cognitive-Aligned Document Selection for Retrieval-augmented Generation**|Bingyu Wan et.al.|[2502.11770](http://arxiv.org/abs/2502.11770)|null|
+|**2025-02-17**|**ReviewEval: An Evaluation Framework for AI-Generated Reviews**|Chavvi Kirtani et.al.|[2502.11736](http://arxiv.org/abs/2502.11736)|null|
+|**2025-02-16**|**Smoothing Out Hallucinations: Mitigating LLM Hallucination with Smoothed Knowledge Distillation**|Hieu Nguyen et.al.|[2502.11306](http://arxiv.org/abs/2502.11306)|null|
+|**2025-02-16**|**A Survey of LLM-based Agents in Medicine: How far are we from Baymax?**|Wenxuan Wang et.al.|[2502.11211](http://arxiv.org/abs/2502.11211)|null|
+|**2025-02-16**|**Valuable Hallucinations: Realizable Non-realistic Propositions**|Qiucheng Chen et.al.|[2502.11113](http://arxiv.org/abs/2502.11113)|null|
+|**2025-02-16**|**Knowledge Graph-Driven Retrieval-Augmented Generation: Integrating Deepseek-R1 with Weaviate for Advanced Chatbot Applications**|Alexandru Lecu et.al.|[2502.11108](http://arxiv.org/abs/2502.11108)|null|
 |**2025-02-14**|**MM-RLHF: The Next Step Forward in Multimodal LLM Alignment**|Yi-Fan Zhang et.al.|[2502.10391](http://arxiv.org/abs/2502.10391)|null|
 |**2025-02-14**|**A novel approach to data generation in generative model**|JaeHong Kim et.al.|[2502.10092](http://arxiv.org/abs/2502.10092)|null|
 |**2025-02-14**|**Generating on Generated: An Approach Towards Self-Evolving Diffusion Models**|Xulu Zhang et.al.|[2502.09963](http://arxiv.org/abs/2502.09963)|null|
