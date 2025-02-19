@@ -2422,6 +2422,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-18**|**Re-Align: Aligning Vision Language Models via Retrieval-Augmented Direct Preference Optimization**|Shuo Xing et.al.|[2502.13146](http://arxiv.org/abs/2502.13146)|null|
+|**2025-02-18**|**Multimodal Mamba: Decoder-only Multimodal State Space Model via Quadratic to Linear Distillation**|Bencheng Liao et.al.|[2502.13145](http://arxiv.org/abs/2502.13145)|null|
+|**2025-02-18**|**UniGuardian: A Unified Defense for Detecting Prompt Injection, Backdoor Attacks and Adversarial Attacks in Large Language Models**|Huawei Lin et.al.|[2502.13141](http://arxiv.org/abs/2502.13141)|null|
+|**2025-02-18**|**AIDE: AI-Driven Exploration in the Space of Code**|Zhengyao Jiang et.al.|[2502.13138](http://arxiv.org/abs/2502.13138)|null|
+|**2025-02-18**|**Theorem Prover as a Judge for Synthetic Data Generation**|Joshua Ong Jun Leang et.al.|[2502.13137](http://arxiv.org/abs/2502.13137)|null|
+|**2025-02-18**|**Sleepless Nights, Sugary Days: Creating Synthetic Users with Health Conditions for Realistic Coaching Agent Interactions**|Taedong Yun et.al.|[2502.13135](http://arxiv.org/abs/2502.13135)|null|
+|**2025-02-18**|**Learning to Defer for Causal Discovery with Imperfect Experts**|Oscar Clivio et.al.|[2502.13132](http://arxiv.org/abs/2502.13132)|null|
+|**2025-02-18**|**Facilitating Long Context Understanding via Supervised Chain-of-Thought Reasoning**|Jingyang Lin et.al.|[2502.13127](http://arxiv.org/abs/2502.13127)|null|
+|**2025-02-18**|**RuozhiBench: Evaluating LLMs with Logical Fallacies and Misleading Premises**|Zenan Zhai et.al.|[2502.13125](http://arxiv.org/abs/2502.13125)|null|
+|**2025-02-18**|**Adapting Psycholinguistic Research for LLMs: Gender-inclusive Language in a Coreference Context**|Marion Bartl et.al.|[2502.13120](http://arxiv.org/abs/2502.13120)|null|
 |**2025-02-17**|**Idiosyncrasies in Large Language Models**|Mingjie Sun et.al.|[2502.12150](http://arxiv.org/abs/2502.12150)|null|
 |**2025-02-17**|**HermesFlow: Seamlessly Closing the Gap in Multimodal Understanding and Generation**|Ling Yang et.al.|[2502.12148](http://arxiv.org/abs/2502.12148)|null|
 |**2025-02-17**|**Fast or Better? Balancing Accuracy and Cost in Retrieval-Augmented Generation with Flexible User Control**|Jinyan Su et.al.|[2502.12145](http://arxiv.org/abs/2502.12145)|null|
@@ -5338,6 +5348,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-18**|**Synthetic Data Generation for Culturally Nuanced Commonsense Reasoning in Low-Resource Languages**|Salsabila Zahirah Pranida et.al.|[2502.12932](http://arxiv.org/abs/2502.12932)|null|
+|**2025-02-18**|**Rejected Dialects: Biases Against African American Language in Reward Models**|Joel Mire et.al.|[2502.12858](http://arxiv.org/abs/2502.12858)|null|
+|**2025-02-18**|**Commonsense Reasoning in Arab Culture**|Abdelrahman Sadallah et.al.|[2502.12788](http://arxiv.org/abs/2502.12788)|null|
+|**2025-02-18**|**How Much Do LLMs Hallucinate across Languages? On Multilingual Estimation of LLM Hallucination in the Wild**|Saad Obaid ul Islam et.al.|[2502.12769](http://arxiv.org/abs/2502.12769)|null|
+|**2025-02-18**|**Efficient Machine Translation Corpus Generation: Integrating Human-in-the-Loop Post-Editing with Large Language Models**|Kamer Ali Yuksel et.al.|[2502.12755](http://arxiv.org/abs/2502.12755)|null|
+|**2025-02-18**|**Translate Smart, not Hard: Cascaded Translation Systems with Quality-Aware Deferral**|António Farinhas et.al.|[2502.12701](http://arxiv.org/abs/2502.12701)|null|
+|**2025-02-18**|**LMN: A Tool for Generating Machine Enforceable Policies from Natural Language Access Control Rules using LLMs**|Pratik Sonune et.al.|[2502.12460](http://arxiv.org/abs/2502.12460)|null|
+|**2025-02-18**|**WMT24++: Expanding the Language Coverage of WMT24 to 55 Languages & Dialects**|Daniel Deutsch et.al.|[2502.12404](http://arxiv.org/abs/2502.12404)|null|
+|**2025-02-17**|**GLoT: A Novel Gated-Logarithmic Transformer for Efficient Sign Language Translation**|Nada Shahin et.al.|[2502.12223](http://arxiv.org/abs/2502.12223)|null|
 |**2025-02-17**|**Understanding In-Context Machine Translation for Low-Resource Languages: A Case Study on Manchu**|Renhao Pei et.al.|[2502.11862](http://arxiv.org/abs/2502.11862)|null|
 |**2025-02-17**|**Identifying Gender Stereotypes and Biases in Automated Translation from English to Italian using Similarity Networks**|Fatemeh Mohammadi et.al.|[2502.11611](http://arxiv.org/abs/2502.11611)|null|
 |**2025-02-17**|**Evaluating o1-Like LLMs: Unlocking Reasoning for Translation through Comprehensive Analysis**|Andong Chen et.al.|[2502.11544](http://arxiv.org/abs/2502.11544)|null|
@@ -6141,6 +6160,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-18**|**Soundwave: Less is More for Speech-Text Alignment in LLMs**|Yuhao Zhang et.al.|[2502.12900](http://arxiv.org/abs/2502.12900)|null|
 |**2025-02-17**|**SpeechT: Findings of the First Mentorship in Speech Translation**|Yasmin Moslem et.al.|[2502.12050](http://arxiv.org/abs/2502.12050)|null|
 |**2025-02-09**|**Speech to Speech Translation with Translatotron: A State of the Art Review**|Jules R. Kala et.al.|[2502.05980](http://arxiv.org/abs/2502.05980)|null|
 |**2025-02-05**|**High-Fidelity Simultaneous Speech-To-Speech Translation**|Tom Labiausse et.al.|[2502.03382](http://arxiv.org/abs/2502.03382)|**[link](https://github.com/kyutai-labs/hibiki)**|
@@ -6273,6 +6293,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-18**|**Re-Align: Aligning Vision Language Models via Retrieval-Augmented Direct Preference Optimization**|Shuo Xing et.al.|[2502.13146](http://arxiv.org/abs/2502.13146)|null|
+|**2025-02-18**|**LAMD: Context-driven Android Malware Detection and Classification with LLMs**|Xingzhi Qian et.al.|[2502.13055](http://arxiv.org/abs/2502.13055)|null|
+|**2025-02-18**|**Oreo: A Plug-in Context Reconstructor to Enhance Retrieval-Augmented Generation**|Sha Li et.al.|[2502.13019](http://arxiv.org/abs/2502.13019)|null|
+|**2025-02-18**|**Trust Me, I'm Wrong: High-Certainty Hallucinations in LLMs**|Adi Simhi et.al.|[2502.12964](http://arxiv.org/abs/2502.12964)|null|
+|**2025-02-18**|**How Much Do LLMs Hallucinate across Languages? On Multilingual Estimation of LLM Hallucination in the Wild**|Saad Obaid ul Islam et.al.|[2502.12769](http://arxiv.org/abs/2502.12769)|null|
+|**2025-02-18**|**R2-KG: General-Purpose Dual-Agent Framework for Reliable Reasoning on Knowledge Graphs**|Sumin Jo et.al.|[2502.12767](http://arxiv.org/abs/2502.12767)|null|
+|**2025-02-18**|**High-Fidelity Novel View Synthesis via Splatting-Guided Diffusion**|Xiang Zhang et.al.|[2502.12752](http://arxiv.org/abs/2502.12752)|null|
+|**2025-02-18**|**"I know myself better, but not really greatly": Using LLMs to Detect and Explain LLM-Generated Texts**|Jiazhou Ji et.al.|[2502.12743](http://arxiv.org/abs/2502.12743)|null|
+|**2025-02-18**|**Corrupted but Not Broken: Rethinking the Impact of Corrupted Data in Visual Instruction Tuning**|Yunhao Gou et.al.|[2502.12635](http://arxiv.org/abs/2502.12635)|null|
+|**2025-02-18**|**CutPaste&Find: Efficient Multimodal Hallucination Detector with Visual-aid Knowledge Base**|Cong-Duy Nguyen et.al.|[2502.12591](http://arxiv.org/abs/2502.12591)|null|
 |**2025-02-17**|**Fast or Better? Balancing Accuracy and Cost in Retrieval-Augmented Generation with Flexible User Control**|Jinyan Su et.al.|[2502.12145](http://arxiv.org/abs/2502.12145)|null|
 |**2025-02-17**|**KnowPath: Knowledge-enhanced Reasoning via LLM-generated Inference Paths over Knowledge Graphs**|Qi Zhao et.al.|[2502.12029](http://arxiv.org/abs/2502.12029)|null|
 |**2025-02-17**|**Navigating the Helpfulness-Truthfulness Trade-Off with Uncertainty-Aware Instruction Fine-Tuning**|Tianyi Wu et.al.|[2502.11962](http://arxiv.org/abs/2502.11962)|null|
