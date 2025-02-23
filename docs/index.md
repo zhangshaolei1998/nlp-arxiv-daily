@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.22
+## Updated on 2025.02.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -5342,7 +5342,7 @@ layout: default
 |**2025-02-20**|**Middle-Layer Representation Alignment for Cross-Lingual Transfer in Fine-Tuned LLMs**|Danni Liu et.al.|[2502.14830](http://arxiv.org/abs/2502.14830)|null|
 |**2025-02-20**|**MultiSlav: Using Cross-Lingual Knowledge Transfer to Combat the Curse of Multilinguality**|Artur Kot et.al.|[2502.14509](http://arxiv.org/abs/2502.14509)|null|
 |**2025-02-20**|**Early-Exit and Instant Confidence Translation Quality Estimation**|Vilém Zouhar et.al.|[2502.14429](http://arxiv.org/abs/2502.14429)|null|
-|**2025-02-20**|**English Please: Evaluating Machine Translation for Multilingual Bug Reports**|Avinash Patil et.al.|[2502.14338](http://arxiv.org/abs/2502.14338)|null|
+|**2025-02-20**|**English Please: Evaluating Machine Translation for Multilingual Bug Reports**|Avinash Patil et.al.|[2502.14338](http://arxiv.org/abs/2502.14338)|**[link](https://github.com/av9ash/gitbugs/blob/main/multilingual/)**|
 |**2025-02-20**|**Effects of Prompt Length on Domain-specific Tasks for Large Language Models**|Qibang Liu et.al.|[2502.14255](http://arxiv.org/abs/2502.14255)|null|
 |**2025-02-19**|**Translation in the Hands of Many:Centering Lay Users in Machine Translation Interactions**|Beatrice Savoldi et.al.|[2502.13780](http://arxiv.org/abs/2502.13780)|null|
 |**2025-02-19**|**Non-Euclidean Hierarchical Representational Learning using Hyperbolic Graph Neural Networks for Environmental Claim Detection**|Darpan Aswal et.al.|[2502.13628](http://arxiv.org/abs/2502.13628)|null|
