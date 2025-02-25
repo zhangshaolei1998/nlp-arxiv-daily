@@ -2214,6 +2214,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-23**|**Multi-Target Federated Backdoor Attack Based on Feature Aggregation**|Lingguag Hao et.al.|[2502.16545](http://arxiv.org/abs/2502.16545)|null|
 |**2025-02-21**|**Improving Streaming Speech Recognition With Time-Shifted Contextual Attention And Dynamic Right Context Masking**|Khanh Le et.al.|[2502.15158](http://arxiv.org/abs/2502.15158)|null|
 |**2025-02-21**|**Learning to Keep a Promise: Scaling Language Model Decoding Parallelism with Learned Asynchronous Decoding**|Tian Jin et.al.|[2502.11517](http://arxiv.org/abs/2502.11517)|null|
 |**2025-02-16**|**SyncSpeech: Low-Latency and Efficient Dual-Stream Text-to-Speech based on Temporal Masked Transformer**|Zhengyan Sheng et.al.|[2502.11094](http://arxiv.org/abs/2502.11094)|null|
@@ -2423,6 +2424,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-24**|**Introducing Visual Perception Token into Multimodal Large Language Model**|Runpeng Yu et.al.|[2502.17425](http://arxiv.org/abs/2502.17425)|null|
+|**2025-02-24**|**MLLMs Know Where to Look: Training-free Perception of Small Visual Details with Multimodal LLMs**|Jiarui Zhang et.al.|[2502.17422](http://arxiv.org/abs/2502.17422)|null|
+|**2025-02-24**|**LongSpec: Long-Context Speculative Decoding with Efficient Drafting and Verification**|Penghui Yang et.al.|[2502.17421](http://arxiv.org/abs/2502.17421)|null|
+|**2025-02-24**|**The Geometry of Refusal in Large Language Models: Concept Cones and Representational Independence**|Tom Wollschläger et.al.|[2502.17420](http://arxiv.org/abs/2502.17420)|null|
+|**2025-02-24**|**From System 1 to System 2: A Survey of Reasoning Large Language Models**|Zhong-Zhi Li et.al.|[2502.17419](http://arxiv.org/abs/2502.17419)|null|
+|**2025-02-24**|**Reasoning with Latent Thoughts: On the Power of Looped Transformers**|Nikunj Saunshi et.al.|[2502.17416](http://arxiv.org/abs/2502.17416)|null|
+|**2025-02-24**|**COSMOS: A Hybrid Adaptive Optimizer for Memory-Efficient Training of LLMs**|Liming Liu et.al.|[2502.17410](http://arxiv.org/abs/2502.17410)|null|
+|**2025-02-24**|**Large Language Models are Powerful EHR Encoders**|Stefan Hegselmann et.al.|[2502.17403](http://arxiv.org/abs/2502.17403)|null|
+|**2025-02-24**|**Big-Math: A Large-Scale, High-Quality Math Dataset for Reinforcement Learning in Language Models**|Alon Albalak et.al.|[2502.17387](http://arxiv.org/abs/2502.17387)|null|
+|**2025-02-24**|**Bridging Gaps in Natural Language Processing for Yorùbá: A Systematic Review of a Decade of Progress and Prospects**|Toheeb A. Jimoh et.al.|[2502.17364](http://arxiv.org/abs/2502.17364)|null|
 |**2025-02-21**|**ELIP: Enhanced Visual-Language Foundation Models for Image Retrieval**|Guanqi Zhan et.al.|[2502.15682](http://arxiv.org/abs/2502.15682)|null|
 |**2025-02-21**|**Privacy Ripple Effects from Adding or Removing Personal Information in Language Model Training**|Jaydeep Borkar et.al.|[2502.15680](http://arxiv.org/abs/2502.15680)|null|
 |**2025-02-21**|**Testing the limits of fine-tuning to improve reasoning in vision language models**|Luca M. Schulze Buschoff et.al.|[2502.15678](http://arxiv.org/abs/2502.15678)|null|
@@ -5379,6 +5390,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-24**|**UrduLLaMA 1.0: Dataset Curation, Preprocessing, and Evaluation in Low-Resource Settings**|Layba Fiaz et.al.|[2502.16961](http://arxiv.org/abs/2502.16961)|null|
+|**2025-02-24**|**Using Machine Learning to Detect Fraudulent SMSs in Chichewa**|Amelia Taylor et.al.|[2502.16947](http://arxiv.org/abs/2502.16947)|null|
+|**2025-02-23**|**Automatic Input Rewriting Improves Translation with Large Language Models**|Dayeon Ki et.al.|[2502.16682](http://arxiv.org/abs/2502.16682)|null|
 |**2025-02-21**|**LaTIM: Measuring Latent Token-to-Token Interactions in Mamba Models**|Hugo Pitorro et.al.|[2502.15612](http://arxiv.org/abs/2502.15612)|null|
 |**2025-02-20**|**Middle-Layer Representation Alignment for Cross-Lingual Transfer in Fine-Tuned LLMs**|Danni Liu et.al.|[2502.14830](http://arxiv.org/abs/2502.14830)|**[link](https://github.com/dannigt/mid-align)**|
 |**2025-02-20**|**MultiSlav: Using Cross-Lingual Knowledge Transfer to Combat the Curse of Multilinguality**|Artur Kot et.al.|[2502.14509](http://arxiv.org/abs/2502.14509)|null|
@@ -6200,6 +6214,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-24**|**Balancing Speech Understanding and Generation Using Continual Pre-training for Codec-based Speech LLM**|Jiatong Shi et.al.|[2502.16897](http://arxiv.org/abs/2502.16897)|null|
 |**2025-02-18**|**Soundwave: Less is More for Speech-Text Alignment in LLMs**|Yuhao Zhang et.al.|[2502.12900](http://arxiv.org/abs/2502.12900)|**[link](https://github.com/freedomintelligence/soundwave)**|
 |**2025-02-17**|**SpeechT: Findings of the First Mentorship in Speech Translation**|Yasmin Moslem et.al.|[2502.12050](http://arxiv.org/abs/2502.12050)|null|
 |**2025-02-19**|**Speech to Speech Translation with Translatotron: A State of the Art Review**|Jules R. Kala et.al.|[2502.05980](http://arxiv.org/abs/2502.05980)|null|
@@ -6333,6 +6348,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-24**|**`Generalization is hallucination' through the lens of tensor completions**|Liang Ze Wong et.al.|[2502.17305](http://arxiv.org/abs/2502.17305)|null|
+|**2025-02-24**|**LettuceDetect: A Hallucination Detection Framework for RAG Applications**|Ádám Kovács et.al.|[2502.17125](http://arxiv.org/abs/2502.17125)|null|
+|**2025-02-24**|**LLM-QE: Improving Query Expansion by Aligning Large Language Models with Ranking Preferences**|Sijia Yao et.al.|[2502.17057](http://arxiv.org/abs/2502.17057)|null|
+|**2025-02-24**|**Mitigating Hallucinations in Diffusion Models through Adaptive Attention Modulation**|Trevine Oorloff et.al.|[2502.16872](http://arxiv.org/abs/2502.16872)|null|
+|**2025-02-24**|**Exploring Causes and Mitigation of Hallucinations in Large Vision Language Models**|Yaqi Sun et.al.|[2502.16842](http://arxiv.org/abs/2502.16842)|null|
+|**2025-02-23**|**Iterative Flow Matching -- Path Correction and Gradual Refinement for Enhanced Generative Modeling**|Eldad Haber et.al.|[2502.16445](http://arxiv.org/abs/2502.16445)|null|
+|**2025-02-23**|**Navigation-GPT: A Robust and Adaptive Framework Utilizing Large Language Models for Navigation Applications**|Feng Ma et.al.|[2502.16402](http://arxiv.org/abs/2502.16402)|null|
+|**2025-02-22**|**An Autonomous Network Orchestration Framework Integrating Large Language Models with Continual Reinforcement Learning**|Masoud Shokrnezhad et.al.|[2502.16198](http://arxiv.org/abs/2502.16198)|null|
+|**2025-02-22**|**EPERM: An Evidence Path Enhanced Reasoning Model for Knowledge Graph Question and Answering**|Xiao Long et.al.|[2502.16171](http://arxiv.org/abs/2502.16171)|null|
+|**2025-02-22**|**ZiGong 1.0: A Large Language Model for Financial Credit**|Yu Lei et.al.|[2502.16159](http://arxiv.org/abs/2502.16159)|null|
 |**2025-02-21**|**A Cautionary Tale About "Neutrally" Informative AI Tools Ahead of the 2025 Federal Elections in Germany**|Ina Dormuth et.al.|[2502.15568](http://arxiv.org/abs/2502.15568)|null|
 |**2025-02-21**|**PIP-KAG: Mitigating Knowledge Conflicts in Knowledge-Augmented Generation via Parametric Pruning**|Pengcheng Huang et.al.|[2502.15543](http://arxiv.org/abs/2502.15543)|null|
 |**2025-02-21**|**The Role of Background Information in Reducing Object Hallucination in Vision-Language Models: Insights from Cutoff API Prompting**|Masayo Tomita et.al.|[2502.15389](http://arxiv.org/abs/2502.15389)|null|
