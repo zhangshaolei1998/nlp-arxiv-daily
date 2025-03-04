@@ -5410,7 +5410,7 @@ layout: default
 |**2025-02-28**|**Plan2Align: Predictive Planning Based Test-Time Preference Alignment in Paragraph-Level Machine Translation**|Kuang-Da Wang et.al.|[2502.20795](http://arxiv.org/abs/2502.20795)|null|
 |**2025-02-27**|**Connecting the Persian-speaking World through Transliteration**|Rayyan Merchant et.al.|[2502.20047](http://arxiv.org/abs/2502.20047)|null|
 |**2025-02-28**|**Alleviating Distribution Shift in Synthetic Data for Machine Translation Quality Estimation**|Xiang Geng et.al.|[2502.19941](http://arxiv.org/abs/2502.19941)|null|
-|**2025-02-27**|**R1-T1: Fully Incentivizing Translation Capability in LLMs via Reasoning Learning**|Minggui He et.al.|[2502.19735](http://arxiv.org/abs/2502.19735)|null|
+|**2025-03-03**|**R1-T1: Fully Incentivizing Translation Capability in LLMs via Reasoning Learning**|Minggui He et.al.|[2502.19735](http://arxiv.org/abs/2502.19735)|null|
 |**2025-02-28**|**Are All Spanish Doctors Male? Evaluating Gender Bias in German Machine Translation**|Michelle Kappl et.al.|[2502.19104](http://arxiv.org/abs/2502.19104)|**[link](https://github.com/michellekappl/mt_gender_german)**|
 |**2025-02-25**|**Contextual effects of sentiment deployment in human and machine translation**|Lindy Comstock et.al.|[2502.18642](http://arxiv.org/abs/2502.18642)|null|
 |**2025-02-25**|**Enhancing Human Evaluation in Machine Translation with Comparative Judgment**|Yixiao Song et.al.|[2502.17797](http://arxiv.org/abs/2502.17797)|null|
@@ -6372,7 +6372,7 @@ layout: default
 |**2025-02-28**|**Semantic Volume: Quantifying and Detecting both External and Internal Uncertainty in LLMs**|Xiaomin Li et.al.|[2502.21239](http://arxiv.org/abs/2502.21239)|null|
 |**2025-02-28**|**PASemiQA: Plan-Assisted Agent for Question Answering on Semi-Structured Data with Text and Relational Information**|Hansi Yang et.al.|[2502.21087](http://arxiv.org/abs/2502.21087)|null|
 |**2025-02-28**|**Spatial Reasoning with Denoising Models**|Christopher Wewer et.al.|[2502.21075](http://arxiv.org/abs/2502.21075)|null|
-|**2025-02-28**|**A Pilot Empirical Study on When and How to Use Knowledge Graphs as Retrieval Augmented Generation**|Xujie Yuan et.al.|[2502.20854](http://arxiv.org/abs/2502.20854)|null|
+|**2025-03-03**|**A Pilot Empirical Study on When and How to Use Knowledge Graphs as Retrieval Augmented Generation**|Xujie Yuan et.al.|[2502.20854](http://arxiv.org/abs/2502.20854)|null|
 |**2025-02-28**|**MedHallTune: An Instruction-Tuning Benchmark for Mitigating Medical Hallucination in Vision-Language Models**|Qiao Yan et.al.|[2502.20780](http://arxiv.org/abs/2502.20780)|null|
 |**2025-02-28**|**Mitigating Hallucinations in Large Vision-Language Models by Adaptively Constraining Information Flow**|Jiaqi Bai et.al.|[2502.20750](http://arxiv.org/abs/2502.20750)|null|
 |**2025-02-28**|**Towards General Visual-Linguistic Face Forgery Detection(V2)**|Ke Sun et.al.|[2502.20698](http://arxiv.org/abs/2502.20698)|null|
