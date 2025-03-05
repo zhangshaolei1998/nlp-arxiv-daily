@@ -2214,6 +2214,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-03**|**RiboGen: RNA Sequence and Structure Co-Generation with Equivariant MultiFlow**|Dana Rubin et.al.|[2503.02058](http://arxiv.org/abs/2503.02058)|null|
+|**2025-03-02**|**Extrapolating and Decoupling Image-to-Video Generation Models: Motion Modeling is Easier Than You Think**|Jie Tian et.al.|[2503.00948](http://arxiv.org/abs/2503.00948)|null|
+|**2025-03-01**|**Towards High-fidelity 3D Talking Avatar with Personalized Dynamic Texture**|Xuanchen Li et.al.|[2503.00495](http://arxiv.org/abs/2503.00495)|null|
 |**2025-02-26**|**Self-rewarding correction for mathematical reasoning**|Wei Xiong et.al.|[2502.19613](http://arxiv.org/abs/2502.19613)|**[link](https://github.com/rlhflow/self-rewarding-reasoning-llm)**|
 |**2025-02-26**|**Arbitrary Volumetric Refocusing of Dense and Sparse Light Fields**|Tharindu Samarakoon et.al.|[2502.19238](http://arxiv.org/abs/2502.19238)|null|
 |**2025-02-26**|**One-at-a-time knockoffs: controlled false discovery rate with higher power**|Charlie K. Guan et.al.|[2502.18750](http://arxiv.org/abs/2502.18750)|**[link](https://github.com/charlie-guan/oatk)**|
@@ -2427,6 +2430,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-04**|**Wikipedia in the Era of LLMs: Evolution and Risks**|Siming Huang et.al.|[2503.02879](http://arxiv.org/abs/2503.02879)|null|
+|**2025-03-04**|**Language Models can Self-Improve at State-Value Estimation for Better Search**|Ethan Mendes et.al.|[2503.02878](http://arxiv.org/abs/2503.02878)|null|
+|**2025-03-04**|**The First Few Tokens Are All You Need: An Efficient and Effective Unsupervised Prefix Fine-Tuning Method for Reasoning Models**|Ke Ji et.al.|[2503.02875](http://arxiv.org/abs/2503.02875)|null|
+|**2025-03-04**|**Prompting Generative AI with Interaction-Augmented Instructions**|Leixian Shen et.al.|[2503.02874](http://arxiv.org/abs/2503.02874)|null|
+|**2025-03-04**|**FairSense-AI: Responsible AI Meets Sustainability**|Shaina Raza et.al.|[2503.02865](http://arxiv.org/abs/2503.02865)|null|
+|**2025-03-04**|**Calibrating LLM Confidence with Semantic Steering: A Multi-Prompt Aggregation Framework**|Ziang Zhou et.al.|[2503.02863](http://arxiv.org/abs/2503.02863)|null|
+|**2025-03-04**|**Privacy and Accuracy-Aware AI/ML Model Deduplication**|Hong Guan et.al.|[2503.02862](http://arxiv.org/abs/2503.02862)|null|
+|**2025-03-04**|**(How) Do Language Models Track State?**|Belinda Z. Li et.al.|[2503.02854](http://arxiv.org/abs/2503.02854)|null|
+|**2025-03-04**|**Shakespearean Sparks: The Dance of Hallucination and Creativity in LLMs' Decoding Layers**|Zicong He et.al.|[2503.02851](http://arxiv.org/abs/2503.02851)|null|
+|**2025-03-04**|**Mask-DPO: Generalizable Fine-grained Factuality Alignment of LLMs**|Yuzhe Gu et.al.|[2503.02846](http://arxiv.org/abs/2503.02846)|null|
 |**2025-02-28**|**LLM Post-Training: A Deep Dive into Reasoning Large Language Models**|Komal Kumar et.al.|[2502.21321](http://arxiv.org/abs/2502.21321)|null|
 |**2025-02-28**|**Raccoon: Multi-stage Diffusion Training with Coarse-to-Fine Curating Videos**|Zhiyu Tan et.al.|[2502.21314](http://arxiv.org/abs/2502.21314)|null|
 |**2025-02-28**|**FANformer: Improving Large Language Models Through Effective Periodicity Modeling**|Yihong Dong et.al.|[2502.21309](http://arxiv.org/abs/2502.21309)|null|
@@ -5433,6 +5446,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-04**|**Wikipedia in the Era of LLMs: Evolution and Risks**|Siming Huang et.al.|[2503.02879](http://arxiv.org/abs/2503.02879)|null|
+|**2025-03-04**|**BatchGEMBA: Token-Efficient Machine Translation Evaluation with Batched Prompting and Prompt Compression**|Daniil Larionov et.al.|[2503.02756](http://arxiv.org/abs/2503.02756)|null|
+|**2025-03-03**|**Co-creation for Sign Language Processing and Machine Translation**|Lisa Lepp et.al.|[2503.01553](http://arxiv.org/abs/2503.01553)|null|
 |**2025-02-28**|**Token-level Ensembling of Models with Different Vocabularies**|Rachel Wicks et.al.|[2502.21265](http://arxiv.org/abs/2502.21265)|null|
 |**2025-02-28**|**Arabizi vs LLMs: Can the Genie Understand the Language of Aladdin?**|Perla Al Almaoui et.al.|[2502.20973](http://arxiv.org/abs/2502.20973)|null|
 |**2025-02-28**|**Do Language Models Understand Honorific Systems in Javanese?**|Mohammad Rifqi Farhansyah et.al.|[2502.20864](http://arxiv.org/abs/2502.20864)|null|
@@ -6267,6 +6283,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-02**|**Exploiting Vulnerabilities in Speech Translation Systems through Targeted Adversarial Attacks**|Chang Liu et.al.|[2503.00957](http://arxiv.org/abs/2503.00957)|null|
 |**2025-02-25**|**Connecting Voices: LoReSpeech as a Low-Resource Speech Parallel Corpus**|Samy Ouzerrout et.al.|[2502.18215](http://arxiv.org/abs/2502.18215)|null|
 |**2025-02-24**|**Balancing Speech Understanding and Generation Using Continual Pre-training for Codec-based Speech LLM**|Jiatong Shi et.al.|[2502.16897](http://arxiv.org/abs/2502.16897)|null|
 |**2025-02-18**|**Soundwave: Less is More for Speech-Text Alignment in LLMs**|Yuhao Zhang et.al.|[2502.12900](http://arxiv.org/abs/2502.12900)|**[link](https://github.com/freedomintelligence/soundwave)**|
@@ -6402,6 +6419,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-04**|**Shakespearean Sparks: The Dance of Hallucination and Creativity in LLMs' Decoding Layers**|Zicong He et.al.|[2503.02851](http://arxiv.org/abs/2503.02851)|null|
+|**2025-03-04**|**Mask-DPO: Generalizable Fine-grained Factuality Alignment of LLMs**|Yuzhe Gu et.al.|[2503.02846](http://arxiv.org/abs/2503.02846)|null|
+|**2025-03-04**|**The Shift from Writing to Pruning Software: A Bonsai-Inspired IDE for Reshaping AI Generated Code**|Raula Gaikovina Kula et.al.|[2503.02833](http://arxiv.org/abs/2503.02833)|null|
+|**2025-03-04**|**FinArena: A Human-Agent Collaboration Framework for Financial Market Analysis and Forecasting**|Congluo Xu et.al.|[2503.02692](http://arxiv.org/abs/2503.02692)|null|
+|**2025-03-04**|**MPO: Boosting LLM Agents with Meta Plan Optimization**|Weimin Xiong et.al.|[2503.02682](http://arxiv.org/abs/2503.02682)|null|
+|**2025-03-04**|**MciteBench: A Benchmark for Multimodal Citation Text Generation in MLLMs**|Caiyu Hu et.al.|[2503.02589](http://arxiv.org/abs/2503.02589)|**[link](https://github.com/caiyuhu/MCiteBench)**|
+|**2025-03-04**|**AILS-NTUA at SemEval-2025 Task 3: Leveraging Large Language Models and Translation Strategies for Multilingual Hallucination Detection**|Dimitra Karkani et.al.|[2503.02442](http://arxiv.org/abs/2503.02442)|null|
+|**2025-03-04**|**WMNav: Integrating Vision-Language Models into World Models for Object Goal Navigation**|Dujun Nie et.al.|[2503.02247](http://arxiv.org/abs/2503.02247)|null|
+|**2025-03-04**|**Enhancing LLM Reliability via Explicit Knowledge Boundary Modeling**|Hang Zheng et.al.|[2503.02233](http://arxiv.org/abs/2503.02233)|null|
+|**2025-03-04**|**MedHEval: Benchmarking Hallucinations and Mitigation Strategies in Medical Large Vision-Language Models**|Aofei Chang et.al.|[2503.02157](http://arxiv.org/abs/2503.02157)|null|
 |**2025-02-28**|**Semantic Volume: Quantifying and Detecting both External and Internal Uncertainty in LLMs**|Xiaomin Li et.al.|[2502.21239](http://arxiv.org/abs/2502.21239)|null|
 |**2025-02-28**|**PASemiQA: Plan-Assisted Agent for Question Answering on Semi-Structured Data with Text and Relational Information**|Hansi Yang et.al.|[2502.21087](http://arxiv.org/abs/2502.21087)|null|
 |**2025-02-28**|**Spatial Reasoning with Denoising Models**|Christopher Wewer et.al.|[2502.21075](http://arxiv.org/abs/2502.21075)|null|
