@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.14
+## Updated on 2025.03.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2193,7 +2193,7 @@ layout: default
 |**2025-03-10**|**On relative simple Heffter spaces**|Laura Johnson et.al.|[2503.07445](http://arxiv.org/abs/2503.07445)|null|
 |**2025-03-08**|**GSV3D: Gaussian Splatting-based Geometric Distillation with Stable Video Diffusion for Single-Image 3D Object Generation**|Ye Tao et.al.|[2503.06136](http://arxiv.org/abs/2503.06136)|null|
 |**2025-03-07**|**Fluid Antenna-Aided Robust Secure Transmission for RSMA-ISAC Systems**|Cixiao Zhang et.al.|[2503.05515](http://arxiv.org/abs/2503.05515)|null|
-|**2025-03-06**|**Quantum generative adversarial networks for gluon initiated jets generation**|Rey Guadarrama et.al.|[2503.05044](http://arxiv.org/abs/2503.05044)|null|
+|**2025-03-06**|**Quantum generative adversarial networks for gluon initiated jets generation**|Rey Guadarrama et.al.|[2503.05044](http://arxiv.org/abs/2503.05044)|**[link](https://github.com/ReyGuadarrama/QGAN_for_MC_Simulations)**|
 |**2025-03-04**|**A filtered Hochschild-Kostant-Rosenberg theorem for real Hochschild homology**|Lucy Yang et.al.|[2503.03024](http://arxiv.org/abs/2503.03024)|null|
 |**2025-03-04**|**InfiniSST: Simultaneous Translation of Unbounded Speech with Large Language Model**|Siqi Ouyang et.al.|[2503.02969](http://arxiv.org/abs/2503.02969)|**[link](https://github.com/leililab/infinisst)**|
 |**2025-03-03**|**RiboGen: RNA Sequence and Structure Co-Generation with Equivariant MultiFlow**|Dana Rubin et.al.|[2503.02058](http://arxiv.org/abs/2503.02058)|null|
@@ -6353,7 +6353,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-03-13**|**Adaptive Inner Speech-Text Alignment for LLM-based Speech Translation**|Henglyu Liu et.al.|[2503.10211](http://arxiv.org/abs/2503.10211)|null|
-|**2025-03-12**|**Quantization for OpenAI's Whisper Models: A Comparative Analysis**|Allison Andreyev et.al.|[2503.09905](http://arxiv.org/abs/2503.09905)|**[link](https://github.com/allisonandreyev/WhisperQuantization)**|
+|**2025-03-12**|**Quantization for OpenAI's Whisper Models: A Comparative Analysis**|Allison Andreyev et.al.|[2503.09905](http://arxiv.org/abs/2503.09905)|null|
 |**2025-03-03**|**Direct Speech to Speech Translation: A Review**|Mohammad Sarim et.al.|[2503.04799](http://arxiv.org/abs/2503.04799)|null|
 |**2025-03-05**|**Exploiting Vulnerabilities in Speech Translation Systems through Targeted Adversarial Attacks**|Chang Liu et.al.|[2503.00957](http://arxiv.org/abs/2503.00957)|null|
 |**2025-02-25**|**Connecting Voices: LoReSpeech as a Low-Resource Speech Parallel Corpus**|Samy Ouzerrout et.al.|[2502.18215](http://arxiv.org/abs/2502.18215)|null|
@@ -6493,7 +6493,7 @@ layout: default
 |**2025-03-13**|**SySLLM: Generating Synthesized Policy Summaries for Reinforcement Learning Agents Using Large Language Models**|Sahar Admoni et.al.|[2503.10509](http://arxiv.org/abs/2503.10509)|null|
 |**2025-03-13**|**SurgRAW: Multi-Agent Workflow with Chain-of-Thought Reasoning for Surgical Intelligence**|Chang Han Low et.al.|[2503.10265](http://arxiv.org/abs/2503.10265)|null|
 |**2025-03-13**|**Through the Magnifying Glass: Adaptive Perception Magnification for Hallucination-Free VLM Decoding**|Shunqi Mao et.al.|[2503.10183](http://arxiv.org/abs/2503.10183)|null|
-|**2025-03-12**|**Quantization for OpenAI's Whisper Models: A Comparative Analysis**|Allison Andreyev et.al.|[2503.09905](http://arxiv.org/abs/2503.09905)|**[link](https://github.com/allisonandreyev/WhisperQuantization)**|
+|**2025-03-12**|**Quantization for OpenAI's Whisper Models: A Comparative Analysis**|Allison Andreyev et.al.|[2503.09905](http://arxiv.org/abs/2503.09905)|null|
 |**2025-03-12**|**Conversational Gold: Evaluating Personalized Conversational Search System using Gold Nuggets**|Zahra Abbasiantaeb et.al.|[2503.09902](http://arxiv.org/abs/2503.09902)|null|
 |**2025-03-12**|**CASTLE: Benchmarking Dataset for Static Code Analyzers and LLMs towards CWE Detection**|Richard A. Dubniczky et.al.|[2503.09433](http://arxiv.org/abs/2503.09433)|null|
 |**2025-03-12**|**NVP-HRI: Zero Shot Natural Voice and Posture-based Human-Robot Interaction via Large Language Model**|Yuzhi Lai et.al.|[2503.09335](http://arxiv.org/abs/2503.09335)|null|
