@@ -2189,6 +2189,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-14**|**Joint Training And Decoding for Multilingual End-to-End Simultaneous Speech Translation**|Wuwei Huang et.al.|[2503.11080](http://arxiv.org/abs/2503.11080)|null|
 |**2025-03-12**|**Unified Dense Prediction of Video Diffusion**|Lehan Yang et.al.|[2503.09344](http://arxiv.org/abs/2503.09344)|null|
 |**2025-03-10**|**On relative simple Heffter spaces**|Laura Johnson et.al.|[2503.07445](http://arxiv.org/abs/2503.07445)|null|
 |**2025-03-08**|**GSV3D: Gaussian Splatting-based Geometric Distillation with Stable Video Diffusion for Single-Image 3D Object Generation**|Ye Tao et.al.|[2503.06136](http://arxiv.org/abs/2503.06136)|null|
@@ -2410,6 +2411,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-14**|**Tit-for-Tat: Safeguarding Large Vision-Language Models Against Jailbreak Attacks via Adversarial Defense**|Shuyang Hao et.al.|[2503.11619](http://arxiv.org/abs/2503.11619)|null|
+|**2025-03-14**|**ASMA-Tune: Unlocking LLMs' Assembly Code Comprehension via Structural-Semantic Instruction Tuning**|Xinyi Wang et.al.|[2503.11617](http://arxiv.org/abs/2503.11617)|null|
+|**2025-03-14**|**Rethinking Few-Shot Adaptation of Vision-Language Models in Two Stages**|Matteo Farina et.al.|[2503.11609](http://arxiv.org/abs/2503.11609)|null|
+|**2025-03-14**|**Do Construction Distributions Shape Formal Language Learning In German BabyLMs?**|Bastian Bunzeck et.al.|[2503.11593](http://arxiv.org/abs/2503.11593)|null|
+|**2025-03-14**|**Broaden your SCOPE! Efficient Multi-turn Conversation Planning for LLMs using Semantic Space**|Zhiliang Chen et.al.|[2503.11586](http://arxiv.org/abs/2503.11586)|null|
+|**2025-03-14**|**SmolDocling: An ultra-compact vision-language model for end-to-end multi-modal document conversion**|Ahmed Nassar et.al.|[2503.11576](http://arxiv.org/abs/2503.11576)|null|
+|**2025-03-14**|**Synthesizing Access Control Policies using Large Language Models**|Adarsh Vatsa et.al.|[2503.11573](http://arxiv.org/abs/2503.11573)|null|
+|**2025-03-14**|**Implicit Bias-Like Patterns in Reasoning Models**|Messi H. J. Lee et.al.|[2503.11572](http://arxiv.org/abs/2503.11572)|null|
+|**2025-03-14**|**VERIFY: A Benchmark of Visual Explanation and Reasoning for Investigating Multimodal Reasoning Fidelity**|Jing Bi et.al.|[2503.11557](http://arxiv.org/abs/2503.11557)|null|
+|**2025-03-14**|**Similarity-Aware Token Pruning: Your VLM but Faster**|Ahmadreza Jeddi et.al.|[2503.11549](http://arxiv.org/abs/2503.11549)|null|
 |**2025-03-13**|**GoT: Unleashing Reasoning Capability of Multimodal Large Language Model for Visual Generation and Editing**|Rongyao Fang et.al.|[2503.10639](http://arxiv.org/abs/2503.10639)|**[link](https://github.com/rongyaofang/got)**|
 |**2025-03-13**|**A Frustratingly Simple Yet Highly Effective Attack Baseline: Over 90% Success Rate Against the Strong Black-box Models of GPT-4.5/4o/o1**|Zhaoyi Li et.al.|[2503.10635](http://arxiv.org/abs/2503.10635)|**[link](https://github.com/vila-lab/m-attack)**|
 |**2025-03-13**|**HybridVLA: Collaborative Diffusion and Autoregression in a Unified Vision-Language-Action Model**|Jiaming Liu et.al.|[2503.10631](http://arxiv.org/abs/2503.10631)|null|
@@ -6352,6 +6363,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-14**|**Joint Training And Decoding for Multilingual End-to-End Simultaneous Speech Translation**|Wuwei Huang et.al.|[2503.11080](http://arxiv.org/abs/2503.11080)|null|
 |**2025-03-13**|**Adaptive Inner Speech-Text Alignment for LLM-based Speech Translation**|Henglyu Liu et.al.|[2503.10211](http://arxiv.org/abs/2503.10211)|null|
 |**2025-03-12**|**Quantization for OpenAI's Whisper Models: A Comparative Analysis**|Allison Andreyev et.al.|[2503.09905](http://arxiv.org/abs/2503.09905)|null|
 |**2025-03-03**|**Direct Speech to Speech Translation: A Review**|Mohammad Sarim et.al.|[2503.04799](http://arxiv.org/abs/2503.04799)|null|
@@ -6489,6 +6501,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-14**|**Neutralizing Bias in LLM Reasoning using Entailment Graphs**|Liang Cheng et.al.|[2503.11614](http://arxiv.org/abs/2503.11614)|null|
+|**2025-03-14**|**Prompt Injection Detection and Mitigation via AI Multi-Agent NLP Frameworks**|Diego Gosmar et.al.|[2503.11517](http://arxiv.org/abs/2503.11517)|null|
+|**2025-03-14**|**AIstorian lets AI be a historian: A KG-powered multi-agent system for accurate biography generation**|Fengyu Li et.al.|[2503.11346](http://arxiv.org/abs/2503.11346)|null|
+|**2025-03-14**|**Collaboration is all you need: LLM Assisted Safe Code Translation**|Rabimba Karanjai et.al.|[2503.11237](http://arxiv.org/abs/2503.11237)|null|
+|**2025-03-13**|**Graph-Grounded LLMs: Leveraging Graphical Function Calling to Minimize LLM Hallucinations**|Piyush Gupta et.al.|[2503.10941](http://arxiv.org/abs/2503.10941)|null|
+|**2025-03-13**|**Learning to Inference Adaptively for Multimodal Large Language Models**|Zhuoyan Xu et.al.|[2503.10905](http://arxiv.org/abs/2503.10905)|null|
+|**2025-03-13**|**RI3D: Few-Shot Gaussian Splatting With Repair and Inpainting Diffusion Priors**|Avinash Paliwal et.al.|[2503.10860](http://arxiv.org/abs/2503.10860)|null|
+|**2025-03-13**|**HALURust: Exploiting Hallucinations of Large Language Models to Detect Vulnerabilities in Rust**|Yu Luo et.al.|[2503.10793](http://arxiv.org/abs/2503.10793)|null|
 |**2025-03-13**|**TruthPrInt: Mitigating LVLM Object Hallucination Via Latent Truthful-Guided Pre-Intervention**|Jinhao Duan et.al.|[2503.10602](http://arxiv.org/abs/2503.10602)|**[link](https://github.com/jinhaoduan/truthprint)**|
 |**2025-03-13**|**SySLLM: Generating Synthesized Policy Summaries for Reinforcement Learning Agents Using Large Language Models**|Sahar Admoni et.al.|[2503.10509](http://arxiv.org/abs/2503.10509)|null|
 |**2025-03-13**|**SurgRAW: Multi-Agent Workflow with Chain-of-Thought Reasoning for Surgical Intelligence**|Chang Han Low et.al.|[2503.10265](http://arxiv.org/abs/2503.10265)|null|
