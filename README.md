@@ -2214,6 +2214,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-31**|**Simultaneously generating Brillouin microlaser and second harmonic within a lithium niobate microdisk**|Xiaochao Luo et.al.|[2503.23706](http://arxiv.org/abs/2503.23706)|null|
+|**2025-03-30**|**Relation morphisms of directed graphs**|Gilles G. de Castro et.al.|[2503.23343](http://arxiv.org/abs/2503.23343)|null|
+|**2025-03-29**|**MeshCraft: Exploring Efficient and Controllable Mesh Generation with Flow-based DiTs**|Xianglong He et.al.|[2503.23022](http://arxiv.org/abs/2503.23022)|null|
 |**2025-03-28**|**Non-Monotonic Attention-based Read/Write Policy Learning for Simultaneous Translation**|Zeeshan Ahmed et.al.|[2503.22051](http://arxiv.org/abs/2503.22051)|null|
 |**2025-03-27**|**A Unified Image-Dense Annotation Generation Model for Underwater Scenes**|Hongkai Lin et.al.|[2503.21771](http://arxiv.org/abs/2503.21771)|**[link](https://github.com/hongklin/tide)**|
 |**2025-03-26**|**MMGen: Unified Multi-modal Image Generation and Understanding in One Go**|Jiepeng Wang et.al.|[2503.20644](http://arxiv.org/abs/2503.20644)|null|
@@ -2446,6 +2449,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-31**|**Any2Caption:Interpreting Any Condition to Caption for Controllable Video Generation**|Shengqiong Wu et.al.|[2503.24379](http://arxiv.org/abs/2503.24379)|null|
+|**2025-03-31**|**ACPBench Hard: Unrestrained Reasoning about Action, Change, and Planning**|Harsha Kokel et.al.|[2503.24378](http://arxiv.org/abs/2503.24378)|null|
+|**2025-03-31**|**Harnessing the Reasoning Economy: A Survey of Efficient Reasoning for Large Language Models**|Rui Wang et.al.|[2503.24377](http://arxiv.org/abs/2503.24377)|**[link](https://github.com/devoallen/awesome-reasoning-economy-papers)**|
+|**2025-03-31**|**Exploring the Effect of Reinforcement Learning on Video Understanding: Insights from SEED-Bench-R1**|Yi Chen et.al.|[2503.24376](http://arxiv.org/abs/2503.24376)|**[link](https://github.com/tencentarc/seed-bench-r1)**|
+|**2025-03-31**|**Effectively Controlling Reasoning Models through Thinking Intervention**|Tong Wu et.al.|[2503.24370](http://arxiv.org/abs/2503.24370)|null|
+|**2025-03-31**|**ORAL: Prompting Your Large-Scale LoRAs via Conditional Recurrent Diffusion**|Rana Muhammad Shahroz Khan et.al.|[2503.24354](http://arxiv.org/abs/2503.24354)|null|
+|**2025-03-31**|**BEATS: Bias Evaluation and Assessment Test Suite for Large Language Models**|Alok Abhishek et.al.|[2503.24310](http://arxiv.org/abs/2503.24310)|null|
+|**2025-03-31**|**A Systematic Evaluation of LLM Strategies for Mental Health Text Analysis: Fine-tuning vs. Prompt Engineering vs. RAG**|Arshia Kermani et.al.|[2503.24307](http://arxiv.org/abs/2503.24307)|null|
+|**2025-03-31**|**Rec-R1: Bridging Generative Large Language Models and User-Centric Recommendation Systems via Reinforcement Learning**|Jiacheng Lin et.al.|[2503.24289](http://arxiv.org/abs/2503.24289)|null|
+|**2025-03-31**|**Evaluating and Designing Sparse Autoencoders by Approximating Quasi-Orthogonality**|Sewoong Lee et.al.|[2503.24277](http://arxiv.org/abs/2503.24277)|**[link](https://github.com/sewoonglee/top-afa-sae)**|
 |**2025-03-28**|**Q-Insight: Understanding Image Quality via Visual Reinforcement Learning**|Weiqi Li et.al.|[2503.22679](http://arxiv.org/abs/2503.22679)|**[link](https://github.com/lwq20020127/q-insight)**|
 |**2025-03-28**|**QuestBench: Can LLMs ask the right question to acquire information in reasoning tasks?**|Belinda Z. Li et.al.|[2503.22674](http://arxiv.org/abs/2503.22674)|null|
 |**2025-03-28**|**Exploring the Effectiveness of Multi-stage Fine-tuning for Cross-encoder Re-rankers**|Francesca Pezzuti et.al.|[2503.22672](http://arxiv.org/abs/2503.22672)|**[link](https://github.com/fpezzuti/multistage-finetuning)**|
@@ -5643,6 +5656,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-31**|**Is LLM the Silver Bullet to Low-Resource Languages Machine Translation?**|Yewei Song et.al.|[2503.24102](http://arxiv.org/abs/2503.24102)|null|
+|**2025-03-31**|**You Cannot Feed Two Birds with One Score: the Accuracy-Naturalness Tradeoff in Translation**|Gergely Flamich et.al.|[2503.24013](http://arxiv.org/abs/2503.24013)|null|
+|**2025-03-30**|**The Impact of Code-switched Synthetic Data Quality is Task Dependent: Insights from MT and ASR**|Injy Hamed et.al.|[2503.23576](http://arxiv.org/abs/2503.23576)|null|
+|**2025-03-30**|**Using Source-Side Confidence Estimation for Reliable Translation into Unfamiliar Languages**|Kenneth J. Sible et.al.|[2503.23305](http://arxiv.org/abs/2503.23305)|null|
+|**2025-03-29**|**The Challenge of Achieving Attributability in Multilingual Table-to-Text Generation with Question-Answer Blueprints**|Aden Haussmann et.al.|[2503.23204](http://arxiv.org/abs/2503.23204)|null|
+|**2025-03-26**|**Training in translation tools and technologies: Findings of the EMT survey 2023**|Andrew Rothwell et.al.|[2503.22735](http://arxiv.org/abs/2503.22735)|null|
 |**2025-03-28**|**Beyond Vanilla Fine-Tuning: Leveraging Multistage, Multilingual, and Domain-Specific Methods for Low-Resource Machine Translation**|Sarubi Thillainathan et.al.|[2503.22582](http://arxiv.org/abs/2503.22582)|null|
 |**2025-03-28**|**Non-Monotonic Attention-based Read/Write Policy Learning for Simultaneous Translation**|Zeeshan Ahmed et.al.|[2503.22051](http://arxiv.org/abs/2503.22051)|null|
 |**2025-03-26**|**Sociotechnical Effects of Machine Translation**|Joss Moorkens et.al.|[2503.20959](http://arxiv.org/abs/2503.20959)|null|
@@ -6516,6 +6535,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-30**|**The Impact of Code-switched Synthetic Data Quality is Task Dependent: Insights from MT and ASR**|Injy Hamed et.al.|[2503.23576](http://arxiv.org/abs/2503.23576)|null|
 |**2025-03-18**|**AdaST: Dynamically Adapting Encoder States in the Decoder for End-to-End Speech-to-Text Translation**|Wuwei Huang et.al.|[2503.14185](http://arxiv.org/abs/2503.14185)|null|
 |**2025-03-14**|**Joint Training And Decoding for Multilingual End-to-End Simultaneous Speech Translation**|Wuwei Huang et.al.|[2503.11080](http://arxiv.org/abs/2503.11080)|null|
 |**2025-03-13**|**Adaptive Inner Speech-Text Alignment for LLM-based Speech Translation**|Henglyu Liu et.al.|[2503.10211](http://arxiv.org/abs/2503.10211)|null|
@@ -6657,6 +6677,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-31**|**Better wit than wealth: Dynamic Parametric Retrieval Augmented Generation for Test-time Knowledge Enhancement**|Yuqiao Tan et.al.|[2503.23895](http://arxiv.org/abs/2503.23895)|**[link](https://github.com/trae1oung/dyprag)**|
+|**2025-03-31**|**HOIGen-1M: A Large-scale Dataset for Human-Object Interaction Video Generation**|Kun Liu et.al.|[2503.23715](http://arxiv.org/abs/2503.23715)|null|
+|**2025-03-30**|**DASH: Detection and Assessment of Systematic Hallucinations of VLMs**|Maximilian Augustin et.al.|[2503.23573](http://arxiv.org/abs/2503.23573)|null|
+|**2025-03-30**|**RARE: Retrieval-Augmented Reasoning Modeling**|Zhengren Wang et.al.|[2503.23513](http://arxiv.org/abs/2503.23513)|null|
+|**2025-03-30**|**SCORE: Story Coherence and Retrieval Enhancement for AI Narratives**|Qiang Yi et.al.|[2503.23512](http://arxiv.org/abs/2503.23512)|null|
+|**2025-03-30**|**Re-Aligning Language to Visual Objects with an Agentic Workflow**|Yuming Chen et.al.|[2503.23508](http://arxiv.org/abs/2503.23508)|null|
+|**2025-03-30**|**An Analysis of Decoding Methods for LLM-based Agents for Faithful Multi-Hop Question Answering**|Alexander Murphy et.al.|[2503.23415](http://arxiv.org/abs/2503.23415)|null|
+|**2025-03-30**|**Discovering Knowledge Deficiencies of Language Models on Massive Knowledge Base**|Linxin Song et.al.|[2503.23361](http://arxiv.org/abs/2503.23361)|null|
+|**2025-03-29**|**Citegeist: Automated Generation of Related Work Analysis on the arXiv Corpus**|Claas Beger et.al.|[2503.23229](http://arxiv.org/abs/2503.23229)|null|
+|**2025-03-29**|**When 'YES' Meets 'BUT': Can Large Models Comprehend Contradictory Humor Through Comparative Reasoning?**|Tuo Liang et.al.|[2503.23137](http://arxiv.org/abs/2503.23137)|null|
 |**2025-03-28**|**Evaluating Multimodal Language Models as Visual Assistants for Visually Impaired Users**|Antonia Karamolegkou et.al.|[2503.22610](http://arxiv.org/abs/2503.22610)|null|
 |**2025-03-28**|**Supposedly Equivalent Facts That Aren't? Entity Frequency in Pre-training Induces Asymmetry in LLMs**|Yuan He et.al.|[2503.22362](http://arxiv.org/abs/2503.22362)|**[link](https://github.com/KRR-Oxford/FactProbe)**|
 |**2025-03-28**|**BanglAssist: A Bengali-English Generative AI Chatbot for Code-Switching and Dialect-Handling in Customer Service**|Francesco Kruk et.al.|[2503.22283](http://arxiv.org/abs/2503.22283)|null|
