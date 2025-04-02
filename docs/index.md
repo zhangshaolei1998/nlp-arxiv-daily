@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.01
+## Updated on 2025.04.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -5628,7 +5628,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-03-31**|**Is LLM the Silver Bullet to Low-Resource Languages Machine Translation?**|Yewei Song et.al.|[2503.24102](http://arxiv.org/abs/2503.24102)|null|
-|**2025-03-31**|**You Cannot Feed Two Birds with One Score: the Accuracy-Naturalness Tradeoff in Translation**|Gergely Flamich et.al.|[2503.24013](http://arxiv.org/abs/2503.24013)|null|
+|**2025-04-01**|**You Cannot Feed Two Birds with One Score: the Accuracy-Naturalness Tradeoff in Translation**|Gergely Flamich et.al.|[2503.24013](http://arxiv.org/abs/2503.24013)|null|
 |**2025-03-30**|**The Impact of Code-switched Synthetic Data Quality is Task Dependent: Insights from MT and ASR**|Injy Hamed et.al.|[2503.23576](http://arxiv.org/abs/2503.23576)|null|
 |**2025-03-30**|**Using Source-Side Confidence Estimation for Reliable Translation into Unfamiliar Languages**|Kenneth J. Sible et.al.|[2503.23305](http://arxiv.org/abs/2503.23305)|null|
 |**2025-03-29**|**The Challenge of Achieving Attributability in Multilingual Table-to-Text Generation with Question-Answer Blueprints**|Aden Haussmann et.al.|[2503.23204](http://arxiv.org/abs/2503.23204)|null|
