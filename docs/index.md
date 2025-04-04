@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.03
+## Updated on 2025.04.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2430,7 +2430,7 @@ layout: default
 |**2025-04-02**|**A thorough benchmark of automatic text classification: From traditional approaches to large language models**|Washington Cunha et.al.|[2504.01930](http://arxiv.org/abs/2504.01930)|null|
 |**2025-04-02**|**Gen-C: Populating Virtual Worlds with Generative Crowds**|Andreas Panayiotou et.al.|[2504.01924](http://arxiv.org/abs/2504.01924)|null|
 |**2025-04-02**|**Is Less Really More? Fake News Detection with Limited Information**|Zhaoyang Cao et.al.|[2504.01922](http://arxiv.org/abs/2504.01922)|**[link](https://github.com/kappakant/SLIM)**|
-|**2025-04-02**|**Bridging the Linguistic Divide: A Survey on Leveraging Large Language Models for Machine Translation**|Baban Gain et.al.|[2504.01919](http://arxiv.org/abs/2504.01919)|null|
+|**2025-04-03**|**Bridging the Linguistic Divide: A Survey on Leveraging Large Language Models for Machine Translation**|Baban Gain et.al.|[2504.01919](http://arxiv.org/abs/2504.01919)|null|
 |**2025-04-02**|**FineLIP: Extending CLIP's Reach via Fine-Grained Alignment with Longer Text Inputs**|Mothilal Asokan et.al.|[2504.01916](http://arxiv.org/abs/2504.01916)|null|
 |**2025-03-31**|**Any2Caption:Interpreting Any Condition to Caption for Controllable Video Generation**|Shengqiong Wu et.al.|[2503.24379](http://arxiv.org/abs/2503.24379)|null|
 |**2025-03-31**|**ACPBench Hard: Unrestrained Reasoning about Action, Change, and Planning**|Harsha Kokel et.al.|[2503.24378](http://arxiv.org/abs/2503.24378)|null|
@@ -5637,7 +5637,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-04-02**|**Bridging the Linguistic Divide: A Survey on Leveraging Large Language Models for Machine Translation**|Baban Gain et.al.|[2504.01919](http://arxiv.org/abs/2504.01919)|null|
+|**2025-04-03**|**Bridging the Linguistic Divide: A Survey on Leveraging Large Language Models for Machine Translation**|Baban Gain et.al.|[2504.01919](http://arxiv.org/abs/2504.01919)|null|
 |**2025-04-01**|**VNJPTranslate: A comprehensive pipeline for Vietnamese-Japanese translation**|Hoang Hai Phan et.al.|[2504.00339](http://arxiv.org/abs/2504.00339)|null|
 |**2025-03-28**|**FUSE : A Ridge and Random Forest-Based Metric for Evaluating MT in Indigenous Languages**|Rahul Raja et.al.|[2504.00021](http://arxiv.org/abs/2504.00021)|null|
 |**2025-03-31**|**Is LLM the Silver Bullet to Low-Resource Languages Machine Translation?**|Yewei Song et.al.|[2503.24102](http://arxiv.org/abs/2503.24102)|null|
@@ -6657,9 +6657,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-04-02**|**Bridging the Linguistic Divide: A Survey on Leveraging Large Language Models for Machine Translation**|Baban Gain et.al.|[2504.01919](http://arxiv.org/abs/2504.01919)|null|
+|**2025-04-03**|**Bridging the Linguistic Divide: A Survey on Leveraging Large Language Models for Machine Translation**|Baban Gain et.al.|[2504.01919](http://arxiv.org/abs/2504.01919)|null|
 |**2025-04-02**|**TimeSearch: Hierarchical Video Search with Spotlight and Reflection for Human-like Long Video Understanding**|Junwen Pan et.al.|[2504.01407](http://arxiv.org/abs/2504.01407)|null|
-|**2025-04-02**|**Scaling Test-Time Inference with Policy-Optimized, Dynamic Retrieval-Augmented Generation via KV Caching and Decoding**|Sakhinana Sagar Srinivas et.al.|[2504.01281](http://arxiv.org/abs/2504.01281)|null|
+|**2025-04-03**|**Scaling Test-Time Inference with Policy-Optimized, Dynamic Retrieval-Augmented Generation via KV Caching and Decoding**|Sakhinana Sagar Srinivas et.al.|[2504.01281](http://arxiv.org/abs/2504.01281)|null|
 |**2025-04-01**|**Automated Factual Benchmarking for In-Car Conversational Systems using Large Language Models**|Rafael Giebisch et.al.|[2504.01248](http://arxiv.org/abs/2504.01248)|null|
 |**2025-04-01**|**$μ$ KE: Matryoshka Unstructured Knowledge Editing of Large Language Models**|Zian Su et.al.|[2504.01196](http://arxiv.org/abs/2504.01196)|null|
 |**2025-04-01**|**Catch Me if You Search: When Contextual Web Search Results Affect the Detection of Hallucinations**|Mahjabin Nahar et.al.|[2504.01153](http://arxiv.org/abs/2504.01153)|null|

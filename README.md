@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.03
+## Updated on 2025.04.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -452,7 +452,7 @@
 |**2021-10-03**|**Quadrotor Control on $SU(2)\times R^3$ with SLAM Integration**|Marcus Greiff et.al.|[2110.01099](http://arxiv.org/abs/2110.01099)|null|
 |**2021-10-02**|**Online Incremental Non-Gaussian Inference for SLAM Using Normalizing Flows**|Qiangqiang Huang et.al.|[2110.00876](http://arxiv.org/abs/2110.00876)|**[link](https://github.com/marineroboticsgroup/nf-isam)**|
 
-<p align=right>(<a href=#updated-on-20250403>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250404>back to top</a>)</p>
 
 ## SFM
 
@@ -597,7 +597,7 @@
 |**2021-08-29**|**Solving Viewing Graph Optimization for Simultaneous Position and Rotation Registration**|Seyed-Mahdi Nasiri et.al.|[2108.12876](http://arxiv.org/abs/2108.12876)|null|
 |**2021-08-23**|**Burst Imaging for Light-Constrained Structure-From-Motion**|Ahalya Ravendran et.al.|[2108.09895](http://arxiv.org/abs/2108.09895)|null|
 
-<p align=right>(<a href=#updated-on-20250403>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250404>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -1193,7 +1193,7 @@
 |**2021-09-09**|**CrowdDriven: A New Challenging Dataset for Outdoor Visual Localization**|Ara Jafarzadeh et.al.|[2109.04527](http://arxiv.org/abs/2109.04527)|null|
 |**2021-09-09**|**Keeping an Eye on Things: Deep Learned Features for Long-Term Visual Localization**|Mona Gridseth et.al.|[2109.04041](http://arxiv.org/abs/2109.04041)|**[link](https://github.com/utiasasrl/deep_learned_visual_features)**|
 
-<p align=right>(<a href=#updated-on-20250403>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250404>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -1388,7 +1388,7 @@
 |**2021-08-31**|**A Novel Dataset for Keypoint Detection of quadruped Animals from Images**|Prianka Banik et.al.|[2108.13958](http://arxiv.org/abs/2108.13958)|**[link](https://github.com/prinik/awa-pose)**|
 |**2021-08-27**|**A Matching Algorithm based on Image Attribute Transfer and Local Features for Underwater Acoustic and Optical Images**|Xiaoteng Zhou et.al.|[2108.12151](http://arxiv.org/abs/2108.12151)|null|
 
-<p align=right>(<a href=#updated-on-20250403>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250404>back to top</a>)</p>
 
 ## Image Matching
 
@@ -1573,7 +1573,7 @@
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou et.al.|[2108.12072](http://arxiv.org/abs/2108.12072)|null|
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911](http://arxiv.org/abs/2108.11911)|null|
 
-<p align=right>(<a href=#updated-on-20250403>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250404>back to top</a>)</p>
 
 ## NeRF
 
@@ -2208,7 +2208,7 @@
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
 
-<p align=right>(<a href=#updated-on-20250403>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250404>back to top</a>)</p>
 
 ## Simultaneous Translation
 
@@ -2443,7 +2443,7 @@
 |**2023-11-07**|**CBSiMT: Mitigating Hallucination in Simultaneous Machine Translation with Weighted Prefix-to-Prefix Training**|Mengge Liu et.al.|[2311.03672](http://arxiv.org/abs/2311.03672)|null|
 |**2023-11-03**|**PRISM: Progressive Restoration for Scene Graph-based Image Manipulation**|Pavel Jahoda et.al.|[2311.02247](http://arxiv.org/abs/2311.02247)|null|
 
-<p align=right>(<a href=#updated-on-20250403>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250404>back to top</a>)</p>
 
 ## Language Model
 
@@ -2457,7 +2457,7 @@
 |**2025-04-02**|**A thorough benchmark of automatic text classification: From traditional approaches to large language models**|Washington Cunha et.al.|[2504.01930](http://arxiv.org/abs/2504.01930)|null|
 |**2025-04-02**|**Gen-C: Populating Virtual Worlds with Generative Crowds**|Andreas Panayiotou et.al.|[2504.01924](http://arxiv.org/abs/2504.01924)|null|
 |**2025-04-02**|**Is Less Really More? Fake News Detection with Limited Information**|Zhaoyang Cao et.al.|[2504.01922](http://arxiv.org/abs/2504.01922)|**[link](https://github.com/kappakant/SLIM)**|
-|**2025-04-02**|**Bridging the Linguistic Divide: A Survey on Leveraging Large Language Models for Machine Translation**|Baban Gain et.al.|[2504.01919](http://arxiv.org/abs/2504.01919)|null|
+|**2025-04-03**|**Bridging the Linguistic Divide: A Survey on Leveraging Large Language Models for Machine Translation**|Baban Gain et.al.|[2504.01919](http://arxiv.org/abs/2504.01919)|null|
 |**2025-04-02**|**FineLIP: Extending CLIP's Reach via Fine-Grained Alignment with Longer Text Inputs**|Mothilal Asokan et.al.|[2504.01916](http://arxiv.org/abs/2504.01916)|null|
 |**2025-03-31**|**Any2Caption:Interpreting Any Condition to Caption for Controllable Video Generation**|Shengqiong Wu et.al.|[2503.24379](http://arxiv.org/abs/2503.24379)|null|
 |**2025-03-31**|**ACPBench Hard: Unrestrained Reasoning about Action, Change, and Planning**|Harsha Kokel et.al.|[2503.24378](http://arxiv.org/abs/2503.24378)|null|
@@ -5660,13 +5660,13 @@
 |**2023-11-29**|**End-to-end Joint Rich and Normalized ASR with a limited amount of rich training data**|Can Cui et.al.|[2311.17741](http://arxiv.org/abs/2311.17741)|null|
 |**2023-11-29**|**GenZI: Zero-Shot 3D Human-Scene Interaction Generation**|Lei Li et.al.|[2311.17737](http://arxiv.org/abs/2311.17737)|null|
 
-<p align=right>(<a href=#updated-on-20250403>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250404>back to top</a>)</p>
 
 ## Machine Translation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-04-02**|**Bridging the Linguistic Divide: A Survey on Leveraging Large Language Models for Machine Translation**|Baban Gain et.al.|[2504.01919](http://arxiv.org/abs/2504.01919)|null|
+|**2025-04-03**|**Bridging the Linguistic Divide: A Survey on Leveraging Large Language Models for Machine Translation**|Baban Gain et.al.|[2504.01919](http://arxiv.org/abs/2504.01919)|null|
 |**2025-04-01**|**VNJPTranslate: A comprehensive pipeline for Vietnamese-Japanese translation**|Hoang Hai Phan et.al.|[2504.00339](http://arxiv.org/abs/2504.00339)|null|
 |**2025-03-28**|**FUSE : A Ridge and Random Forest-Based Metric for Evaluating MT in Indigenous Languages**|Rahul Raja et.al.|[2504.00021](http://arxiv.org/abs/2504.00021)|null|
 |**2025-03-31**|**Is LLM the Silver Bullet to Low-Resource Languages Machine Translation?**|Yewei Song et.al.|[2503.24102](http://arxiv.org/abs/2503.24102)|null|
@@ -6542,7 +6542,7 @@
 |**2023-11-24**|**OpusCleaner and OpusTrainer, open source toolkits for training Machine Translation and Large language models**|Nikolay Bogoychev et.al.|[2311.14838](http://arxiv.org/abs/2311.14838)|**[link](https://github.com/hplt-project/opustrainer)**|
 |**2023-11-24**|**Machine Translation for Ge'ez Language**|Aman Kassahun Wassie et.al.|[2311.14530](http://arxiv.org/abs/2311.14530)|null|
 
-<p align=right>(<a href=#updated-on-20250403>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250404>back to top</a>)</p>
 
 ## Speech Translation
 
@@ -6684,15 +6684,15 @@
 |**2023-10-23**|**Leveraging Timestamp Information for Serialized Joint Streaming Recognition and Translation**|Sara Papi et.al.|[2310.14806](http://arxiv.org/abs/2310.14806)|null|
 |**2023-10-23**|**Long-Form Speech Translation through Segmentation with Finite-State Decoding Constraints on Large Language Models**|Arya D. McCarthy et.al.|[2310.13678](http://arxiv.org/abs/2310.13678)|null|
 
-<p align=right>(<a href=#updated-on-20250403>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250404>back to top</a>)</p>
 
 ## Hallucination
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-04-02**|**Bridging the Linguistic Divide: A Survey on Leveraging Large Language Models for Machine Translation**|Baban Gain et.al.|[2504.01919](http://arxiv.org/abs/2504.01919)|null|
+|**2025-04-03**|**Bridging the Linguistic Divide: A Survey on Leveraging Large Language Models for Machine Translation**|Baban Gain et.al.|[2504.01919](http://arxiv.org/abs/2504.01919)|null|
 |**2025-04-02**|**TimeSearch: Hierarchical Video Search with Spotlight and Reflection for Human-like Long Video Understanding**|Junwen Pan et.al.|[2504.01407](http://arxiv.org/abs/2504.01407)|null|
-|**2025-04-02**|**Scaling Test-Time Inference with Policy-Optimized, Dynamic Retrieval-Augmented Generation via KV Caching and Decoding**|Sakhinana Sagar Srinivas et.al.|[2504.01281](http://arxiv.org/abs/2504.01281)|null|
+|**2025-04-03**|**Scaling Test-Time Inference with Policy-Optimized, Dynamic Retrieval-Augmented Generation via KV Caching and Decoding**|Sakhinana Sagar Srinivas et.al.|[2504.01281](http://arxiv.org/abs/2504.01281)|null|
 |**2025-04-01**|**Automated Factual Benchmarking for In-Car Conversational Systems using Large Language Models**|Rafael Giebisch et.al.|[2504.01248](http://arxiv.org/abs/2504.01248)|null|
 |**2025-04-01**|**$μ$ KE: Matryoshka Unstructured Knowledge Editing of Large Language Models**|Zian Su et.al.|[2504.01196](http://arxiv.org/abs/2504.01196)|null|
 |**2025-04-01**|**Catch Me if You Search: When Contextual Web Search Results Affect the Detection of Hallucinations**|Mahjabin Nahar et.al.|[2504.01153](http://arxiv.org/abs/2504.01153)|null|
@@ -8531,7 +8531,7 @@
 |**2023-11-28**|**Beyond Hallucinations: Enhancing LVLMs through Hallucination-Aware Direct Preference Optimization**|Zhiyuan Zhao et.al.|[2311.16839](http://arxiv.org/abs/2311.16839)|null|
 |**2023-11-27**|**Deceptive-Human: Prompt-to-NeRF 3D Human Generation with 3D-Consistent Synthetic Images**|Shiu-hong Kao et.al.|[2311.16499](http://arxiv.org/abs/2311.16499)|**[link](https://github.com/danielshkao/deceptivehuman)**|
 
-<p align=right>(<a href=#updated-on-20250403>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250404>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
