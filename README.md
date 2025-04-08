@@ -2450,6 +2450,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-07**|**URECA: Unique Region Caption Anything**|Sangbeom Lim et.al.|[2504.05305](http://arxiv.org/abs/2504.05305)|null|
+|**2025-04-07**|**InteractVLM: 3D Interaction Reasoning from 2D Foundational Models**|Sai Kumar Dwivedi et.al.|[2504.05303](http://arxiv.org/abs/2504.05303)|null|
+|**2025-04-07**|**SmolVLM: Redefining small and efficient multimodal models**|Andrés Marafioti et.al.|[2504.05299](http://arxiv.org/abs/2504.05299)|null|
+|**2025-04-07**|**Truthful or Fabricated? Using Causal Attribution to Mitigate Reward Hacking in Explanations**|Pedro Ferreira et.al.|[2504.05294](http://arxiv.org/abs/2504.05294)|null|
+|**2025-04-07**|**The challenge of uncertainty quantification of large language models in medicine**|Zahra Atf et.al.|[2504.05278](http://arxiv.org/abs/2504.05278)|null|
+|**2025-04-07**|**Enhancing LLM-Based Short Answer Grading with Retrieval-Augmented Generation**|Yucheng Chu et.al.|[2504.05276](http://arxiv.org/abs/2504.05276)|null|
+|**2025-04-07**|**Do PhD-level LLMs Truly Grasp Elementary Addition? Probing Rule Learning vs. Memorization in Large Language Models**|Yang Yan et.al.|[2504.05262](http://arxiv.org/abs/2504.05262)|null|
+|**2025-04-07**|**Learning to Reason Over Time: Timeline Self-Reflection for Improved Temporal Reasoning in Language Models**|Adrián Bazaga et.al.|[2504.05258](http://arxiv.org/abs/2504.05258)|null|
+|**2025-04-07**|**Explaining Low Perception Model Competency with High-Competency Counterfactuals**|Sara Pohland et.al.|[2504.05254](http://arxiv.org/abs/2504.05254)|null|
+|**2025-04-07**|**LLM-based Automated Grading with Human-in-the-Loop**|Hang Li et.al.|[2504.05239](http://arxiv.org/abs/2504.05239)|null|
 |**2025-04-04**|**Shape My Moves: Text-Driven Shape-Aware Synthesis of Human Motions**|Ting-Hsuan Liao et.al.|[2504.03639](http://arxiv.org/abs/2504.03639)|null|
 |**2025-04-04**|**Do Larger Language Models Imply Better Reasoning? A Pretraining Scaling Law for Reasoning**|Xinyi Wang et.al.|[2504.03635](http://arxiv.org/abs/2504.03635)|null|
 |**2025-04-04**|**Align to Structure: Aligning Large Language Models with Structural Information**|Zae Myung Kim et.al.|[2504.03622](http://arxiv.org/abs/2504.03622)|null|
@@ -5687,6 +5697,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-07**|**DoCIA: An Online Document-Level Context Incorporation Agent for Speech Translation**|Xinglin Lyu et.al.|[2504.05122](http://arxiv.org/abs/2504.05122)|null|
+|**2025-04-07**|**M-Prometheus: A Suite of Open Multilingual LLM Judges**|José Pombal et.al.|[2504.04953](http://arxiv.org/abs/2504.04953)|null|
+|**2025-04-06**|**PolyGuard: A Multilingual Safety Moderation Tool for 17 Languages**|Priyanshu Kumar et.al.|[2504.04377](http://arxiv.org/abs/2504.04377)|null|
+|**2025-04-05**|**GlotEval: A Test Suite for Massively Multilingual Evaluation of Large Language Models**|Hengyu Luo et.al.|[2504.04155](http://arxiv.org/abs/2504.04155)|null|
 |**2025-04-04**|**MultiMed-ST: Large-scale Many-to-many Multilingual Medical Speech Translation**|Khai Le-Duc et.al.|[2504.03546](http://arxiv.org/abs/2504.03546)|null|
 |**2025-04-03**|**Extending CREAMT: Leveraging Large Language Models for Literary Translation Post-Editing**|Antonio Castaldo et.al.|[2504.03045](http://arxiv.org/abs/2504.03045)|null|
 |**2025-04-03**|**Limitations of Religious Data and the Importance of the Target Domain: Towards Machine Translation for Guinea-Bissau Creole**|Jacqueline Rowe et.al.|[2504.02674](http://arxiv.org/abs/2504.02674)|null|
@@ -6574,6 +6588,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-07**|**DoCIA: An Online Document-Level Context Incorporation Agent for Speech Translation**|Xinglin Lyu et.al.|[2504.05122](http://arxiv.org/abs/2504.05122)|null|
 |**2025-04-04**|**MultiMed-ST: Large-scale Many-to-many Multilingual Medical Speech Translation**|Khai Le-Duc et.al.|[2504.03546](http://arxiv.org/abs/2504.03546)|null|
 |**2025-03-30**|**The Impact of Code-switched Synthetic Data Quality is Task Dependent: Insights from MT and ASR**|Injy Hamed et.al.|[2503.23576](http://arxiv.org/abs/2503.23576)|null|
 |**2025-03-18**|**AdaST: Dynamically Adapting Encoder States in the Decoder for End-to-End Speech-to-Text Translation**|Wuwei Huang et.al.|[2503.14185](http://arxiv.org/abs/2503.14185)|null|
@@ -6717,6 +6732,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-07**|**DoCIA: An Online Document-Level Context Incorporation Agent for Speech Translation**|Xinglin Lyu et.al.|[2504.05122](http://arxiv.org/abs/2504.05122)|null|
+|**2025-04-07**|**On the Performance of an Explainable Language Model on PubMedQA**|Venkat Srinivasan et.al.|[2504.05074](http://arxiv.org/abs/2504.05074)|null|
+|**2025-04-07**|**A Domain-Based Taxonomy of Jailbreak Vulnerabilities in Large Language Models**|Carlos Peláez-González et.al.|[2504.04976](http://arxiv.org/abs/2504.04976)|null|
+|**2025-04-07**|**Feedback-Enhanced Hallucination-Resistant Vision-Language Model for Real-Time Scene Understanding**|Zahir Alsulaimawi et.al.|[2504.04772](http://arxiv.org/abs/2504.04772)|null|
+|**2025-04-06**|**Capturing AI's Attention: Physics of Repetition, Hallucination, Bias and Beyond**|Frank Yingjie Huo et.al.|[2504.04600](http://arxiv.org/abs/2504.04600)|null|
+|**2025-04-06**|**Planning Safety Trajectories with Dual-Phase, Physics-Informed, and Transportation Knowledge-Driven Large Language Models**|Rui Gan et.al.|[2504.04562](http://arxiv.org/abs/2504.04562)|null|
+|**2025-04-06**|**Hallucination Detection using Multi-View Attention Features**|Yuya Ogasa et.al.|[2504.04335](http://arxiv.org/abs/2504.04335)|null|
+|**2025-04-05**|**JarvisIR: Elevating Autonomous Driving Perception with Intelligent Image Restoration**|Yunlong Lin et.al.|[2504.04158](http://arxiv.org/abs/2504.04158)|null|
+|**2025-04-05**|**TARAC: Mitigating Hallucination in LVLMs via Temporal Attention Real-time Accumulative Connection**|Chunzhao Xie et.al.|[2504.04099](http://arxiv.org/abs/2504.04099)|null|
+|**2025-04-05**|**View2CAD: Reconstructing View-Centric CAD Models from Single RGB-D Scans**|James Noeckel et.al.|[2504.04000](http://arxiv.org/abs/2504.04000)|null|
 |**2025-04-04**|**Hallucination Detection on a Budget: Efficient Bayesian Estimation of Semantic Entropy**|Kamil Ciosek et.al.|[2504.03579](http://arxiv.org/abs/2504.03579)|null|
 |**2025-04-04**|**Structured Legal Document Generation in India: A Model-Agnostic Wrapper Approach with VidhikDastaavej**|Shubham Kumar Nigam et.al.|[2504.03486](http://arxiv.org/abs/2504.03486)|null|
 |**2025-04-04**|**Noise Augmented Fine Tuning for Mitigating Hallucinations in Large Language Models**|Afshin Khadangi et.al.|[2504.03302](http://arxiv.org/abs/2504.03302)|null|
