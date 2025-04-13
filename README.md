@@ -2451,12 +2451,12 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-04-10**|**Cat, Rat, Meow: On the Alignment of Language Model and Human Term-Similarity Judgments**|Lorenz Linhardt et.al.|[2504.07965](http://arxiv.org/abs/2504.07965)|null|
-|**2025-04-10**|**C3PO: Critical-Layer, Core-Expert, Collaborative Pathway Optimization for Test-Time Expert Re-Mixing**|Zhongyang Li et.al.|[2504.07964](http://arxiv.org/abs/2504.07964)|null|
+|**2025-04-10**|**C3PO: Critical-Layer, Core-Expert, Collaborative Pathway Optimization for Test-Time Expert Re-Mixing**|Zhongyang Li et.al.|[2504.07964](http://arxiv.org/abs/2504.07964)|**[link](https://github.com/tianyi-lab/c3po)**|
 |**2025-04-10**|**GLUS: Global-Local Reasoning Unified into A Single Large Language Model for Video Segmentation**|Lang Lin et.al.|[2504.07962](http://arxiv.org/abs/2504.07962)|null|
-|**2025-04-10**|**MM-IFEngine: Towards Multimodal Instruction Following**|Shengyuan Ding et.al.|[2504.07957](http://arxiv.org/abs/2504.07957)|null|
+|**2025-04-10**|**MM-IFEngine: Towards Multimodal Instruction Following**|Shengyuan Ding et.al.|[2504.07957](http://arxiv.org/abs/2504.07957)|**[link](https://github.com/syuan03/mm-ifengine)**|
 |**2025-04-10**|**VCR-Bench: A Comprehensive Evaluation Framework for Video Chain-of-Thought Reasoning**|Yukun Qi et.al.|[2504.07956](http://arxiv.org/abs/2504.07956)|null|
-|**2025-04-10**|**Dynamic Cheatsheet: Test-Time Learning with Adaptive Memory**|Mirac Suzgun et.al.|[2504.07952](http://arxiv.org/abs/2504.07952)|null|
-|**2025-04-10**|**Echo Chamber: RL Post-training Amplifies Behaviors Learned in Pretraining**|Rosie Zhao et.al.|[2504.07912](http://arxiv.org/abs/2504.07912)|null|
+|**2025-04-10**|**Dynamic Cheatsheet: Test-Time Learning with Adaptive Memory**|Mirac Suzgun et.al.|[2504.07952](http://arxiv.org/abs/2504.07952)|**[link](https://github.com/suzgunmirac/dynamic-cheatsheet)**|
+|**2025-04-10**|**Echo Chamber: RL Post-training Amplifies Behaviors Learned in Pretraining**|Rosie Zhao et.al.|[2504.07912](http://arxiv.org/abs/2504.07912)|**[link](https://github.com/rosieyzh/openrlhf-pretrain)**|
 |**2025-04-10**|**Porting an LLM based Application from ChatGPT to an On-Premise Environment**|Teemu Paloniemi et.al.|[2504.07907](http://arxiv.org/abs/2504.07907)|null|
 |**2025-04-10**|**Redefining Machine Translation on Social Network Services with Large Language Models**|Hongcheng Guo et.al.|[2504.07901](http://arxiv.org/abs/2504.07901)|null|
 |**2025-04-10**|**How do Large Language Models Understand Relevance? A Mechanistic Interpretability Perspective**|Qi Liu et.al.|[2504.07898](http://arxiv.org/abs/2504.07898)|null|
@@ -6771,7 +6771,7 @@
 |**2025-04-10**|**Robust Hallucination Detection in LLMs via Adaptive Token Selection**|Mengjia Niu et.al.|[2504.07863](http://arxiv.org/abs/2504.07863)|null|
 |**2025-04-10**|**PR-Attack: Coordinated Prompt-RAG Attacks on Retrieval-Augmented Generation in Large Language Models via Bilevel Optimization**|Yang Jiao et.al.|[2504.07717](http://arxiv.org/abs/2504.07717)|null|
 |**2025-04-10**|**Synthetic Fluency: Hallucinations, Confabulations, and the Creation of Irish Words in LLM-Generated Translations**|Sheila Castilho et.al.|[2504.07680](http://arxiv.org/abs/2504.07680)|null|
-|**2025-04-10**|**Enhancing Large Language Models through Neuro-Symbolic Integration and Ontological Reasoning**|Ruslan Idelfonso Magana Vsevolodovna et.al.|[2504.07640](http://arxiv.org/abs/2504.07640)|null|
+|**2025-04-10**|**Enhancing Large Language Models through Neuro-Symbolic Integration and Ontological Reasoning**|Ruslan Idelfonso Magana Vsevolodovna et.al.|[2504.07640](http://arxiv.org/abs/2504.07640)|**[link](https://github.com/ruslanmv/neuro-symbolic-interaction)**|
 |**2025-04-10**|**Malware analysis assisted by AI with R2AI**|Axelle Apvrille et.al.|[2504.07574](http://arxiv.org/abs/2504.07574)|null|
 |**2025-04-10**|**A taxonomy of epistemic injustice in the context of AI and the case for generative hermeneutical erasure**|Warmhold Jan Thomas Mollema et.al.|[2504.07531](http://arxiv.org/abs/2504.07531)|null|
 |**2025-04-10**|**Leveraging LLMs for Multimodal Retrieval-Augmented Radiology Report Generation via Key Phrase Extraction**|Kyoyun Choi et.al.|[2504.07415](http://arxiv.org/abs/2504.07415)|null|
