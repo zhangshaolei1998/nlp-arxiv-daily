@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.13
+## Updated on 2025.04.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -5701,7 +5701,7 @@ layout: default
 |**2025-04-10**|**Redefining Machine Translation on Social Network Services with Large Language Models**|Hongcheng Guo et.al.|[2504.07901](http://arxiv.org/abs/2504.07901)|null|
 |**2025-04-10**|**Benchmarking Adversarial Robustness to Bias Elicitation in Large Language Models: Scalable Automated Assessment with LLM-as-a-Judge**|Riccardo Cantini et.al.|[2504.07887](http://arxiv.org/abs/2504.07887)|**[link](https://github.com/SCAlabUnical/CLEAR-Bias_LLM_benchmark)**|
 |**2025-04-10**|**Context-Aware Monolingual Human Evaluation of Machine Translation**|Silvio Picinini et.al.|[2504.07685](http://arxiv.org/abs/2504.07685)|null|
-|**2025-04-10**|**Do LLMs Understand Your Translations? Evaluating Paragraph-level MT with Question Answering**|Patrick Fernandes et.al.|[2504.07583](http://arxiv.org/abs/2504.07583)|null|
+|**2025-04-11**|**Do LLMs Understand Your Translations? Evaluating Paragraph-level MT with Question Answering**|Patrick Fernandes et.al.|[2504.07583](http://arxiv.org/abs/2504.07583)|null|
 |**2025-04-08**|**High-Resource Translation:Turning Abundance into Accessibility**|Abhiram Reddy Yanampally et.al.|[2504.05914](http://arxiv.org/abs/2504.05914)|null|
 |**2025-04-07**|**DoCIA: An Online Document-Level Context Incorporation Agent for Speech Translation**|Xinglin Lyu et.al.|[2504.05122](http://arxiv.org/abs/2504.05122)|null|
 |**2025-04-07**|**M-Prometheus: A Suite of Open Multilingual LLM Judges**|José Pombal et.al.|[2504.04953](http://arxiv.org/abs/2504.04953)|null|
@@ -6739,7 +6739,7 @@ layout: default
 |**2025-04-10**|**PR-Attack: Coordinated Prompt-RAG Attacks on Retrieval-Augmented Generation in Large Language Models via Bilevel Optimization**|Yang Jiao et.al.|[2504.07717](http://arxiv.org/abs/2504.07717)|null|
 |**2025-04-10**|**Synthetic Fluency: Hallucinations, Confabulations, and the Creation of Irish Words in LLM-Generated Translations**|Sheila Castilho et.al.|[2504.07680](http://arxiv.org/abs/2504.07680)|null|
 |**2025-04-10**|**Enhancing Large Language Models through Neuro-Symbolic Integration and Ontological Reasoning**|Ruslan Idelfonso Magana Vsevolodovna et.al.|[2504.07640](http://arxiv.org/abs/2504.07640)|**[link](https://github.com/ruslanmv/neuro-symbolic-interaction)**|
-|**2025-04-10**|**Malware analysis assisted by AI with R2AI**|Axelle Apvrille et.al.|[2504.07574](http://arxiv.org/abs/2504.07574)|null|
+|**2025-04-11**|**Malware analysis assisted by AI with R2AI**|Axelle Apvrille et.al.|[2504.07574](http://arxiv.org/abs/2504.07574)|null|
 |**2025-04-10**|**A taxonomy of epistemic injustice in the context of AI and the case for generative hermeneutical erasure**|Warmhold Jan Thomas Mollema et.al.|[2504.07531](http://arxiv.org/abs/2504.07531)|null|
 |**2025-04-10**|**Leveraging LLMs for Multimodal Retrieval-Augmented Radiology Report Generation via Key Phrase Extraction**|Kyoyun Choi et.al.|[2504.07415](http://arxiv.org/abs/2504.07415)|null|
 |**2025-04-09**|**Perception in Reflection**|Yana Wei et.al.|[2504.07165](http://arxiv.org/abs/2504.07165)|null|
