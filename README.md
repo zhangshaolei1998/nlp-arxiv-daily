@@ -2214,6 +2214,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-13**|**LLMs Can Achieve High-quality Simultaneous Machine Translation as Efficiently as Offline**|Biao Fu et.al.|[2504.09570](http://arxiv.org/abs/2504.09570)|null|
 |**2025-04-03**|**OmniTalker: Real-Time Text-Driven Talking Head Generation with In-Context Audio-Visual Style Replication**|Zhongjian Wang et.al.|[2504.02433](http://arxiv.org/abs/2504.02433)|null|
 |**2025-03-31**|**Simultaneously generating Brillouin microlaser and second harmonic within a lithium niobate microdisk**|Xiaochao Luo et.al.|[2503.23706](http://arxiv.org/abs/2503.23706)|null|
 |**2025-03-30**|**Relation morphisms of directed graphs**|Gilles G. de Castro et.al.|[2503.23343](http://arxiv.org/abs/2503.23343)|null|
@@ -2450,6 +2451,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-14**|**InternVL3: Exploring Advanced Training and Test-Time Recipes for Open-Source Multimodal Models**|Jinguo Zhu et.al.|[2504.10479](http://arxiv.org/abs/2504.10479)|null|
+|**2025-04-14**|**Weight Ensembling Improves Reasoning in Language Models**|Xingyu Dang et.al.|[2504.10478](http://arxiv.org/abs/2504.10478)|null|
+|**2025-04-14**|**MIEB: Massive Image Embedding Benchmark**|Chenghao Xiao et.al.|[2504.10471](http://arxiv.org/abs/2504.10471)|null|
+|**2025-04-14**|**Pixel-SAIL: Single Transformer For Pixel-Grounded Understanding**|Tao Zhang et.al.|[2504.10465](http://arxiv.org/abs/2504.10465)|null|
+|**2025-04-14**|**The Scalability of Simplicity: Empirical Analysis of Vision-Language Learning with a Single Transformer**|Weixian Lei et.al.|[2504.10462](http://arxiv.org/abs/2504.10462)|null|
+|**2025-04-14**|**GUI-R1 : A Generalist R1-Style Vision-Language Action Model For GUI Agents**|Xiaobo Xia et.al.|[2504.10458](http://arxiv.org/abs/2504.10458)|null|
+|**2025-04-14**|**M1: Towards Scalable Test-Time Compute with Mamba Reasoning Models**|Junxiong Wang et.al.|[2504.10449](http://arxiv.org/abs/2504.10449)|null|
+|**2025-04-14**|**Multimodal Long Video Modeling Based on Temporal Dynamic Context**|Haoran Hao et.al.|[2504.10443](http://arxiv.org/abs/2504.10443)|null|
+|**2025-04-14**|**LLM Can be a Dangerous Persuader: Empirical Study of Persuasion Safety in Large Language Models**|Minqian Liu et.al.|[2504.10430](http://arxiv.org/abs/2504.10430)|null|
+|**2025-04-14**|**Can We Edit LLMs for Long-Tail Biomedical Knowledge?**|Xinhao Yi et.al.|[2504.10421](http://arxiv.org/abs/2504.10421)|null|
 |**2025-04-11**|**Quantum Large Language Model Fine-Tuning**|Sang Hyub Kim et.al.|[2504.08732](http://arxiv.org/abs/2504.08732)|null|
 |**2025-04-11**|**DocAgent: A Multi-Agent System for Automated Code Documentation Generation**|Dayu Yang et.al.|[2504.08725](http://arxiv.org/abs/2504.08725)|null|
 |**2025-04-11**|**SWAN-GPT: An Efficient and Scalable Approach for Long-Context Language Modeling**|Krishna C. Puvvada et.al.|[2504.08719](http://arxiv.org/abs/2504.08719)|null|
@@ -5737,6 +5748,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-14**|**MorphTok: Morphologically Grounded Tokenization for Indian Languages**|Maharaj Brahma et.al.|[2504.10335](http://arxiv.org/abs/2504.10335)|null|
+|**2025-04-14**|**MT-R1-Zero: Advancing LLM-based Machine Translation via R1-Zero-like Reinforcement Learning**|Zhaopeng Feng et.al.|[2504.10160](http://arxiv.org/abs/2504.10160)|null|
+|**2025-04-13**|**LLMs Can Achieve High-quality Simultaneous Machine Translation as Efficiently as Offline**|Biao Fu et.al.|[2504.09570](http://arxiv.org/abs/2504.09570)|null|
+|**2025-04-13**|**Can you map it to English? The Role of Cross-Lingual Alignment in Multilingual Performance of LLMs**|Kartik Ravisankar et.al.|[2504.09378](http://arxiv.org/abs/2504.09378)|null|
+|**2025-04-12**|**Enhancing Contrastive Demonstration Selection with Semantic Diversity for Robust In-Context Machine Translation**|Owen Patterson et.al.|[2504.09305](http://arxiv.org/abs/2504.09305)|null|
 |**2025-04-11**|**Large Language Models as Span Annotators**|Zdeněk Kasner et.al.|[2504.08697](http://arxiv.org/abs/2504.08697)|null|
 |**2025-04-10**|**DeepSeek vs. o3-mini: How Well can Reasoning LLMs Evaluate MT and Summarization?**|Daniil Larionov et.al.|[2504.08120](http://arxiv.org/abs/2504.08120)|null|
 |**2025-04-10**|**Redefining Machine Translation on Social Network Services with Large Language Models**|Hongcheng Guo et.al.|[2504.07901](http://arxiv.org/abs/2504.07901)|null|
@@ -6779,6 +6795,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-14**|**Can LLMs Assist Expert Elicitation for Probabilistic Causal Modeling?**|Olha Shaposhnyk et.al.|[2504.10397](http://arxiv.org/abs/2504.10397)|null|
+|**2025-04-14**|**DioR: Adaptive Cognitive Detection and Contextual Retrieval Optimization for Dynamic Retrieval-Augmented Generation**|Hanghui Guo et.al.|[2504.10198](http://arxiv.org/abs/2504.10198)|null|
+|**2025-04-14**|**The Future of MLLM Prompting is Adaptive: A Comprehensive Experimental Evaluation of Prompt Engineering Methods for Robust Multimodal Performance**|Anwesha Mohanty et.al.|[2504.10179](http://arxiv.org/abs/2504.10179)|null|
+|**2025-04-14**|**HalluSearch at SemEval-2025 Task 3: A Search-Enhanced RAG Pipeline for Hallucination Detection**|Mohamed A. Abdallah et.al.|[2504.10168](http://arxiv.org/abs/2504.10168)|null|
+|**2025-04-14**|**C-FAITH: A Chinese Fine-Grained Benchmark for Automated Hallucination Evaluation**|Xu Zhang et.al.|[2504.10167](http://arxiv.org/abs/2504.10167)|null|
+|**2025-04-14**|**The Human Visual System Can Inspire New Interaction Paradigms for LLMs**|Diana Robinson et.al.|[2504.10101](http://arxiv.org/abs/2504.10101)|null|
+|**2025-04-14**|**Hallucination Detection in LLMs via Topological Divergence on Attention Graphs**|Alexandra Bazarova et.al.|[2504.10063](http://arxiv.org/abs/2504.10063)|null|
+|**2025-04-14**|**Emotional Strain and Frustration in LLM Interactions in Software Engineering**|Cristina Martinez Montes et.al.|[2504.10050](http://arxiv.org/abs/2504.10050)|null|
+|**2025-04-14**|**DataMosaic: Explainable and Verifiable Multi-Modal Data Analytics through Extract-Reason-Verify**|Zhengxuan Zhang et.al.|[2504.10036](http://arxiv.org/abs/2504.10036)|null|
+|**2025-04-14**|**EmbodiedAgent: A Scalable Hierarchical Approach to Overcome Practical Challenge in Multi-Robot Control**|Hanwen Wan et.al.|[2504.10030](http://arxiv.org/abs/2504.10030)|null|
 |**2025-04-11**|**MooseAgent: A LLM Based Multi-agent Framework for Automating Moose Simulation**|Tao Zhang et.al.|[2504.08621](http://arxiv.org/abs/2504.08621)|null|
 |**2025-04-11**|**Neural Fidelity Calibration for Informative Sim-to-Real Adaptation**|Youwei Yu et.al.|[2504.08604](http://arxiv.org/abs/2504.08604)|null|
 |**2025-04-11**|**MedHal: An Evaluation Dataset for Medical Hallucination Detection**|Gaya Mehenni et.al.|[2504.08596](http://arxiv.org/abs/2504.08596)|null|
