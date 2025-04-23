@@ -2189,6 +2189,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-22**|**SimulS2S-LLM: Unlocking Simultaneous Inference of Speech LLMs for Speech-to-Speech Translation**|Keqi Deng et.al.|[2504.15509](http://arxiv.org/abs/2504.15509)|null|
 |**2025-04-21**|**Minimal effective theory for leptogenesis, dark matter, and neutrino masses**|Tomas Blazek et.al.|[2504.15164](http://arxiv.org/abs/2504.15164)|null|
 |**2025-04-16**|**Efficient and Adaptive Simultaneous Speech Translation with Fully Unidirectional Architecture**|Biao Fu et.al.|[2504.11809](http://arxiv.org/abs/2504.11809)|null|
 |**2025-04-15**|**Real-Time Word-Level Temporal Segmentation in Streaming Speech Recognition**|Naoto Nishida et.al.|[2504.10849](http://arxiv.org/abs/2504.10849)|null|
@@ -2427,6 +2428,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-22**|**TTRL: Test-Time Reinforcement Learning**|Yuxin Zuo et.al.|[2504.16084](http://arxiv.org/abs/2504.16084)|null|
+|**2025-04-22**|**MMInference: Accelerating Pre-filling for Long-Context VLMs via Modality-Aware Permutation Sparse Attention**|Yucheng Li et.al.|[2504.16083](http://arxiv.org/abs/2504.16083)|null|
+|**2025-04-22**|**MR. Video: "MapReduce" is the Principle for Long Video Understanding**|Ziqi Pang et.al.|[2504.16082](http://arxiv.org/abs/2504.16082)|null|
+|**2025-04-22**|**From Reflection to Perfection: Scaling Inference-Time Optimization for Text-to-Image Diffusion Models via Reflection Tuning**|Le Zhuo et.al.|[2504.16080](http://arxiv.org/abs/2504.16080)|null|
+|**2025-04-22**|**LLMs are Greedy Agents: Effects of RL Fine-tuning on Decision-Making Abilities**|Thomas Schmied et.al.|[2504.16078](http://arxiv.org/abs/2504.16078)|null|
+|**2025-04-22**|**PHYBench: Holistic Evaluation of Physical Perception and Reasoning in Large Language Models**|Shi Qiu et.al.|[2504.16074](http://arxiv.org/abs/2504.16074)|null|
+|**2025-04-22**|**Guiding VLM Agents with Process Rewards at Inference Time for GUI Navigation**|Zhiyuan Hu et.al.|[2504.16073](http://arxiv.org/abs/2504.16073)|null|
+|**2025-04-22**|**Describe Anything: Detailed Localized Image and Video Captioning**|Long Lian et.al.|[2504.16072](http://arxiv.org/abs/2504.16072)|null|
+|**2025-04-22**|**A Python Tool for Reconstructing Full News Text from GDELT**|A. Fronzetti Colladon et.al.|[2504.16063](http://arxiv.org/abs/2504.16063)|null|
+|**2025-04-22**|**Vision language models are unreliable at trivial spatial cognition**|Sangeet Khemlani et.al.|[2504.16061](http://arxiv.org/abs/2504.16061)|null|
 |**2025-04-21**|**Seeing from Another Perspective: Evaluating Multi-View Understanding in MLLMs**|Chun-Hsiao Yeh et.al.|[2504.15280](http://arxiv.org/abs/2504.15280)|null|
 |**2025-04-21**|**VisuLogic: A Benchmark for Evaluating Visual Reasoning in Multi-modal Large Language Models**|Weiye Xu et.al.|[2504.15279](http://arxiv.org/abs/2504.15279)|null|
 |**2025-04-21**|**Stop Summation: Min-Form Credit Assignment Is All Process Reward Model Needs for Reasoning**|Jie Cheng et.al.|[2504.15275](http://arxiv.org/abs/2504.15275)|**[link](https://github.com/cjreinforce/pure)**|
@@ -5772,6 +5783,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-22**|**FairTranslate: An English-French Dataset for Gender Bias Evaluation in Machine Translation by Overcoming Gender Binarity**|Fanny Jourdan et.al.|[2504.15941](http://arxiv.org/abs/2504.15941)|**[link](https://github.com/fanny-jourdan/FairTranslate)**|
 |**2025-04-21**|**Automatic Evaluation Metrics for Document-level Translation: Overview, Challenges and Trends**|Jiaxin GUO et.al.|[2504.14804](http://arxiv.org/abs/2504.14804)|null|
 |**2025-04-20**|**Trans-Zero: Self-Play Incentivizes Large Language Models for Multilingual Translation Without Parallel Data**|Wei Zou et.al.|[2504.14669](http://arxiv.org/abs/2504.14669)|null|
 |**2025-04-20**|**Translation Analytics for Freelancers: I. Introduction, Data Preparation, Baseline Evaluations**|Yuri Balashov et.al.|[2504.14619](http://arxiv.org/abs/2504.14619)|null|
@@ -6684,6 +6696,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-22**|**SimulS2S-LLM: Unlocking Simultaneous Inference of Speech LLMs for Speech-to-Speech Translation**|Keqi Deng et.al.|[2504.15509](http://arxiv.org/abs/2504.15509)|null|
 |**2025-04-16**|**Efficient and Adaptive Simultaneous Speech Translation with Fully Unidirectional Architecture**|Biao Fu et.al.|[2504.11809](http://arxiv.org/abs/2504.11809)|null|
 |**2025-04-07**|**DoCIA: An Online Document-Level Context Incorporation Agent for Speech Translation**|Xinglin Lyu et.al.|[2504.05122](http://arxiv.org/abs/2504.05122)|null|
 |**2025-04-04**|**MultiMed-ST: Large-scale Many-to-many Multilingual Medical Speech Translation**|Khai Le-Duc et.al.|[2504.03546](http://arxiv.org/abs/2504.03546)|**[link](https://github.com/leduckhai/multimed-st)**|
@@ -6827,6 +6840,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-22**|**Insights from Verification: Training a Verilog Generation LLM with Reinforcement Learning with Testbench Feedback**|Ning Wang et.al.|[2504.15804](http://arxiv.org/abs/2504.15804)|null|
+|**2025-04-22**|**Grounded in Context: Retrieval-Based Method for Hallucination Detection**|Assaf Gerner et.al.|[2504.15771](http://arxiv.org/abs/2504.15771)|null|
+|**2025-04-22**|**RePOPE: Impact of Annotation Errors on the POPE Benchmark**|Yannic Neuhaus et.al.|[2504.15707](http://arxiv.org/abs/2504.15707)|null|
+|**2025-04-22**|**AdaViP: Aligning Multi-modal LLMs via Adaptive Vision-enhanced Preference Optimization**|Jinda Lu et.al.|[2504.15619](http://arxiv.org/abs/2504.15619)|null|
 |**2025-04-21**|**Support Evaluation for the TREC 2024 RAG Track: Comparing Human versus LLM Judges**|Nandan Thakur et.al.|[2504.15205](http://arxiv.org/abs/2504.15205)|null|
 |**2025-04-21**|**DSPO: Direct Semantic Preference Optimization for Real-World Image Super-Resolution**|Miaomiao Cai et.al.|[2504.15176](http://arxiv.org/abs/2504.15176)|null|
 |**2025-04-21**|**aiXamine: LLM Safety and Security Simplified**|Fatih Deniz et.al.|[2504.14985](http://arxiv.org/abs/2504.14985)|null|
