@@ -2455,6 +2455,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-24**|**Token-Shuffle: Towards High-Resolution Image Generation with Autoregressive Models**|Xu Ma et.al.|[2504.17789](http://arxiv.org/abs/2504.17789)|null|
+|**2025-04-24**|**Replay to Remember: Retaining Domain Knowledge in Streaming Language Models**|Sneh Pillai et.al.|[2504.17780](http://arxiv.org/abs/2504.17780)|null|
+|**2025-04-24**|**Conversational Assistants to support Heart Failure Patients: comparing a Neurosymbolic Architecture with ChatGPT**|Anuja Tayal et.al.|[2504.17753](http://arxiv.org/abs/2504.17753)|null|
+|**2025-04-24**|**Towards Robust LLMs: an Adversarial Robustness Measurement Framework**|Natan Levy et.al.|[2504.17723](http://arxiv.org/abs/2504.17723)|null|
+|**2025-04-24**|**Multilingual Performance Biases of Large Language Models in Education**|Vansh Gupta et.al.|[2504.17720](http://arxiv.org/abs/2504.17720)|null|
+|**2025-04-24**|**Ensemble Bayesian Inference: Leveraging Small Language Models to Achieve LLM-level Accuracy in Profile Matching Tasks**|Haru-Tada Sato et.al.|[2504.17685](http://arxiv.org/abs/2504.17685)|null|
+|**2025-04-24**|**INSIGHT: Bridging the Student-Teacher Gap in Times of Large Language Models**|Jarne Thys et.al.|[2504.17677](http://arxiv.org/abs/2504.17677)|null|
+|**2025-04-24**|**Energy Considerations of Large Language Model Inference and Efficiency Optimizations**|Jared Fernandez et.al.|[2504.17674](http://arxiv.org/abs/2504.17674)|null|
+|**2025-04-24**|**Cross-region Model Training with Communication-Computation Overlapping and Delay Compensation**|Ying Zhu et.al.|[2504.17672](http://arxiv.org/abs/2504.17672)|null|
+|**2025-04-24**|**Data-Driven Calibration of Prediction Sets in Large Vision-Language Models Based on Inductive Conformal Prediction**|Yuanchang Ye et.al.|[2504.17671](http://arxiv.org/abs/2504.17671)|null|
 |**2025-04-23**|**IberBench: LLM Evaluation on Iberian Languages**|José Ángel González et.al.|[2504.16921](http://arxiv.org/abs/2504.16921)|null|
 |**2025-04-23**|**Tracing Thought: Using Chain-of-Thought Reasoning to Identify the LLM Behind AI-Generated Text**|Shifali Agrahari et.al.|[2504.16913](http://arxiv.org/abs/2504.16913)|null|
 |**2025-04-23**|**Do Large Language Models know who did what to whom?**|Joseph M. Denning et.al.|[2504.16884](http://arxiv.org/abs/2504.16884)|null|
@@ -5822,6 +5832,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-24**|**DIMT25@ICDAR2025: HW-TSC's End-to-End Document Image Machine Translation System Leveraging Large Vision-Language Model**|Zhanglin Wu et.al.|[2504.17315](http://arxiv.org/abs/2504.17315)|null|
+|**2025-04-24**|**Low-Resource Neural Machine Translation Using Recurrent Neural Networks and Transfer Learning: A Case Study on English-to-Igbo**|Ocheme Anthony Ekle et.al.|[2504.17252](http://arxiv.org/abs/2504.17252)|null|
 |**2025-04-23**|**Comparing Large Language Models and Traditional Machine Translation Tools for Translating Medical Consultation Summaries: A Pilot Study**|Andy Li et.al.|[2504.16601](http://arxiv.org/abs/2504.16601)|null|
 |**2025-04-22**|**The Paradox of Poetic Intent in Back-Translation: Evaluating the Quality of Large Language Models in Chinese Translation**|Li Weigang et.al.|[2504.16286](http://arxiv.org/abs/2504.16286)|null|
 |**2025-04-22**|**CLIRudit: Cross-Lingual Information Retrieval of Scientific Documents**|Francisco Valentini et.al.|[2504.16264](http://arxiv.org/abs/2504.16264)|null|
@@ -6887,6 +6899,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-24**|**Data-Driven Calibration of Prediction Sets in Large Vision-Language Models Based on Inductive Conformal Prediction**|Yuanchang Ye et.al.|[2504.17671](http://arxiv.org/abs/2504.17671)|null|
+|**2025-04-24**|**HalluLens: LLM Hallucination Benchmark**|Yejin Bang et.al.|[2504.17550](http://arxiv.org/abs/2504.17550)|null|
+|**2025-04-24**|**PicPersona-TOD : A Dataset for Personalizing Utterance Style in Task-Oriented Dialogue with Image Persona**|Jihyun Lee et.al.|[2504.17390](http://arxiv.org/abs/2504.17390)|null|
+|**2025-04-24**|**Combining Static and Dynamic Approaches for Mining and Testing Constraints for RESTful API Testing**|Hieu Huynh et.al.|[2504.17287](http://arxiv.org/abs/2504.17287)|null|
+|**2025-04-23**|**How Individual Traits and Language Styles Shape Preferences In Open-ended User-LLM Interaction: A Preliminary Study**|Rendi Chevi et.al.|[2504.17083](http://arxiv.org/abs/2504.17083)|null|
+|**2025-04-23**|**(Im)possibility of Automated Hallucination Detection in Large Language Models**|Amin Karbasi et.al.|[2504.17004](http://arxiv.org/abs/2504.17004)|null|
+|**2025-04-22**|**Self-Controlled Diffusion for Denoising in Scientific Imaging**|Nikolay Falaleev et.al.|[2504.16951](http://arxiv.org/abs/2504.16951)|null|
 |**2025-04-23**|**Enhancing Critical Thinking with AI: A Tailored Warning System for RAG Models**|Xuyang Zhu et.al.|[2504.16883](http://arxiv.org/abs/2504.16883)|null|
 |**2025-04-23**|**Debunking with Dialogue? Exploring AI-Generated Counterspeech to Challenge Conspiracy Theories**|Mareike Lisker et.al.|[2504.16604](http://arxiv.org/abs/2504.16604)|null|
 |**2025-04-23**|**The Dance of Atoms-De Novo Protein Design with Diffusion Model**|Yujie Qin et.al.|[2504.16479](http://arxiv.org/abs/2504.16479)|null|
