@@ -2457,6 +2457,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-02**|**Dynamic Robot Tool Use with Vision Language Models**|Noah Trupin et.al.|[2505.01399](http://arxiv.org/abs/2505.01399)|null|
+|**2025-05-02**|**Helping Big Language Models Protect Themselves: An Enhanced Filtering and Summarization System**|Sheikh Samit Muhaimin et.al.|[2505.01315](http://arxiv.org/abs/2505.01315)|null|
+|**2025-05-02**|**Enhancing SPARQL Query Rewriting for Complex Ontology Alignments**|Anicet Lepetit Ondo et.al.|[2505.01309](http://arxiv.org/abs/2505.01309)|null|
+|**2025-05-02**|**Document Retrieval Augmented Fine-Tuning (DRAFT) for safety-critical software assessments**|Regan Bolton et.al.|[2505.01307](http://arxiv.org/abs/2505.01307)|null|
+|**2025-05-02**|**FlowDubber: Movie Dubbing with LLM-based Semantic-aware Learning and Flow Matching based Voice Enhancing**|Gaoxiang Cong et.al.|[2505.01263](http://arxiv.org/abs/2505.01263)|null|
+|**2025-05-02**|**Digital Pathway Curation (DPC): a comparative pipeline to assess the reproducibility, consensus and accuracy across Gemini, PubMed, and scientific reviewers in biomedical research**|Flavio Lichtenstein et.al.|[2505.01259](http://arxiv.org/abs/2505.01259)|null|
+|**2025-05-02**|**CaReAQA: A Cardiac and Respiratory Audio Question Answering Model for Open-Ended Diagnostic Reasoning**|Tsai-Ning Wang et.al.|[2505.01199](http://arxiv.org/abs/2505.01199)|null|
+|**2025-05-02**|**Gender Bias in Explainability: Investigating Performance Disparity in Post-hoc Methods**|Mahdi Dhaini et.al.|[2505.01198](http://arxiv.org/abs/2505.01198)|null|
+|**2025-05-02**|**LLM Security: Vulnerabilities, Attacks, Defenses, and Countermeasures**|Francisco Aguilera-Martínez et.al.|[2505.01177](http://arxiv.org/abs/2505.01177)|null|
+|**2025-05-02**|**On the Limitations of Steering in Language Model Alignment**|Chebrolu Niranjan et.al.|[2505.01162](http://arxiv.org/abs/2505.01162)|null|
 |**2025-05-01**|**T2I-R1: Reinforcing Image Generation with Collaborative Semantic-level and Token-level CoT**|Dongzhi Jiang et.al.|[2505.00703](http://arxiv.org/abs/2505.00703)|null|
 |**2025-05-01**|**Robotic Visual Instruction**|Yanbang Li et.al.|[2505.00693](http://arxiv.org/abs/2505.00693)|null|
 |**2025-05-01**|**Visual Test-time Scaling for GUI Agent Grounding**|Tiange Luo et.al.|[2505.00684](http://arxiv.org/abs/2505.00684)|null|
@@ -6963,6 +6973,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-02**|**Retrieval Augmented Learning: A Retrial-based Large Language Model Self-Supervised Learning and Autonomous Knowledge Generation**|Zongyuan Li et.al.|[2505.01073](http://arxiv.org/abs/2505.01073)|null|
+|**2025-05-02**|**Multi-agents based User Values Mining for Recommendation**|Lijian Chen et.al.|[2505.00981](http://arxiv.org/abs/2505.00981)|null|
+|**2025-05-01**|**SmallPlan: Leverage Small Language Models for Sequential Path Planning with Simulation-Powered, LLM-Guided Distillation**|Quang P. M. Pham et.al.|[2505.00831](http://arxiv.org/abs/2505.00831)|null|
+|**2025-05-01**|**HMCF: A Human-in-the-loop Multi-Robot Collaboration Framework Based on Large Language Models**|Zhaoxing Li et.al.|[2505.00820](http://arxiv.org/abs/2505.00820)|null|
+|**2025-05-01**|**A Survey on Large Language Model based Human-Agent Systems**|Henry Peng Zou et.al.|[2505.00753](http://arxiv.org/abs/2505.00753)|**[link](https://github.com/HenryPengZou/Awesome-LLM-Based-Human-Agent-System-Papers)**|
 |**2025-05-01**|**Triggering Hallucinations in LLMs: A Quantitative Study of Prompt-Induced Hallucination in Large Language Models**|Makoto Sato et.al.|[2505.00557](http://arxiv.org/abs/2505.00557)|null|
 |**2025-05-01**|**HalluMix: A Task-Agnostic, Multi-Domain Benchmark for Real-World Hallucination Detection**|Deanna Emery et.al.|[2505.00506](http://arxiv.org/abs/2505.00506)|null|
 |**2025-05-01**|**Distributed Retrieval-Augmented Generation**|Chenhao Xu et.al.|[2505.00443](http://arxiv.org/abs/2505.00443)|null|
