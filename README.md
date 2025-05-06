@@ -2214,6 +2214,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-03**|**PhysNav-DG: A Novel Adaptive Framework for Robust VLM-Sensor Fusion in Navigation Applications**|Trisanth Srinivasan et.al.|[2505.01881](http://arxiv.org/abs/2505.01881)|null|
 |**2025-04-29**|**LDPoly: Latent Diffusion for Polygonal Road Outline Extraction in Large-Scale Topographic Mapping**|Weiqin Jiao et.al.|[2504.20645](http://arxiv.org/abs/2504.20645)|null|
 |**2025-04-25**|**Prior-Adapted Progressive Time-Resolved CBCT Reconstruction Using a Dynamic Reconstruction and Motion Estimation Method**|Ruizhi Zuo et.al.|[2504.18700](http://arxiv.org/abs/2504.18700)|null|
 |**2025-04-22**|**SimulS2S-LLM: Unlocking Simultaneous Inference of Speech LLMs for Speech-to-Speech Translation**|Keqi Deng et.al.|[2504.15509](http://arxiv.org/abs/2504.15509)|null|
@@ -2457,6 +2458,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-05**|**Scenethesis: A Language and Vision Agentic Framework for 3D Scene Generation**|Lu Ling et.al.|[2505.02836](http://arxiv.org/abs/2505.02836)|null|
+|**2025-05-05**|**R1-Reward: Training Multimodal Reward Model Through Stable Reinforcement Learning**|Yi-Fan Zhang et.al.|[2505.02835](http://arxiv.org/abs/2505.02835)|null|
+|**2025-05-05**|**LISAT: Language-Instructed Segmentation Assistant for Satellite Imagery**|Jerome Quenum et.al.|[2505.02829](http://arxiv.org/abs/2505.02829)|null|
+|**2025-05-05**|**ReplaceMe: Network Simplification via Layer Pruning and Linear Transformations**|Dmitriy Shopkhoev et.al.|[2505.02819](http://arxiv.org/abs/2505.02819)|null|
+|**2025-05-05**|**Knowing You Don't Know: Learning When to Continue Search in Multi-round RAG through Self-Practicing**|Diji Yang et.al.|[2505.02811](http://arxiv.org/abs/2505.02811)|null|
+|**2025-05-05**|**Towards Quantifying the Hessian Structure of Neural Networks**|Zhaorui Dong et.al.|[2505.02809](http://arxiv.org/abs/2505.02809)|null|
+|**2025-05-05**|**Generating HomeAssistant Automations Using an LLM-based Chatbot**|Mathyas Giudici et.al.|[2505.02802](http://arxiv.org/abs/2505.02802)|null|
+|**2025-05-05**|**HSplitLoRA: A Heterogeneous Split Parameter-Efficient Fine-Tuning Framework for Large Language Models**|Zheng Lin et.al.|[2505.02795](http://arxiv.org/abs/2505.02795)|null|
+|**2025-05-05**|**Giving Simulated Cells a Voice: Evolving Prompt-to-Intervention Models for Cellular Control**|Nam H. Le et.al.|[2505.02766](http://arxiv.org/abs/2505.02766)|null|
+|**2025-05-05**|**Bye-bye, Bluebook? Automating Legal Procedure with Large Language Models**|Matthew Dahl et.al.|[2505.02763](http://arxiv.org/abs/2505.02763)|null|
 |**2025-05-02**|**Dynamic Robot Tool Use with Vision Language Models**|Noah Trupin et.al.|[2505.01399](http://arxiv.org/abs/2505.01399)|null|
 |**2025-05-02**|**Helping Big Language Models Protect Themselves: An Enhanced Filtering and Summarization System**|Sheikh Samit Muhaimin et.al.|[2505.01315](http://arxiv.org/abs/2505.01315)|null|
 |**2025-05-02**|**Enhancing SPARQL Query Rewriting for Complex Ontology Alignments**|Anicet Lepetit Ondo et.al.|[2505.01309](http://arxiv.org/abs/2505.01309)|null|
@@ -5894,6 +5905,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-05**|**Data Augmentation With Back translation for Low Resource languages: A case of English and Luganda**|Richard Kimera et.al.|[2505.02463](http://arxiv.org/abs/2505.02463)|null|
+|**2025-05-04**|**SignSplat: Rendering Sign Language via Gaussian Splatting**|Maksym Ivashechkin et.al.|[2505.02108](http://arxiv.org/abs/2505.02108)|null|
+|**2025-05-03**|**Same evaluation, more tokens: On the effect of input length for machine translation evaluation using Large Language Models**|Tobias Domhan et.al.|[2505.01761](http://arxiv.org/abs/2505.01761)|null|
+|**2025-05-02**|**AI agents may be worth the hype but not the resources (yet): An initial exploration of machine translation quality and costs in three language pairs in the legal and news domains**|Vicent Briva Iglesias et.al.|[2505.01560](http://arxiv.org/abs/2505.01560)|null|
 |**2025-04-30**|**Improving Retrieval-Augmented Neural Machine Translation with Monolingual Data**|Maxime Bouthors et.al.|[2504.21747](http://arxiv.org/abs/2504.21747)|null|
 |**2025-04-30**|**Investigating the Effect of Parallel Data in the Cross-Lingual Transfer for Vision-Language Encoders**|Andrei-Alexandru Manea et.al.|[2504.21681](http://arxiv.org/abs/2504.21681)|null|
 |**2025-04-30**|**Sadeed: Advancing Arabic Diacritization Through Small Language Model**|Zeina Aldallal et.al.|[2504.21635](http://arxiv.org/abs/2504.21635)|null|
@@ -6825,6 +6840,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-05**|**Voila: Voice-Language Foundation Models for Real-Time Autonomous Interaction and Voice Role-Play**|Yemin Shi et.al.|[2505.02707](http://arxiv.org/abs/2505.02707)|null|
+|**2025-05-05**|**Bemba Speech Translation: Exploring a Low-Resource African Language**|Muhammad Hazim Al Farouq et.al.|[2505.02518](http://arxiv.org/abs/2505.02518)|null|
 |**2025-04-25**|**Spatial Speech Translation: Translating Across Space With Binaural Hearables**|Tuochao Chen et.al.|[2504.18715](http://arxiv.org/abs/2504.18715)|null|
 |**2025-04-22**|**Using Phonemes in cascaded S2S translation pipeline**|Rene Pilz et.al.|[2504.16234](http://arxiv.org/abs/2504.16234)|null|
 |**2025-04-22**|**SimulS2S-LLM: Unlocking Simultaneous Inference of Speech LLMs for Speech-to-Speech Translation**|Keqi Deng et.al.|[2504.15509](http://arxiv.org/abs/2504.15509)|null|
@@ -6973,6 +6990,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-05**|**Knowing You Don't Know: Learning When to Continue Search in Multi-round RAG through Self-Practicing**|Diji Yang et.al.|[2505.02811](http://arxiv.org/abs/2505.02811)|null|
+|**2025-05-05**|**Knowledge Graphs for Enhancing Large Language Models in Entity Disambiguation**|Pons Gerard et.al.|[2505.02737](http://arxiv.org/abs/2505.02737)|null|
+|**2025-05-05**|**Invoke Interfaces Only When Needed: Adaptive Invocation for Large Language Models in Question Answering**|Jihao Zhao et.al.|[2505.02311](http://arxiv.org/abs/2505.02311)|null|
+|**2025-05-04**|**SEval-Ex: A Statement-Level Framework for Explainable Summarization Evaluation**|Tanguy Herserant et.al.|[2505.02235](http://arxiv.org/abs/2505.02235)|null|
+|**2025-05-04**|**VECSR: Virtually Embodied Common Sense Reasoning System**|Alexis R. Tudor et.al.|[2505.02144](http://arxiv.org/abs/2505.02144)|null|
+|**2025-05-04**|**Regression s all you need for medical image translation**|Sebastian Rassmann et.al.|[2505.02048](http://arxiv.org/abs/2505.02048)|null|
+|**2025-05-04**|**A Comprehensive Analysis for Visual Object Hallucination in Large Vision-Language Models**|Liqiang Jing et.al.|[2505.01958](http://arxiv.org/abs/2505.01958)|null|
+|**2025-05-02**|**Automated Parsing of Engineering Drawings for Structured Information Extraction Using a Fine-tuned Document Understanding Transformer**|Muhammad Tayyab Khan et.al.|[2505.01530](http://arxiv.org/abs/2505.01530)|null|
+|**2025-05-02**|**VideoHallu: Evaluating and Mitigating Multi-modal Hallucinations for Synthetic Videos**|Zongxia Li et.al.|[2505.01481](http://arxiv.org/abs/2505.01481)|null|
 |**2025-05-02**|**Retrieval Augmented Learning: A Retrial-based Large Language Model Self-Supervised Learning and Autonomous Knowledge Generation**|Zongyuan Li et.al.|[2505.01073](http://arxiv.org/abs/2505.01073)|null|
 |**2025-05-02**|**Multi-agents based User Values Mining for Recommendation**|Lijian Chen et.al.|[2505.00981](http://arxiv.org/abs/2505.00981)|null|
 |**2025-05-01**|**SmallPlan: Leverage Small Language Models for Sequential Path Planning with Simulation-Powered, LLM-Guided Distillation**|Quang P. M. Pham et.al.|[2505.00831](http://arxiv.org/abs/2505.00831)|null|
