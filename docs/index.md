@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.06
+## Updated on 2025.05.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -6958,11 +6958,11 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-05-05**|**Knowing You Don't Know: Learning When to Continue Search in Multi-round RAG through Self-Practicing**|Diji Yang et.al.|[2505.02811](http://arxiv.org/abs/2505.02811)|null|
-|**2025-05-05**|**Knowledge Graphs for Enhancing Large Language Models in Entity Disambiguation**|Pons Gerard et.al.|[2505.02737](http://arxiv.org/abs/2505.02737)|null|
+|**2025-05-06**|**Knowledge Graphs for Enhancing Large Language Models in Entity Disambiguation**|Gerard Pons et.al.|[2505.02737](http://arxiv.org/abs/2505.02737)|null|
 |**2025-05-05**|**Invoke Interfaces Only When Needed: Adaptive Invocation for Large Language Models in Question Answering**|Jihao Zhao et.al.|[2505.02311](http://arxiv.org/abs/2505.02311)|null|
 |**2025-05-04**|**SEval-Ex: A Statement-Level Framework for Explainable Summarization Evaluation**|Tanguy Herserant et.al.|[2505.02235](http://arxiv.org/abs/2505.02235)|null|
 |**2025-05-04**|**VECSR: Virtually Embodied Common Sense Reasoning System**|Alexis R. Tudor et.al.|[2505.02144](http://arxiv.org/abs/2505.02144)|null|
-|**2025-05-04**|**Regression s all you need for medical image translation**|Sebastian Rassmann et.al.|[2505.02048](http://arxiv.org/abs/2505.02048)|null|
+|**2025-05-06**|**Regression is all you need for medical image translation**|Sebastian Rassmann et.al.|[2505.02048](http://arxiv.org/abs/2505.02048)|null|
 |**2025-05-04**|**A Comprehensive Analysis for Visual Object Hallucination in Large Vision-Language Models**|Liqiang Jing et.al.|[2505.01958](http://arxiv.org/abs/2505.01958)|null|
 |**2025-05-02**|**Automated Parsing of Engineering Drawings for Structured Information Extraction Using a Fine-tuned Document Understanding Transformer**|Muhammad Tayyab Khan et.al.|[2505.01530](http://arxiv.org/abs/2505.01530)|null|
 |**2025-05-02**|**VideoHallu: Evaluating and Mitigating Multi-modal Hallucinations for Synthetic Videos**|Zongxia Li et.al.|[2505.01481](http://arxiv.org/abs/2505.01481)|null|
