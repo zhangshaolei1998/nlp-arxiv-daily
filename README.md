@@ -2214,6 +2214,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-08**|**D-CODA: Diffusion for Coordinated Dual-Arm Data Augmentation**|I-Chun Arthur Liu et.al.|[2505.04860](http://arxiv.org/abs/2505.04860)|null|
+|**2025-05-04**|**Language translation, and change of accent for speech-to-speech task using diffusion model**|Abhishek Mishra et.al.|[2505.04639](http://arxiv.org/abs/2505.04639)|null|
 |**2025-05-03**|**PhysNav-DG: A Novel Adaptive Framework for Robust VLM-Sensor Fusion in Navigation Applications**|Trisanth Srinivasan et.al.|[2505.01881](http://arxiv.org/abs/2505.01881)|null|
 |**2025-04-29**|**LDPoly: Latent Diffusion for Polygonal Road Outline Extraction in Large-Scale Topographic Mapping**|Weiqin Jiao et.al.|[2504.20645](http://arxiv.org/abs/2504.20645)|null|
 |**2025-04-25**|**Prior-Adapted Progressive Time-Resolved CBCT Reconstruction Using a Dynamic Reconstruction and Motion Estimation Method**|Ruizhi Zuo et.al.|[2504.18700](http://arxiv.org/abs/2504.18700)|null|
@@ -2458,6 +2460,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-08**|**Generating Physically Stable and Buildable LEGO Designs from Text**|Ava Pun et.al.|[2505.05469](http://arxiv.org/abs/2505.05469)|null|
+|**2025-05-08**|**StreamBridge: Turning Your Offline Video Large Language Model into a Proactive Streaming Assistant**|Haibo Wang et.al.|[2505.05467](http://arxiv.org/abs/2505.05467)|null|
+|**2025-05-08**|**ComPO: Preference Alignment via Comparison Oracles**|Peter Chen et.al.|[2505.05465](http://arxiv.org/abs/2505.05465)|null|
+|**2025-05-08**|**Bring Reason to Vision: Understanding Perception and Reasoning through Model Merging**|Shiqi Chen et.al.|[2505.05464](http://arxiv.org/abs/2505.05464)|**[link](https://github.com/shiqichen17/vlm_merging)**|
+|**2025-05-08**|**UKElectionNarratives: A Dataset of Misleading Narratives Surrounding Recent UK General Elections**|Fatima Haouari et.al.|[2505.05459](http://arxiv.org/abs/2505.05459)|null|
+|**2025-05-08**|**SITE: towards Spatial Intelligence Thorough Evaluation**|Wenqi Wang et.al.|[2505.05456](http://arxiv.org/abs/2505.05456)|null|
+|**2025-05-08**|**Conversational Process Model Redesign**|Nataliia Klievtsova et.al.|[2505.05453](http://arxiv.org/abs/2505.05453)|null|
+|**2025-05-08**|**clem:todd: A Framework for the Systematic Benchmarking of LLM-Based Task-Oriented Dialogue System Realisations**|Chalamalasetti Kranti et.al.|[2505.05445](http://arxiv.org/abs/2505.05445)|null|
+|**2025-05-08**|**GesPrompt: Leveraging Co-Speech Gestures to Augment LLM-Based Interaction in Virtual Reality**|Xiyun Hu et.al.|[2505.05441](http://arxiv.org/abs/2505.05441)|null|
+|**2025-05-08**|**EcoAgent: An Efficient Edge-Cloud Collaborative Multi-Agent Framework for Mobile Automation**|Biao Yi et.al.|[2505.05440](http://arxiv.org/abs/2505.05440)|null|
 |**2025-05-07**|**EchoInk-R1: Exploring Audio-Visual Reasoning in Multimodal LLMs via Reinforcement Learning**|Zhenghao Xing et.al.|[2505.04623](http://arxiv.org/abs/2505.04623)|null|
 |**2025-05-07**|**On Path to Multimodal Generalist: General-Level and General-Bench**|Hao Fei et.al.|[2505.04620](http://arxiv.org/abs/2505.04620)|null|
 |**2025-05-07**|**OmniGIRL: A Multilingual and Multimodal Benchmark for GitHub Issue Resolution**|Lianghong Guo et.al.|[2505.04606](http://arxiv.org/abs/2505.04606)|null|
@@ -5925,6 +5937,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-08**|**TransProQA: an LLM-based literary Translation evaluation metric with Professional Question Answering**|Ran Zhang et.al.|[2505.05423](http://arxiv.org/abs/2505.05423)|null|
 |**2025-05-05**|**Data Augmentation With Back translation for Low Resource languages: A case of English and Luganda**|Richard Kimera et.al.|[2505.02463](http://arxiv.org/abs/2505.02463)|null|
 |**2025-05-04**|**SignSplat: Rendering Sign Language via Gaussian Splatting**|Maksym Ivashechkin et.al.|[2505.02108](http://arxiv.org/abs/2505.02108)|null|
 |**2025-05-03**|**Same evaluation, more tokens: On the effect of input length for machine translation evaluation using Large Language Models**|Tobias Domhan et.al.|[2505.01761](http://arxiv.org/abs/2505.01761)|null|
@@ -6860,6 +6873,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-04**|**Language translation, and change of accent for speech-to-speech task using diffusion model**|Abhishek Mishra et.al.|[2505.04639](http://arxiv.org/abs/2505.04639)|null|
 |**2025-05-05**|**Voila: Voice-Language Foundation Models for Real-Time Autonomous Interaction and Voice Role-Play**|Yemin Shi et.al.|[2505.02707](http://arxiv.org/abs/2505.02707)|**[link](https://github.com/maitrix-org/voila)**|
 |**2025-05-05**|**Bemba Speech Translation: Exploring a Low-Resource African Language**|Muhammad Hazim Al Farouq et.al.|[2505.02518](http://arxiv.org/abs/2505.02518)|null|
 |**2025-04-25**|**Spatial Speech Translation: Translating Across Space With Binaural Hearables**|Tuochao Chen et.al.|[2504.18715](http://arxiv.org/abs/2504.18715)|null|
@@ -7010,6 +7024,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-08**|**Adaptive Markup Language Generation for Contextually-Grounded Visual Document Understanding**|Han Xiao et.al.|[2505.05446](http://arxiv.org/abs/2505.05446)|null|
+|**2025-05-08**|**MARK: Memory Augmented Refinement of Knowledge**|Anish Ganguli et.al.|[2505.05177](http://arxiv.org/abs/2505.05177)|null|
+|**2025-05-08**|**Enhancing Text2Cypher with Schema Filtering**|Makbule Gulcin Ozsoy et.al.|[2505.05118](http://arxiv.org/abs/2505.05118)|null|
+|**2025-05-08**|**A Weighted Byzantine Fault Tolerance Consensus Driven Trusted Multiple Large Language Models Network**|Haoxiang Luo et.al.|[2505.05103](http://arxiv.org/abs/2505.05103)|null|
+|**2025-05-08**|**Towards Mitigating API Hallucination in Code Generated by LLMs with Hierarchical Dependency Aware**|Yujia Chen et.al.|[2505.05057](http://arxiv.org/abs/2505.05057)|null|
+|**2025-05-07**|**Benchmarking LLM Faithfulness in RAG with Evolving Leaderboards**|Manveer Singh Tamber et.al.|[2505.04847](http://arxiv.org/abs/2505.04847)|null|
+|**2025-05-07**|**Osiris: A Lightweight Open-Source Hallucination Detection System**|Alex Shan et.al.|[2505.04844](http://arxiv.org/abs/2505.04844)|null|
+|**2025-05-07**|**A Proposal for Evaluating the Operational Risk for ChatBots based on Large Language Models**|Pedro Pinacho-Davidson et.al.|[2505.04784](http://arxiv.org/abs/2505.04784)|null|
+|**2025-05-07**|**The Promise and Limits of LLMs in Constructing Proofs and Hints for Logic Problems in Intelligent Tutoring Systems**|Sutapa Dey Tithi et.al.|[2505.04736](http://arxiv.org/abs/2505.04736)|null|
 |**2025-05-07**|**Large Means Left: Political Bias in Large Language Models Increases with Their Number of Parameters**|David Exler et.al.|[2505.04393](http://arxiv.org/abs/2505.04393)|null|
 |**2025-05-07**|**LLM-Independent Adaptive RAG: Let the Question Speak for Itself**|Maria Marina et.al.|[2505.04253](http://arxiv.org/abs/2505.04253)|null|
 |**2025-05-07**|**Shadow Wireless Intelligence: Large Language Model-Driven Reasoning in Covert Communications**|Yuanai Xie et.al.|[2505.04068](http://arxiv.org/abs/2505.04068)|null|
