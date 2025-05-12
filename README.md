@@ -2460,6 +2460,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-09**|**From Millions of Tweets to Actionable Insights: Leveraging LLMs for User Profiling**|Vahid Rahimzadeh et.al.|[2505.06184](http://arxiv.org/abs/2505.06184)|null|
+|**2025-05-09**|**A Large Language Model-Enhanced Q-learning for Capacitated Vehicle Routing Problem with Time Windows**|Linjiang Cao et.al.|[2505.06178](http://arxiv.org/abs/2505.06178)|null|
+|**2025-05-09**|**MonetGPT: Solving Puzzles Enhances MLLMs' Image Retouching Skills**|Niladri Shekhar Dutt et.al.|[2505.06176](http://arxiv.org/abs/2505.06176)|null|
+|**2025-05-09**|**Turbo-ICL: In-Context Learning-Based Turbo Equalization**|Zihang Song et.al.|[2505.06175](http://arxiv.org/abs/2505.06175)|null|
+|**2025-05-09**|**MM-Skin: Enhancing Dermatology Vision-Language Model with an Image-Text Dataset Derived from Textbooks**|Wenqi Zeng et.al.|[2505.06152](http://arxiv.org/abs/2505.06152)|**[link](https://github.com/zwq803/mm-skin)**|
+|**2025-05-09**|**A Scaling Law for Token Efficiency in LLM Fine-Tuning Under Fixed Compute Budgets**|Ryan Lagasse et.al.|[2505.06150](http://arxiv.org/abs/2505.06150)|null|
+|**2025-05-09**|**Can Prompting LLMs Unlock Hate Speech Detection across Languages? A Zero-shot and Few-shot Study**|Faeze Ghorbanpour et.al.|[2505.06149](http://arxiv.org/abs/2505.06149)|null|
+|**2025-05-09**|**LLMs Get Lost In Multi-Turn Conversation**|Philippe Laban et.al.|[2505.06120](http://arxiv.org/abs/2505.06120)|**[link](https://github.com/microsoft/lost_in_conversation)**|
+|**2025-05-09**|**LLMs Outperform Experts on Challenging Biology Benchmarks**|Lennart Justen et.al.|[2505.06108](http://arxiv.org/abs/2505.06108)|null|
+|**2025-05-09**|**Free and Fair Hardware: A Pathway to Copyright Infringement-Free Verilog Generation using LLMs**|Sam Bush et.al.|[2505.06096](http://arxiv.org/abs/2505.06096)|null|
 |**2025-05-08**|**Generating Physically Stable and Buildable LEGO Designs from Text**|Ava Pun et.al.|[2505.05469](http://arxiv.org/abs/2505.05469)|**[link](https://github.com/AvaLovelace1/LegoGPT)**|
 |**2025-05-08**|**StreamBridge: Turning Your Offline Video Large Language Model into a Proactive Streaming Assistant**|Haibo Wang et.al.|[2505.05467](http://arxiv.org/abs/2505.05467)|null|
 |**2025-05-08**|**ComPO: Preference Alignment via Comparison Oracles**|Peter Chen et.al.|[2505.05465](http://arxiv.org/abs/2505.05465)|null|
@@ -5937,7 +5947,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-05-09**|**LiTransProQA: an LLM-based Literary Translation evaluation metric with Professional Question Answering**|Ran Zhang et.al.|[2505.05423](http://arxiv.org/abs/2505.05423)|null|
+|**2025-05-09**|**Do Not Change Me: On Transferring Entities Without Modification in Neural Machine Translation -- a Multilingual Perspective**|Dawid Wisniewski et.al.|[2505.06010](http://arxiv.org/abs/2505.06010)|null|
+|**2025-05-09**|**Exploring the Feasibility of Multilingual Grammatical Error Correction with a Single LLM up to 9B parameters: A Comparative Study of 17 Models**|Dawid Wisniewski et.al.|[2505.06004](http://arxiv.org/abs/2505.06004)|null|
+|**2025-05-09**|**TopicVD: A Topic-Based Dataset of Video-Guided Multimodal Machine Translation for Documentaries**|Jinze Lv et.al.|[2505.05714](http://arxiv.org/abs/2505.05714)|null|
+|**2025-05-09**|**LiTransProQA: an LLM-based Literary Translation evaluation metric with Professional Question Answering**|Ran Zhang et.al.|[2505.05423](http://arxiv.org/abs/2505.05423)|**[link](https://github.com/zhangr2021/TransProQA)**|
 |**2025-05-05**|**Data Augmentation With Back translation for Low Resource languages: A case of English and Luganda**|Richard Kimera et.al.|[2505.02463](http://arxiv.org/abs/2505.02463)|null|
 |**2025-05-04**|**SignSplat: Rendering Sign Language via Gaussian Splatting**|Maksym Ivashechkin et.al.|[2505.02108](http://arxiv.org/abs/2505.02108)|null|
 |**2025-05-03**|**Same evaluation, more tokens: On the effect of input length for machine translation evaluation using Large Language Models**|Tobias Domhan et.al.|[2505.01761](http://arxiv.org/abs/2505.01761)|null|
@@ -7024,6 +7037,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-09**|**Evolutionary thoughts: integration of large language models and evolutionary algorithms**|Antonio Jimeno Yepes et.al.|[2505.05756](http://arxiv.org/abs/2505.05756)|null|
+|**2025-05-08**|**Adaptive Stress Testing Black-Box LLM Planners**|Neeloy Chakraborty et.al.|[2505.05665](http://arxiv.org/abs/2505.05665)|null|
 |**2025-05-08**|**Adaptive Markup Language Generation for Contextually-Grounded Visual Document Understanding**|Han Xiao et.al.|[2505.05446](http://arxiv.org/abs/2505.05446)|null|
 |**2025-05-08**|**MARK: Memory Augmented Refinement of Knowledge**|Anish Ganguli et.al.|[2505.05177](http://arxiv.org/abs/2505.05177)|null|
 |**2025-05-08**|**Enhancing Text2Cypher with Schema Filtering**|Makbule Gulcin Ozsoy et.al.|[2505.05118](http://arxiv.org/abs/2505.05118)|null|
