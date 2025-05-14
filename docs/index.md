@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.13
+## Updated on 2025.05.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -5931,7 +5931,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-05-12**|**Privacy-Preserving Real-Time Vietnamese-English Translation on iOS using Edge AI**|Cong Le et.al.|[2505.07583](http://arxiv.org/abs/2505.07583)|null|
-|**2025-05-09**|**Do Not Change Me: On Transferring Entities Without Modification in Neural Machine Translation -- a Multilingual Perspective**|Dawid Wisniewski et.al.|[2505.06010](http://arxiv.org/abs/2505.06010)|null|
+|**2025-05-09**|**Do Not Change Me: On Transferring Entities Without Modification in Neural Machine Translation -- a Multilingual Perspective**|Dawid Wisniewski et.al.|[2505.06010](http://arxiv.org/abs/2505.06010)|**[link](https://github.com/laniqo-public/do-not-change-me)**|
 |**2025-05-09**|**Exploring the Feasibility of Multilingual Grammatical Error Correction with a Single LLM up to 9B parameters: A Comparative Study of 17 Models**|Dawid Wisniewski et.al.|[2505.06004](http://arxiv.org/abs/2505.06004)|null|
 |**2025-05-09**|**TopicVD: A Topic-Based Dataset of Video-Guided Multimodal Machine Translation for Documentaries**|Jinze Lv et.al.|[2505.05714](http://arxiv.org/abs/2505.05714)|null|
 |**2025-05-09**|**LiTransProQA: an LLM-based Literary Translation evaluation metric with Professional Question Answering**|Ran Zhang et.al.|[2505.05423](http://arxiv.org/abs/2505.05423)|**[link](https://github.com/zhangr2021/TransProQA)**|
@@ -7017,7 +7017,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-05-12**|**Multimodal Survival Modeling in the Age of Foundation Models**|Steven Song et.al.|[2505.07683](http://arxiv.org/abs/2505.07683)|null|
+|**2025-05-12**|**Multimodal Survival Modeling in the Age of Foundation Models**|Steven Song et.al.|[2505.07683](http://arxiv.org/abs/2505.07683)|**[link](https://github.com/StevenSong/multimodal-cancer-survival)**|
 |**2025-05-12**|**Reinforced Internal-External Knowledge Synergistic Reasoning for Efficient Adaptive Search Agent**|Ziyang Huang et.al.|[2505.07596](http://arxiv.org/abs/2505.07596)|null|
 |**2025-05-12**|**SEReDeEP: Hallucination Detection in Retrieval-Augmented Models via Semantic Entropy and Context-Parameter Fusion**|Lei Wang et.al.|[2505.07528](http://arxiv.org/abs/2505.07528)|null|
 |**2025-05-12**|**Learning to Reason and Navigate: Parameter Efficient Action Planning with Large Language Models**|Bahram Mohammadi et.al.|[2505.07500](http://arxiv.org/abs/2505.07500)|null|
