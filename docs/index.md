@@ -2435,6 +2435,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-19**|**CIE: Controlling Language Model Text Generations Using Continuous Signals**|Vinay Samuel et.al.|[2505.13448](http://arxiv.org/abs/2505.13448)|**[link](https://github.com/vsamuel2003/cie)**|
+|**2025-05-19**|**Trust, But Verify: A Self-Verification Approach to Reinforcement Learning with Verifiable Rewards**|Xiaoyuan Liu et.al.|[2505.13445](http://arxiv.org/abs/2505.13445)|null|
+|**2025-05-19**|**ChartMuseum: Testing Visual Reasoning Capabilities of Large Vision-Language Models**|Liyan Tang et.al.|[2505.13444](http://arxiv.org/abs/2505.13444)|null|
+|**2025-05-19**|**GraspMolmo: Generalizable Task-Oriented Grasping via Large-Scale Synthetic Data Generation**|Abhay Deshpande et.al.|[2505.13441](http://arxiv.org/abs/2505.13441)|null|
+|**2025-05-19**|**Optimizing Anytime Reasoning via Budget Relative Policy Optimization**|Penghui Qi et.al.|[2505.13438](http://arxiv.org/abs/2505.13438)|**[link](https://github.com/sail-sg/anytimereasoner)**|
+|**2025-05-19**|**SMOTExT: SMOTE meets Large Language Models**|Mateusz Bystroński et.al.|[2505.13434](http://arxiv.org/abs/2505.13434)|null|
+|**2025-05-19**|**Fine-tuning Quantized Neural Networks with Zeroth-order Optimization**|Sifeng Shang et.al.|[2505.13430](http://arxiv.org/abs/2505.13430)|null|
+|**2025-05-19**|**MM-PRM: Enhancing Multimodal Mathematical Reasoning with Scalable Step-Level Supervision**|Lingxiao Du et.al.|[2505.13427](http://arxiv.org/abs/2505.13427)|**[link](https://github.com/modalminds/mm-prm)**|
+|**2025-05-19**|**G1: Bootstrapping Perception and Reasoning Abilities of Vision-Language Model via Reinforcement Learning**|Liang Chen et.al.|[2505.13426](http://arxiv.org/abs/2505.13426)|**[link](https://github.com/chenllliang/g1)**|
+|**2025-05-19**|**Learnware of Language Models: Specialized Small Language Models Can Do Big**|Zhi-Hao Tan et.al.|[2505.13425](http://arxiv.org/abs/2505.13425)|null|
 |**2025-05-16**|**Modeling cognitive processes of natural reading with transformer-based Language Models**|Bruno Bianchi et.al.|[2505.11485](http://arxiv.org/abs/2505.11485)|null|
 |**2025-05-16**|**msf-CNN: Patch-based Multi-Stage Fusion with Convolutional Neural Networks for TinyML**|Zhaolan Huang et.al.|[2505.11483](http://arxiv.org/abs/2505.11483)|null|
 |**2025-05-16**|**Improving Assembly Code Performance with Large Language Models via Reinforcement Learning**|Anjiang Wei et.al.|[2505.11480](http://arxiv.org/abs/2505.11480)|null|
@@ -5970,6 +5980,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-19**|**Quantum Knowledge Distillation for Large Language Models**|Lingxiao Li et.al.|[2505.13205](http://arxiv.org/abs/2505.13205)|null|
+|**2025-05-19**|**A Case Study of Cross-Lingual Zero-Shot Generalization for Classical Languages in LLMs**|V. S. D. S. Mahesh Akavarapu et.al.|[2505.13173](http://arxiv.org/abs/2505.13173)|null|
+|**2025-05-19**|**ExTrans: Multilingual Deep Reasoning Translation via Exemplar-Enhanced Reinforcement Learning**|Jiaan Wang et.al.|[2505.12996](http://arxiv.org/abs/2505.12996)|null|
+|**2025-05-18**|**LLM-Based Evaluation of Low-Resource Machine Translation: A Reference-less Dialect Guided Approach with a Refined Sylheti-English Benchmark**|Md. Atiqur Rahman et.al.|[2505.12273](http://arxiv.org/abs/2505.12273)|**[link](https://github.com/180041123-atiq/mteonlowresourcelanguage)**|
 |**2025-05-16**|**Towards Cultural Bridge by Bahnaric-Vietnamese Translation Using Transfer Learning of Sequence-To-Sequence Pre-training Language Model**|Phan Tran Minh Dat et.al.|[2505.11421](http://arxiv.org/abs/2505.11421)|null|
 |**2025-05-16**|**StRuCom: A Novel Dataset of Structured Code Comments in Russian**|Maria Dziuba et.al.|[2505.11026](http://arxiv.org/abs/2505.11026)|null|
 |**2025-05-14**|**Multilingual Machine Translation with Quantum Encoder Decoder Attention-based Convolutional Variational Circuits**|Subrit Dikshit et.al.|[2505.09407](http://arxiv.org/abs/2505.09407)|null|
@@ -6914,6 +6928,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-19**|**KIT's Offline Speech Translation and Instruction Following Submission for IWSLT 2025**|Sai Koneru et.al.|[2505.13036](http://arxiv.org/abs/2505.13036)|null|
 |**2025-05-16**|**LegoSLM: Connecting LLM with Speech Encoder using CTC Posteriors**|Rao Ma et.al.|[2505.11352](http://arxiv.org/abs/2505.11352)|null|
 |**2025-05-14**|**Granite-speech: open-source speech-aware LLMs with strong English ASR capabilities**|George Saon et.al.|[2505.08699](http://arxiv.org/abs/2505.08699)|null|
 |**2025-05-04**|**Language translation, and change of accent for speech-to-speech task using diffusion model**|Abhishek Mishra et.al.|[2505.04639](http://arxiv.org/abs/2505.04639)|null|
@@ -7065,6 +7080,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-19**|**Granary: Speech Recognition and Translation Dataset in 25 European Languages**|Nithin Rao Koluguri et.al.|[2505.13404](http://arxiv.org/abs/2505.13404)|null|
+|**2025-05-19**|**Tianyi: A Traditional Chinese Medicine all-rounder language model and its Real-World Clinical Practice**|Zhi Liu et.al.|[2505.13156](http://arxiv.org/abs/2505.13156)|null|
+|**2025-05-19**|**Auditing Meta-Cognitive Hallucinations in Reasoning Large Language Models**|Haolang Lu et.al.|[2505.13143](http://arxiv.org/abs/2505.13143)|null|
+|**2025-05-19**|**Evaluating the Performance of RAG Methods for Conversational AI in the Airport Domain**|Yuyang Li et.al.|[2505.13006](http://arxiv.org/abs/2505.13006)|null|
+|**2025-05-19**|**Calm-Whisper: Reduce Whisper Hallucination On Non-Speech By Calming Crazy Heads Down**|Yingzhi Wang et.al.|[2505.12969](http://arxiv.org/abs/2505.12969)|null|
+|**2025-05-19**|**Detection and Mitigation of Hallucination in Large Reasoning Models: A Mechanistic Perspective**|Zhongxiang Sun et.al.|[2505.12886](http://arxiv.org/abs/2505.12886)|null|
+|**2025-05-19**|**Mitigating Hallucination in VideoLLMs via Temporal-Aware Activation Engineering**|Jianfeng Cai et.al.|[2505.12826](http://arxiv.org/abs/2505.12826)|null|
+|**2025-05-19**|**LLM-based Query Expansion Fails for Unfamiliar and Ambiguous Queries**|Kenya Abe et.al.|[2505.12694](http://arxiv.org/abs/2505.12694)|null|
+|**2025-05-19**|**Know3-RAG: A Knowledge-aware RAG Framework with Adaptive Retrieval, Generation, and Filtering**|Xukai Liu et.al.|[2505.12662](http://arxiv.org/abs/2505.12662)|null|
+|**2025-05-18**|**VideoRFT: Incentivizing Video Reasoning Capability in MLLMs via Reinforced Fine-Tuning**|Qi Wang et.al.|[2505.12434](http://arxiv.org/abs/2505.12434)|**[link](https://github.com/qiwang98/videorft)**|
 |**2025-05-16**|**EmotionHallucer: Evaluating Emotion Hallucinations in Multimodal Large Language Models**|Bohao Xing et.al.|[2505.11405](http://arxiv.org/abs/2505.11405)|null|
 |**2025-05-16**|**Phare: A Safety Probe for Large Language Models**|Pierre Le Jeune et.al.|[2505.11365](http://arxiv.org/abs/2505.11365)|null|
 |**2025-05-16**|**Search-TTA: A Multimodal Test-Time Adaptation Framework for Visual Search in the Wild**|Derek Ming Siang Tan et.al.|[2505.11350](http://arxiv.org/abs/2505.11350)|null|
