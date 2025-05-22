@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.21
+## Updated on 2025.05.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -452,7 +452,7 @@
 |**2021-10-03**|**Quadrotor Control on $SU(2)\times R^3$ with SLAM Integration**|Marcus Greiff et.al.|[2110.01099](http://arxiv.org/abs/2110.01099)|null|
 |**2021-10-02**|**Online Incremental Non-Gaussian Inference for SLAM Using Normalizing Flows**|Qiangqiang Huang et.al.|[2110.00876](http://arxiv.org/abs/2110.00876)|**[link](https://github.com/marineroboticsgroup/nf-isam)**|
 
-<p align=right>(<a href=#updated-on-20250521>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250522>back to top</a>)</p>
 
 ## SFM
 
@@ -597,7 +597,7 @@
 |**2021-08-29**|**Solving Viewing Graph Optimization for Simultaneous Position and Rotation Registration**|Seyed-Mahdi Nasiri et.al.|[2108.12876](http://arxiv.org/abs/2108.12876)|null|
 |**2021-08-23**|**Burst Imaging for Light-Constrained Structure-From-Motion**|Ahalya Ravendran et.al.|[2108.09895](http://arxiv.org/abs/2108.09895)|null|
 
-<p align=right>(<a href=#updated-on-20250521>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250522>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -1193,7 +1193,7 @@
 |**2021-09-09**|**CrowdDriven: A New Challenging Dataset for Outdoor Visual Localization**|Ara Jafarzadeh et.al.|[2109.04527](http://arxiv.org/abs/2109.04527)|null|
 |**2021-09-09**|**Keeping an Eye on Things: Deep Learned Features for Long-Term Visual Localization**|Mona Gridseth et.al.|[2109.04041](http://arxiv.org/abs/2109.04041)|**[link](https://github.com/utiasasrl/deep_learned_visual_features)**|
 
-<p align=right>(<a href=#updated-on-20250521>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250522>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -1388,7 +1388,7 @@
 |**2021-08-31**|**A Novel Dataset for Keypoint Detection of quadruped Animals from Images**|Prianka Banik et.al.|[2108.13958](http://arxiv.org/abs/2108.13958)|**[link](https://github.com/prinik/awa-pose)**|
 |**2021-08-27**|**A Matching Algorithm based on Image Attribute Transfer and Local Features for Underwater Acoustic and Optical Images**|Xiaoteng Zhou et.al.|[2108.12151](http://arxiv.org/abs/2108.12151)|null|
 
-<p align=right>(<a href=#updated-on-20250521>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250522>back to top</a>)</p>
 
 ## Image Matching
 
@@ -1573,7 +1573,7 @@
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou et.al.|[2108.12072](http://arxiv.org/abs/2108.12072)|null|
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911](http://arxiv.org/abs/2108.11911)|null|
 
-<p align=right>(<a href=#updated-on-20250521>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250522>back to top</a>)</p>
 
 ## NeRF
 
@@ -2208,12 +2208,14 @@
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
 
-<p align=right>(<a href=#updated-on-20250521>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250522>back to top</a>)</p>
 
 ## Simultaneous Translation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-21**|**Infinite linear patterns in sets of positive density**|Felipe Hernández et.al.|[2505.15458](http://arxiv.org/abs/2505.15458)|null|
+|**2025-05-21**|**Physics-Guided Multi-View Graph Neural Network for Schizophrenia Classification via Structural-Functional Coupling**|Badhan Mazumder et.al.|[2505.15135](http://arxiv.org/abs/2505.15135)|null|
 |**2025-05-12**|**Non-minimally coupled scalar field dark sector of the universe: in-depth (Einstein frame) case study**|Marcin Postolak et.al.|[2505.07456](http://arxiv.org/abs/2505.07456)|null|
 |**2025-05-10**|**Integrating Video and Text: A Balanced Approach to Multimodal Summary Generation and Evaluation**|Galann Pennec et.al.|[2505.06594](http://arxiv.org/abs/2505.06594)|null|
 |**2025-05-08**|**D-CODA: Diffusion for Coordinated Dual-Arm Data Augmentation**|I-Chun Arthur Liu et.al.|[2505.04860](http://arxiv.org/abs/2505.04860)|null|
@@ -2456,12 +2458,22 @@
 |**2023-11-07**|**CBSiMT: Mitigating Hallucination in Simultaneous Machine Translation with Weighted Prefix-to-Prefix Training**|Mengge Liu et.al.|[2311.03672](http://arxiv.org/abs/2311.03672)|null|
 |**2023-11-03**|**PRISM: Progressive Restoration for Scene Graph-based Image Manipulation**|Pavel Jahoda et.al.|[2311.02247](http://arxiv.org/abs/2311.02247)|null|
 
-<p align=right>(<a href=#updated-on-20250521>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250522>back to top</a>)</p>
 
 ## Language Model
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-21**|**InstructSAM: A Training-Free Framework for Instruction-Oriented Remote Sensing Object Recognition**|Yijie Zheng et.al.|[2505.15818](http://arxiv.org/abs/2505.15818)|null|
+|**2025-05-21**|**MMaDA: Multimodal Large Diffusion Language Models**|Ling Yang et.al.|[2505.15809](http://arxiv.org/abs/2505.15809)|**[link](https://github.com/gen-verse/mmada)**|
+|**2025-05-21**|**The Atlas of In-Context Learning: How Attention Heads Shape In-Context Retrieval Augmentation**|Patrick Kahardipraja et.al.|[2505.15807](http://arxiv.org/abs/2505.15807)|null|
+|**2025-05-21**|**Keep Security! Benchmarking Security Policy Preservation in Large Language Model Contexts Against Indirect Attacks in Question Answering**|Hwan Chang et.al.|[2505.15805](http://arxiv.org/abs/2505.15805)|null|
+|**2025-05-21**|**STAR-R1: Spacial TrAnsformation Reasoning by Reinforcing Multimodal LLMs**|Zongzhao Li et.al.|[2505.15804](http://arxiv.org/abs/2505.15804)|null|
+|**2025-05-21**|**VerifyBench: Benchmarking Reference-based Reward Systems for Large Language Models**|Yuchen Yan et.al.|[2505.15801](http://arxiv.org/abs/2505.15801)|null|
+|**2025-05-21**|**Model Merging is Secretly Certifiable: Non-Vacuous Generalisation Bounds for Low-Shot Learning**|Taehoon Kim et.al.|[2505.15798](http://arxiv.org/abs/2505.15798)|null|
+|**2025-05-21**|**Reverse Engineering Human Preferences with Reinforcement Learning**|Lisa Alazraki et.al.|[2505.15795](http://arxiv.org/abs/2505.15795)|null|
+|**2025-05-21**|**HCRMP: A LLM-Hinted Contextual Reinforcement Learning Framework for Autonomous Driving**|Zhiwen Chen et.al.|[2505.15793](http://arxiv.org/abs/2505.15793)|null|
+|**2025-05-21**|**Large Language Models as Computable Approximations to Solomonoff Induction**|Jun Wan et.al.|[2505.15784](http://arxiv.org/abs/2505.15784)|null|
 |**2025-05-20**|**Language Models use Lookbacks to Track Beliefs**|Nikhil Prakash et.al.|[2505.14685](http://arxiv.org/abs/2505.14685)|null|
 |**2025-05-20**|**Mind the Gap: Bridging Thought Leap for Improved Chain-of-Thought Tuning**|Haolei Xu et.al.|[2505.14684](http://arxiv.org/abs/2505.14684)|null|
 |**2025-05-20**|**UniGen: Enhanced Training & Test-Time Strategies for Unified Multimodal Understanding and Generation**|Rui Tian et.al.|[2505.14682](http://arxiv.org/abs/2505.14682)|null|
@@ -6013,13 +6025,15 @@
 |**2023-11-29**|**End-to-end Joint Rich and Normalized ASR with a limited amount of rich training data**|Can Cui et.al.|[2311.17741](http://arxiv.org/abs/2311.17741)|null|
 |**2023-11-29**|**GenZI: Zero-Shot 3D Human-Scene Interaction Generation**|Lei Li et.al.|[2311.17737](http://arxiv.org/abs/2311.17737)|null|
 
-<p align=right>(<a href=#updated-on-20250521>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250522>back to top</a>)</p>
 
 ## Machine Translation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-05-20**|**Pivot Language for Low-Resource Machine Translation**|Abhimanyu Talwar et.al.|[2505.14553](http://arxiv.org/abs/2505.14553)|null|
+|**2025-05-21**|**Exploring In-Image Machine Translation with Real-World Background**|Yanzhi Tian et.al.|[2505.15282](http://arxiv.org/abs/2505.15282)|**[link](https://github.com/bithlp/debackx)**|
+|**2025-05-21**|**In-Domain African Languages Translation Using LLMs and Multi-armed Bandits**|Pratik Rakesh Singh et.al.|[2505.15069](http://arxiv.org/abs/2505.15069)|null|
+|**2025-05-21**|**Pivot Language for Low-Resource Machine Translation**|Abhimanyu Talwar et.al.|[2505.14553](http://arxiv.org/abs/2505.14553)|null|
 |**2025-05-20**|**Scaling Low-Resource MT via Synthetic Data Generation with LLMs**|Ona de Gibert et.al.|[2505.14423](http://arxiv.org/abs/2505.14423)|null|
 |**2025-05-20**|**HausaNLP: Current Status, Challenges and Future Directions for Hausa Natural Language Processing**|Shamsuddeen Hassan Muhammad et.al.|[2505.14311](http://arxiv.org/abs/2505.14311)|null|
 |**2025-05-20**|**FuxiMT: Sparsifying Large Language Models for Chinese-Centric Multilingual Machine Translation**|Shaolin Zhu et.al.|[2505.14256](http://arxiv.org/abs/2505.14256)|null|
@@ -6027,7 +6041,7 @@
 |**2025-05-20**|**THOR-MoE: Hierarchical Task-Guided and Context-Responsive Routing for Neural Machine Translation**|Yunlong Liang et.al.|[2505.14173](http://arxiv.org/abs/2505.14173)|null|
 |**2025-05-19**|**Combining the Best of Both Worlds: A Method for Hybrid NMT and LLM Translation**|Zhanglin Wu et.al.|[2505.13554](http://arxiv.org/abs/2505.13554)|null|
 |**2025-05-19**|**Quantum Knowledge Distillation for Large Language Models**|Lingxiao Li et.al.|[2505.13205](http://arxiv.org/abs/2505.13205)|null|
-|**2025-05-19**|**A Case Study of Cross-Lingual Zero-Shot Generalization for Classical Languages in LLMs**|V. S. D. S. Mahesh Akavarapu et.al.|[2505.13173](http://arxiv.org/abs/2505.13173)|null|
+|**2025-05-19**|**A Case Study of Cross-Lingual Zero-Shot Generalization for Classical Languages in LLMs**|V. S. D. S. Mahesh Akavarapu et.al.|[2505.13173](http://arxiv.org/abs/2505.13173)|**[link](https://github.com/mahesh-ak/SktQA)**|
 |**2025-05-19**|**ExTrans: Multilingual Deep Reasoning Translation via Exemplar-Enhanced Reinforcement Learning**|Jiaan Wang et.al.|[2505.12996](http://arxiv.org/abs/2505.12996)|null|
 |**2025-05-18**|**LLM-Based Evaluation of Low-Resource Machine Translation: A Reference-less Dialect Guided Approach with a Refined Sylheti-English Benchmark**|Md. Atiqur Rahman et.al.|[2505.12273](http://arxiv.org/abs/2505.12273)|**[link](https://github.com/180041123-atiq/mteonlowresourcelanguage)**|
 |**2025-05-16**|**Towards Cultural Bridge by Bahnaric-Vietnamese Translation Using Transfer Learning of Sequence-To-Sequence Pre-training Language Model**|Phan Tran Minh Dat et.al.|[2505.11421](http://arxiv.org/abs/2505.11421)|null|
@@ -6970,13 +6984,15 @@
 |**2023-11-24**|**OpusCleaner and OpusTrainer, open source toolkits for training Machine Translation and Large language models**|Nikolay Bogoychev et.al.|[2311.14838](http://arxiv.org/abs/2311.14838)|**[link](https://github.com/hplt-project/opustrainer)**|
 |**2023-11-24**|**Machine Translation for Ge'ez Language**|Aman Kassahun Wassie et.al.|[2311.14530](http://arxiv.org/abs/2311.14530)|null|
 
-<p align=right>(<a href=#updated-on-20250521>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250522>back to top</a>)</p>
 
 ## Speech Translation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-05-19**|**Multi-head Temporal Latent Attention**|Keqi Deng et.al.|[2505.13544](http://arxiv.org/abs/2505.13544)|null|
+|**2025-05-21**|**Word Level Timestamp Generation for Automatic Speech Recognition and Translation**|Ke Hu et.al.|[2505.15646](http://arxiv.org/abs/2505.15646)|null|
+|**2025-05-21**|**Leveraging Unit Language Guidance to Advance Speech Modeling in Textless Speech-to-Speech Translation**|Yuhao Zhang et.al.|[2505.15333](http://arxiv.org/abs/2505.15333)|null|
+|**2025-05-21**|**Multi-head Temporal Latent Attention**|Keqi Deng et.al.|[2505.13544](http://arxiv.org/abs/2505.13544)|null|
 |**2025-05-19**|**KIT's Offline Speech Translation and Instruction Following Submission for IWSLT 2025**|Sai Koneru et.al.|[2505.13036](http://arxiv.org/abs/2505.13036)|null|
 |**2025-05-16**|**LegoSLM: Connecting LLM with Speech Encoder using CTC Posteriors**|Rao Ma et.al.|[2505.11352](http://arxiv.org/abs/2505.11352)|null|
 |**2025-05-14**|**Granite-speech: open-source speech-aware LLMs with strong English ASR capabilities**|George Saon et.al.|[2505.08699](http://arxiv.org/abs/2505.08699)|null|
@@ -7125,12 +7141,22 @@
 |**2023-10-23**|**Leveraging Timestamp Information for Serialized Joint Streaming Recognition and Translation**|Sara Papi et.al.|[2310.14806](http://arxiv.org/abs/2310.14806)|null|
 |**2023-10-23**|**Long-Form Speech Translation through Segmentation with Finite-State Decoding Constraints on Large Language Models**|Arya D. McCarthy et.al.|[2310.13678](http://arxiv.org/abs/2310.13678)|null|
 
-<p align=right>(<a href=#updated-on-20250521>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250522>back to top</a>)</p>
 
 ## Hallucination
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-21**|**HCRMP: A LLM-Hinted Contextual Reinforcement Learning Framework for Autonomous Driving**|Zhiwen Chen et.al.|[2505.15793](http://arxiv.org/abs/2505.15793)|null|
+|**2025-05-21**|**Long-Form Information Alignment Evaluation Beyond Atomic Facts**|Danna Zheng et.al.|[2505.15792](http://arxiv.org/abs/2505.15792)|null|
+|**2025-05-21**|**Constructing a 3D Town from a Single Image**|Kaizhi Zheng et.al.|[2505.15765](http://arxiv.org/abs/2505.15765)|null|
+|**2025-05-21**|**Listen to the Context: Towards Faithful Large Language Models for Retrieval Augmented Generation on Climate Questions**|David Thulke et.al.|[2505.15633](http://arxiv.org/abs/2505.15633)|null|
+|**2025-05-21**|**KaFT: Knowledge-aware Fine-tuning for Boosting LLMs' Domain-specific Question-Answering Performance**|Qihuang Zhong et.al.|[2505.15480](http://arxiv.org/abs/2505.15480)|null|
+|**2025-05-21**|**RePPL: Recalibrating Perplexity by Uncertainty in Semantic Propagation and Language Generation for Explainable QA Hallucination Detection**|Yiming Huang et.al.|[2505.15386](http://arxiv.org/abs/2505.15386)|null|
+|**2025-05-21**|**AgentThink: A Unified Framework for Tool-Augmented Chain-of-Thought Reasoning in Vision-Language Models for Autonomous Driving**|Kangan Qian et.al.|[2505.15298](http://arxiv.org/abs/2505.15298)|null|
+|**2025-05-21**|**Hallucinate at the Last in Long Response Generation: A Case Study on Long Document Summarization**|Joonho Yang et.al.|[2505.15291](http://arxiv.org/abs/2505.15291)|null|
+|**2025-05-21**|**Blind Spot Navigation: Evolutionary Discovery of Sensitive Semantic Concepts for LVLMs**|Zihao Pan et.al.|[2505.15265](http://arxiv.org/abs/2505.15265)|null|
+|**2025-05-21**|**Adaptive Plan-Execute Framework for Smart Contract Security Auditing**|Zhiyuan Wei et.al.|[2505.15242](http://arxiv.org/abs/2505.15242)|null|
 |**2025-05-20**|**Toward Reliable Biomedical Hypothesis Generation: Evaluating Truthfulness and Hallucination in Large Language Models**|Guangzhi Xiong et.al.|[2505.14599](http://arxiv.org/abs/2505.14599)|**[link](https://github.com/teddy-xionggz/truthhypo)**|
 |**2025-05-20**|**Teaching Audio-Aware Large Language Models What Does Not Hear: Mitigating Hallucinations through Synthesized Negative Samples**|Chun-Yi Kuan et.al.|[2505.14518](http://arxiv.org/abs/2505.14518)|null|
 |**2025-05-20**|**PlanGPT-VL: Enhancing Urban Planning with Domain-Specific Vision-Language Models**|He Zhu et.al.|[2505.14481](http://arxiv.org/abs/2505.14481)|null|
@@ -9202,7 +9228,7 @@
 |**2023-11-28**|**Beyond Hallucinations: Enhancing LVLMs through Hallucination-Aware Direct Preference Optimization**|Zhiyuan Zhao et.al.|[2311.16839](http://arxiv.org/abs/2311.16839)|null|
 |**2023-11-27**|**Deceptive-Human: Prompt-to-NeRF 3D Human Generation with 3D-Consistent Synthetic Images**|Shiu-hong Kao et.al.|[2311.16499](http://arxiv.org/abs/2311.16499)|**[link](https://github.com/danielshkao/deceptivehuman)**|
 
-<p align=right>(<a href=#updated-on-20250521>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250522>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
