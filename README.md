@@ -2214,6 +2214,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-19**|**Improving endpoint detection in end-to-end streaming ASR for conversational speech**|Anandh C et.al.|[2505.17070](http://arxiv.org/abs/2505.17070)|null|
 |**2025-05-21**|**Infinite linear patterns in sets of positive density**|Felipe Hernández et.al.|[2505.15458](http://arxiv.org/abs/2505.15458)|null|
 |**2025-05-21**|**Physics-Guided Multi-View Graph Neural Network for Schizophrenia Classification via Structural-Functional Coupling**|Badhan Mazumder et.al.|[2505.15135](http://arxiv.org/abs/2505.15135)|null|
 |**2025-05-22**|**Non-minimally coupled scalar field dark sector of the universe: in-depth (Einstein frame) case study**|Marcin Postolak et.al.|[2505.07456](http://arxiv.org/abs/2505.07456)|null|
@@ -2464,6 +2465,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-23**|**Fann or Flop: A Multigenre, Multiera Benchmark for Arabic Poetry Understanding in LLMs**|Wafa Alghallabi et.al.|[2505.18152](http://arxiv.org/abs/2505.18152)|null|
+|**2025-05-23**|**First Finish Search: Efficient Test-Time Scaling in Large Language Models**|Aradhye Agarwal et.al.|[2505.18149](http://arxiv.org/abs/2505.18149)|null|
+|**2025-05-23**|**Lost in the Haystack: Smaller Needles are More Difficult for LLMs to Find**|Owen Bianchi et.al.|[2505.18148](http://arxiv.org/abs/2505.18148)|null|
+|**2025-05-23**|**Graph-Linguistic Fusion: Using Language Models for Wikidata Vandalism Detection**|Mykola Trokhymovych et.al.|[2505.18136](http://arxiv.org/abs/2505.18136)|null|
+|**2025-05-23**|**Gaming Tool Preferences in Agentic LLMs**|Kazem Faghih et.al.|[2505.18135](http://arxiv.org/abs/2505.18135)|null|
+|**2025-05-23**|**VideoGameBench: Can Vision-Language Models complete popular video games?**|Alex L. Zhang et.al.|[2505.18134](http://arxiv.org/abs/2505.18134)|null|
+|**2025-05-23**|**One RL to See Them All: Visual Triple Unified Reinforcement Learning**|Yan Ma et.al.|[2505.18129](http://arxiv.org/abs/2505.18129)|null|
+|**2025-05-23**|**Reward Model Overoptimisation in Iterated RLHF**|Lorenz Wolf et.al.|[2505.18126](http://arxiv.org/abs/2505.18126)|null|
+|**2025-05-23**|**TabSTAR: A Foundation Tabular Model With Semantically Target-Aware Representations**|Alan Arazi et.al.|[2505.18125](http://arxiv.org/abs/2505.18125)|null|
+|**2025-05-23**|**UNJOIN: Enhancing Multi-Table Text-to-SQL Generation via Schema Simplification**|Poojah Ganesan et.al.|[2505.18122](http://arxiv.org/abs/2505.18122)|null|
 |**2025-05-22**|**CrossLMM: Decoupling Long Video Sequences from LMMs via Dual Cross-Attention Mechanisms**|Shilin Yan et.al.|[2505.17020](http://arxiv.org/abs/2505.17020)|**[link](https://github.com/shilinyan99/crosslmm)**|
 |**2025-05-22**|**Let Androids Dream of Electric Sheep: A Human-like Image Implication Understanding and Reasoning Framework**|Chenhao Zhang et.al.|[2505.17019](http://arxiv.org/abs/2505.17019)|**[link](https://github.com/ming-zch/let-androids-dream-of-electric-sheep)**|
 |**2025-05-22**|**SophiaVL-R1: Reinforcing MLLMs Reasoning with Thinking Reward**|Kaixuan Fan et.al.|[2505.17018](http://arxiv.org/abs/2505.17018)|**[link](https://github.com/kxfan2002/sophiavl-r1)**|
@@ -6041,6 +6052,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-23**|**Mutarjim: Advancing Bidirectional Arabic-English Translation with a Small Language Model**|Khalil Hennara et.al.|[2505.17894](http://arxiv.org/abs/2505.17894)|null|
+|**2025-05-23**|**Low-Resource NMT: A Case Study on the Written and Spoken Languages in Hong Kong**|Hei Yi Mak et.al.|[2505.17816](http://arxiv.org/abs/2505.17816)|null|
+|**2025-05-23**|**MIDB: Multilingual Instruction Data Booster for Enhancing Multilingual Instruction Synthesis**|Yilun Liu et.al.|[2505.17671](http://arxiv.org/abs/2505.17671)|null|
 |**2025-05-22**|**Comparative analysis of subword tokenization approaches for Indian languages**|Sudhansu Bala Das et.al.|[2505.16868](http://arxiv.org/abs/2505.16868)|null|
 |**2025-05-23**|**SSR-Zero: Simple Self-Rewarding Reinforcement Learning for Machine Translation**|Wenjie Yang et.al.|[2505.16637](http://arxiv.org/abs/2505.16637)|**[link](https://github.com/kelaxon/ssr-zero)**|
 |**2025-05-22**|**Steering Large Language Models for Machine Translation Personalization**|Daniel Scalena et.al.|[2505.16612](http://arxiv.org/abs/2505.16612)|**[link](https://github.com/danielsc4/steering-for-personalization)**|
@@ -7165,6 +7179,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-23**|**Assessing the performance of 8 AI chatbots in bibliographic reference retrieval: Grok and DeepSeek outperform ChatGPT, but none are fully accurate**|Álvaro Cabezas-Clavijo et.al.|[2505.18059](http://arxiv.org/abs/2505.18059)|null|
+|**2025-05-23**|**Seeing It or Not? Interpretable Vision-aware Latent Steering to Mitigate Object Hallucinations**|Boxu Chen et.al.|[2505.17812](http://arxiv.org/abs/2505.17812)|null|
+|**2025-05-23**|**Distilling LLM Agent into Small Models with Retrieval and Code Tools**|Minki Kang et.al.|[2505.17612](http://arxiv.org/abs/2505.17612)|null|
+|**2025-05-23**|**Dynamic Text Bundling Supervision for Zero-Shot Inference on Text-Attributed Graphs**|Yusheng Zhao et.al.|[2505.17599](http://arxiv.org/abs/2505.17599)|null|
+|**2025-05-23**|**Teaching with Lies: Curriculum DPO on Synthetic Negatives for Hallucination Detection**|Shrey Pandit et.al.|[2505.17558](http://arxiv.org/abs/2505.17558)|null|
+|**2025-05-23**|**Do You Keep an Eye on What I Ask? Mitigating Multimodal Hallucination via Attention-Guided Ensemble Decoding**|Yeongjae Cho et.al.|[2505.17529](http://arxiv.org/abs/2505.17529)|null|
+|**2025-05-23**|**keepitsimple at SemEval-2025 Task 3: LLM-Uncertainty based Approach for Multilingual Hallucination Span Detection**|Saketh Reddy Vemula et.al.|[2505.17485](http://arxiv.org/abs/2505.17485)|null|
+|**2025-05-22**|**Language models should be subject to repeatable, open, domain-contextualized hallucination benchmarking**|Justin D. Norman et.al.|[2505.17345](http://arxiv.org/abs/2505.17345)|null|
+|**2025-05-22**|**GPT Editors, Not Authors: The Stylistic Footprint of LLMs in Academic Preprints**|Soren DeHaan et.al.|[2505.17327](http://arxiv.org/abs/2505.17327)|null|
+|**2025-05-22**|**ConciseRL: Conciseness-Guided Reinforcement Learning for Efficient Reasoning Models**|Razvan-Gabriel Dumitru et.al.|[2505.17250](http://arxiv.org/abs/2505.17250)|null|
 |**2025-05-22**|**R1-Searcher++: Incentivizing the Dynamic Knowledge Acquisition of LLMs via Reinforcement Learning**|Huatong Song et.al.|[2505.17005](http://arxiv.org/abs/2505.17005)|**[link](https://github.com/rucaibox/r1-searcher-plus)**|
 |**2025-05-22**|**UNCLE: Uncertainty Expressions in Long-Form Generation**|Ruihan Yang et.al.|[2505.16922](http://arxiv.org/abs/2505.16922)|null|
 |**2025-05-22**|**Shadows in the Attention: Contextual Perturbation and Representation Drift in the Dynamics of Hallucination in LLMs**|Zeyu Wei et.al.|[2505.16894](http://arxiv.org/abs/2505.16894)|null|
