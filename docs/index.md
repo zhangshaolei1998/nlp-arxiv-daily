@@ -2189,6 +2189,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-25**|**Jodi: Unification of Visual Generation and Understanding via Joint Modeling**|Yifeng Xu et.al.|[2505.19084](http://arxiv.org/abs/2505.19084)|null|
+|**2025-05-24**|**The Gilbert Damping Factor of Heavy Quark Spin Polarization in the Magnetic Field**|Tianyang Li et.al.|[2505.18767](http://arxiv.org/abs/2505.18767)|null|
 |**2025-05-19**|**Improving endpoint detection in end-to-end streaming ASR for conversational speech**|Anandh C et.al.|[2505.17070](http://arxiv.org/abs/2505.17070)|null|
 |**2025-05-21**|**Infinite linear patterns in sets of positive density**|Felipe Hernández et.al.|[2505.15458](http://arxiv.org/abs/2505.15458)|null|
 |**2025-05-21**|**Physics-Guided Multi-View Graph Neural Network for Schizophrenia Classification via Structural-Functional Coupling**|Badhan Mazumder et.al.|[2505.15135](http://arxiv.org/abs/2505.15135)|null|
@@ -2438,6 +2440,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-26**|**MineAnyBuild: Benchmarking Spatial Planning for Open-world AI Agents**|Ziming Wei et.al.|[2505.20148](http://arxiv.org/abs/2505.20148)|null|
+|**2025-05-26**|**FUDOKI: Discrete Flow-based Unified Understanding and Generation via Kinetic-Optimal Velocities**|Jin Wang et.al.|[2505.20147](http://arxiv.org/abs/2505.20147)|null|
+|**2025-05-26**|**SeMe: Training-Free Language Model Merging via Semantic Alignment**|Jian Gu et.al.|[2505.20144](http://arxiv.org/abs/2505.20144)|null|
+|**2025-05-26**|**StructEval: Benchmarking LLMs' Capabilities to Generate Structural Outputs**|Jialin Yang et.al.|[2505.20139](http://arxiv.org/abs/2505.20139)|null|
+|**2025-05-26**|**AweDist: Attention-aware Embedding Distillation for New Input Token Embeddings**|Konstantin Dobler et.al.|[2505.20133](http://arxiv.org/abs/2505.20133)|null|
+|**2025-05-26**|**Agentic 3D Scene Generation with Spatially Contextualized VLMs**|Xinhang Liu et.al.|[2505.20129](http://arxiv.org/abs/2505.20129)|null|
+|**2025-05-26**|**Iterative Self-Incentivization Empowers Large Language Models as Agentic Searchers**|Zhengliang Shi et.al.|[2505.20128](http://arxiv.org/abs/2505.20128)|null|
+|**2025-05-26**|**Agentic AI Process Observability: Discovering Behavioral Variability**|Fabiana Fournier et.al.|[2505.20127](http://arxiv.org/abs/2505.20127)|null|
+|**2025-05-26**|**MEBench: A Novel Benchmark for Understanding Mutual Exclusivity Bias in Vision-Language Models**|Anh Thai et.al.|[2505.20122](http://arxiv.org/abs/2505.20122)|null|
+|**2025-05-26**|**TrojanStego: Your Language Model Can Secretly Be A Steganographic Privacy Leaking Agent**|Dominik Meier et.al.|[2505.20118](http://arxiv.org/abs/2505.20118)|null|
 |**2025-05-23**|**Fann or Flop: A Multigenre, Multiera Benchmark for Arabic Poetry Understanding in LLMs**|Wafa Alghallabi et.al.|[2505.18152](http://arxiv.org/abs/2505.18152)|null|
 |**2025-05-23**|**First Finish Search: Efficient Test-Time Scaling in Large Language Models**|Aradhye Agarwal et.al.|[2505.18149](http://arxiv.org/abs/2505.18149)|null|
 |**2025-05-23**|**Lost in the Haystack: Smaller Needles are More Difficult for LLMs to Find**|Owen Bianchi et.al.|[2505.18148](http://arxiv.org/abs/2505.18148)|null|
@@ -6023,6 +6035,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-26**|**How Well Do Large Reasoning Models Translate? A Comprehensive Evaluation for Multi-Domain Machine Translation**|Yongshi Ye et.al.|[2505.19987](http://arxiv.org/abs/2505.19987)|null|
+|**2025-05-26**|**MT $^{3}$ : Scaling MLLM-based Text Image Machine Translation via Multi-Task Reinforcement Learning**|Zhaopeng Feng et.al.|[2505.19714](http://arxiv.org/abs/2505.19714)|null|
+|**2025-05-26**|**KIT's Low-resource Speech Translation Systems for IWSLT2025: System Enhancement with Synthetic Data and Model Regularization**|Zhaolin Li et.al.|[2505.19679](http://arxiv.org/abs/2505.19679)|null|
+|**2025-05-26**|**Evaluating Machine Translation Models for English-Hindi Language Pairs: A Comparative Analysis**|Ahan Prasannakumar Shetty et.al.|[2505.19604](http://arxiv.org/abs/2505.19604)|null|
+|**2025-05-26**|**Inconsistent Tokenizations Cause Language Models to be Perplexed by Japanese Grammar**|Andrew Gambardella et.al.|[2505.19599](http://arxiv.org/abs/2505.19599)|null|
+|**2025-05-26**|**Multimodal Machine Translation with Visual Scene Graph Pruning**|Chenyu Lu et.al.|[2505.19507](http://arxiv.org/abs/2505.19507)|null|
+|**2025-05-25**|**Universal Reasoner: A Single, Composable Plug-and-Play Reasoner for Frozen LLMs**|Jaemin Kim et.al.|[2505.19075](http://arxiv.org/abs/2505.19075)|null|
+|**2025-05-25**|**UNCERTAINTY-LINE: Length-Invariant Estimation of Uncertainty for Large Language Models**|Roman Vashurin et.al.|[2505.19060](http://arxiv.org/abs/2505.19060)|null|
+|**2025-05-24**|**Building a Functional Machine Translation Corpus for Kpelle**|Kweku Andoh Yamoah et.al.|[2505.18905](http://arxiv.org/abs/2505.18905)|null|
+|**2025-05-24**|**TULUN: Transparent and Adaptable Low-resource Machine Translation**|Raphaël Merx et.al.|[2505.18683](http://arxiv.org/abs/2505.18683)|null|
 |**2025-05-23**|**Mutarjim: Advancing Bidirectional Arabic-English Translation with a Small Language Model**|Khalil Hennara et.al.|[2505.17894](http://arxiv.org/abs/2505.17894)|null|
 |**2025-05-23**|**Low-Resource NMT: A Case Study on the Written and Spoken Languages in Hong Kong**|Hei Yi Mak et.al.|[2505.17816](http://arxiv.org/abs/2505.17816)|null|
 |**2025-05-23**|**MIDB: Multilingual Instruction Data Booster for Enhancing Multilingual Instruction Synthesis**|Yilun Liu et.al.|[2505.17671](http://arxiv.org/abs/2505.17671)|null|
@@ -6991,6 +7013,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-26**|**KIT's Low-resource Speech Translation Systems for IWSLT2025: System Enhancement with Synthetic Data and Model Regularization**|Zhaolin Li et.al.|[2505.19679](http://arxiv.org/abs/2505.19679)|null|
+|**2025-05-26**|**Languages in Multilingual Speech Foundation Models Align Both Phonetically and Semantically**|Ryan Soh-Eun Shim et.al.|[2505.19606](http://arxiv.org/abs/2505.19606)|null|
 |**2025-05-21**|**Word Level Timestamp Generation for Automatic Speech Recognition and Translation**|Ke Hu et.al.|[2505.15646](http://arxiv.org/abs/2505.15646)|**[link](https://github.com/NVIDIA/NeMo)**|
 |**2025-05-21**|**Leveraging Unit Language Guidance to Advance Speech Modeling in Textless Speech-to-Speech Translation**|Yuhao Zhang et.al.|[2505.15333](http://arxiv.org/abs/2505.15333)|**[link](https://github.com/xiaozhang521/Unit_Language)**|
 |**2025-05-21**|**Multi-head Temporal Latent Attention**|Keqi Deng et.al.|[2505.13544](http://arxiv.org/abs/2505.13544)|**[link](https://github.com/d-keqi/mlta)**|
@@ -6999,7 +7023,7 @@ layout: default
 |**2025-05-14**|**Granite-speech: open-source speech-aware LLMs with strong English ASR capabilities**|George Saon et.al.|[2505.08699](http://arxiv.org/abs/2505.08699)|null|
 |**2025-05-04**|**Language translation, and change of accent for speech-to-speech task using diffusion model**|Abhishek Mishra et.al.|[2505.04639](http://arxiv.org/abs/2505.04639)|null|
 |**2025-05-05**|**Voila: Voice-Language Foundation Models for Real-Time Autonomous Interaction and Voice Role-Play**|Yemin Shi et.al.|[2505.02707](http://arxiv.org/abs/2505.02707)|**[link](https://github.com/maitrix-org/voila)**|
-|**2025-05-05**|**Bemba Speech Translation: Exploring a Low-Resource African Language**|Muhammad Hazim Al Farouq et.al.|[2505.02518](http://arxiv.org/abs/2505.02518)|null|
+|**2025-05-26**|**Bemba Speech Translation: Exploring a Low-Resource African Language**|Muhammad Hazim Al Farouq et.al.|[2505.02518](http://arxiv.org/abs/2505.02518)|null|
 |**2025-04-25**|**Spatial Speech Translation: Translating Across Space With Binaural Hearables**|Tuochao Chen et.al.|[2504.18715](http://arxiv.org/abs/2504.18715)|null|
 |**2025-04-22**|**Using Phonemes in cascaded S2S translation pipeline**|Rene Pilz et.al.|[2504.16234](http://arxiv.org/abs/2504.16234)|null|
 |**2025-04-22**|**SimulS2S-LLM: Unlocking Simultaneous Inference of Speech LLMs for Speech-to-Speech Translation**|Keqi Deng et.al.|[2504.15509](http://arxiv.org/abs/2504.15509)|null|
@@ -7146,6 +7170,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-26**|**Large Language Models Meet Knowledge Graphs for Question Answering: Synthesis and Opportunities**|Chuangtao Ma et.al.|[2505.20099](http://arxiv.org/abs/2505.20099)|null|
+|**2025-05-26**|**Uncertainty-Aware Attention Heads: Efficient Unsupervised Uncertainty Quantification for LLMs**|Artem Vazhentsev et.al.|[2505.20045](http://arxiv.org/abs/2505.20045)|null|
+|**2025-05-26**|**DFIR-Metric: A Benchmark Dataset for Evaluating Large Language Models in Digital Forensics and Incident Response**|Bilel Cherif et.al.|[2505.19973](http://arxiv.org/abs/2505.19973)|null|
+|**2025-05-26**|**Attention! You Vision Language Model Could Be Maliciously Manipulated**|Xiaosen Wang et.al.|[2505.19911](http://arxiv.org/abs/2505.19911)|null|
+|**2025-05-26**|**Error Typing for Smarter Rewards: Improving Process Reward Models with Error-Aware Hierarchical Supervision**|Tej Deep Pala et.al.|[2505.19706](http://arxiv.org/abs/2505.19706)|null|
+|**2025-05-26**|**Point-RFT: Improving Multimodal Reasoning with Visually Grounded Reinforcement Finetuning**|Minheng Ni et.al.|[2505.19702](http://arxiv.org/abs/2505.19702)|null|
+|**2025-05-26**|**Grounding Language with Vision: A Conditional Mutual Information Calibrated Decoding Strategy for Reducing Hallucinations in LVLMs**|Hao Fang et.al.|[2505.19678](http://arxiv.org/abs/2505.19678)|null|
+|**2025-05-26**|**Enhancing Visual Reliance in Text Generation: A Bayesian Perspective on Mitigating Hallucination in Large Vision-Language Models**|Nanxing Hu et.al.|[2505.19498](http://arxiv.org/abs/2505.19498)|null|
+|**2025-05-26**|**Causal-LLaVA: Causal Disentanglement for Mitigating Hallucination in Multimodal Large Language Models**|Xinmiao Hu et.al.|[2505.19474](http://arxiv.org/abs/2505.19474)|null|
+|**2025-05-26**|**Task Memory Engine: Spatial Memory for Robust Multi-Step LLM Agents**|Ye Ye et.al.|[2505.19436](http://arxiv.org/abs/2505.19436)|null|
 |**2025-05-23**|**Assessing the performance of 8 AI chatbots in bibliographic reference retrieval: Grok and DeepSeek outperform ChatGPT, but none are fully accurate**|Álvaro Cabezas-Clavijo et.al.|[2505.18059](http://arxiv.org/abs/2505.18059)|null|
 |**2025-05-23**|**Seeing It or Not? Interpretable Vision-aware Latent Steering to Mitigate Object Hallucinations**|Boxu Chen et.al.|[2505.17812](http://arxiv.org/abs/2505.17812)|null|
 |**2025-05-23**|**Distilling LLM Agent into Small Models with Retrieval and Code Tools**|Minki Kang et.al.|[2505.17612](http://arxiv.org/abs/2505.17612)|null|
