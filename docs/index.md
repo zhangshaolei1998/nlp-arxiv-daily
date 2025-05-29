@@ -2189,6 +2189,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-28**|**SPIRAL: Semantic-Aware Progressive LiDAR Scene Generation**|Dekai Zhu et.al.|[2505.22643](http://arxiv.org/abs/2505.22643)|null|
+|**2025-05-28**|**Delayed-KD: Delayed Knowledge Distillation based CTC for Low-Latency Streaming ASR**|Longhao Li et.al.|[2505.22069](http://arxiv.org/abs/2505.22069)|null|
 |**2025-05-27**|**Leveraging Diffusion Models for Parameterized Quantum Circuit Generation**|Daniel Barta et.al.|[2505.20863](http://arxiv.org/abs/2505.20863)|null|
 |**2025-05-27**|**SeqPO-SiMT: Sequential Policy Optimization for Simultaneous Machine Translation**|Ting Xu et.al.|[2505.20622](http://arxiv.org/abs/2505.20622)|null|
 |**2025-05-26**|**HunyuanVideo-Avatar: High-Fidelity Audio-Driven Human Animation for Multiple Characters**|Yi Chen et.al.|[2505.20156](http://arxiv.org/abs/2505.20156)|**[link](https://github.com/tencent-hunyuan/hunyuanvideo-avatar)**|
@@ -2443,6 +2445,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-28**|**Zero-Shot Vision Encoder Grafting via LLM Surrogates**|Kaiyu Yue et.al.|[2505.22664](http://arxiv.org/abs/2505.22664)|**[link](https://github.com/facebookresearch/zero)**|
+|**2025-05-28**|**Training Free Stylized Abstraction**|Aimon Rahman et.al.|[2505.22663](http://arxiv.org/abs/2505.22663)|null|
+|**2025-05-28**|**AutoL2S: Auto Long-Short Reasoning for Efficient Large Language Models**|Feng Luo et.al.|[2505.22662](http://arxiv.org/abs/2505.22662)|null|
+|**2025-05-28**|**GuessArena: Guess Who I Am? A Self-Adaptive Framework for Evaluating LLMs in Domain-Specific Knowledge and Reasoning**|Qingchen Yu et.al.|[2505.22661](http://arxiv.org/abs/2505.22661)|null|
+|**2025-05-28**|**Maximizing Confidence Alone Improves Reasoning**|Mihir Prabhudesai et.al.|[2505.22660](http://arxiv.org/abs/2505.22660)|null|
+|**2025-05-28**|**3DLLM-Mem: Long-Term Spatial-Temporal Memory for Embodied 3D Large Language Model**|Wenbo Hu et.al.|[2505.22657](http://arxiv.org/abs/2505.22657)|null|
+|**2025-05-28**|**Position: Uncertainty Quantification Needs Reassessment for Large-language Model Agents**|Michael Kirchhof et.al.|[2505.22655](http://arxiv.org/abs/2505.22655)|null|
+|**2025-05-28**|**VScan: Rethinking Visual Token Reduction for Efficient Large Vision-Language Models**|Ce Zhang et.al.|[2505.22654](http://arxiv.org/abs/2505.22654)|null|
+|**2025-05-28**|**The Climb Carves Wisdom Deeper Than the Summit: On the Noisy Rewards in Learning to Reason**|Ang Lv et.al.|[2505.22653](http://arxiv.org/abs/2505.22653)|null|
+|**2025-05-28**|**Sherlock: Self-Correcting Reasoning in Vision-Language Models**|Yi Ding et.al.|[2505.22651](http://arxiv.org/abs/2505.22651)|null|
 |**2025-05-27**|**Silence is Not Consensus: Disrupting Agreement Bias in Multi-Agent LLMs via Catfish Agent for Clinical Decision Making**|Yihan Wang et.al.|[2505.21503](http://arxiv.org/abs/2505.21503)|null|
 |**2025-05-27**|**ViewSpatial-Bench: Evaluating Multi-perspective Spatial Localization in Vision-Language Models**|Dingming Li et.al.|[2505.21500](http://arxiv.org/abs/2505.21500)|null|
 |**2025-05-27**|**AdInject: Real-World Black-Box Attacks on Web Agents via Advertising Delivery**|Haowei Wang et.al.|[2505.21499](http://arxiv.org/abs/2505.21499)|null|
@@ -6058,6 +6070,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-28**|**Compensating for Data with Reasoning: Low-Resource Machine Translation with LLMs**|Samuel Frontull et.al.|[2505.22293](http://arxiv.org/abs/2505.22293)|null|
+|**2025-05-27**|**GMU Systems for the IWSLT 2025 Low-Resource Speech Translation Shared Task**|Chutong Meng et.al.|[2505.21781](http://arxiv.org/abs/2505.21781)|null|
 |**2025-05-27**|**A Representation Level Analysis of NMT Model Robustness to Grammatical Errors**|Abderrahmane Issam et.al.|[2505.21224](http://arxiv.org/abs/2505.21224)|null|
 |**2025-05-27**|**TAT-R1: Terminology-Aware Translation with Reinforcement Learning and Word Alignment**|Zheng Li et.al.|[2505.21172](http://arxiv.org/abs/2505.21172)|null|
 |**2025-05-27**|**Evaluating and Steering Modality Preferences in Multimodal Large Language Model**|Yu Zhang et.al.|[2505.20977](http://arxiv.org/abs/2505.20977)|null|
@@ -7040,6 +7054,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-27**|**GMU Systems for the IWSLT 2025 Low-Resource Speech Translation Shared Task**|Chutong Meng et.al.|[2505.21781](http://arxiv.org/abs/2505.21781)|null|
 |**2025-05-27**|**Dub-S2ST: Textless Speech-to-Speech Translation for Seamless Dubbing**|Jeongsoo Choi et.al.|[2505.20899](http://arxiv.org/abs/2505.20899)|null|
 |**2025-05-26**|**Efficient Speech Translation through Model Compression and Knowledge Distillation**|Yasmin Moslem et.al.|[2505.20237](http://arxiv.org/abs/2505.20237)|**[link](https://github.com/ymoslem/model-compression)**|
 |**2025-05-26**|**KIT's Low-resource Speech Translation Systems for IWSLT2025: System Enhancement with Synthetic Data and Model Regularization**|Zhaolin Li et.al.|[2505.19679](http://arxiv.org/abs/2505.19679)|null|
@@ -7199,6 +7214,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-28**|**ObjectClear: Complete Object Removal via Object-Effect Attention**|Jixin Zhao et.al.|[2505.22636](http://arxiv.org/abs/2505.22636)|null|
+|**2025-05-28**|**Stochastic Chameleons: Irrelevant Context Hallucinations Reveal Class-Based (Mis)Generalization in LLMs**|Ziling Cheng et.al.|[2505.22630](http://arxiv.org/abs/2505.22630)|null|
+|**2025-05-28**|**RICO: Improving Accuracy and Completeness in Image Recaptioning via Visual Reconstruction**|Yuchi Wang et.al.|[2505.22613](http://arxiv.org/abs/2505.22613)|null|
+|**2025-05-28**|**Does Johnny Get the Message? Evaluating Cybersecurity Notifications for Everyday Users**|Victor Jüttner et.al.|[2505.22435](http://arxiv.org/abs/2505.22435)|null|
+|**2025-05-28**|**Zooming from Context to Cue: Hierarchical Preference Optimization for Multi-Image MLLMs**|Xudong Li et.al.|[2505.22396](http://arxiv.org/abs/2505.22396)|null|
+|**2025-05-28**|**IKIWISI: An Interactive Visual Pattern Generator for Evaluating the Reliability of Vision-Language Models Without Ground Truth**|Md Touhidul Islam et.al.|[2505.22305](http://arxiv.org/abs/2505.22305)|null|
+|**2025-05-28**|**Look & Mark: Leveraging Radiologist Eye Fixations and Bounding boxes in Multimodal Large Language Models for Chest X-ray Report Generation**|Yunsoo Kim et.al.|[2505.22222](http://arxiv.org/abs/2505.22222)|null|
+|**2025-05-28**|**Learning to Route Queries Across Knowledge Bases for Step-wise Retrieval-Augmented Reasoning**|Chunyi Peng et.al.|[2505.22095](http://arxiv.org/abs/2505.22095)|null|
+|**2025-05-28**|**Safeguarding Privacy of Retrieval Data against Membership Inference Attacks: Is This Query Too Close to Home?**|Yujin Choi et.al.|[2505.22061](http://arxiv.org/abs/2505.22061)|null|
+|**2025-05-28**|**Legal Assist AI: Leveraging Transformer-Based Model for Effective Legal Assistance**|Jatin Gupta et.al.|[2505.22003](http://arxiv.org/abs/2505.22003)|null|
 |**2025-05-27**|**Mitigating Hallucination in Large Vision-Language Models via Adaptive Attention Calibration**|Mehrdad Fazli et.al.|[2505.21472](http://arxiv.org/abs/2505.21472)|null|
 |**2025-05-27**|**BindEnergyCraft: Casting Protein Structure Predictors as Energy-Based Models for Binder Design**|Divya Nori et.al.|[2505.21241](http://arxiv.org/abs/2505.21241)|null|
 |**2025-05-27**|**Pretrained LLMs Learn Multiple Types of Uncertainty**|Roi Cohen et.al.|[2505.21218](http://arxiv.org/abs/2505.21218)|null|
