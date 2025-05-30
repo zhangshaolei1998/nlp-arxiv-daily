@@ -2189,6 +2189,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-28**|**Moduli spaces for $Θ$ -strata and non-reductive quotients**|Ludvig Modin et.al.|[2505.22812](http://arxiv.org/abs/2505.22812)|null|
+|**2025-05-28**|**Genesis of Baryon and Dark Matter Asymmetries through Ultraviolet Scattering Freeze-in**|Pouya Asadi et.al.|[2505.22710](http://arxiv.org/abs/2505.22710)|null|
 |**2025-05-28**|**SPIRAL: Semantic-Aware Progressive LiDAR Scene Generation**|Dekai Zhu et.al.|[2505.22643](http://arxiv.org/abs/2505.22643)|null|
 |**2025-05-28**|**Delayed-KD: Delayed Knowledge Distillation based CTC for Low-Latency Streaming ASR**|Longhao Li et.al.|[2505.22069](http://arxiv.org/abs/2505.22069)|null|
 |**2025-05-27**|**Leveraging Diffusion Models for Parameterized Quantum Circuit Generation**|Daniel Barta et.al.|[2505.20863](http://arxiv.org/abs/2505.20863)|null|
@@ -2445,6 +2447,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-29**|**Argus: Vision-Centric Reasoning with Grounded Chain-of-Thought**|Yunze Man et.al.|[2505.23766](http://arxiv.org/abs/2505.23766)|null|
+|**2025-05-29**|**From Chat Logs to Collective Insights: Aggregative Question Answering**|Wentao Zhang et.al.|[2505.23765](http://arxiv.org/abs/2505.23765)|null|
+|**2025-05-29**|**MMSI-Bench: A Benchmark for Multi-Image Spatial Intelligence**|Sihan Yang et.al.|[2505.23764](http://arxiv.org/abs/2505.23764)|null|
+|**2025-05-29**|**ZeroGUI: Automating Online GUI Learning at Zero Human Cost**|Chenyu Yang et.al.|[2505.23762](http://arxiv.org/abs/2505.23762)|null|
+|**2025-05-29**|**Differential Information: An Information-Theoretic Perspective on Preference Optimization**|Yunjae Won et.al.|[2505.23761](http://arxiv.org/abs/2505.23761)|null|
+|**2025-05-29**|**Puzzled by Puzzles: When Vision-Language Models Can't Take a Hint**|Heekyung Lee et.al.|[2505.23759](http://arxiv.org/abs/2505.23759)|null|
+|**2025-05-29**|**DeepTheorem: Advancing LLM Reasoning for Theorem Proving Through Natural Language and Reinforcement Learning**|Ziyin Zhang et.al.|[2505.23754](http://arxiv.org/abs/2505.23754)|null|
+|**2025-05-29**|**ThinkGeo: Evaluating Tool-Augmented Agents for Remote Sensing Tasks**|Akashah Shabbir et.al.|[2505.23752](http://arxiv.org/abs/2505.23752)|null|
+|**2025-05-29**|**Distortion of AI Alignment: Does Preference Optimization Optimize for Preferences?**|Paul Gölz et.al.|[2505.23749](http://arxiv.org/abs/2505.23749)|null|
+|**2025-05-29**|**Spatial-MLLM: Boosting MLLM Capabilities in Visual-based Spatial Intelligence**|Diankun Wu et.al.|[2505.23747](http://arxiv.org/abs/2505.23747)|null|
 |**2025-05-28**|**Zero-Shot Vision Encoder Grafting via LLM Surrogates**|Kaiyu Yue et.al.|[2505.22664](http://arxiv.org/abs/2505.22664)|**[link](https://github.com/facebookresearch/zero)**|
 |**2025-05-28**|**Training Free Stylized Abstraction**|Aimon Rahman et.al.|[2505.22663](http://arxiv.org/abs/2505.22663)|null|
 |**2025-05-28**|**AutoL2S: Auto Long-Short Reasoning for Efficient Large Language Models**|Feng Luo et.al.|[2505.22662](http://arxiv.org/abs/2505.22662)|null|
@@ -6070,6 +6082,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-29**|**Translation in the Wild**|Yuri Balashov et.al.|[2505.23548](http://arxiv.org/abs/2505.23548)|null|
+|**2025-05-29**|**Unsupervised Word-level Quality Estimation for Machine Translation Through the Lens of Annotators (Dis)agreement**|Gabriele Sarti et.al.|[2505.23183](http://arxiv.org/abs/2505.23183)|null|
+|**2025-05-29**|**Enhancing Large Language Models'Machine Translation via Dynamic Focus Anchoring**|Qiuyu Ding et.al.|[2505.23140](http://arxiv.org/abs/2505.23140)|null|
+|**2025-05-29**|**Document-Level Text Generation with Minimum Bayes Risk Decoding using Optimal Transport**|Yuu Jinnai et.al.|[2505.23078](http://arxiv.org/abs/2505.23078)|null|
+|**2025-05-29**|**Detecting Stealthy Backdoor Samples based on Intra-class Distance for Large Language Models**|Jinwen Chen et.al.|[2505.23015](http://arxiv.org/abs/2505.23015)|null|
 |**2025-05-28**|**Compensating for Data with Reasoning: Low-Resource Machine Translation with LLMs**|Samuel Frontull et.al.|[2505.22293](http://arxiv.org/abs/2505.22293)|null|
 |**2025-05-27**|**GMU Systems for the IWSLT 2025 Low-Resource Speech Translation Shared Task**|Chutong Meng et.al.|[2505.21781](http://arxiv.org/abs/2505.21781)|null|
 |**2025-05-27**|**A Representation Level Analysis of NMT Model Robustness to Grammatical Errors**|Abderrahmane Issam et.al.|[2505.21224](http://arxiv.org/abs/2505.21224)|null|
@@ -7214,6 +7231,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-29**|**Active Layer-Contrastive Decoding Reduces Hallucination in Large Language Model Generation**|Hongxiang Zhang et.al.|[2505.23657](http://arxiv.org/abs/2505.23657)|null|
+|**2025-05-29**|**Are Reasoning Models More Prone to Hallucination?**|Zijun Yao et.al.|[2505.23646](http://arxiv.org/abs/2505.23646)|null|
+|**2025-05-29**|**Cognitive Guardrails for Open-World Decision Making in Autonomous Drone Swarms**|Jane Cleland-Huang et.al.|[2505.23576](http://arxiv.org/abs/2505.23576)|null|
+|**2025-05-29**|**Qwen Look Again: Guiding Vision-Language Reasoning Models to Re-attention Visual Information**|Xu Chu et.al.|[2505.23558](http://arxiv.org/abs/2505.23558)|null|
+|**2025-05-29**|**Data-efficient Meta-models for Evaluation of Context-based Questions and Answers in LLMs**|Julia Belikova et.al.|[2505.23299](http://arxiv.org/abs/2505.23299)|null|
+|**2025-05-29**|**MMBoundary: Advancing MLLM Knowledge Boundary Awareness through Reasoning Step Confidence Calibration**|Zhitao He et.al.|[2505.23224](http://arxiv.org/abs/2505.23224)|null|
+|**2025-05-29**|**Map&Make: Schema Guided Text to Table Generation**|Naman Ahuja et.al.|[2505.23174](http://arxiv.org/abs/2505.23174)|null|
+|**2025-05-29**|**TextSR: Diffusion Super-Resolution with Multilingual OCR Guidance**|Keren Ye et.al.|[2505.23119](http://arxiv.org/abs/2505.23119)|null|
 |**2025-05-28**|**ObjectClear: Complete Object Removal via Object-Effect Attention**|Jixin Zhao et.al.|[2505.22636](http://arxiv.org/abs/2505.22636)|null|
 |**2025-05-28**|**Stochastic Chameleons: Irrelevant Context Hallucinations Reveal Class-Based (Mis)Generalization in LLMs**|Ziling Cheng et.al.|[2505.22630](http://arxiv.org/abs/2505.22630)|null|
 |**2025-05-28**|**RICO: Improving Accuracy and Completeness in Image Recaptioning via Visual Reconstruction**|Yuchi Wang et.al.|[2505.22613](http://arxiv.org/abs/2505.22613)|null|
