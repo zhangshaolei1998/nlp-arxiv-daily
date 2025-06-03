@@ -7091,7 +7091,7 @@ layout: default
 |**2025-05-29**|**BeaverTalk: Oregon State University's IWSLT 2025 Simultaneous Speech Translation System**|Matthew Raffel et.al.|[2505.24016](http://arxiv.org/abs/2505.24016)|null|
 |**2025-05-27**|**GMU Systems for the IWSLT 2025 Low-Resource Speech Translation Shared Task**|Chutong Meng et.al.|[2505.21781](http://arxiv.org/abs/2505.21781)|null|
 |**2025-05-27**|**Dub-S2ST: Textless Speech-to-Speech Translation for Seamless Dubbing**|Jeongsoo Choi et.al.|[2505.20899](http://arxiv.org/abs/2505.20899)|null|
-|**2025-05-26**|**Efficient Speech Translation through Model Compression and Knowledge Distillation**|Yasmin Moslem et.al.|[2505.20237](http://arxiv.org/abs/2505.20237)|**[link](https://github.com/ymoslem/model-compression)**|
+|**2025-06-02**|**Efficient Speech Translation through Model Compression and Knowledge Distillation**|Yasmin Moslem et.al.|[2505.20237](http://arxiv.org/abs/2505.20237)|**[link](https://github.com/ymoslem/model-compression)**|
 |**2025-05-26**|**KIT's Low-resource Speech Translation Systems for IWSLT2025: System Enhancement with Synthetic Data and Model Regularization**|Zhaolin Li et.al.|[2505.19679](http://arxiv.org/abs/2505.19679)|null|
 |**2025-05-26**|**Languages in Multilingual Speech Foundation Models Align Both Phonetically and Semantically**|Ryan Soh-Eun Shim et.al.|[2505.19606](http://arxiv.org/abs/2505.19606)|null|
 |**2025-05-21**|**Word Level Timestamp Generation for Automatic Speech Recognition and Translation**|Ke Hu et.al.|[2505.15646](http://arxiv.org/abs/2505.15646)|**[link](https://github.com/NVIDIA/NeMo)**|
@@ -7251,13 +7251,13 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-05-30**|**MiniMax-Remover: Taming Bad Noise Helps Video Object Removal**|Bojia Zi et.al.|[2505.24873](http://arxiv.org/abs/2505.24873)|null|
 |**2025-05-30**|**Improving Reliability and Explainability of Medical Question Answering through Atomic Fact Checking in Retrieval-Augmented LLMs**|Juraj Vladika et.al.|[2505.24830](http://arxiv.org/abs/2505.24830)|null|
-|**2025-05-30**|**Guiding Generative Storytelling with Knowledge Graphs**|Zhijun Pan et.al.|[2505.24803](http://arxiv.org/abs/2505.24803)|null|
+|**2025-06-02**|**Guiding Generative Storytelling with Knowledge Graphs**|Zhijun Pan et.al.|[2505.24803](http://arxiv.org/abs/2505.24803)|null|
 |**2025-05-30**|**FinMME: Benchmark Dataset for Financial Multi-Modal Reasoning Evaluation**|Junyu Luo et.al.|[2505.24714](http://arxiv.org/abs/2505.24714)|null|
 |**2025-05-30**|**BIMA: Bijective Maximum Likelihood Learning Approach to Hallucination Prediction and Mitigation in Large Vision-Language Models**|Huu-Thien Tran et.al.|[2505.24649](http://arxiv.org/abs/2505.24649)|null|
 |**2025-05-30**|**The Hallucination Dilemma: Factuality-Aware Reinforcement Learning for Large Reasoning Models**|Junyi Li et.al.|[2505.24630](http://arxiv.org/abs/2505.24630)|null|
 |**2025-05-30**|**LLM Inference Enhanced by External Knowledge: A Survey**|Yu-Hsuan Lin et.al.|[2505.24377](http://arxiv.org/abs/2505.24377)|null|
 |**2025-05-30**|**Fewer Hallucinations, More Verification: A Three-Stage LLM-Based Framework for ASR Error Correction**|Yangui Fang et.al.|[2505.24347](http://arxiv.org/abs/2505.24347)|null|
-|**2025-05-30**|**MIRAGE: Assessing Hallucination in Multimodal Reasoning Chains of MLLM**|Bowen Dong et.al.|[2505.24238](http://arxiv.org/abs/2505.24238)|null|
+|**2025-06-02**|**MIRAGE: Assessing Hallucination in Multimodal Reasoning Chains of MLLM**|Bowen Dong et.al.|[2505.24238](http://arxiv.org/abs/2505.24238)|null|
 |**2025-05-30**|**From Hallucinations to Jailbreaks: Rethinking the Vulnerability of Large Foundation Models**|Haibo Jin et.al.|[2505.24232](http://arxiv.org/abs/2505.24232)|null|
 |**2025-05-29**|**Active Layer-Contrastive Decoding Reduces Hallucination in Large Language Model Generation**|Hongxiang Zhang et.al.|[2505.23657](http://arxiv.org/abs/2505.23657)|null|
 |**2025-05-29**|**Are Reasoning Models More Prone to Hallucination?**|Zijun Yao et.al.|[2505.23646](http://arxiv.org/abs/2505.23646)|null|
