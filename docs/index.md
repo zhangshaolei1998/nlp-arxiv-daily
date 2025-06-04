@@ -2189,6 +2189,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-03**|**ORV: 4D Occupancy-centric Robot Video Generation**|Xiuyu Yang et.al.|[2506.03079](http://arxiv.org/abs/2506.03079)|null|
+|**2025-06-03**|**LEG-SLAM: Real-Time Language-Enhanced Gaussian Splatting for SLAM**|Roman Titkov et.al.|[2506.03073](http://arxiv.org/abs/2506.03073)|null|
+|**2025-06-02**|**Synthesis of discrete-continuous quantum circuits with multimodal diffusion models**|Florian Fürrutter et.al.|[2506.01666](http://arxiv.org/abs/2506.01666)|**[link](https://github.com/florianfuerrutter/genqc)**|
 |**2025-05-30**|**Dynamic Context-Aware Streaming Pretrained Language Model For Inverse Text Normalization**|Luong Ho et.al.|[2505.24229](http://arxiv.org/abs/2505.24229)|null|
 |**2025-05-29**|**BeaverTalk: Oregon State University's IWSLT 2025 Simultaneous Speech Translation System**|Matthew Raffel et.al.|[2505.24016](http://arxiv.org/abs/2505.24016)|null|
 |**2025-05-28**|**Moduli spaces for $Θ$ -strata and non-reductive quotients**|Ludvig Modin et.al.|[2505.22812](http://arxiv.org/abs/2505.22812)|null|
@@ -2449,6 +2452,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-03**|**Causal Estimation of Tokenisation Bias**|Pietro Lesci et.al.|[2506.03149](http://arxiv.org/abs/2506.03149)|null|
+|**2025-06-03**|**UniWorld: High-Resolution Semantic Encoders for Unified Visual Understanding and Generation**|Bin Lin et.al.|[2506.03147](http://arxiv.org/abs/2506.03147)|null|
+|**2025-06-03**|**Entity-Augmented Neuroscience Knowledge Retrieval Using Ontology and Semantic Understanding Capability of LLM**|Pralaypati Ta et.al.|[2506.03145](http://arxiv.org/abs/2506.03145)|null|
+|**2025-06-03**|**Not All Tokens Are Meant to Be Forgotten**|Xiangyu Zhou et.al.|[2506.03142](http://arxiv.org/abs/2506.03142)|null|
+|**2025-06-03**|**SVGenius: Benchmarking LLMs in SVG Understanding, Editing and Generation**|Siqi Chen et.al.|[2506.03139](http://arxiv.org/abs/2506.03139)|null|
+|**2025-06-03**|**OmniSpatial: Towards Comprehensive Spatial Reasoning Benchmark for Vision Language Models**|Mengdi Jia et.al.|[2506.03135](http://arxiv.org/abs/2506.03135)|null|
+|**2025-06-03**|**Native-Resolution Image Synthesis**|Zidong Wang et.al.|[2506.03131](http://arxiv.org/abs/2506.03131)|null|
+|**2025-06-03**|**AnimeShooter: A Multi-Shot Animation Dataset for Reference-Guided Video Generation**|Lu Qiu et.al.|[2506.03126](http://arxiv.org/abs/2506.03126)|null|
+|**2025-06-03**|**AUTOCIRCUIT-RL: Reinforcement Learning-Driven LLM for Automated Circuit Topology Generation**|Prashanth Vijayaraghavan et.al.|[2506.03122](http://arxiv.org/abs/2506.03122)|null|
+|**2025-06-03**|**Critique-GRPO: Advancing LLM Reasoning with Natural Language and Numerical Feedback**|Xiaoying Zhang et.al.|[2506.03106](http://arxiv.org/abs/2506.03106)|null|
 |**2025-05-30**|**ReasonGen-R1: CoT for Autoregressive Image generation models through SFT and RL**|Yu Zhang et.al.|[2505.24875](http://arxiv.org/abs/2505.24875)|null|
 |**2025-05-30**|**ProxyThinker: Test-Time Guidance through Small Visual Reasoners**|Zilin Xiao et.al.|[2505.24872](http://arxiv.org/abs/2505.24872)|null|
 |**2025-05-30**|**MoDoMoDo: Multi-Domain Data Mixtures for Multimodal LLM Reinforcement Learning**|Yiqing Liang et.al.|[2505.24871](http://arxiv.org/abs/2505.24871)|null|
@@ -6094,6 +6107,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-03**|**It's Not a Walk in the Park! Challenges of Idiom Translation in Speech-to-text Systems**|Iuliia Zaitova et.al.|[2506.02995](http://arxiv.org/abs/2506.02995)|null|
+|**2025-06-03**|**Asymptotically perfect seeded graph matching without edge correlation (and applications to inference)**|Tong Qi et.al.|[2506.02825](http://arxiv.org/abs/2506.02825)|null|
+|**2025-06-02**|**Different Speech Translation Models Encode and Translate Speaker Gender Differently**|Dennis Fucci et.al.|[2506.02172](http://arxiv.org/abs/2506.02172)|null|
+|**2025-06-02**|**Speech-to-Speech Translation Pipelines for Conversations in Low-Resource Languages**|Andrei Popescu-Belis et.al.|[2506.01406](http://arxiv.org/abs/2506.01406)|null|
+|**2025-06-02**|**MMD-Flagger: Leveraging Maximum Mean Discrepancy to Detect Hallucinations**|Kensuke Mitsuzawa et.al.|[2506.01367](http://arxiv.org/abs/2506.01367)|null|
+|**2025-05-31**|**Translate With Care: Addressing Gender Bias, Neutrality, and Reasoning in Large Language Model Translations**|Pardis Sadat Zahraei et.al.|[2506.00748](http://arxiv.org/abs/2506.00748)|null|
+|**2025-05-31**|**Exploring In-context Example Generation for Machine Translation**|Dohyun Lee et.al.|[2506.00507](http://arxiv.org/abs/2506.00507)|null|
+|**2025-05-30**|**Beyond Semantic Entropy: Boosting LLM Uncertainty Quantification with Pairwise Semantic Similarity**|Dang Nguyen et.al.|[2506.00245](http://arxiv.org/abs/2506.00245)|null|
 |**2025-05-30**|**Should I Share this Translation? Evaluating Quality Feedback for User Reliance on Machine Translation**|Dayeon Ki et.al.|[2505.24683](http://arxiv.org/abs/2505.24683)|null|
 |**2025-05-30**|**Limited-Resource Adapters Are Regularizers, Not Linguists**|Marcell Fekete et.al.|[2505.24525](http://arxiv.org/abs/2505.24525)|null|
 |**2025-05-30**|**VietMix: A Naturally Occurring Vietnamese-English Code-Mixed Corpus with Iterative Augmentation for Machine Translation**|Hieu Tran et.al.|[2505.24472](http://arxiv.org/abs/2505.24472)|null|
@@ -7087,6 +7108,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-03**|**A Multi-Dialectal Dataset for German Dialect ASR and Dialect-to-Standard Speech Translation**|Verena Blaschke et.al.|[2506.02894](http://arxiv.org/abs/2506.02894)|null|
+|**2025-06-02**|**Different Speech Translation Models Encode and Translate Speaker Gender Differently**|Dennis Fucci et.al.|[2506.02172](http://arxiv.org/abs/2506.02172)|null|
+|**2025-06-02**|**HENT-SRT: Hierarchical Efficient Neural Transducer with Self-Distillation for Joint Speech Recognition and Translation**|Amir Hussein et.al.|[2506.02157](http://arxiv.org/abs/2506.02157)|null|
+|**2025-06-02**|**Speech-to-Speech Translation Pipelines for Conversations in Low-Resource Languages**|Andrei Popescu-Belis et.al.|[2506.01406](http://arxiv.org/abs/2506.01406)|null|
+|**2025-05-31**|**Length Aware Speech Translation for Video Dubbing**|Harveen Singh Chadha et.al.|[2506.00740](http://arxiv.org/abs/2506.00740)|null|
 |**2025-05-30**|**Improving Language and Modality Transfer in Translation by Character-level Modeling**|Ioannis Tsiamas et.al.|[2505.24561](http://arxiv.org/abs/2505.24561)|null|
 |**2025-05-29**|**BeaverTalk: Oregon State University's IWSLT 2025 Simultaneous Speech Translation System**|Matthew Raffel et.al.|[2505.24016](http://arxiv.org/abs/2505.24016)|null|
 |**2025-05-27**|**GMU Systems for the IWSLT 2025 Low-Resource Speech Translation Shared Task**|Chutong Meng et.al.|[2505.21781](http://arxiv.org/abs/2505.21781)|null|
@@ -7249,6 +7275,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-03**|**Conditioning Large Language Models on Legal Systems? Detecting Punishable Hate Speech**|Florian Ludwig et.al.|[2506.03009](http://arxiv.org/abs/2506.03009)|null|
+|**2025-06-03**|**Mitigating Manipulation and Enhancing Persuasion: A Reflective Multi-Agent Approach for Legal Argument Generation**|Li Zhang et.al.|[2506.02992](http://arxiv.org/abs/2506.02992)|null|
+|**2025-06-03**|**Expanding before Inferring: Enhancing Factuality in Large Language Models through Premature Layers Interpolation**|Dingwei Chen et.al.|[2506.02973](http://arxiv.org/abs/2506.02973)|null|
+|**2025-06-03**|**A Multi-agent LLM-based JUit Test Generation with Strong Oracles**|Qinghua Xu et.al.|[2506.02943](http://arxiv.org/abs/2506.02943)|null|
+|**2025-06-03**|**Sample, Predict, then Proceed: Self-Verification Sampling for Tool Use of LLMs**|Shangmin Guo et.al.|[2506.02918](http://arxiv.org/abs/2506.02918)|null|
+|**2025-06-03**|**FlySearch: Exploring how vision-language models explore**|Adam Pardyl et.al.|[2506.02896](http://arxiv.org/abs/2506.02896)|null|
+|**2025-06-03**|**Shaking to Reveal: Perturbation-Based Detection of LLM Hallucinations**|Jinyuan Luo et.al.|[2506.02696](http://arxiv.org/abs/2506.02696)|null|
+|**2025-06-03**|**Computational Thinking Reasoning in Large Language Models**|Kechi Zhang et.al.|[2506.02658](http://arxiv.org/abs/2506.02658)|null|
+|**2025-06-03**|**V2X-UniPool: Unifying Multimodal Perception and Knowledge Reasoning for Autonomous Driving**|Xuewen Luo et.al.|[2506.02580](http://arxiv.org/abs/2506.02580)|null|
+|**2025-06-03**|**Rethinking Post-Unlearning Behavior of Large Vision-Language Models**|Minsung Kim et.al.|[2506.02541](http://arxiv.org/abs/2506.02541)|null|
 |**2025-05-30**|**MiniMax-Remover: Taming Bad Noise Helps Video Object Removal**|Bojia Zi et.al.|[2505.24873](http://arxiv.org/abs/2505.24873)|null|
 |**2025-05-30**|**Improving Reliability and Explainability of Medical Question Answering through Atomic Fact Checking in Retrieval-Augmented LLMs**|Juraj Vladika et.al.|[2505.24830](http://arxiv.org/abs/2505.24830)|null|
 |**2025-06-02**|**Guiding Generative Storytelling with Knowledge Graphs**|Zhijun Pan et.al.|[2505.24803](http://arxiv.org/abs/2505.24803)|null|
