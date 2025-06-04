@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.03
+## Updated on 2025.06.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2197,7 +2197,7 @@ layout: default
 |**2025-05-28**|**Delayed-KD: Delayed Knowledge Distillation based CTC for Low-Latency Streaming ASR**|Longhao Li et.al.|[2505.22069](http://arxiv.org/abs/2505.22069)|null|
 |**2025-05-27**|**Leveraging Diffusion Models for Parameterized Quantum Circuit Generation**|Daniel Barta et.al.|[2505.20863](http://arxiv.org/abs/2505.20863)|null|
 |**2025-05-27**|**SeqPO-SiMT: Sequential Policy Optimization for Simultaneous Machine Translation**|Ting Xu et.al.|[2505.20622](http://arxiv.org/abs/2505.20622)|null|
-|**2025-05-26**|**HunyuanVideo-Avatar: High-Fidelity Audio-Driven Human Animation for Multiple Characters**|Yi Chen et.al.|[2505.20156](http://arxiv.org/abs/2505.20156)|**[link](https://github.com/tencent-hunyuan/hunyuanvideo-avatar)**|
+|**2025-06-03**|**HunyuanVideo-Avatar: High-Fidelity Audio-Driven Human Animation for Multiple Characters**|Yi Chen et.al.|[2505.20156](http://arxiv.org/abs/2505.20156)|**[link](https://github.com/tencent-hunyuan/hunyuanvideo-avatar)**|
 |**2025-05-25**|**Jodi: Unification of Visual Generation and Understanding via Joint Modeling**|Yifeng Xu et.al.|[2505.19084](http://arxiv.org/abs/2505.19084)|**[link](https://github.com/vipl-genun/jodi)**|
 |**2025-05-24**|**The Gilbert Damping Factor of Heavy Quark Spin Polarization in the Magnetic Field**|Tianyang Li et.al.|[2505.18767](http://arxiv.org/abs/2505.18767)|null|
 |**2025-05-19**|**Improving endpoint detection in end-to-end streaming ASR for conversational speech**|Anandh C et.al.|[2505.17070](http://arxiv.org/abs/2505.17070)|null|
