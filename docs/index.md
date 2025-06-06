@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.05
+## Updated on 2025.06.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -6119,7 +6119,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-06-04**|**EuroLLM-9B: Technical Report**|Pedro Henrique Martins et.al.|[2506.04079](http://arxiv.org/abs/2506.04079)|null|
-|**2025-06-04**|**Knockout LLM Assessment: Using Large Language Models for Evaluations through Iterative Pairwise Comparisons**|Isik Baran Sandan et.al.|[2506.03785](http://arxiv.org/abs/2506.03785)|null|
+|**2025-06-05**|**Knockout LLM Assessment: Using Large Language Models for Evaluations through Iterative Pairwise Comparisons**|Isik Baran Sandan et.al.|[2506.03785](http://arxiv.org/abs/2506.03785)|null|
 |**2025-06-04**|**Is linguistically-motivated data augmentation worth it?**|Ray Groshan et.al.|[2506.03593](http://arxiv.org/abs/2506.03593)|null|
 |**2025-06-03**|**It's Not a Walk in the Park! Challenges of Idiom Translation in Speech-to-text Systems**|Iuliia Zaitova et.al.|[2506.02995](http://arxiv.org/abs/2506.02995)|null|
 |**2025-06-03**|**Asymptotically perfect seeded graph matching without edge correlation (and applications to inference)**|Tong Qi et.al.|[2506.02825](http://arxiv.org/abs/2506.02825)|null|
@@ -7296,7 +7296,7 @@ layout: default
 |**2025-06-04**|**High Accuracy, Less Talk (HALT): Reliable LLMs through Capability-Aligned Finetuning**|Tim Franzmeyer et.al.|[2506.04051](http://arxiv.org/abs/2506.04051)|null|
 |**2025-06-04**|**Mitigating Hallucinations in Large Vision-Language Models via Entity-Centric Multimodal Preference Optimization**|Jiulong Wu et.al.|[2506.04039](http://arxiv.org/abs/2506.04039)|null|
 |**2025-06-04**|**Rex-Thinker: Grounded Object Referring via Chain-of-Thought Reasoning**|Qing Jiang et.al.|[2506.04034](http://arxiv.org/abs/2506.04034)|null|
-|**2025-06-04**|**Magic Mushroom: A Customizable Benchmark for Fine-grained Analysis of Retrieval Noise Erosion in RAG Systems**|Yuxin Zhang et.al.|[2506.03901](http://arxiv.org/abs/2506.03901)|null|
+|**2025-06-05**|**Magic Mushroom: A Customizable Benchmark for Fine-grained Analysis of Retrieval Noise Erosion in RAG Systems**|Yuxin Zhang et.al.|[2506.03901](http://arxiv.org/abs/2506.03901)|null|
 |**2025-06-04**|**ScoreRAG: A Retrieval-Augmented Generation Framework with Consistency-Relevance Scoring and Structured Summarization for News Generation**|Pei-Yun Lin et.al.|[2506.03704](http://arxiv.org/abs/2506.03704)|null|
 |**2025-06-04**|**Beyond C/C++: Probabilistic and LLM Methods for Next-Generation Software Reverse Engineering**|Zhuo Zhuo et.al.|[2506.03504](http://arxiv.org/abs/2506.03504)|null|
 |**2025-06-03**|**Conditioning Large Language Models on Legal Systems? Detecting Punishable Hate Speech**|Florian Ludwig et.al.|[2506.03009](http://arxiv.org/abs/2506.03009)|null|
