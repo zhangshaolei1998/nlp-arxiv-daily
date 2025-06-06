@@ -2480,6 +2480,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-05**|**Why LLM Safety Guardrails Collapse After Fine-tuning: A Similarity Analysis Between Alignment and Fine-tuning Datasets**|Lei Hsiung et.al.|[2506.05346](http://arxiv.org/abs/2506.05346)|null|
+|**2025-06-05**|**SparseMM: Head Sparsity Emerges from Visual Concept Responses in MLLMs**|Jiahui Wang et.al.|[2506.05344](http://arxiv.org/abs/2506.05344)|null|
+|**2025-06-05**|**Direct Numerical Layout Generation for 3D Indoor Scene Synthesis via Spatial Reasoning**|Xingjian Ran et.al.|[2506.05341](http://arxiv.org/abs/2506.05341)|null|
+|**2025-06-05**|**Flattery, Fluff, and Fog: Diagnosing and Mitigating Idiosyncratic Biases in Preference Models**|Anirudh Bharadwaj et.al.|[2506.05339](http://arxiv.org/abs/2506.05339)|null|
+|**2025-06-05**|**VideoMolmo: Spatio-Temporal Grounding Meets Pointing**|Ghazi Shazan Ahmad et.al.|[2506.05336](http://arxiv.org/abs/2506.05336)|null|
+|**2025-06-05**|**Search Arena: Analyzing Search-Augmented LLMs**|Mihran Miroyan et.al.|[2506.05334](http://arxiv.org/abs/2506.05334)|null|
+|**2025-06-05**|**Unleashing Hour-Scale Video Training for Long Video-Language Understanding**|Jingyang Lin et.al.|[2506.05332](http://arxiv.org/abs/2506.05332)|null|
+|**2025-06-05**|**MINT-CoT: Enabling Interleaved Visual Tokens in Mathematical Chain-of-Thought Reasoning**|Xinyan Chen et.al.|[2506.05331](http://arxiv.org/abs/2506.05331)|null|
+|**2025-06-05**|**Does Your 3D Encoder Really Work? When Pretrain-SFT from 2D VLMs Meets 3D VLMs**|Haoyuan Li et.al.|[2506.05318](http://arxiv.org/abs/2506.05318)|null|
+|**2025-06-05**|**Improving Data Efficiency for LLM Reinforcement Fine-tuning Through Difficulty-targeted Online Data Selection and Rollout Replay**|Yifan Sun et.al.|[2506.05316](http://arxiv.org/abs/2506.05316)|null|
 |**2025-06-04**|**Language-Image Alignment with Fixed Text Encoders**|Jingfeng Yang et.al.|[2506.04209](http://arxiv.org/abs/2506.04209)|null|
 |**2025-06-04**|**Advancing Multimodal Reasoning: From Optimized Cold Start to Staged Reinforcement Learning**|Shuang Chen et.al.|[2506.04207](http://arxiv.org/abs/2506.04207)|null|
 |**2025-06-04**|**EPiC: Towards Lossless Speedup for Reasoning Training through Edge-Preserving CoT Condensation**|Jinghan Jia et.al.|[2506.04205](http://arxiv.org/abs/2506.04205)|null|
@@ -6147,6 +6157,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-05**|**RIVAL: Reinforcement Learning with Iterative and Adversarial Optimization for Machine Translation**|Tianjiao Li et.al.|[2506.05070](http://arxiv.org/abs/2506.05070)|null|
+|**2025-06-05**|**ConECT Dataset: Overcoming Data Scarcity in Context-Aware E-Commerce MT**|Mikołaj Pokrywka et.al.|[2506.04929](http://arxiv.org/abs/2506.04929)|null|
+|**2025-06-05**|**Prompting LLMs: Length Control for Isometric Machine Translation**|Dávid Javorský et.al.|[2506.04855](http://arxiv.org/abs/2506.04855)|null|
+|**2025-06-05**|**Design of intelligent proofreading system for English translation based on CNN and BERT**|Feijun Liu et.al.|[2506.04811](http://arxiv.org/abs/2506.04811)|null|
+|**2025-06-05**|**SSA-COMET: Do LLMs Outperform Learned Metrics in Evaluating MT for Under-Resourced African Languages?**|Senyu Li et.al.|[2506.04557](http://arxiv.org/abs/2506.04557)|null|
 |**2025-06-04**|**EuroLLM-9B: Technical Report**|Pedro Henrique Martins et.al.|[2506.04079](http://arxiv.org/abs/2506.04079)|null|
 |**2025-06-05**|**Knockout LLM Assessment: Using Large Language Models for Evaluations through Iterative Pairwise Comparisons**|Isik Baran Sandan et.al.|[2506.03785](http://arxiv.org/abs/2506.03785)|null|
 |**2025-06-04**|**Is linguistically-motivated data augmentation worth it?**|Ray Groshan et.al.|[2506.03593](http://arxiv.org/abs/2506.03593)|null|
@@ -7153,6 +7168,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-05**|**IIITH-BUT system for IWSLT 2025 low-resource Bhojpuri to Hindi speech translation**|Bhavana Akkiraju et.al.|[2506.04714](http://arxiv.org/abs/2506.04714)|null|
+|**2025-06-05**|**LESS: Large Language Model Enhanced Semi-Supervised Learning for Speech Foundational Models**|Wen Ding et.al.|[2506.04586](http://arxiv.org/abs/2506.04586)|null|
+|**2025-06-04**|**Phi-Omni-ST: A multimodal language model for direct speech-to-speech translation**|Yuxuan Hu et.al.|[2506.04392](http://arxiv.org/abs/2506.04392)|null|
 |**2025-06-03**|**A Multi-Dialectal Dataset for German Dialect ASR and Dialect-to-Standard Speech Translation**|Verena Blaschke et.al.|[2506.02894](http://arxiv.org/abs/2506.02894)|null|
 |**2025-06-02**|**Different Speech Translation Models Encode and Translate Speaker Gender Differently**|Dennis Fucci et.al.|[2506.02172](http://arxiv.org/abs/2506.02172)|null|
 |**2025-06-02**|**HENT-SRT: Hierarchical Efficient Neural Transducer with Self-Distillation for Joint Speech Recognition and Translation**|Amir Hussein et.al.|[2506.02157](http://arxiv.org/abs/2506.02157)|null|
@@ -7322,6 +7340,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-05**|**Defurnishing with X-Ray Vision: Joint Removal of Furniture from Panoramas and Mesh**|Alan Dolhasz et.al.|[2506.05338](http://arxiv.org/abs/2506.05338)|null|
+|**2025-06-05**|**CLATTER: Comprehensive Entailment Reasoning for Hallucination Detection**|Ron Eliav et.al.|[2506.05243](http://arxiv.org/abs/2506.05243)|null|
+|**2025-06-05**|**On the Comprehensibility of Multi-structured Financial Documents using LLMs and Pre-processing Tools**|Shivani Upadhyay et.al.|[2506.05182](http://arxiv.org/abs/2506.05182)|null|
+|**2025-06-05**|**When Thinking LLMs Lie: Unveiling the Strategic Deception in Representations of Reasoning Models**|Kai Wang et.al.|[2506.04909](http://arxiv.org/abs/2506.04909)|null|
+|**2025-06-05**|**Multiple-Choice Question Generation Using Large Language Models: Methodology and Educator Insights**|Giorgio Biancini et.al.|[2506.04851](http://arxiv.org/abs/2506.04851)|null|
+|**2025-06-05**|**Joint Evaluation of Answer and Reasoning Consistency for Hallucination Detection in Large Reasoning Models**|Changyue Wang et.al.|[2506.04832](http://arxiv.org/abs/2506.04832)|null|
+|**2025-06-05**|**GOLFer: Smaller LM-Generated Documents Hallucination Filter & Combiner for Query Expansion in Information Retrieval**|Lingyuan Liu et.al.|[2506.04762](http://arxiv.org/abs/2506.04762)|**[link](https://github.com/liuliuyuan6/GOLFer)**|
+|**2025-06-05**|**Advancing Tool-Augmented Large Language Models via Meta-Verification and Reflection Learning**|Zhiyuan Ma et.al.|[2506.04625](http://arxiv.org/abs/2506.04625)|null|
+|**2025-06-05**|**Safe: Enhancing Mathematical Reasoning in Large Language Models via Retrospective Step-aware Formal Verification**|Chengwu Liu et.al.|[2506.04592](http://arxiv.org/abs/2506.04592)|null|
+|**2025-06-04**|**"Don't Do That!": Guiding Embodied Systems through Large Language Model-based Constraint Generation**|Aladin Djuhera et.al.|[2506.04500](http://arxiv.org/abs/2506.04500)|null|
 |**2025-06-04**|**OWMM-Agent: Open World Mobile Manipulation With Multi-modal Agentic Data Synthesis**|Junting Chen et.al.|[2506.04217](http://arxiv.org/abs/2506.04217)|null|
 |**2025-06-04**|**TracLLM: A Generic Framework for Attributing Long Context LLMs**|Yanting Wang et.al.|[2506.04202](http://arxiv.org/abs/2506.04202)|null|
 |**2025-06-04**|**A Dataset for Addressing Patient's Information Needs related to Clinical Course of Hospitalization**|Sarvesh Soni et.al.|[2506.04156](http://arxiv.org/abs/2506.04156)|null|
