@@ -2189,6 +2189,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-07**|**Controllable Coupled Image Generation via Diffusion Models**|Chenfei Yuan et.al.|[2506.06826](http://arxiv.org/abs/2506.06826)|null|
 |**2025-06-04**|**MFLA: Monotonic Finite Look-ahead Attention for Streaming Speech Recognition**|Yinfeng Xia et.al.|[2506.03722](http://arxiv.org/abs/2506.03722)|null|
 |**2025-06-03**|**ORV: 4D Occupancy-centric Robot Video Generation**|Xiuyu Yang et.al.|[2506.03079](http://arxiv.org/abs/2506.03079)|null|
 |**2025-06-03**|**LEG-SLAM: Real-Time Language-Enhanced Gaussian Splatting for SLAM**|Roman Titkov et.al.|[2506.03073](http://arxiv.org/abs/2506.03073)|null|
@@ -2453,6 +2454,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-09**|**GUI-Reflection: Empowering Multimodal GUI Models with Self-Reflection Behavior**|Penghao Wu et.al.|[2506.08012](http://arxiv.org/abs/2506.08012)|null|
+|**2025-06-09**|**Play to Generalize: Learning to Reason Through Game Play**|Yunfei Xie et.al.|[2506.08011](http://arxiv.org/abs/2506.08011)|null|
+|**2025-06-09**|**Vision Transformers Don't Need Trained Registers**|Nick Jiang et.al.|[2506.08010](http://arxiv.org/abs/2506.08010)|null|
+|**2025-06-09**|**Hidden in plain sight: VLMs overlook their visual representations**|Stephanie Fu et.al.|[2506.08008](http://arxiv.org/abs/2506.08008)|null|
+|**2025-06-09**|**Reinforcement Pre-Training**|Qingxiu Dong et.al.|[2506.08007](http://arxiv.org/abs/2506.08007)|null|
+|**2025-06-09**|**Reparameterized LLM Training via Orthogonal Equivalence Transformation**|Zeju Qiu et.al.|[2506.08001](http://arxiv.org/abs/2506.08001)|null|
+|**2025-06-09**|**Supporting Construction Worker Well-Being with a Multi-Agent Conversational AI System**|Fan Yang et.al.|[2506.07997](http://arxiv.org/abs/2506.07997)|null|
+|**2025-06-09**|**HeuriGym: An Agentic Benchmark for LLM-Crafted Heuristics in Combinatorial Optimization**|Hongzheng Chen et.al.|[2506.07972](http://arxiv.org/abs/2506.07972)|null|
+|**2025-06-09**|**CyberV: Cybernetics for Test-time Scaling in Video Understanding**|Jiahao Meng et.al.|[2506.07971](http://arxiv.org/abs/2506.07971)|null|
+|**2025-06-09**|**SpaCE-10: A Comprehensive Benchmark for Multimodal Large Language Models in Compositional Spatial Intelligence**|Ziyang Gong et.al.|[2506.07966](http://arxiv.org/abs/2506.07966)|null|
 |**2025-06-06**|**Eigenspectrum Analysis of Neural Networks without Aspect Ratio Bias**|Yuanzhe Hu et.al.|[2506.06280](http://arxiv.org/abs/2506.06280)|null|
 |**2025-06-06**|**CoMemo: LVLMs Need Image Context with Image Memory**|Shi Liu et.al.|[2506.06279](http://arxiv.org/abs/2506.06279)|null|
 |**2025-06-06**|**Movie Facts and Fibs (MF $^2$ ): A Benchmark for Long Movie Understanding**|Emmanouil Zaranis et.al.|[2506.06275](http://arxiv.org/abs/2506.06275)|null|
@@ -6138,9 +6149,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-09**|**Beyond the Sentence: A Survey on Context-Aware Machine Translation with Large Language Models**|Ramakrishna Appicharla et.al.|[2506.07583](http://arxiv.org/abs/2506.07583)|null|
+|**2025-06-09**|**What Do Indonesians Really Need from Language Technology? A Nationwide Survey**|Muhammad Dehan Al Kautsar et.al.|[2506.07506](http://arxiv.org/abs/2506.07506)|null|
+|**2025-06-08**|**A Culturally-diverse Multilingual Multimodal Video Benchmark & Model**|Bhuiyan Sanjid Shafique et.al.|[2506.07032](http://arxiv.org/abs/2506.07032)|null|
 |**2025-06-06**|**A Culturally-Rich Romanian NLP Dataset from "Who Wants to Be a Millionaire?" Videos**|Alexandru-Gabriel Ganea et.al.|[2506.05991](http://arxiv.org/abs/2506.05991)|null|
 |**2025-06-05**|**RIVAL: Reinforcement Learning with Iterative and Adversarial Optimization for Machine Translation**|Tianjiao Li et.al.|[2506.05070](http://arxiv.org/abs/2506.05070)|null|
-|**2025-06-05**|**ConECT Dataset: Overcoming Data Scarcity in Context-Aware E-Commerce MT**|Mikołaj Pokrywka et.al.|[2506.04929](http://arxiv.org/abs/2506.04929)|null|
+|**2025-06-09**|**ConECT Dataset: Overcoming Data Scarcity in Context-Aware E-Commerce MT**|Mikołaj Pokrywka et.al.|[2506.04929](http://arxiv.org/abs/2506.04929)|null|
 |**2025-06-05**|**Prompting LLMs: Length Control for Isometric Machine Translation**|Dávid Javorský et.al.|[2506.04855](http://arxiv.org/abs/2506.04855)|null|
 |**2025-06-05**|**Design of intelligent proofreading system for English translation based on CNN and BERT**|Feijun Liu et.al.|[2506.04811](http://arxiv.org/abs/2506.04811)|null|
 |**2025-06-05**|**SSA-COMET: Do LLMs Outperform Learned Metrics in Evaluating MT for Under-Resourced African Languages?**|Senyu Li et.al.|[2506.04557](http://arxiv.org/abs/2506.04557)|null|
@@ -7318,6 +7332,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-09**|**MEMOIR: Lifelong Model Editing with Minimal Overwrite and Informed Retention for LLMs**|Ke Wang et.al.|[2506.07899](http://arxiv.org/abs/2506.07899)|null|
+|**2025-06-09**|**Language-Vision Planner and Executor for Text-to-Visual Reasoning**|Yichang Xu et.al.|[2506.07778](http://arxiv.org/abs/2506.07778)|null|
+|**2025-06-09**|**QUITE: A Query Rewrite System Beyond Rules with LLM Agents**|Yuyang Song et.al.|[2506.07675](http://arxiv.org/abs/2506.07675)|null|
+|**2025-06-09**|**Uncertainty-o: One Model-agnostic Framework for Unveiling Uncertainty in Large Multimodal Models**|Ruiyang Zhang et.al.|[2506.07575](http://arxiv.org/abs/2506.07575)|null|
+|**2025-06-09**|**SELT: Self-Evaluation Tree Search for LLMs with Task Decomposition**|Mengsong Wu et.al.|[2506.07557](http://arxiv.org/abs/2506.07557)|null|
+|**2025-06-09**|**CCI4.0: A Bilingual Pretraining Dataset for Enhancing Reasoning in Large Language Models**|Guang Liu et.al.|[2506.07463](http://arxiv.org/abs/2506.07463)|null|
+|**2025-06-09**|**MedChat: A Multi-Agent Framework for Multimodal Diagnosis with Large Language Models**|Philip Liu et.al.|[2506.07400](http://arxiv.org/abs/2506.07400)|null|
+|**2025-06-09**|**ARGUS: Hallucination and Omission Evaluation in Video-LLMs**|Ruchit Rawal et.al.|[2506.07371](http://arxiv.org/abs/2506.07371)|null|
+|**2025-06-08**|**ConfQA: Answer Only If You Are Confident**|Yin Huang et.al.|[2506.07309](http://arxiv.org/abs/2506.07309)|null|
+|**2025-06-08**|**Reducing Object Hallucination in Large Audio-Language Models via Audio-Aware Decoding**|Tzu-wen Hsu et.al.|[2506.07233](http://arxiv.org/abs/2506.07233)|null|
 |**2025-06-06**|**Bridging External and Parametric Knowledge: Mitigating Hallucination of LLMs with Shared-Private Semantic Synergy in Dual-Stream Knowledge**|Yi Sui et.al.|[2506.06240](http://arxiv.org/abs/2506.06240)|null|
 |**2025-06-06**|**Does It Run and Is That Enough? Revisiting Text-to-Chart Generation with a Multi-Agent Approach**|James Ford et.al.|[2506.06175](http://arxiv.org/abs/2506.06175)|null|
 |**2025-06-06**|**MIRIAD: Augmenting LLMs with millions of medical query-response pairs**|Qinyue Zheng et.al.|[2506.06091](http://arxiv.org/abs/2506.06091)|null|
