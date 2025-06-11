@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.10
+## Updated on 2025.06.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -7339,7 +7339,7 @@ layout: default
 |**2025-06-09**|**SELT: Self-Evaluation Tree Search for LLMs with Task Decomposition**|Mengsong Wu et.al.|[2506.07557](http://arxiv.org/abs/2506.07557)|null|
 |**2025-06-09**|**CCI4.0: A Bilingual Pretraining Dataset for Enhancing Reasoning in Large Language Models**|Guang Liu et.al.|[2506.07463](http://arxiv.org/abs/2506.07463)|null|
 |**2025-06-09**|**MedChat: A Multi-Agent Framework for Multimodal Diagnosis with Large Language Models**|Philip Liu et.al.|[2506.07400](http://arxiv.org/abs/2506.07400)|null|
-|**2025-06-09**|**ARGUS: Hallucination and Omission Evaluation in Video-LLMs**|Ruchit Rawal et.al.|[2506.07371](http://arxiv.org/abs/2506.07371)|null|
+|**2025-06-10**|**ARGUS: Hallucination and Omission Evaluation in Video-LLMs**|Ruchit Rawal et.al.|[2506.07371](http://arxiv.org/abs/2506.07371)|null|
 |**2025-06-08**|**ConfQA: Answer Only If You Are Confident**|Yin Huang et.al.|[2506.07309](http://arxiv.org/abs/2506.07309)|null|
 |**2025-06-08**|**Reducing Object Hallucination in Large Audio-Language Models via Audio-Aware Decoding**|Tzu-wen Hsu et.al.|[2506.07233](http://arxiv.org/abs/2506.07233)|null|
 |**2025-06-06**|**Bridging External and Parametric Knowledge: Mitigating Hallucination of LLMs with Shared-Private Semantic Synergy in Dual-Stream Knowledge**|Yi Sui et.al.|[2506.06240](http://arxiv.org/abs/2506.06240)|null|
