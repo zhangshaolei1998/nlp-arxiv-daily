@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.15
+## Updated on 2025.06.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -7200,7 +7200,7 @@ layout: default
 |**2025-06-10**|**PHRASED: Phrase Dictionary Biasing for Speech Translation**|Peidong Wang et.al.|[2506.09175](http://arxiv.org/abs/2506.09175)|null|
 |**2025-06-05**|**IIITH-BUT system for IWSLT 2025 low-resource Bhojpuri to Hindi speech translation**|Bhavana Akkiraju et.al.|[2506.04714](http://arxiv.org/abs/2506.04714)|null|
 |**2025-06-05**|**LESS: Large Language Model Enhanced Semi-Supervised Learning for Speech Foundational Models**|Wen Ding et.al.|[2506.04586](http://arxiv.org/abs/2506.04586)|null|
-|**2025-06-04**|**Phi-Omni-ST: A multimodal language model for direct speech-to-speech translation**|Yuxuan Hu et.al.|[2506.04392](http://arxiv.org/abs/2506.04392)|null|
+|**2025-06-13**|**Phi-Omni-ST: A multimodal language model for direct speech-to-speech translation**|Yuxuan Hu et.al.|[2506.04392](http://arxiv.org/abs/2506.04392)|null|
 |**2025-06-03**|**A Multi-Dialectal Dataset for German Dialect ASR and Dialect-to-Standard Speech Translation**|Verena Blaschke et.al.|[2506.02894](http://arxiv.org/abs/2506.02894)|null|
 |**2025-06-02**|**Different Speech Translation Models Encode and Translate Speaker Gender Differently**|Dennis Fucci et.al.|[2506.02172](http://arxiv.org/abs/2506.02172)|null|
 |**2025-06-02**|**HENT-SRT: Hierarchical Efficient Neural Transducer with Self-Distillation for Joint Speech Recognition and Translation**|Amir Hussein et.al.|[2506.02157](http://arxiv.org/abs/2506.02157)|null|
