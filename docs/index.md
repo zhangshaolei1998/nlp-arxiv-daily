@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.17
+## Updated on 2025.06.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -6208,7 +6208,7 @@ layout: default
 |**2025-06-16**|**CHILL at SemEval-2025 Task 2: You Can't Just Throw Entities and Hope -- Make Your LLM to Get Them Right**|Jaebok Lee et.al.|[2506.13070](http://arxiv.org/abs/2506.13070)|null|
 |**2025-06-16**|**Edeflip: Supervised Word Translation between English and Yoruba**|Ikeoluwa Abioye et.al.|[2506.13020](http://arxiv.org/abs/2506.13020)|null|
 |**2025-06-16**|**Missing the human touch? A computational stylometry analysis of GPT-4 translations of online Chinese literature**|Xiaofang Yao et.al.|[2506.13013](http://arxiv.org/abs/2506.13013)|null|
-|**2025-06-14**|**ConsistencyChecker: Tree-based Evaluation of LLM Generalization Capabilities**|Zhaochen Hong et.al.|[2506.12376](http://arxiv.org/abs/2506.12376)|null|
+|**2025-06-17**|**ConsistencyChecker: Tree-based Evaluation of LLM Generalization Capabilities**|Zhaochen Hong et.al.|[2506.12376](http://arxiv.org/abs/2506.12376)|null|
 |**2025-06-13**|**Deep Symmetric Autoencoders from the Eckart-Young-Schmidt Perspective**|Simone Brivio et.al.|[2506.11641](http://arxiv.org/abs/2506.11641)|null|
 |**2025-06-13**|**A Gamified Evaluation and Recruitment Platform for Low Resource Language Machine Translation Systems**|Carlos Rafael Catalan et.al.|[2506.11467](http://arxiv.org/abs/2506.11467)|null|
 |**2025-06-06**|**The Scales of Justitia: A Comprehensive Survey on Safety Evaluation of LLMs**|Songyang Liu et.al.|[2506.11094](http://arxiv.org/abs/2506.11094)|null|
@@ -7407,7 +7407,7 @@ layout: default
 |**2025-06-16**|**SPOT: Bridging Natural Language and Geospatial Search for Investigative Journalists**|Lynn Khellaf et.al.|[2506.13188](http://arxiv.org/abs/2506.13188)|null|
 |**2025-06-16**|**ZINA: Multimodal Fine-grained Hallucination Detection and Editing**|Yuiga Wada et.al.|[2506.13130](http://arxiv.org/abs/2506.13130)|null|
 |**2025-06-16**|**Stress-Testing Multimodal Foundation Models for Crystallographic Reasoning**|Can Polat et.al.|[2506.13051](http://arxiv.org/abs/2506.13051)|null|
-|**2025-06-16**|**HKD4VLM: A Progressive Hybrid Knowledge Distillation Framework for Robust Multimodal Hallucination and Factuality Detection in VLMs**|Zijian Zhang et.al.|[2506.13038](http://arxiv.org/abs/2506.13038)|null|
+|**2025-06-17**|**HKD4VLM: A Progressive Hybrid Knowledge Distillation Framework for Robust Multimodal Hallucination and Factuality Detection in VLMs**|Zijian Zhang et.al.|[2506.13038](http://arxiv.org/abs/2506.13038)|null|
 |**2025-06-16**|**Knowledge Graph Fusion with Large Language Models for Accurate, Explainable Manufacturing Process Planning**|Danny Hoang et.al.|[2506.13026](http://arxiv.org/abs/2506.13026)|null|
 |**2025-06-15**|**SMPL Normal Map Is All You Need for Single-view Textured Human Reconstruction**|Wenhao Shen et.al.|[2506.12793](http://arxiv.org/abs/2506.12793)|null|
 |**2025-06-15**|**Building Trustworthy AI by Addressing its 16+2 Desiderata with Goal-Directed Commonsense Reasoning**|Alexis R. Tudor et.al.|[2506.12667](http://arxiv.org/abs/2506.12667)|null|
