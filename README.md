@@ -2214,6 +2214,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-17**|**GenerationPrograms: Fine-grained Attribution with Executable Programs**|David Wan et.al.|[2506.14580](http://arxiv.org/abs/2506.14580)|null|
+|**2025-06-17**|**Unifying Streaming and Non-streaming Zipformer-based ASR**|Bidisha Sharma et.al.|[2506.14434](http://arxiv.org/abs/2506.14434)|null|
+|**2025-06-17**|**orGAN: A Synthetic Data Augmentation Pipeline for Simultaneous Generation of Surgical Images and Ground Truth Labels**|Niran Nataraj et.al.|[2506.14303](http://arxiv.org/abs/2506.14303)|null|
 |**2025-06-16**|**CMU's IWSLT 2025 Simultaneous Speech Translation System**|Siqi Ouyang et.al.|[2506.13143](http://arxiv.org/abs/2506.13143)|null|
 |**2025-06-14**|**An Exploration of Mamba for Speech Self-Supervised Models**|Tzu-Quan Lin et.al.|[2506.12606](http://arxiv.org/abs/2506.12606)|null|
 |**2025-06-13**|**Adapting Whisper for Streaming Speech Recognition via Two-Pass Decoding**|Haoran Zhou et.al.|[2506.12154](http://arxiv.org/abs/2506.12154)|null|
@@ -2486,6 +2489,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-17**|**A Variational Framework for Improving Naturalness in Generative Spoken Language Models**|Li-Wei Chen et.al.|[2506.14767](http://arxiv.org/abs/2506.14767)|null|
+|**2025-06-17**|**ASCD: Attention-Steerable Contrastive Decoding for Reducing Hallucination in MLLM**|Yujun Wang et.al.|[2506.14766](http://arxiv.org/abs/2506.14766)|null|
+|**2025-06-17**|**RobotSmith: Generative Robotic Tool Design for Acquisition of Complex Manipulation Skills**|Chunru Lin et.al.|[2506.14763](http://arxiv.org/abs/2506.14763)|null|
+|**2025-06-17**|**From Bytes to Ideas: Language Modeling with Autoregressive U-Nets**|Mathurin Videau et.al.|[2506.14761](http://arxiv.org/abs/2506.14761)|null|
+|**2025-06-17**|**Reasoning with Exploration: An Entropy Perspective**|Daixuan Cheng et.al.|[2506.14758](http://arxiv.org/abs/2506.14758)|null|
+|**2025-06-17**|**Large Language Models -- the Future of Fundamental Physics?**|Caroline Heneka et.al.|[2506.14757](http://arxiv.org/abs/2506.14757)|null|
+|**2025-06-17**|**Ring-lite: Scalable Reasoning via C3PO-Stabilized Reinforcement Learning for LLMs**|Ring Team et.al.|[2506.14731](http://arxiv.org/abs/2506.14731)|null|
+|**2025-06-17**|**AgentDistill: Training-Free Agent Distillation with Generalizable MCP Boxes**|Jiahao Qiu et.al.|[2506.14728](http://arxiv.org/abs/2506.14728)|null|
+|**2025-06-17**|**Casper: Inferring Diverse Intents for Assistive Teleoperation with Vision Language Models**|Huihan Liu et.al.|[2506.14727](http://arxiv.org/abs/2506.14727)|null|
+|**2025-06-17**|**Capacity Matters: a Proof-of-Concept for Transformer Memorization on Real-World Data**|Anton Changalidis et.al.|[2506.14704](http://arxiv.org/abs/2506.14704)|null|
 |**2025-06-16**|**Touch begins where vision ends: Generalizable policies for contact-rich manipulation**|Zifan Zhao et.al.|[2506.13762](http://arxiv.org/abs/2506.13762)|null|
 |**2025-06-16**|**Prompting with the Future: Open-World Model Predictive Control with Interactive Digital Twins**|Chuanruo Ning et.al.|[2506.13761](http://arxiv.org/abs/2506.13761)|null|
 |**2025-06-16**|**Discrete Diffusion in Large Language and Multimodal Models: A Survey**|Runpeng Yu et.al.|[2506.13759](http://arxiv.org/abs/2506.13759)|null|
@@ -7434,6 +7447,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-17**|**ASCD: Attention-Steerable Contrastive Decoding for Reducing Hallucination in MLLM**|Yujun Wang et.al.|[2506.14766](http://arxiv.org/abs/2506.14766)|null|
+|**2025-06-17**|**Issue Retrieval and Verification Enhanced Supplementary Code Comment Generation**|Yanzhen Zou et.al.|[2506.14649](http://arxiv.org/abs/2506.14649)|null|
+|**2025-06-17**|**RAGtifier: Evaluating RAG Generation Approaches of State-of-the-Art RAG Systems for the SIGIR LiveRAG Competition**|Tim Cofala et.al.|[2506.14412](http://arxiv.org/abs/2506.14412)|null|
+|**2025-06-17**|**Don't Make It Up: Preserving Ignorance Awareness in LLM Fine-Tuning**|William F. Shen et.al.|[2506.14387](http://arxiv.org/abs/2506.14387)|null|
+|**2025-06-17**|**AviationLLM: An LLM-based Knowledge System for Aviation Training**|Jia'ang Wan et.al.|[2506.14336](http://arxiv.org/abs/2506.14336)|null|
+|**2025-06-17**|**Abstract Meaning Representation for Hospital Discharge Summarization**|Paul Landes et.al.|[2506.14101](http://arxiv.org/abs/2506.14101)|null|
+|**2025-06-16**|**A Regret Perspective on Online Selective Generation**|Minjae Lee et.al.|[2506.14067](http://arxiv.org/abs/2506.14067)|null|
+|**2025-06-16**|**DREAM: On hallucinations in AI-generated content for nuclear medicine imaging**|Menghua Xia et.al.|[2506.13995](http://arxiv.org/abs/2506.13995)|null|
+|**2025-06-16**|**VL-GenRM: Enhancing Vision-Language Verification via Vision Experts and Iterative Training**|Jipeng Zhang et.al.|[2506.13888](http://arxiv.org/abs/2506.13888)|null|
 |**2025-06-16**|**Tree-Based Text Retrieval via Hierarchical Clustering in RAGFrameworks: Application on Taiwanese Regulations**|Chia-Heng Yu et.al.|[2506.13607](http://arxiv.org/abs/2506.13607)|null|
 |**2025-06-16**|**From Promise to Peril: Rethinking Cybersecurity Red and Blue Teaming in the Age of LLMs**|Alsharif Abuadbba et.al.|[2506.13434](http://arxiv.org/abs/2506.13434)|null|
 |**2025-06-16**|**Efficient Medical VIE via Reinforcement Learning**|Lijun Liu et.al.|[2506.13363](http://arxiv.org/abs/2506.13363)|null|
