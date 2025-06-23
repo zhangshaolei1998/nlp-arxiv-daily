@@ -2214,6 +2214,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-20**|**Simultaneous Translation with Offline Speech and LLM Models in CUNI Submission to IWSLT 2025**|Dominik Macháček et.al.|[2506.17077](http://arxiv.org/abs/2506.17077)|null|
 |**2025-06-17**|**GenerationPrograms: Fine-grained Attribution with Executable Programs**|David Wan et.al.|[2506.14580](http://arxiv.org/abs/2506.14580)|null|
 |**2025-06-17**|**Unifying Streaming and Non-streaming Zipformer-based ASR**|Bidisha Sharma et.al.|[2506.14434](http://arxiv.org/abs/2506.14434)|null|
 |**2025-06-17**|**orGAN: A Synthetic Data Augmentation Pipeline for Simultaneous Generation of Surgical Images and Ground Truth Labels**|Niran Nataraj et.al.|[2506.14303](http://arxiv.org/abs/2506.14303)|null|
@@ -2489,6 +2490,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-20**|**VLN-R1: Vision-Language Navigation via Reinforcement Fine-Tuning**|Zhangyang Qi et.al.|[2506.17221](http://arxiv.org/abs/2506.17221)|null|
+|**2025-06-20**|**No Free Lunch: Rethinking Internal Feedback for LLM Reasoning**|Yanzhi Zhang et.al.|[2506.17219](http://arxiv.org/abs/2506.17219)|null|
+|**2025-06-20**|**Machine Mental Imagery: Empower Multimodal Reasoning with Latent Visual Tokens**|Zeyuan Yang et.al.|[2506.17218](http://arxiv.org/abs/2506.17218)|null|
+|**2025-06-20**|**BREAD: Branched Rollouts from Expert Anchors Bridge SFT & RL for Reasoning**|Xuechen Zhang et.al.|[2506.17211](http://arxiv.org/abs/2506.17211)|null|
+|**2025-06-20**|**Fine-Tuning Lowers Safety and Disrupts Evaluation Consistency**|Kathleen C. Fraser et.al.|[2506.17209](http://arxiv.org/abs/2506.17209)|null|
+|**2025-06-20**|**Dissecting the SWE-Bench Leaderboards: Profiling Submitters and Architectures of LLM- and Agent-Based Repair Systems**|Matias Martinez et.al.|[2506.17208](http://arxiv.org/abs/2506.17208)|null|
+|**2025-06-20**|**Confidence Scoring for LLM-Generated SQL in Supply Chain Data Extraction**|Jiekai Ma et.al.|[2506.17203](http://arxiv.org/abs/2506.17203)|null|
+|**2025-06-20**|**Detecting LLM-Generated Short Answers and Effects on Learner Performance**|Shambhavi Bhushan et.al.|[2506.17196](http://arxiv.org/abs/2506.17196)|null|
+|**2025-06-20**|**CLEAR-3K: Assessing Causal Explanatory Capabilities in Language Models**|Naiming Liu et.al.|[2506.17180](http://arxiv.org/abs/2506.17180)|null|
+|**2025-06-20**|**The MedPerturb Dataset: What Non-Content Perturbations Reveal About Human and Clinical LLM Decision Making**|Abinitha Gourabathina et.al.|[2506.17163](http://arxiv.org/abs/2506.17163)|null|
 |**2025-06-18**|**PhantomHunter: Detecting Unseen Privately-Tuned LLM-Generated Text via Family-Aware Learning**|Yuhui Shi et.al.|[2506.15683](http://arxiv.org/abs/2506.15683)|null|
 |**2025-06-18**|**GenRecal: Generation after Recalibration from Large to Small Vision-Language Models**|Byung-Kwan Lee et.al.|[2506.15681](http://arxiv.org/abs/2506.15681)|null|
 |**2025-06-18**|**Dense SAE Latents Are Features, Not Bugs**|Xiaoqing Sun et.al.|[2506.15679](http://arxiv.org/abs/2506.15679)|null|
@@ -6256,6 +6267,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-20**|**Tower+: Bridging Generality and Translation Specialization in Multilingual LLMs**|Ricardo Rei et.al.|[2506.17080](http://arxiv.org/abs/2506.17080)|null|
 |**2025-06-18**|**Gender-Neutral Machine Translation Strategies in Practice**|Hillary Dawkins et.al.|[2506.15676](http://arxiv.org/abs/2506.15676)|null|
 |**2025-06-16**|**An Interdisciplinary Approach to Human-Centered Machine Translation**|Marine Carpuat et.al.|[2506.13468](http://arxiv.org/abs/2506.13468)|null|
 |**2025-06-16**|**CHILL at SemEval-2025 Task 2: You Can't Just Throw Entities and Hope -- Make Your LLM to Get Them Right**|Jaebok Lee et.al.|[2506.13070](http://arxiv.org/abs/2506.13070)|null|
@@ -7282,6 +7294,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-20**|**Simultaneous Translation with Offline Speech and LLM Models in CUNI Submission to IWSLT 2025**|Dominik Macháček et.al.|[2506.17077](http://arxiv.org/abs/2506.17077)|null|
+|**2025-06-19**|**End-to-End Speech Translation for Low-Resource Languages Using Weakly Labeled Data**|Aishwarya Pothula et.al.|[2506.16251](http://arxiv.org/abs/2506.16251)|null|
 |**2025-06-16**|**CMU's IWSLT 2025 Simultaneous Speech Translation System**|Siqi Ouyang et.al.|[2506.13143](http://arxiv.org/abs/2506.13143)|null|
 |**2025-06-20**|**S2ST-Omni: An Efficient and Scalable Multilingual Speech-to-Speech Translation Framework via Seamless Speech-Text Alignment and Streaming Speech Generation**|Yu Pan et.al.|[2506.11160](http://arxiv.org/abs/2506.11160)|null|
 |**2025-06-12**|**Scheduled Interleaved Speech-Text Training for Speech-to-Speech Translation with LLMs**|Hayato Futami et.al.|[2506.10299](http://arxiv.org/abs/2506.10299)|null|
@@ -7458,6 +7472,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-20**|**Mathematical Proof as a Litmus Test: Revealing Failure Modes of Advanced Large Reasoning Models**|Dadi Guo et.al.|[2506.17114](http://arxiv.org/abs/2506.17114)|null|
+|**2025-06-20**|**Chain-of-Thought Prompting Obscures Hallucination Cues in Large Language Models: An Empirical Evaluation**|Jiahao Cheng et.al.|[2506.17088](http://arxiv.org/abs/2506.17088)|null|
+|**2025-06-20**|**Language Bottleneck Models: A Framework for Interpretable Knowledge Tracing and Beyond**|Antonin Berthon et.al.|[2506.16982](http://arxiv.org/abs/2506.16982)|null|
+|**2025-06-20**|**DistillNote: LLM-based clinical note summaries improve heart failure diagnosis**|Heloisa Oss Boll et.al.|[2506.16777](http://arxiv.org/abs/2506.16777)|null|
+|**2025-06-20**|**eSapiens: A Real-World NLP Framework for Multimodal Document Understanding and Enterprise Knowledge Processing**|Isaac Shi et.al.|[2506.16768](http://arxiv.org/abs/2506.16768)|null|
+|**2025-06-20**|**ReasonGRM: Enhancing Generative Reward Models through Large Reasoning Models**|Bin Chen et.al.|[2506.16712](http://arxiv.org/abs/2506.16712)|null|
+|**2025-06-19**|**Can GPT-4o Evaluate Usability Like Human Experts? A Comparative Study on Issue Identification in Heuristic Evaluation**|Guilherme Guerino et.al.|[2506.16345](http://arxiv.org/abs/2506.16345)|null|
+|**2025-06-19**|**Think Global, Act Local: Bayesian Causal Discovery with Language Models in Sequential Data**|Prakhar Verma et.al.|[2506.16234](http://arxiv.org/abs/2506.16234)|null|
+|**2025-06-19**|**Hallucination Level of Artificial Intelligence Whisperer: Case Speech Recognizing Pantterinousut Rap Song**|Ismo Horppu et.al.|[2506.16174](http://arxiv.org/abs/2506.16174)|null|
 |**2025-06-18**|**PhishDebate: An LLM-Based Multi-Agent Framework for Phishing Website Detection**|Wenhao Li et.al.|[2506.15656](http://arxiv.org/abs/2506.15656)|null|
 |**2025-06-18**|**Dual-Stage Value-Guided Inference with Margin-Based Reward Adjustment for Fast and Faithful VLM Captioning**|Ankan Deria et.al.|[2506.15649](http://arxiv.org/abs/2506.15649)|null|
 |**2025-06-18**|**DiscoSG: Towards Discourse-Level Text Scene Graph Parsing through Iterative Graph Refinement**|Shaoqing Lin et.al.|[2506.15583](http://arxiv.org/abs/2506.15583)|**[link](https://github.com/shaoqlin/discosg)**|
