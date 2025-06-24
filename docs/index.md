@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.23
+## Updated on 2025.06.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -7439,7 +7439,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-06-20**|**Mathematical Proof as a Litmus Test: Revealing Failure Modes of Advanced Large Reasoning Models**|Dadi Guo et.al.|[2506.17114](http://arxiv.org/abs/2506.17114)|null|
+|**2025-06-23**|**Mathematical Proof as a Litmus Test: Revealing Failure Modes of Advanced Large Reasoning Models**|Dadi Guo et.al.|[2506.17114](http://arxiv.org/abs/2506.17114)|null|
 |**2025-06-20**|**Chain-of-Thought Prompting Obscures Hallucination Cues in Large Language Models: An Empirical Evaluation**|Jiahao Cheng et.al.|[2506.17088](http://arxiv.org/abs/2506.17088)|null|
 |**2025-06-20**|**Language Bottleneck Models: A Framework for Interpretable Knowledge Tracing and Beyond**|Antonin Berthon et.al.|[2506.16982](http://arxiv.org/abs/2506.16982)|null|
 |**2025-06-20**|**DistillNote: LLM-based clinical note summaries improve heart failure diagnosis**|Heloisa Oss Boll et.al.|[2506.16777](http://arxiv.org/abs/2506.16777)|null|
@@ -7447,7 +7447,7 @@ layout: default
 |**2025-06-20**|**ReasonGRM: Enhancing Generative Reward Models through Large Reasoning Models**|Bin Chen et.al.|[2506.16712](http://arxiv.org/abs/2506.16712)|null|
 |**2025-06-19**|**Can GPT-4o Evaluate Usability Like Human Experts? A Comparative Study on Issue Identification in Heuristic Evaluation**|Guilherme Guerino et.al.|[2506.16345](http://arxiv.org/abs/2506.16345)|null|
 |**2025-06-19**|**Think Global, Act Local: Bayesian Causal Discovery with Language Models in Sequential Data**|Prakhar Verma et.al.|[2506.16234](http://arxiv.org/abs/2506.16234)|null|
-|**2025-06-19**|**Hallucination Level of Artificial Intelligence Whisperer: Case Speech Recognizing Pantterinousut Rap Song**|Ismo Horppu et.al.|[2506.16174](http://arxiv.org/abs/2506.16174)|null|
+|**2025-06-23**|**Hallucination Level of Artificial Intelligence Whisperer: Case Speech Recognizing Pantterinousut Rap Song**|Ismo Horppu et.al.|[2506.16174](http://arxiv.org/abs/2506.16174)|null|
 |**2025-06-18**|**PhishDebate: An LLM-Based Multi-Agent Framework for Phishing Website Detection**|Wenhao Li et.al.|[2506.15656](http://arxiv.org/abs/2506.15656)|null|
 |**2025-06-18**|**Dual-Stage Value-Guided Inference with Margin-Based Reward Adjustment for Fast and Faithful VLM Captioning**|Ankan Deria et.al.|[2506.15649](http://arxiv.org/abs/2506.15649)|null|
 |**2025-06-18**|**DiscoSG: Towards Discourse-Level Text Scene Graph Parsing through Iterative Graph Refinement**|Shaoqing Lin et.al.|[2506.15583](http://arxiv.org/abs/2506.15583)|**[link](https://github.com/shaoqlin/discosg)**|
