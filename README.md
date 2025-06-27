@@ -2214,6 +2214,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-25**|**Chern Classes of Toric Variety Bundles**|Gregory Taroyan et.al.|[2506.20848](http://arxiv.org/abs/2506.20848)|null|
 |**2025-06-25**|**Lightweight Target-Speaker-Based Overlap Transcription for Practical Streaming ASR**|Aleš Pražák et.al.|[2506.20288](http://arxiv.org/abs/2506.20288)|null|
 |**2025-06-23**|**MLLP-VRAIN UPV system for the IWSLT 2025 Simultaneous Speech Translation Translation task**|Jorge Iranzo-Sánchez et.al.|[2506.18828](http://arxiv.org/abs/2506.18828)|null|
 |**2025-06-20**|**Simultaneous Translation with Offline Speech and LLM Models in CUNI Submission to IWSLT 2025**|Dominik Macháček et.al.|[2506.17077](http://arxiv.org/abs/2506.17077)|**[link](https://github.com/ufal/asr_latency)**|
@@ -2492,6 +2493,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-26**|**Where to find Grokking in LLM Pretraining? Monitor Memorization-to-Generalization without Test**|Ziyue Li et.al.|[2506.21551](http://arxiv.org/abs/2506.21551)|null|
+|**2025-06-26**|**mTSBench: Benchmarking Multivariate Time Series Anomaly Detection and Model Selection at Scale**|Xiaona Zhou et.al.|[2506.21550](http://arxiv.org/abs/2506.21550)|null|
+|**2025-06-26**|**Data Efficacy for Language Model Training**|Yalun Dai et.al.|[2506.21545](http://arxiv.org/abs/2506.21545)|null|
+|**2025-06-26**|**PsyLite Technical Report**|Fangjun Ding et.al.|[2506.21536](http://arxiv.org/abs/2506.21536)|null|
+|**2025-06-26**|**Exploring the Design Space of 3D MLLMs for CT Report Generation**|Mohammed Baharoon et.al.|[2506.21535](http://arxiv.org/abs/2506.21535)|null|
+|**2025-06-26**|**"What's Up, Doc?": Analyzing How Users Seek Health Information in Large-Scale Conversational AI Datasets**|Akshay Paruchuri et.al.|[2506.21532](http://arxiv.org/abs/2506.21532)|null|
+|**2025-06-26**|**Potemkin Understanding in Large Language Models**|Marina Mancoridis et.al.|[2506.21521](http://arxiv.org/abs/2506.21521)|null|
+|**2025-06-26**|**Assessing an evolutionary search engine for small language models, prompts, and evaluation metrics**|Cláudio Lúcio do Val Lopes et.al.|[2506.21512](http://arxiv.org/abs/2506.21512)|null|
+|**2025-06-26**|**Mitigating Hallucination of Large Vision-Language Models via Dynamic Logits Calibration**|Jiahe Chen et.al.|[2506.21509](http://arxiv.org/abs/2506.21509)|null|
+|**2025-06-26**|**skLEP: A Slovak General Language Understanding Benchmark**|Marek Šuppa et.al.|[2506.21508](http://arxiv.org/abs/2506.21508)|null|
 |**2025-06-25**|**The Decrypto Benchmark for Multi-Agent Reasoning and Theory of Mind**|Andrei Lupu et.al.|[2506.20664](http://arxiv.org/abs/2506.20664)|null|
 |**2025-06-25**|**Memento: Note-Taking for Your Future Self**|Chao Wan et.al.|[2506.20642](http://arxiv.org/abs/2506.20642)|null|
 |**2025-06-25**|**Towards Community-Driven Agents for Machine Learning Engineering**|Sijie Li et.al.|[2506.20640](http://arxiv.org/abs/2506.20640)|null|
@@ -6299,6 +6310,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-26**|**Enhancing Automatic Term Extraction with Large Language Models via Syntactic Retrieval**|Yongchan Chun et.al.|[2506.21222](http://arxiv.org/abs/2506.21222)|null|
 |**2025-06-25**|**Intrinsic vs. Extrinsic Evaluation of Czech Sentence Embeddings: Semantic Relevance Doesn't Help with MT Evaluation**|Petra Barančíková et.al.|[2506.20203](http://arxiv.org/abs/2506.20203)|null|
 |**2025-06-24**|**CycleDistill: Bootstrapping Machine Translation using LLMs with Cyclical Distillation**|Deepon Halder et.al.|[2506.19952](http://arxiv.org/abs/2506.19952)|null|
 |**2025-06-24**|**Has Machine Translation Evaluation Achieved Human Parity? The Human Reference and the Limits of Progress**|Lorenzo Proietti et.al.|[2506.19571](http://arxiv.org/abs/2506.19571)|null|
@@ -7514,6 +7526,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-26**|**HalluSegBench: Counterfactual Visual Reasoning for Segmentation Hallucination Evaluation**|Xinzhuo Li et.al.|[2506.21546](http://arxiv.org/abs/2506.21546)|null|
+|**2025-06-26**|**Mitigating Hallucination of Large Vision-Language Models via Dynamic Logits Calibration**|Jiahe Chen et.al.|[2506.21509](http://arxiv.org/abs/2506.21509)|null|
+|**2025-06-26**|**Domain Knowledge-Enhanced LLMs for Fraud and Concept Drift Detection**|Ali Şenol et.al.|[2506.21443](http://arxiv.org/abs/2506.21443)|null|
+|**2025-06-26**|**Scalable Bayesian Low-Rank Adaptation of Large Language Models via Stochastic Variational Subspace Inference**|Colin Samplawski et.al.|[2506.21408](http://arxiv.org/abs/2506.21408)|null|
+|**2025-06-26**|**Small Encoders Can Rival Large Decoders in Detecting Groundedness**|Istabrak Abbes et.al.|[2506.21288](http://arxiv.org/abs/2506.21288)|null|
+|**2025-06-26**|**BLOCKS: Blockchain-supported Cross-Silo Knowledge Sharing for Efficient LLM Services**|Zhaojiacheng Zhou et.al.|[2506.21033](http://arxiv.org/abs/2506.21033)|null|
+|**2025-06-26**|**Our Coding Adventure: Using LLMs to Personalise the Narrative of a Tangible Programming Robot for Preschoolers**|Martin Ruskov et.al.|[2506.20982](http://arxiv.org/abs/2506.20982)|null|
 |**2025-06-25**|**Feature Hallucination for Self-supervised Action Recognition**|Lei Wang et.al.|[2506.20342](http://arxiv.org/abs/2506.20342)|null|
 |**2025-06-25**|**COIN: Uncertainty-Guarding Selective Question Answering for Foundation Models with Provable Risk Guarantees**|Zhiyuan Wang et.al.|[2506.20178](http://arxiv.org/abs/2506.20178)|null|
 |**2025-06-25**|**Seeing is Believing? Mitigating OCR Hallucinations in Multimodal Large Language Models**|Zhentao He et.al.|[2506.20168](http://arxiv.org/abs/2506.20168)|null|
