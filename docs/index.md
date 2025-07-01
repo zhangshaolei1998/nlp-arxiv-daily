@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.30
+## Updated on 2025.07.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -6301,7 +6301,7 @@ layout: default
 |**2025-06-24**|**CycleDistill: Bootstrapping Machine Translation using LLMs with Cyclical Distillation**|Deepon Halder et.al.|[2506.19952](http://arxiv.org/abs/2506.19952)|null|
 |**2025-06-24**|**Has Machine Translation Evaluation Achieved Human Parity? The Human Reference and the Limits of Progress**|Lorenzo Proietti et.al.|[2506.19571](http://arxiv.org/abs/2506.19571)|null|
 |**2025-06-23**|**Semantic similarity estimation for domain specific data using BERT and other techniques**|R. Prashanth et.al.|[2506.18602](http://arxiv.org/abs/2506.18602)|null|
-|**2025-06-23**|**Comparative Evaluation of ChatGPT and DeepSeek Across Key NLP Tasks: Strengths, Weaknesses, and Domain-Specific Performance**|Wael Etaiwi et.al.|[2506.18501](http://arxiv.org/abs/2506.18501)|null|
+|**2025-06-29**|**Comparative Evaluation of ChatGPT and DeepSeek Across Key NLP Tasks: Strengths, Weaknesses, and Domain-Specific Performance**|Wael Etaiwi et.al.|[2506.18501](http://arxiv.org/abs/2506.18501)|null|
 |**2025-06-23**|**Lemmatization as a Classification Task: Results from Arabic across Multiple Genres**|Mostafa Saeed et.al.|[2506.18399](http://arxiv.org/abs/2506.18399)|null|
 |**2025-06-23**|**TranslationCorrect: A Unified Framework for Machine Translation Post-Editing with Predictive Error Assistance**|Syed Mekael Wasti et.al.|[2506.18337](http://arxiv.org/abs/2506.18337)|null|
 |**2025-06-23**|**Enhancing Entity Aware Machine Translation with Multi-task Learning**|An Trieu et.al.|[2506.18318](http://arxiv.org/abs/2506.18318)|null|
@@ -7510,7 +7510,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-06-26**|**Evaluating List Construction and Temporal Understanding capabilities of Large Language Models**|Alexandru Dumitru et.al.|[2506.21783](http://arxiv.org/abs/2506.21783)|null|
 |**2025-06-26**|**THE-Tree: Can Tracing Historical Evolution Enhance Scientific Verification and Reasoning?**|Xin Wang et.al.|[2506.21763](http://arxiv.org/abs/2506.21763)|null|
-|**2025-06-26**|**HalluSegBench: Counterfactual Visual Reasoning for Segmentation Hallucination Evaluation**|Xinzhuo Li et.al.|[2506.21546](http://arxiv.org/abs/2506.21546)|null|
+|**2025-06-28**|**HalluSegBench: Counterfactual Visual Reasoning for Segmentation Hallucination Evaluation**|Xinzhuo Li et.al.|[2506.21546](http://arxiv.org/abs/2506.21546)|null|
 |**2025-06-26**|**Mitigating Hallucination of Large Vision-Language Models via Dynamic Logits Calibration**|Jiahe Chen et.al.|[2506.21509](http://arxiv.org/abs/2506.21509)|null|
 |**2025-06-26**|**Domain Knowledge-Enhanced LLMs for Fraud and Concept Drift Detection**|Ali Şenol et.al.|[2506.21443](http://arxiv.org/abs/2506.21443)|null|
 |**2025-06-26**|**Scalable Bayesian Low-Rank Adaptation of Large Language Models via Stochastic Variational Subspace Inference**|Colin Samplawski et.al.|[2506.21408](http://arxiv.org/abs/2506.21408)|null|
