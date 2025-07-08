@@ -2495,6 +2495,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-07**|**Beyond Simple Edits: X-Planner for Complex Instruction-Based Image Editing**|Chun-Hsiao Yeh et.al.|[2507.05259](http://arxiv.org/abs/2507.05259)|null|
+|**2025-07-07**|**Spatio-Temporal LLM: Reasoning about Environments and Actions**|Haozhen Zheng et.al.|[2507.05258](http://arxiv.org/abs/2507.05258)|null|
+|**2025-07-07**|**Evaluating Memory in LLM Agents via Incremental Multi-Turn Interactions**|Yuanzhe Hu et.al.|[2507.05257](http://arxiv.org/abs/2507.05257)|null|
+|**2025-07-07**|**Open Vision Reasoner: Transferring Linguistic Cognitive Behavior for Visual Reasoning**|Yana Wei et.al.|[2507.05255](http://arxiv.org/abs/2507.05255)|null|
+|**2025-07-07**|**Response Attack: Exploiting Contextual Priming to Jailbreak Large Language Models**|Ziqi Miao et.al.|[2507.05248](http://arxiv.org/abs/2507.05248)|null|
+|**2025-07-07**|**When Chain of Thought is Necessary, Language Models Struggle to Evade Monitors**|Scott Emmons et.al.|[2507.05246](http://arxiv.org/abs/2507.05246)|null|
+|**2025-07-07**|**StreamVLN: Streaming Vision-and-Language Navigation via SlowFast Context Modeling**|Meng Wei et.al.|[2507.05240](http://arxiv.org/abs/2507.05240)|null|
+|**2025-07-07**|**Logit Reweighting for Topic-Focused Summarization**|Joschka Braun et.al.|[2507.05235](http://arxiv.org/abs/2507.05235)|null|
+|**2025-07-07**|**NavigScene: Bridging Local Perception and Global Navigation for Beyond-Visual-Range Autonomous Driving**|Qucheng Peng et.al.|[2507.05227](http://arxiv.org/abs/2507.05227)|null|
+|**2025-07-07**|**QuEst: Enhancing Estimates of Quantile-Based Distributional Measures Using Model Predictions**|Zhun Deng et.al.|[2507.05220](http://arxiv.org/abs/2507.05220)|null|
 |**2025-07-03**|**Bootstrapping Grounded Chain-of-Thought in Multimodal LLMs for Data-Efficient Model Adaptation**|Jiaer Xia et.al.|[2507.02859](http://arxiv.org/abs/2507.02859)|null|
 |**2025-07-03**|**Requirements Elicitation Follow-Up Question Generation**|Yuchen Shen et.al.|[2507.02858](http://arxiv.org/abs/2507.02858)|null|
 |**2025-07-03**|**Answer Matching Outperforms Multiple Choice for Language Model Evaluation**|Nikhil Chandak et.al.|[2507.02856](http://arxiv.org/abs/2507.02856)|null|
@@ -6352,6 +6362,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-07**|**A Tale of Two Scripts: Transliteration and Post-Correction for Judeo-Arabic**|Juan Moreno Gonzalez et.al.|[2507.04746](http://arxiv.org/abs/2507.04746)|null|
+|**2025-07-05**|**Losing our Tail -- Again: On (Un)Natural Selection And Multilingual Large Language Models**|Eva Vanmassenhove et.al.|[2507.03933](http://arxiv.org/abs/2507.03933)|null|
+|**2025-07-04**|**Learning to Translate Ambiguous Terminology by Preference Optimization on Post-Edits**|Nathaniel Berger et.al.|[2507.03580](http://arxiv.org/abs/2507.03580)|null|
+|**2025-07-04**|**GRAFT: A Graph-based Flow-aware Agentic Framework for Document-level Machine Translation**|Himanshu Dutta et.al.|[2507.03311](http://arxiv.org/abs/2507.03311)|null|
 |**2025-07-01**|**TransLaw: Benchmarking Large Language Models in Multi-Agent Simulation of the Collaborative Translation**|Xi Xuan et.al.|[2507.00875](http://arxiv.org/abs/2507.00875)|null|
 |**2025-07-01**|**Neural translation for Stokes inversion and synthesis**|A. Asensio Ramos et.al.|[2507.00594](http://arxiv.org/abs/2507.00594)|null|
 |**2025-06-30**|**Natural language processing for African languages**|David Ifeoluwa Adelani et.al.|[2507.00297](http://arxiv.org/abs/2507.00297)|null|
@@ -7575,6 +7589,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-07**|**INTER: Mitigating Hallucination in Large Vision-Language Models by Interaction Guidance Sampling**|Xin Dong et.al.|[2507.05056](http://arxiv.org/abs/2507.05056)|null|
+|**2025-07-07**|**Taming the Tri-Space Tension: ARC-Guided Hallucination Modeling and Control for Text-to-Image Generation**|Jianjiang Yang et.al.|[2507.04946](http://arxiv.org/abs/2507.04946)|null|
+|**2025-07-07**|**ReLoop: "Seeing Twice and Thinking Backwards" via Closed-loop Training to Mitigate Hallucinations in Multimodal understanding**|Jianjiang Yang et.al.|[2507.04943](http://arxiv.org/abs/2507.04943)|null|
+|**2025-07-07**|**Identify, Isolate, and Purge: Mitigating Hallucinations in LVLMs via Self-Evolving Distillation**|Wenhao Li et.al.|[2507.04680](http://arxiv.org/abs/2507.04680)|null|
+|**2025-07-07**|**Knowledge-Aware Self-Correction in Language Models via Structured Memory Graphs**|Swayamjit Saha et.al.|[2507.04625](http://arxiv.org/abs/2507.04625)|null|
+|**2025-07-06**|**Unveiling the Potential of Diffusion Large Language Model in Controllable Generation**|Zhen Xiong et.al.|[2507.04504](http://arxiv.org/abs/2507.04504)|null|
+|**2025-07-06**|**The role of large language models in UI/UX design: A systematic literature review**|Ammar Ahmed et.al.|[2507.04469](http://arxiv.org/abs/2507.04469)|null|
+|**2025-07-06**|**Reconstructing Biological Pathways by Applying Selective Incremental Learning to (Very) Small Language Models**|Pranta Saha et.al.|[2507.04432](http://arxiv.org/abs/2507.04432)|null|
+|**2025-07-06**|**AutoLayout: Closed-Loop Layout Synthesis via Slow-Fast Collaborative Reasoning**|Weixing Chen et.al.|[2507.04293](http://arxiv.org/abs/2507.04293)|null|
+|**2025-07-05**|**SymbolicThought: Integrating Language Models and Symbolic Reasoning for Consistent and Interpretable Human Relationship Understanding**|Runcong Zhao et.al.|[2507.04189](http://arxiv.org/abs/2507.04189)|null|
 |**2025-07-03**|**KERAP: A Knowledge-Enhanced Reasoning Approach for Accurate Zero-shot Diagnosis Prediction Using Multi-agent LLMs**|Yuzhang Xie et.al.|[2507.02773](http://arxiv.org/abs/2507.02773)|null|
 |**2025-07-03**|**Who's Sorry Now: User Preferences Among Rote, Empathic, and Explanatory Apologies from LLM Chatbots**|Zahra Ashktorab et.al.|[2507.02745](http://arxiv.org/abs/2507.02745)|null|
 |**2025-07-03**|**DecoRTL: A Run-time Decoding Framework for RTL Code Generation with LLMs**|Mohammad Akyash et.al.|[2507.02226](http://arxiv.org/abs/2507.02226)|null|
