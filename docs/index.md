@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.08
+## Updated on 2025.07.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -7383,7 +7383,7 @@ layout: default
 |**2025-06-20**|**Simultaneous Translation with Offline Speech and LLM Models in CUNI Submission to IWSLT 2025**|Dominik Macháček et.al.|[2506.17077](http://arxiv.org/abs/2506.17077)|**[link](https://github.com/ufal/asr_latency)**|
 |**2025-06-19**|**End-to-End Speech Translation for Low-Resource Languages Using Weakly Labeled Data**|Aishwarya Pothula et.al.|[2506.16251](http://arxiv.org/abs/2506.16251)|null|
 |**2025-06-16**|**CMU's IWSLT 2025 Simultaneous Speech Translation System**|Siqi Ouyang et.al.|[2506.13143](http://arxiv.org/abs/2506.13143)|null|
-|**2025-06-23**|**S2ST-Omni: An Efficient and Scalable Multilingual Speech-to-Speech Translation Framework via Seamless Speech-Text Alignment and Streaming Speech Generation**|Yu Pan et.al.|[2506.11160](http://arxiv.org/abs/2506.11160)|null|
+|**2025-07-08**|**S2ST-Omni: An Efficient Multilingual Speech-to-Speech Translation Framework via Seamless Speech-Text Alignment and Progressive Fine-tuning**|Yu Pan et.al.|[2506.11160](http://arxiv.org/abs/2506.11160)|null|
 |**2025-06-12**|**Scheduled Interleaved Speech-Text Training for Speech-to-Speech Translation with LLMs**|Hayato Futami et.al.|[2506.10299](http://arxiv.org/abs/2506.10299)|null|
 |**2025-06-10**|**PHRASED: Phrase Dictionary Biasing for Speech Translation**|Peidong Wang et.al.|[2506.09175](http://arxiv.org/abs/2506.09175)|null|
 |**2025-06-05**|**IIITH-BUT system for IWSLT 2025 low-resource Bhojpuri to Hindi speech translation**|Bhavana Akkiraju et.al.|[2506.04714](http://arxiv.org/abs/2506.04714)|null|
