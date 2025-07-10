@@ -2468,6 +2468,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-09**|**Towards Multimodal Understanding via Stable Diffusion as a Task-Aware Feature Extractor**|Vatsal Agarwal et.al.|[2507.07106](http://arxiv.org/abs/2507.07106)|null|
+|**2025-07-09**|**4KAgent: Agentic Any Image to 4K Super-Resolution**|Yushen Zuo et.al.|[2507.07105](http://arxiv.org/abs/2507.07105)|null|
+|**2025-07-09**|**Vision-Language-Vision Auto-Encoder: Scalable Knowledge Distillation from Diffusion Models**|Tiezheng Zhang et.al.|[2507.07104](http://arxiv.org/abs/2507.07104)|null|
+|**2025-07-09**|**Small Batch Size Training for Language Models: When Vanilla SGD Works, and Why Gradient Accumulation Is Wasteful**|Martin Marek et.al.|[2507.07101](http://arxiv.org/abs/2507.07101)|null|
+|**2025-07-09**|**Evaluating Attribute Confusion in Fashion Text-to-Image Generation**|Ziyue Liu et.al.|[2507.07079](http://arxiv.org/abs/2507.07079)|null|
+|**2025-07-09**|**5C Prompt Contracts: A Minimalist, Creative-Friendly, Token-Efficient Design Framework for Individual and SME LLM Usage**|Ugur Ari et.al.|[2507.07045](http://arxiv.org/abs/2507.07045)|null|
+|**2025-07-09**|**UniConv: Unifying Retrieval and Response Generation for Large Language Models in Conversations**|Fengran Mo et.al.|[2507.07030](http://arxiv.org/abs/2507.07030)|null|
+|**2025-07-09**|**FlexOlmo: Open Language Models for Flexible Data Use**|Weijia Shi et.al.|[2507.07024](http://arxiv.org/abs/2507.07024)|null|
+|**2025-07-09**|**First Return, Entropy-Eliciting Explore**|Tianyu Zheng et.al.|[2507.07017](http://arxiv.org/abs/2507.07017)|null|
+|**2025-07-09**|**GNN-ViTCap: GNN-Enhanced Multiple Instance Learning with Vision Transformers for Whole Slide Image Classification and Captioning**|S M Taslim Uddin Raju et.al.|[2507.07006](http://arxiv.org/abs/2507.07006)|null|
 |**2025-07-08**|**Efficiency-Effectiveness Reranking FLOPs for LLM-based Rerankers**|Zhiyuan Peng et.al.|[2507.06223](http://arxiv.org/abs/2507.06223)|null|
 |**2025-07-08**|**Aligned Textual Scoring Rules**|Yuxuan Lu et.al.|[2507.06221](http://arxiv.org/abs/2507.06221)|null|
 |**2025-07-08**|**CultureCLIP: Empowering CLIP with Cultural Awareness through Synthetic Images and Contextualized Captions**|Yuchen Huang et.al.|[2507.06210](http://arxiv.org/abs/2507.06210)|null|
@@ -6343,6 +6353,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-09**|**Speak2Sign3D: A Multi-modal Pipeline for English Speech to American Sign Language Animation**|Kazi Mahathir Rahman et.al.|[2507.06530](http://arxiv.org/abs/2507.06530)|null|
+|**2025-07-09**|**Pun Intended: Multi-Agent Translation of Wordplay with Contrastive Learning and Phonetic-Semantic Embeddings**|Russell Taylor et.al.|[2507.06506](http://arxiv.org/abs/2507.06506)|null|
 |**2025-07-07**|**A Tale of Two Scripts: Transliteration and Post-Correction for Judeo-Arabic**|Juan Moreno Gonzalez et.al.|[2507.04746](http://arxiv.org/abs/2507.04746)|null|
 |**2025-07-09**|**Losing our Tail -- Again: On (Un)Natural Selection And Multilingual Large Language Models**|Eva Vanmassenhove et.al.|[2507.03933](http://arxiv.org/abs/2507.03933)|null|
 |**2025-07-04**|**Learning to Translate Ambiguous Terminology by Preference Optimization on Post-Edits**|Nathaniel Berger et.al.|[2507.03580](http://arxiv.org/abs/2507.03580)|null|
@@ -7389,6 +7401,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-09**|**Speak2Sign3D: A Multi-modal Pipeline for English Speech to American Sign Language Animation**|Kazi Mahathir Rahman et.al.|[2507.06530](http://arxiv.org/abs/2507.06530)|null|
 |**2025-06-23**|**MLLP-VRAIN UPV system for the IWSLT 2025 Simultaneous Speech Translation Translation task**|Jorge Iranzo-Sánchez et.al.|[2506.18828](http://arxiv.org/abs/2506.18828)|null|
 |**2025-06-20**|**Simultaneous Translation with Offline Speech and LLM Models in CUNI Submission to IWSLT 2025**|Dominik Macháček et.al.|[2506.17077](http://arxiv.org/abs/2506.17077)|**[link](https://github.com/ufal/asr_latency)**|
 |**2025-06-19**|**End-to-End Speech Translation for Low-Resource Languages Using Weakly Labeled Data**|Aishwarya Pothula et.al.|[2506.16251](http://arxiv.org/abs/2506.16251)|null|
@@ -7566,6 +7579,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-09**|**Hallucinating 360°: Panoramic Street-View Generation via Local Scenes Diffusion and Probabilistic Prompting**|Fei Teng et.al.|[2507.06971](http://arxiv.org/abs/2507.06971)|null|
+|**2025-07-09**|**CheXPO: Preference Optimization for Chest X-ray VLMs with Counterfactual Rationale**|Xiao Liang et.al.|[2507.06959](http://arxiv.org/abs/2507.06959)|null|
+|**2025-07-09**|**Investigating the Robustness of Retrieval-Augmented Generation at the Query Level**|Sezen Perçin et.al.|[2507.06956](http://arxiv.org/abs/2507.06956)|null|
+|**2025-07-09**|**On the Effect of Uncertainty on Layer-wise Inference Dynamics**|Sunwoo Kim et.al.|[2507.06722](http://arxiv.org/abs/2507.06722)|null|
+|**2025-07-09**|**Enhancing Food-Domain Question Answering with a Multimodal Knowledge Graph: Hybrid QA Generation and Diversity Analysis**|Srihari K B et.al.|[2507.06571](http://arxiv.org/abs/2507.06571)|null|
+|**2025-07-09**|**The Flaws of Others: An LLM-driven Framework for Scientific Knowledge Production**|Juan B. Gutiérrez et.al.|[2507.06565](http://arxiv.org/abs/2507.06565)|null|
+|**2025-07-09**|**FIFA: Unified Faithfulness Evaluation Framework for Text-to-Video and Video-to-Text Generation**|Liqiang Jing et.al.|[2507.06523](http://arxiv.org/abs/2507.06523)|null|
 |**2025-07-08**|**Differential Mamba**|Nadav Schneider et.al.|[2507.06204](http://arxiv.org/abs/2507.06204)|null|
 |**2025-07-08**|**UQLM: A Python Package for Uncertainty Quantification in Large Language Models**|Dylan Bouchard et.al.|[2507.06196](http://arxiv.org/abs/2507.06196)|null|
 |**2025-07-08**|**KERAG_R: Knowledge-Enhanced Retrieval-Augmented Generation for Recommendation**|Zeyuan Meng et.al.|[2507.05863](http://arxiv.org/abs/2507.05863)|null|
