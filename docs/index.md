@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.09
+## Updated on 2025.07.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -6344,7 +6344,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-07-07**|**A Tale of Two Scripts: Transliteration and Post-Correction for Judeo-Arabic**|Juan Moreno Gonzalez et.al.|[2507.04746](http://arxiv.org/abs/2507.04746)|null|
-|**2025-07-05**|**Losing our Tail -- Again: On (Un)Natural Selection And Multilingual Large Language Models**|Eva Vanmassenhove et.al.|[2507.03933](http://arxiv.org/abs/2507.03933)|null|
+|**2025-07-09**|**Losing our Tail -- Again: On (Un)Natural Selection And Multilingual Large Language Models**|Eva Vanmassenhove et.al.|[2507.03933](http://arxiv.org/abs/2507.03933)|null|
 |**2025-07-04**|**Learning to Translate Ambiguous Terminology by Preference Optimization on Post-Edits**|Nathaniel Berger et.al.|[2507.03580](http://arxiv.org/abs/2507.03580)|null|
 |**2025-07-04**|**GRAFT: A Graph-based Flow-aware Agentic Framework for Document-level Machine Translation**|Himanshu Dutta et.al.|[2507.03311](http://arxiv.org/abs/2507.03311)|null|
 |**2025-07-01**|**TransLaw: Benchmarking Large Language Models in Multi-Agent Simulation of the Collaborative Translation**|Xi Xuan et.al.|[2507.00875](http://arxiv.org/abs/2507.00875)|null|
