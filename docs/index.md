@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.13
+## Updated on 2025.07.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -7598,10 +7598,10 @@ layout: default
 |**2025-07-10**|**When Large Language Models Meet Law: Dual-Lens Taxonomy, Technical Advances, and Ethical Governance**|Peizhang Shao et.al.|[2507.07748](http://arxiv.org/abs/2507.07748)|null|
 |**2025-07-10**|**Energy-Guided Decoding for Object Hallucination Mitigation**|Xixi Liu et.al.|[2507.07731](http://arxiv.org/abs/2507.07731)|null|
 |**2025-07-10**|**ArchiveGPT: A human-centered evaluation of using a vision language model for image cataloguing**|Line Abele et.al.|[2507.07551](http://arxiv.org/abs/2507.07551)|null|
-|**2025-07-10**|**Hallucination Stations: On Some Basic Limitations of Transformer-Based Language Models**|Varin Sikka et.al.|[2507.07505](http://arxiv.org/abs/2507.07505)|null|
+|**2025-07-11**|**Hallucination Stations: On Some Basic Limitations of Transformer-Based Language Models**|Varin Sikka et.al.|[2507.07505](http://arxiv.org/abs/2507.07505)|null|
 |**2025-07-10**|**Machine Bullshit: Characterizing the Emergent Disregard for Truth in Large Language Models**|Kaiqu Liang et.al.|[2507.07484](http://arxiv.org/abs/2507.07484)|null|
 |**2025-07-10**|**EscherNet++: Simultaneous Amodal Completion and Scalable View Synthesis through Masked Fine-Tuning and Enhanced Feed-Forward 3D Reconstruction**|Xinan Zhang et.al.|[2507.07410](http://arxiv.org/abs/2507.07410)|null|
-|**2025-07-09**|**Entity Re-identification in Visual Storytelling via Contrastive Reinforcement Learning**|Daniel A. P. Oliveira et.al.|[2507.07340](http://arxiv.org/abs/2507.07340)|null|
+|**2025-07-11**|**Entity Re-identification in Visual Storytelling via Contrastive Reinforcement Learning**|Daniel A. P. Oliveira et.al.|[2507.07340](http://arxiv.org/abs/2507.07340)|null|
 |**2025-07-09**|**Bridging the Plausibility-Validity Gap by Fine-Tuning a Reasoning-Enhanced LLM for Chemical Synthesis and Discovery**|Malikussaid et.al.|[2507.07328](http://arxiv.org/abs/2507.07328)|null|
 |**2025-07-09**|**State-Inference-Based Prompting for Natural Language Trading with Game NPCs**|Minkyung Kim et.al.|[2507.07203](http://arxiv.org/abs/2507.07203)|null|
 |**2025-07-10**|**Hallucinating 360°: Panoramic Street-View Generation via Local Scenes Diffusion and Probabilistic Prompting**|Fei Teng et.al.|[2507.06971](http://arxiv.org/abs/2507.06971)|null|
