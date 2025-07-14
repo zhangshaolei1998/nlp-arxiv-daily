@@ -2214,6 +2214,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-11**|**Diagnosing Failures in Large Language Models' Answers: Integrating Error Attribution into Evaluation Framework**|Zishan Xu et.al.|[2507.08459](http://arxiv.org/abs/2507.08459)|null|
 |**2025-07-10**|**Intraseasonal Equatorial Kelvin and Rossby Waves in Modern AI-ML Models**|Shrutee Jalan et.al.|[2507.07952](http://arxiv.org/abs/2507.07952)|null|
 |**2025-07-10**|**StreamUni: Achieving Streaming Speech Translation with a Unified Large Speech-Language Model**|Shoutao Guo et.al.|[2507.07803](http://arxiv.org/abs/2507.07803)|null|
 |**2025-06-27**|**Vortex structure and intervortex interaction in superconducting structures with intrinsic diode effect**|A. V. Putilov et.al.|[2506.22209](http://arxiv.org/abs/2506.22209)|null|
@@ -2497,6 +2498,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-11**|**The Non-Linear Representation Dilemma: Is Causal Abstraction Enough for Mechanistic Interpretability?**|Denis Sutter et.al.|[2507.08802](http://arxiv.org/abs/2507.08802)|null|
+|**2025-07-11**|**Lumos-1: On Autoregressive Video Generation from a Unified Model Perspective**|Hangjie Yuan et.al.|[2507.08801](http://arxiv.org/abs/2507.08801)|null|
+|**2025-07-11**|**KV Cache Steering for Inducing Reasoning in Small Language Models**|Max Belitsky et.al.|[2507.08799](http://arxiv.org/abs/2507.08799)|null|
+|**2025-07-11**|**One Token to Fool LLM-as-a-Judge**|Yulai Zhao et.al.|[2507.08794](http://arxiv.org/abs/2507.08794)|null|
+|**2025-07-11**|**BlockFFN: Towards End-Side Acceleration-Friendly Mixture-of-Experts with Chunk-Level Activation Sparsity**|Chenyang Song et.al.|[2507.08771](http://arxiv.org/abs/2507.08771)|null|
+|**2025-07-11**|**Multilingual Multimodal Software Developer for Code Generation**|Linzheng Chai et.al.|[2507.08719](http://arxiv.org/abs/2507.08719)|null|
+|**2025-07-11**|**KG-Attention: Knowledge Graph-Guided Attention at Test-Time via Bidirectional Information Aggregation**|Songlin Zhai et.al.|[2507.08704](http://arxiv.org/abs/2507.08704)|null|
+|**2025-07-11**|**ByDeWay: Boost Your multimodal LLM with DEpth prompting in a Training-Free Way**|Rajarshi Roy et.al.|[2507.08679](http://arxiv.org/abs/2507.08679)|null|
+|**2025-07-11**|**LLMCup: Ranking-Enhanced Comment Updating with LLMs**|Hua Ge et.al.|[2507.08671](http://arxiv.org/abs/2507.08671)|null|
+|**2025-07-11**|**KELPS: A Framework for Verified Multi-Language Autoformalization via Semantic-Syntactic Alignment**|Jiyao Zhang et.al.|[2507.08665](http://arxiv.org/abs/2507.08665)|null|
 |**2025-07-10**|**Skip a Layer or Loop it? Test-Time Depth Adaptation of Pretrained LLMs**|Ziyue Li et.al.|[2507.07996](http://arxiv.org/abs/2507.07996)|null|
 |**2025-07-10**|**Multigranular Evaluation for Brain Visual Decoding**|Weihao Xia et.al.|[2507.07993](http://arxiv.org/abs/2507.07993)|null|
 |**2025-07-10**|**Multi-Granular Spatio-Temporal Token Merging for Training-Free Acceleration of Video LLMs**|Jeongseok Hyun et.al.|[2507.07990](http://arxiv.org/abs/2507.07990)|null|
@@ -6394,6 +6405,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-11**|**Improving MLLM's Document Image Machine Translation via Synchronously Self-reviewing Its OCR Proficiency**|Yupu Liang et.al.|[2507.08309](http://arxiv.org/abs/2507.08309)|null|
 |**2025-07-10**|**Conditional Unigram Tokenization with Parallel Data**|Gianluca Vico et.al.|[2507.07824](http://arxiv.org/abs/2507.07824)|null|
 |**2025-07-10**|**Single-to-mix Modality Alignment with Multimodal Large Language Model for Document Image Machine Translation**|Yupu Liang et.al.|[2507.07572](http://arxiv.org/abs/2507.07572)|null|
 |**2025-07-09**|**Speak2Sign3D: A Multi-modal Pipeline for English Speech to American Sign Language Animation**|Kazi Mahathir Rahman et.al.|[2507.06530](http://arxiv.org/abs/2507.06530)|null|
@@ -7627,6 +7639,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-11**|**ByDeWay: Boost Your multimodal LLM with DEpth prompting in a Training-Free Way**|Rajarshi Roy et.al.|[2507.08679](http://arxiv.org/abs/2507.08679)|null|
+|**2025-07-11**|**Using Large Language Models for Legal Decision-Making in Austrian Value-Added Tax Law: An Experimental Study**|Marina Luketina et.al.|[2507.08468](http://arxiv.org/abs/2507.08468)|null|
+|**2025-07-11**|**The Curious Case of Factuality Finetuning: Models' Internal Beliefs Can Improve Factuality**|Benjamin Newman et.al.|[2507.08371](http://arxiv.org/abs/2507.08371)|null|
+|**2025-07-10**|**TableReasoner: Advancing Table Reasoning Framework with Large Language Models**|Sishi Xiong et.al.|[2507.08046](http://arxiv.org/abs/2507.08046)|null|
 |**2025-07-10**|**From Ambiguity to Accuracy: The Transformative Effect of Coreference Resolution on Retrieval-Augmented Generation systems**|Youngjoon Jang et.al.|[2507.07847](http://arxiv.org/abs/2507.07847)|null|
 |**2025-07-10**|**When Large Language Models Meet Law: Dual-Lens Taxonomy, Technical Advances, and Ethical Governance**|Peizhang Shao et.al.|[2507.07748](http://arxiv.org/abs/2507.07748)|null|
 |**2025-07-10**|**Energy-Guided Decoding for Object Hallucination Mitigation**|Xixi Liu et.al.|[2507.07731](http://arxiv.org/abs/2507.07731)|null|
