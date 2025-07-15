@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.14
+## Updated on 2025.07.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2191,7 +2191,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-07-11**|**Diagnosing Failures in Large Language Models' Answers: Integrating Error Attribution into Evaluation Framework**|Zishan Xu et.al.|[2507.08459](http://arxiv.org/abs/2507.08459)|null|
 |**2025-07-10**|**Intraseasonal Equatorial Kelvin and Rossby Waves in Modern AI-ML Models**|Shrutee Jalan et.al.|[2507.07952](http://arxiv.org/abs/2507.07952)|null|
-|**2025-07-10**|**StreamUni: Achieving Streaming Speech Translation with a Unified Large Speech-Language Model**|Shoutao Guo et.al.|[2507.07803](http://arxiv.org/abs/2507.07803)|null|
+|**2025-07-13**|**StreamUni: Achieving Streaming Speech Translation with a Unified Large Speech-Language Model**|Shoutao Guo et.al.|[2507.07803](http://arxiv.org/abs/2507.07803)|null|
 |**2025-06-27**|**Vortex structure and intervortex interaction in superconducting structures with intrinsic diode effect**|A. V. Putilov et.al.|[2506.22209](http://arxiv.org/abs/2506.22209)|null|
 |**2025-06-27**|**A synthetic Lorentzian Cartan-Hadamard theorem**|Darius Erös et.al.|[2506.22197](http://arxiv.org/abs/2506.22197)|null|
 |**2025-06-25**|**Chern Classes of Toric Variety Bundles**|Gregory Taroyan et.al.|[2506.20848](http://arxiv.org/abs/2506.20848)|null|
@@ -7427,7 +7427,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-07-10**|**StreamUni: Achieving Streaming Speech Translation with a Unified Large Speech-Language Model**|Shoutao Guo et.al.|[2507.07803](http://arxiv.org/abs/2507.07803)|null|
+|**2025-07-13**|**StreamUni: Achieving Streaming Speech Translation with a Unified Large Speech-Language Model**|Shoutao Guo et.al.|[2507.07803](http://arxiv.org/abs/2507.07803)|null|
 |**2025-07-09**|**Speak2Sign3D: A Multi-modal Pipeline for English Speech to American Sign Language Animation**|Kazi Mahathir Rahman et.al.|[2507.06530](http://arxiv.org/abs/2507.06530)|null|
 |**2025-06-23**|**MLLP-VRAIN UPV system for the IWSLT 2025 Simultaneous Speech Translation Translation task**|Jorge Iranzo-Sánchez et.al.|[2506.18828](http://arxiv.org/abs/2506.18828)|null|
 |**2025-06-20**|**Simultaneous Translation with Offline Speech and LLM Models in CUNI Submission to IWSLT 2025**|Dominik Macháček et.al.|[2506.17077](http://arxiv.org/abs/2506.17077)|**[link](https://github.com/ufal/asr_latency)**|
