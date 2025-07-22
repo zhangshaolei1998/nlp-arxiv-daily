@@ -2501,6 +2501,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-21**|**Diffusion Beats Autoregressive in Data-Constrained Settings**|Mihir Prabhudesai et.al.|[2507.15857](http://arxiv.org/abs/2507.15857)|null|
+|**2025-07-21**|**Gemini 2.5 Pro Capable of Winning Gold at IMO 2025**|Yichen Huang et.al.|[2507.15855](http://arxiv.org/abs/2507.15855)|null|
+|**2025-07-21**|**SeC: Advancing Complex Video Object Segmentation via Progressive Concept Construction**|Zhixiong Zhang et.al.|[2507.15852](http://arxiv.org/abs/2507.15852)|null|
+|**2025-07-21**|**The Other Mind: How Language Models Exhibit Human Temporal Cognition**|Lingyu Li et.al.|[2507.15851](http://arxiv.org/abs/2507.15851)|null|
+|**2025-07-21**|**3LM: Bridging Arabic, STEM, and Code through Benchmarking**|Basma El Amel Boussaha et.al.|[2507.15850](http://arxiv.org/abs/2507.15850)|null|
+|**2025-07-21**|**The Impact of Language Mixing on Bilingual LLM Reasoning**|Yihao Li et.al.|[2507.15849](http://arxiv.org/abs/2507.15849)|null|
+|**2025-07-21**|**FASTGEN: Fast and Cost-Effective Synthetic Tabular Data Generation with LLMs**|Anh Nguyen et.al.|[2507.15839](http://arxiv.org/abs/2507.15839)|null|
+|**2025-07-21**|**Just Ask for Music (JAM): Multimodal and Personalized Natural Language Music Recommendation**|Alessandro B. Melchiorre et.al.|[2507.15826](http://arxiv.org/abs/2507.15826)|null|
+|**2025-07-21**|**ACS: An interactive framework for conformal selection**|Yu Gui et.al.|[2507.15825](http://arxiv.org/abs/2507.15825)|null|
+|**2025-07-21**|**Can Your Model Separate Yolks with a Water Bottle? Benchmarking Physical Commonsense Understanding in Video Generation Models**|Enes Sanli et.al.|[2507.15824](http://arxiv.org/abs/2507.15824)|null|
 |**2025-07-21**|**CUDA-L1: Improving CUDA Optimization via Contrastive Reinforcement Learning**|Xiaoya Li et.al.|[2507.14111](http://arxiv.org/abs/2507.14111)|null|
 |**2025-07-18**|**Automated Interpretation of Non-Destructive Evaluation Contour Maps Using Large Language Models for Bridge Condition Assessment**|Viraj Nishesh Darji et.al.|[2507.14107](http://arxiv.org/abs/2507.14107)|null|
 |**2025-07-18**|**Generative AI-Driven High-Fidelity Human Motion Simulation**|Hari Iyer et.al.|[2507.14097](http://arxiv.org/abs/2507.14097)|null|
@@ -6458,6 +6468,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-21**|**Evaluating Text Style Transfer: A Nine-Language Benchmark for Text Detoxification**|Vitaly Protasov et.al.|[2507.15557](http://arxiv.org/abs/2507.15557)|null|
+|**2025-07-20**|**A Case Against Implicit Standards: Homophone Normalization in Machine Translation for Languages that use the Ge'ez Script**|Hellina Hailu Nigatu et.al.|[2507.15142](http://arxiv.org/abs/2507.15142)|null|
 |**2025-07-16**|**Mitigating Stylistic Biases of Machine Translation Systems via Monolingual Corpora Only**|Xuanqi Gao et.al.|[2507.13395](http://arxiv.org/abs/2507.13395)|null|
 |**2025-07-16**|**The first open machine translation system for the Chechen language**|Abu-Viskhan A. Umishov et.al.|[2507.12672](http://arxiv.org/abs/2507.12672)|null|
 |**2025-07-16**|**Translationese-index: Using Likelihood Ratios for Graded and Generalizable Measurement of Translationese**|Yikang Liu et.al.|[2507.12260](http://arxiv.org/abs/2507.12260)|null|
@@ -7700,6 +7712,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-21**|**Can Your Model Separate Yolks with a Water Bottle? Benchmarking Physical Commonsense Understanding in Video Generation Models**|Enes Sanli et.al.|[2507.15824](http://arxiv.org/abs/2507.15824)|null|
+|**2025-07-21**|**DWTGS: Rethinking Frequency Regularization for Sparse-view 3D Gaussian Splatting**|Hung Nguyen et.al.|[2507.15690](http://arxiv.org/abs/2507.15690)|null|
+|**2025-07-21**|**Extracting Visual Facts from Intermediate Layers for Mitigating Hallucinations in Multimodal Large Language Models**|Haoran Zhou et.al.|[2507.15652](http://arxiv.org/abs/2507.15652)|null|
+|**2025-07-21**|**Why can't Epidemiology be automated (yet)?**|David Bann et.al.|[2507.15617](http://arxiv.org/abs/2507.15617)|null|
+|**2025-07-21**|**QSAF: A Novel Mitigation Framework for Cognitive Degradation in Agentic AI**|Hammad Atta et.al.|[2507.15330](http://arxiv.org/abs/2507.15330)|null|
+|**2025-07-21**|**Butterfly Effects in Toolchains: A Comprehensive Analysis of Failed Parameter Filling in LLM Tool-Agent Systems**|Qian Xiong et.al.|[2507.15296](http://arxiv.org/abs/2507.15296)|null|
+|**2025-07-20**|**Byzantine-Robust Decentralized Coordination of LLM Agents**|Yongrae Jo et.al.|[2507.14928](http://arxiv.org/abs/2507.14928)|null|
+|**2025-07-19**|**QUTCC: Quantile Uncertainty Training and Conformal Calibration for Imaging Inverse Problems**|Cassandra Tong Ye et.al.|[2507.14760](http://arxiv.org/abs/2507.14760)|null|
+|**2025-07-19**|**Large Language Models as Medical Codes Selectors: a benchmark using the International Classification of Primary Care**|Vinicius Anjos de Almeida et.al.|[2507.14681](http://arxiv.org/abs/2507.14681)|null|
+|**2025-07-19**|**Cleanse: Uncertainty Estimation Approach Using Clustering-based Semantic Consistency in LLMs**|Minsuh Joo et.al.|[2507.14649](http://arxiv.org/abs/2507.14649)|null|
 |**2025-07-18**|**Architecting Human-AI Cocreation for Technical Services -- Interaction Modes and Contingency Factors**|Jochen Wulf et.al.|[2507.14034](http://arxiv.org/abs/2507.14034)|null|
 |**2025-07-18**|**Preprint: Did I Just Browse A Website Written by LLMs?**|Sichang "Steven" He et.al.|[2507.13933](http://arxiv.org/abs/2507.13933)|null|
 |**2025-07-18**|**When Seeing Overrides Knowing: Disentangling Knowledge Conflicts in Vision-Language Models**|Francesco Ortu et.al.|[2507.13868](http://arxiv.org/abs/2507.13868)|null|
