@@ -2501,6 +2501,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-22**|**Semi-off-Policy Reinforcement Learning for Vision-Language Slow-thinking Reasoning**|Junhao Shen et.al.|[2507.16814](http://arxiv.org/abs/2507.16814)|null|
+|**2025-07-22**|**LingBench++: A Linguistically-Informed Benchmark and Reasoning Framework for Multi-Step and Cross-Cultural Inference with LLMs**|Da-Chen Lian et.al.|[2507.16809](http://arxiv.org/abs/2507.16809)|null|
+|**2025-07-22**|**Rethinking LLM-Based RTL Code Optimization Via Timing Logic Metamorphosis**|Zhihao Xu et.al.|[2507.16808](http://arxiv.org/abs/2507.16808)|null|
+|**2025-07-22**|**Beyond Binary Rewards: Training LMs to Reason About Their Uncertainty**|Mehul Damani et.al.|[2507.16806](http://arxiv.org/abs/2507.16806)|null|
+|**2025-07-22**|**Agentar-Fin-R1: Enhancing Financial Intelligence through Domain Expertise, Training Efficiency, and Advanced Reasoning**|Yanjun Zheng et.al.|[2507.16802](http://arxiv.org/abs/2507.16802)|null|
+|**2025-07-22**|**Test-Time-Matching: Decouple Personality, Memory, and Linguistic Style in LLM-based Role-Playing Language Agent**|Xiaoyu Zhan et.al.|[2507.16799](http://arxiv.org/abs/2507.16799)|null|
+|**2025-07-22**|**Steering Out-of-Distribution Generalization with Concept Ablation Fine-Tuning**|Helena Casademunt et.al.|[2507.16795](http://arxiv.org/abs/2507.16795)|null|
+|**2025-07-22**|**ChatChecker: A Framework for Dialogue System Testing and Evaluation Through Non-cooperative User Simulation**|Roman Mayr et.al.|[2507.16792](http://arxiv.org/abs/2507.16792)|null|
+|**2025-07-22**|**Beyond Context Limits: Subconscious Threads for Long-Horizon Reasoning**|Hongyin Luo et.al.|[2507.16784](http://arxiv.org/abs/2507.16784)|null|
+|**2025-07-22**|**Cooling Matters: Benchmarking Large Language Models and Vision-Language Models on Liquid-Cooled Versus Air-Cooled H100 GPU Systems**|Imran Latif et.al.|[2507.16781](http://arxiv.org/abs/2507.16781)|null|
 |**2025-07-21**|**Diffusion Beats Autoregressive in Data-Constrained Settings**|Mihir Prabhudesai et.al.|[2507.15857](http://arxiv.org/abs/2507.15857)|null|
 |**2025-07-22**|**Gemini 2.5 Pro Capable of Winning Gold at IMO 2025**|Yichen Huang et.al.|[2507.15855](http://arxiv.org/abs/2507.15855)|null|
 |**2025-07-22**|**SeC: Advancing Complex Video Object Segmentation via Progressive Concept Construction**|Zhixiong Zhang et.al.|[2507.15852](http://arxiv.org/abs/2507.15852)|null|
@@ -6468,6 +6478,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-22**|**Introducing Quality Estimation to Machine Translation Post-editing Workflow: An Empirical Study on Its Usefulness**|Siqi Liu et.al.|[2507.16515](http://arxiv.org/abs/2507.16515)|null|
+|**2025-07-22**|**GG-BBQ: German Gender Bias Benchmark for Question Answering**|Shalaka Satheesh et.al.|[2507.16410](http://arxiv.org/abs/2507.16410)|null|
 |**2025-07-21**|**Evaluating Text Style Transfer: A Nine-Language Benchmark for Text Detoxification**|Vitaly Protasov et.al.|[2507.15557](http://arxiv.org/abs/2507.15557)|null|
 |**2025-07-20**|**A Case Against Implicit Standards: Homophone Normalization in Machine Translation for Languages that use the Ge'ez Script**|Hellina Hailu Nigatu et.al.|[2507.15142](http://arxiv.org/abs/2507.15142)|null|
 |**2025-07-16**|**Mitigating Stylistic Biases of Machine Translation Systems via Monolingual Corpora Only**|Xuanqi Gao et.al.|[2507.13395](http://arxiv.org/abs/2507.13395)|null|
@@ -7712,6 +7724,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-22**|**Semi-off-Policy Reinforcement Learning for Vision-Language Slow-thinking Reasoning**|Junhao Shen et.al.|[2507.16814](http://arxiv.org/abs/2507.16814)|null|
+|**2025-07-22**|**Beyond Binary Rewards: Training LMs to Reason About Their Uncertainty**|Mehul Damani et.al.|[2507.16806](http://arxiv.org/abs/2507.16806)|null|
+|**2025-07-22**|**Never Come Up Empty: Adaptive HyDE Retrieval for Improving LLM Developer Support**|Fangjian Lei et.al.|[2507.16754](http://arxiv.org/abs/2507.16754)|null|
+|**2025-07-22**|**Step-Audio 2 Technical Report**|Boyong Wu et.al.|[2507.16632](http://arxiv.org/abs/2507.16632)|null|
+|**2025-07-22**|**ICR Probe: Tracking Hidden State Dynamics for Reliable Hallucination Detection in LLMs**|Zhenliang Zhang et.al.|[2507.16488](http://arxiv.org/abs/2507.16488)|null|
+|**2025-07-22**|**SVAgent: AI Agent for Hardware Security Verification Assertion**|Rui Guo et.al.|[2507.16203](http://arxiv.org/abs/2507.16203)|null|
 |**2025-07-21**|**Can Your Model Separate Yolks with a Water Bottle? Benchmarking Physical Commonsense Understanding in Video Generation Models**|Enes Sanli et.al.|[2507.15824](http://arxiv.org/abs/2507.15824)|null|
 |**2025-07-21**|**DWTGS: Rethinking Frequency Regularization for Sparse-view 3D Gaussian Splatting**|Hung Nguyen et.al.|[2507.15690](http://arxiv.org/abs/2507.15690)|null|
 |**2025-07-21**|**Extracting Visual Facts from Intermediate Layers for Mitigating Hallucinations in Multimodal Large Language Models**|Haoran Zhou et.al.|[2507.15652](http://arxiv.org/abs/2507.15652)|null|
